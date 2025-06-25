@@ -1,0 +1,12 @@
+@use '../../colors.scss' as *;
+
+.container {
+  text-align: center;
+  margin-top: 4rem;
+}
+.heading {
+  color: $color-link;
+}
+.text {
+  color: $color-grey;
+}

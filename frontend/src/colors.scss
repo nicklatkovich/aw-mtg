@@ -1,0 +1,18 @@
+// Color palette for the app
+$color-bg-dark: #242424;
+$color-bg-header: #1a1a1a;
+$color-header-shadow: #00000014; // 0.08 opacity
+$color-link: #646cff;
+$color-link-hover: #535bf2;
+$color-link-active-bg: #242424;
+$color-link-active: #646cff;
+$color-white: #fff;
+$color-grey: #888888;
+$color-react-shadow: #61dafb;
+$color-vite-shadow: #646cff;
+$color-btn-border: #646cff;
+$color-btn-bg: #1a1a1a;
+$color-root-text: #dfdfdf; // replaces rgba(255, 255, 255, 0.87)
+
+$primary-color: $color-link;
+$primary-hover-color: $color-link-hover;

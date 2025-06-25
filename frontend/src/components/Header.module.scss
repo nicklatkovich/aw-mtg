@@ -1,0 +1,45 @@
+@use '../colors.scss' as *;
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  background: $color-bg-header;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 2px 8px $color-header-shadow;
+
+  .header__container {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  .header__nav {
+    display: flex;
+    flex: 1;
+  }
+
+  .header__link {
+    flex: 1 1 0;
+    text-align: center;
+    padding: 1rem 0;
+    color: $color-white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background 0.2s, color 0.2s;
+    border: none;
+    background: none;
+
+    &.active,
+    &:hover {
+      background: $color-link-active-bg;
+      color: $color-link-active;
+    }
+  }
+}
