@@ -2,18 +2,18 @@
   "name": "aw-mtg",
   "private": true,
   "version": "0.1.0",
-  "type": "module",
   "scripts": {
     "dev:frontend": "vite --config frontend/vite.config.ts",
-    "dev:server": "ts-node server/src/index.ts",
+    "dev:server": "ts-node server/src/start.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "build:client": "vite build --config frontend/vite.config.ts",
     "build:server": "tsc -p server/tsconfig.json --outDir dist/server",
-    "build:all": "npm run build:client && npm run build:server",
-    "start:server": "node dist/server/index.js"
+    "build:data": "ts-node server/src/build-data.ts",
+    "build:all": "yarn build:client && yarn build:server && yarn build:data",
+    "start:server": "node dist/server/start.js"
   },
   "dependencies": {
     "express": "^5.1.0",
