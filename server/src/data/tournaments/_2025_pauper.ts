@@ -1,5 +1,5 @@
-import { Format } from '@types';
-import { Tournament } from '../types/tournament';
+import { Format } from '@dtos';
+import { Tournament } from '@server/data/data.types';
 
 export const _2025_pauper: Tournament[] = [
   {

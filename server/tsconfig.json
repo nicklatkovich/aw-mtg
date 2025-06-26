@@ -2,14 +2,14 @@
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "composite": true,
-      "tsBuildInfoFile": "dist/server/.tsbuildinfo",
+    "tsBuildInfoFile": "../dist/server/.tsbuildinfo",
     "outDir": "../dist/server",
     "baseUrl": ".",
     "rootDir": "src",
     "module": "commonjs",
     "noEmit": false,
-    "paths": { "@types": ["../types/src/index"] }
+    "paths": { "@dtos": ["../dtos/src/index"], "@server/*": ["src/*"] }
   },
   "include": ["src"],
-  "references": [{ "path": "../types" }]
+  "references": [{ "path": "../dtos" }]
 }

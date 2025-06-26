@@ -1,7 +1,60 @@
-import { Format } from '@types';
-import { Tournament } from '../types/tournament';
+import { Format } from '@dtos';
+import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
+  {
+    format: Format.PIONEER,
+    date: '2025-06-26',
+    id: 330422,
+    standings: [
+      { player: 'Dukalis1985', deck: 'Rakdos Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'AnklDen', deck: 'Niv to Light', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '5-4-0' },
+      { player: 'vorotinskyV', deck: 'Mono-Red Aggro', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Very_Bad_Man', deck: 'Selesnya Angels', rank: 4, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-3-1' },
+      { player: 'K1ppy', deck: 'Niv to Light', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Azurenia', deck: 'Izzet Phoenix', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'Alex88', deck: 'Mono-Red Aggro', rank: 7, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'ispinyouround', deck: 'Rakdos Midrange', rank: 8, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-4-1' },
+      { player: 'GlebK', deck: 'Mono-Red Aggro', rank: 9, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'gerber2000', deck: 'Mono-Black Midrange', rank: 10, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'MiFlyer', deck: 'Mono-Red Resonance', rank: 11, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'BRV', deck: 'Azorius Spirits', rank: 12, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Alex88', 'gerber2000'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'vorotinskyV'], winner: 1, record: '2-1-0' },
+        { players: ['MiFlyer', 'K1ppy'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 0, record: '0-0-1' },
+        { players: ['GlebK', 'Dukalis1985'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Alex88', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'K1ppy'], winner: 1, record: '1-0-0' },
+        { players: ['Dukalis1985', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'gerber2000'], winner: 1, record: '2-1-0' },
+        { players: ['MiFlyer', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', 'Dukalis1985'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['MiFlyer', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['K1ppy', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['vorotinskyV', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'gerber2000'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Dukalis1985', 'K1ppy'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'ispinyouround'], winner: 1, record: '2-1-0' },
+        { players: ['vorotinskyV', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'gerber2000'], winner: 1, record: '2-1-0' },
+        { players: ['Alex88', 'MiFlyer'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
   {
     format: Format.PIONEER,
     date: '2025-06-19',

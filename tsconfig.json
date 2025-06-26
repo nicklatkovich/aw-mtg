@@ -18,7 +18,6 @@
   },
   "files": [],
   "references": [
-    { "path": "./server" },
-    { "path": "./types" },
+    { "path": "./dtos" },
   ]
 }

@@ -1,14 +1,6 @@
-import { _assertType } from './type.utils';
+import { DeckType } from '@dtos';
+import { _assertType } from '@server/type.utils';
 
-export enum DeckType {
-  AGGRO = 'Aggro',
-  MIDRANGE = 'Midrange',
-  CONTROL = 'Control',
-  COMBO = 'Combo',
-  TEMPO = 'Tempo',
-}
-
-export type DeckArchetype = keyof typeof ARCHETYPES;
 export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 
 export const ARCHETYPES = {

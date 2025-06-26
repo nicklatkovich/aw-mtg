@@ -1,4 +1,9 @@
-import { DeckArchetype, DeckType, Format } from '@types';
+import { DeckType, Format } from '@dtos';
+import { ARCHETYPES } from './deck-archetypes';
+
+export type DeckArchetype = keyof typeof ARCHETYPES;
+
+export type Deck = DeckArchetype | { archetype: DeckArchetype; colors?: string; type?: DeckType };
 
 export type Tournament = {
   id: number | string; // number = melee tournament id
@@ -10,7 +15,7 @@ export type Tournament = {
     points: number;
     mp?: number;
     mw?: number;
-    deck?: DeckArchetype | { archetype: DeckArchetype; colors?: string; type?: DeckType };
+    deck?: Deck;
     match_record?: string;
     game_record?: string;
     ignoreResults?: boolean; // true if this result should be ignored for ladder

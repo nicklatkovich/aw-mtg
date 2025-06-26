@@ -1,6 +1,6 @@
-import { _2025_pauper } from './_2025_pauper';
-import { _2025_pioneer } from './_2025_pioneer';
-import { _2025_standard } from './_2025_standard';
+import { _2025_pauper } from './tournaments/_2025_pauper';
+import { _2025_pioneer } from './tournaments/_2025_pioneer';
+import { _2025_standard } from './tournaments/_2025_standard';
 
 export const allTournaments = [
   ..._2025_standard,

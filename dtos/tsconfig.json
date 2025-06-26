@@ -2,8 +2,8 @@
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "composite": true,
-    "tsBuildInfoFile": "dist/types/.tsbuildinfo",
-    "outDir": "../dist/types",
+    "tsBuildInfoFile": "../dist/dtos/.tsbuildinfo",
+    "outDir": "../dist/dtos",
     "baseUrl": ".",
     "rootDir": "./src",
     "module": "commonjs",

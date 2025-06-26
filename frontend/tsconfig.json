@@ -2,13 +2,15 @@
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "../dist/frontend",
+    "composite": true,
+    "tsBuildInfoFile": "../dist/client/.tsbuildinfo",
     "baseUrl": ".",
     "rootDir": "src",
     "module": "commonjs",
     "noEmit": false,
-    "paths": { "@types": ["../types/src/index"] },
+    "paths": { "@dtos": ["../dtos/src/index"], "@frontend/*": ["src/*"] },
     "jsx": "react-jsx"
   },
   "include": ["src"],
-  "references": [{ "path": "../types" }]
+  "references": [{ "path": "../dtos" }]
 }
