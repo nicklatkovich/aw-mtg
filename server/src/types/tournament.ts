@@ -1,5 +1,4 @@
-import { DeckArchetype, DeckType } from './deck-archetypes';
-import { Format } from './formats';
+import { DeckArchetype, DeckType, Format } from '@types';
 
 export type Tournament = {
   id: number | string; // number = melee tournament id

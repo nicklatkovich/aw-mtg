@@ -1,4 +1,4 @@
-import { _assertType } from '../utils/type.utils';
+import { _assertType } from './type.utils';
 
 export enum DeckType {
   AGGRO = 'Aggro',
@@ -9,6 +9,7 @@ export enum DeckType {
 }
 
 export type DeckArchetype = keyof typeof ARCHETYPES;
+export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 
 export const ARCHETYPES = {
   // c
@@ -131,6 +132,7 @@ export const ARCHETYPES = {
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
   'Mono-Red Goblins': ['R', DeckType.AGGRO],
   'Mono-Red Burn': ['R', DeckType.AGGRO],
+  'Mono-Red Bushwhacker': ['R', DeckType.AGGRO],
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
@@ -157,4 +159,4 @@ export const ARCHETYPES = {
   'Ephemerate Tron': 'WUBRG',
 } as const;
 
-_assertType<{ readonly [name: string]: string | readonly [colors: string, type: DeckType] }>(ARCHETYPES);
+_assertType<{ readonly [name: string]: ArchetypeInfo }>(ARCHETYPES);

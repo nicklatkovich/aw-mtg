@@ -1,10 +1,15 @@
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
+    "composite": true,
+      "tsBuildInfoFile": "dist/server/.tsbuildinfo",
     "outDir": "../dist/server",
+    "baseUrl": ".",
     "rootDir": "src",
     "module": "commonjs",
-    "noEmit": false
+    "noEmit": false,
+    "paths": { "@types": ["../types/src/index"] }
   },
-  "include": ["src"]
+  "include": ["src"],
+  "references": [{ "path": "../types" }]
 }

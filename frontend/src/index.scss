@@ -1,13 +1,15 @@
 @use './colors.scss' as *;
+@use './constants.scss' as *;
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-size: 1em;
 
   color-scheme: light dark;
-  color: $color-root-text;
-  background-color: $color-bg-dark;
+  color: $color-fg-1;
+  background-color: $color-bg-1;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -17,11 +19,11 @@
 
 a {
   font-weight: 500;
-  color: $primary-color;
+  color: $color-fg-1;
   text-decoration: inherit;
 
   &:hover {
-    color: $primary-hover-color;
+    color: $color-info;
   }
 }
 
@@ -30,32 +32,79 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  min-height: 100vh;
-  padding-top: 64px; /* Reserve space for fixed header */
+  min-height: calc(100vh - $header-size);
+  padding-top: $header-size; /* Reserve space for fixed header */
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 2em;
   line-height: 1.1;
+  color: $color-var-2;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
+table {
+  text-align: center;
 
-  &:hover {
-    border-color: $primary-color;
+  border-collapse: collapse;
+  border: none;
+  & tr {
+    height: 48px;
+  }
+  & th {
+    border: none;
+    padding: 4px 32px;
+  }
+  & thead {
+    border: solid $color-active-border;
+    border-width: 0 0 2px 0;
   }
 
-  &:focus,
-  &:focus-visible {
-    outline: 4px auto -webkit-focus-ring-color;
+  & tbody {
+    & tr:nth-child(2n) {
+      background-color: $color-bg-2;
+      border: solid $color-inactive-border;
+      border-width: 1px 0;
+    }
   }
 }
+
+.left {
+  text-align: left;
+}
+
+.format--standard {
+  color: $color-var-1;
+}
+
+.format--pioneer {
+  color: $color-var-3;
+}
+
+.format--pauper {
+  color: $color-var-5;
+}
+
+.format--legacy {
+  color: $color-var-6;
+}
+
+// button {
+//   border-radius: 8px;
+//   border: 1px solid transparent;
+//   padding: 0.6em 1.2em;
+//   font-size: 1em;
+//   font-weight: 500;
+//   font-family: inherit;
+//   background-color: #1a1a1a;
+//   cursor: pointer;
+//   transition: border-color 0.25s;
+
+//   &:hover {
+//     border-color: $primary-color;
+//   }
+
+//   &:focus,
+//   &:focus-visible {
+//     outline: 4px auto -webkit-focus-ring-color;
+//   }
+// }

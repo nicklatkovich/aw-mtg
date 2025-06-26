@@ -1,4 +1,4 @@
-import { Format } from '../types/formats';
+import { Format } from '@types';
 import { Tournament } from '../types/tournament';
 
 export const _2025_standard: Tournament[] = [

@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App';
-import RecentEvents from './pages/RecentEvents';
+import RecentEventsPage from './pages/RecentEvents/RecentEventsPage';
 import PioneerLadder from './pages/PioneerLadder';
 import StandardLadder from './pages/StandardLadder';
 import SummerLeague2025 from './pages/SummerLeague2025';
@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     path: '/',
     element: <App />,
     children: [
-      { path: 'recent-events', element: <RecentEvents /> },
+      { path: 'recent-events', element: <RecentEventsPage /> },
       { path: 'pioneer-ladder', element: <PioneerLadder /> },
       { path: 'standard-ladder', element: <StandardLadder /> },
       { path: 'summer-league-2025', element: <SummerLeague2025 /> },

@@ -1,18 +1,45 @@
-// Color palette for the app
-$color-bg-dark: #242424;
-$color-bg-header: #1a1a1a;
-$color-header-shadow: #00000014; // 0.08 opacity
-$color-link: #646cff;
-$color-link-hover: #535bf2;
-$color-link-active-bg: #242424;
-$color-link-active: #646cff;
-$color-white: #fff;
-$color-grey: #888888;
-$color-react-shadow: #61dafb;
-$color-vite-shadow: #646cff;
-$color-btn-border: #646cff;
-$color-btn-bg: #1a1a1a;
-$color-root-text: #dfdfdf; // replaces rgba(255, 255, 255, 0.87)
+$color-bg-1: #292d3e;
+$color-bg-2: #15171f;
+$color-fg-1: #babed8;
 
-$primary-color: $color-link;
-$primary-hover-color: $color-link-hover;
+$color-var-1: #c792ea;
+$color-var-2: #ffcb6b;
+$color-var-3: #f78c6c;
+$color-var-4: #f07178;
+$color-var-5: #916b53;
+$color-var-6: #82aaff;
+$color-var-7: #ff9cac;
+$color-var-8: #c792ea;
+$color-var-9: #c3e88d;
+
+$color-debug: #b267e6;
+$color-error: #f44747;
+$color-warn: #cd9731;
+$color-info: #6796e6;
+
+$color-string: #c3e88d;
+$color-comment: #676e95;
+$color-number: #f78c6c;
+$color-bool: #ff9cac;
+
+$color-active-border: #80cbc4;
+$color-inactive-border: black;
+
+// // color palette for the app
+// $color-bg-dark: #242424;
+// $color-bg-header: #1a1a1a;
+// $color-header-shadow: #00000014; // 0.08 opacity
+// $color-link: #646cff;
+// $color-link-hover: #535bf2;
+// $color-link-active-bg: #242424;
+// $color-link-active: #646cff;
+// $color-white: #fff;
+// $color-grey: #888888;
+// $color-react-shadow: #61dafb;
+// $color-vite-shadow: #646cff;
+// $color-btn-border: #646cff;
+// $color-btn-bg: #1a1a1a;
+// $color-root-text: #dfdfdf; // replaces rgba(255, 255, 255, 0.87)
+
+// $primary-color: $color-link;
+// $primary-hover-color: $color-link-hover;

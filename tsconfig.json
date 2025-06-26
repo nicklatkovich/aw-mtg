@@ -15,5 +15,10 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "baseUrl": "."
-  }
+  },
+  "files": [],
+  "references": [
+    { "path": "./server" },
+    { "path": "./types" },
+  ]
 }

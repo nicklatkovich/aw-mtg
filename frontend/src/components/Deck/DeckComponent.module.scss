@@ -1,0 +1,14 @@
+.img {
+  vertical-align: middle;
+  border-radius: 50%;
+  border: solid 2px transparent;
+  &:not(.img__active) {
+    opacity: 10%;
+  }
+
+  &.img__active {
+    border-color: white;
+  }
+
+  margin: 2px;
+}

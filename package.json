@@ -11,7 +11,7 @@
     "format:check": "prettier --check .",
     "build:client": "vite build --config frontend/vite.config.ts",
     "build:server": "tsc -p server/tsconfig.json --outDir dist/server",
-    "build:data": "ts-node server/src/build-data.ts",
+    "build:data": "ts-node --project server/tsconfig.json --require tsconfig-paths/register server/src/build-data.ts",
     "build:all": "yarn build:client && yarn build:server && yarn build:data",
     "start:server": "node dist/server/start.js"
   },
@@ -30,6 +30,8 @@
     "@vitejs/plugin-react": "^4.4.1",
     "eslint": "^9.25.0",
     "eslint-config-prettier": "^10.1.5",
+    "eslint-import-resolver-typescript": "^4.4.4",
+    "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-prettier": "^5.4.1",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
@@ -39,6 +41,7 @@
     "ts-node": "^10.9.2",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.30.1",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vite-tsconfig-paths": "^5.1.4"
   }
 }
