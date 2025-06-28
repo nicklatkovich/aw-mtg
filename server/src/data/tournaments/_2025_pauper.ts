@@ -5,6 +5,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-06-25',
+    name: 'Summer League 2025 | Pauper #4',
     id: 330427,
     standings: [
       { player: 'Azurenia', deck: 'Jund Wildfire', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-0-0' },
@@ -80,6 +81,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-06-18',
+    name: 'Summer League 2025 | Pauper #3',
     id: 328097,
     standings: [
       { player: 'AnklDen', deck: 'Selesnya Bogles', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -149,6 +151,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-06-11',
+    name: 'Summer League 2025 | Pauper #2',
     id: 324252,
     standings: [
       { player: 'RomanKohan14', deck: 'Mono-Red Burn', rank: 1, points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-1-0' },
@@ -217,6 +220,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-06-04',
+    name: 'Summer League 2025 | Pauper #1',
     id: 320629,
     standings: [
       { player: 'RomanKohan14', deck: 'Mono-Red Burn', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -293,6 +297,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-05-28',
+    name: 'Daily | Pauper (28.05)',
     id: 315101,
     standings: [
       { player: 'IvaD', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -352,6 +357,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-05-21',
+    name: 'Daily | Pauper (21.05)',
     id: 311876,
     standings: [
       { player: 'Azurenia', deck: 'Jund Dredge', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -404,6 +410,7 @@ export const _2025_pauper: Tournament[] = [
   {
     format: Format.PAUPER,
     date: '2025-05-14',
+    name: 'Daily | Pauper (14.05)',
     id: 308022,
     standings: [
       { player: 'BuRial63', deck: 'Mono-Green Elves', rank: 1, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-1' },

@@ -1,3 +1,4 @@
+import { DeckDTO } from '@dtos';
 import { Deck, DeckArchetype } from './data.types';
 import { ArchetypeInfo, ARCHETYPES } from './deck-archetypes';
 
@@ -26,4 +27,14 @@ export function getDeckType(deck?: Deck | null): string | null {
   if (!archetype) return null;
   const info = getArchetypeInfo(archetype);
   return !info || typeof info === 'string' ? null : (info[1] ?? null);
+}
+
+export function toDeckDTO(deck?: Deck | null): DeckDTO | null {
+  if (!deck) return null;
+  return { archetype: getDeckArchetype(deck), colors: getDeckColor(deck), type: getDeckType(deck) };
+}
+
+export function flipRecord(record: string): string {
+  const split = record.split('-');
+  return [split[1], split[0], split.slice(2)].join('-');
 }

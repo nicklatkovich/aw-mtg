@@ -7,6 +7,7 @@ export type Deck = DeckArchetype | { archetype: DeckArchetype; colors?: string; 
 
 export type Tournament = {
   id: number | string; // number = melee tournament id
+  name?: string;
   format: Format;
   date: string;
   standings: Array<{

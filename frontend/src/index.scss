@@ -20,7 +20,7 @@
 a {
   font-weight: 500;
   color: $color-fg-1;
-  text-decoration: inherit;
+  // text-decoration: inherit;
 
   &:hover {
     color: $color-info;
@@ -28,9 +28,9 @@ a {
 }
 
 body {
+  overflow-y: scroll;
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: calc(100vh - $header-size);
   padding-top: $header-size; /* Reserve space for fixed header */
@@ -42,17 +42,28 @@ h1 {
   color: $color-var-2;
 }
 
+h2 {
+  color: $color-info;
+}
+
 table {
   text-align: center;
 
   border-collapse: collapse;
   border: none;
   & tr {
-    height: 48px;
+    height: 36px;
+    &.link:hover {
+      background-color: #ffffff10;
+      & th {
+        color: $color-info;
+      }
+    }
   }
   & th {
+    font-weight: 400;
     border: none;
-    padding: 4px 32px;
+    padding: 4px 8px;
   }
   & thead {
     border: solid $color-active-border;
@@ -60,16 +71,22 @@ table {
   }
 
   & tbody {
-    & tr:nth-child(2n) {
-      background-color: $color-bg-2;
-      border: solid $color-inactive-border;
-      border-width: 1px 0;
+    & tr {
+      // border: solid $color-bg-2;
+      // border-width: 1px 0;
+      &:nth-last-child(2n + 1) {
+        background-color: $color-bg-2;
+      }
     }
   }
 }
 
 .left {
   text-align: left;
+}
+
+.link {
+  cursor: pointer;
 }
 
 .format--standard {
@@ -86,6 +103,30 @@ table {
 
 .format--legacy {
   color: $color-var-6;
+}
+
+.round--win {
+  color: $color-win;
+}
+
+.round--draw {
+  color: $color-draw;
+}
+
+.round--lose {
+  color: $color-lose;
+}
+
+.round--bye {
+  color: $color-bye;
+}
+
+.number {
+  color: $color-number;
+}
+
+.date {
+  color: $color-string;
 }
 
 // button {

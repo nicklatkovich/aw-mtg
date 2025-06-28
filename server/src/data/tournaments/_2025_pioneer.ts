@@ -5,6 +5,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-06-26',
+    name: 'Summer League 2025 | Pioneer #4',
     id: 330422,
     standings: [
       { player: 'Dukalis1985', deck: 'Rakdos Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
@@ -58,6 +59,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-06-19',
+    name: 'Summer League 2025 | Pioneer #3',
     id: 328637,
     standings: [
       { player: 'vorotinskyV', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
@@ -114,6 +116,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-06-12',
+    name: 'Summer League 2025 | Pioneer #2',
     id: 324253,
     standings: [
       { player: 'GlebK', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -171,6 +174,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-06-05',
+    name: 'Summer League 2025 | Pioneer #1',
     id: 320651,
     standings: [
       { player: 'BRV', deck: 'Azorius Spirits', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -223,6 +227,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-05-29',
+    name: 'Daily | Pioneer (29.05)',
     id: 315105,
     standings: [
       { player: 'Dukalis1985', deck: 'Mono-Black Midrange', rank: 1, points: 9, mp: 2, mw: 2, match_record: '3-0-0', game_record: '6-0-0' },
@@ -257,6 +262,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-05-22',
+    name: 'Daily | Pioneer (22.05)',
     id: 312488,
     standings: [
       { player: 'Dukalis1985', deck: 'Rakdos Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -303,6 +309,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-05-15',
+    name: 'Daily | Pioneer (15.05)',
     id: 307291,
     standings: [
       { player: 'AntonV', deck: 'Azorius Spirits', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -366,6 +373,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-05-08',
+    name: 'Daily | Pioneer (08.05)',
     id: 304833,
     standings: [
       { player: 'vorotinskyV', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -418,6 +426,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-05-01',
+    name: 'Daily | Pioneer (01.05)',
     id: 300529,
     standings: [
       { player: 'ispinyouround', deck: 'Rakdos Midrange', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
@@ -468,6 +477,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-04-24',
+    name: 'Daily | Pioneer (24.04)',
     id: 295341,
     standings: [
       { player: 'Alex88', ignoreResults: true, deck: 'Boros Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -539,6 +549,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-04-17',
+    name: 'League Pioneer | Season 5 (12/12)',
     id: 291886,
     standings: [
       { player: 'Dukalis1985', deck: 'Rakdos Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
@@ -601,6 +612,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-04-10',
+    name: 'League Pioneer | Season 5 (11/12)',
     id: 287604,
     standings: [
       { player: 'RomanKohan14', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -676,6 +688,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-04-03',
+    name: 'League Pioneer | Season 5 (10/12)',
     id: 282533,
     standings: [
       { player: 'Alex88', deck: 'Boros Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-4-0' },
@@ -752,6 +765,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-03-27',
+    name: 'League Pioneer | Season 5 (9/12)',
     id: 276209,
     standings: [
       { player: 'BRV', deck: 'Azorius Spirits', rank: 1, points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-0-0' },
@@ -813,6 +827,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-03-20',
+    name: 'League Pioneer | Season 5 (8/12)',
     id: 272247,
     standings: [
       { player: 'RomanKohan14', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -881,6 +896,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-03-13',
+    name: 'League Pioneer | Season 5 (7/12)',
     id: 266709,
     standings: [
       { player: 'Akel', deck: 'Jund Sacrifice', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -949,6 +965,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-03-06',
+    name: 'League Pioneer | Season 5 (6/12)',
     id: 258802,
     standings: [
       { player: 'TroV1', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Niv to Light' },
@@ -1013,6 +1030,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-02-27',
+    name: 'League Pioneer | Season 5 (5/12)',
     id: 255308,
     standings: [
       { player: 'Ururuw', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Jund Sacrifice' },
@@ -1090,6 +1108,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-02-20',
+    name: 'League Pioneer | Season 5 (4/12)',
     id: 249795,
     standings: [
       { player: 'Akel', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Jund Sacrifice' },
@@ -1152,6 +1171,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-02-13',
+    name: 'League Pioneer | Season 5 (3/12)',
     id: 244211,
     standings: [
       { player: 'ispinyouround', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Rakdos Midrange' },
@@ -1214,6 +1234,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-02-06',
+    name: 'League Pioneer | Season 5 (2/12)',
     id: 242079,
     standings: [
       { player: 'AnklDen', rank: 1, points: 10, mp: 4, mw: 3, deck: 'Enigmatic Incarnation' },
@@ -1281,6 +1302,7 @@ export const _2025_pioneer: Tournament[] = [
   {
     format: Format.PIONEER,
     date: '2025-01-30',
+    name: 'League Pioneer | Season 5 (1/12)',
     id: 237939,
     standings: [
       { player: 'Ururuw', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Jund Sacrifice' },

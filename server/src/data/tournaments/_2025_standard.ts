@@ -5,6 +5,7 @@ export const _2025_standard: Tournament[] = [
   {
     id: 330421,
     format: Format.STANDARD,
+    name: 'Summer League 2025 | Standard #4',
     date: '2025-06-24',
     standings: [
       { player: 'qvertion', deck: 'Esper Bounce', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
@@ -64,6 +65,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-06-17',
+    name: 'Summer League 2025 | Standard #3',
     id: 327452,
     standings: [
       { player: 'RomanKohan14', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -128,6 +130,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-06-10',
+    name: 'Summer League 2025 | Standard #2',
     id: 323688,
     standings: [
       { player: 'Slava_bel', deck: 'Dimir Midrange', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
@@ -185,6 +188,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-06-03',
+    name: 'Summer League 2025 | Standard #1',
     id: 320135,
     standings: [
       { player: 'BRV', deck: 'Gruul Resonance', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -264,6 +268,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-05-27',
+    name: 'Daily | Standard (27.05)',
     id: 315089,
     standings: [
       { player: 'aspelled', deck: 'Jeskai Oculus', rank: 1, points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-2-0' },
@@ -320,6 +325,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-05-20',
+    name: 'Daily | Standard (20.05)',
     id: 311189,
     standings: [
       { player: 'aspelled', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -391,6 +397,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-05-13',
+    name: 'Daily | Standard (13.05)',
     id: 307313,
     standings: [
       { player: 'RomanKohan14', deck: 'Gruul Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -458,6 +465,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-05-06',
+    name: 'Daily | Standard (06.05)',
     id: 303479,
     standings: [
       { player: 'qvertion', deck: 'Izzet Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -508,6 +516,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-04-29',
+    name: 'Daily | Standard (29.04)',
     id: 299223,
     standings: [
       { player: 'Azurenia', deck: 'Sultai Beanstalk', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
@@ -567,6 +576,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-04-22',
+    name: 'Daily | Standard (22.04)',
     id: 294659,
     standings: [
       { player: 'vorotinskyV', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -619,6 +629,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-04-15',
+    name: 'League Standard | Season 11 (12/12)',
     id: 290646,
     standings: [
       { player: 'OMGProfunny', deck: 'Dimir Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -693,6 +704,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-04-08',
+    name: 'League Standard | Season 11 (11/12)',
     id: 286201,
     standings: [
       { player: 'OMGProfunny', deck: 'Dimir Midrange', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -762,6 +774,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-04-01',
+    name: 'League Standard | Season 11 (10/12)',
     id: 281369,
     standings: [
       { player: 'rvstykey', deck: 'Esper Bounce', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
@@ -835,6 +848,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-03-25',
+    name: 'League Standard | Season 11 (9/12)',
     id: 276051,
     standings: [
       { player: 'qvertion', deck: 'Esper Bounce', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-4-0' },
@@ -910,6 +924,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-03-18',
+    name: 'League Standard | Season 11 (8/12)',
     id: 270568,
     standings: [
       { player: 'K1ppy', deck: 'Mono-Red Aggro', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -978,6 +993,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-03-11',
+    name: 'League Standard | Season 11 (7/12)',
     id: 264855,
     standings: [
       { player: 'qvertion', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Esper Bounce' },
@@ -1047,6 +1063,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-03-04',
+    name: 'League Standard | Season 11 (6/12)',
     id: 258800,
     standings: [
       { player: 'aspelled', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Golgari Obliterator' },
@@ -1111,6 +1128,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-02-25',
+    name: 'League Standard | Season 11 (5/12)',
     id: 253636,
     standings: [
       { player: 'K1ppy', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Mono-Red Aggro' },
@@ -1181,6 +1199,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-02-18',
+    name: 'League Standard | Season 11 (4/12)',
     id: 249246,
     standings: [
       { player: 'RomanKohan14', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Boros Aggro' },
@@ -1241,6 +1260,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-02-11',
+    name: 'League Standard | Season 11 (3/12)',
     id: 244209,
     standings: [
       { player: 'qvertion', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Esper Bounce' },
@@ -1305,6 +1325,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-02-04',
+    name: 'League Standard | Season 11 (2/12)',
     id: 240839,
     standings: [
       { player: 'K1ppy', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Mono-Red Aggro' },
@@ -1384,6 +1405,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-01-28',
+    name: 'League Standard | Season 11 (1/12)',
     id: 236526,
     standings: [
       { player: 'Azurenia', rank: 1, points: 12, mp: 3, mw: 3 },
@@ -1451,6 +1473,7 @@ export const _2025_standard: Tournament[] = [
   {
     format: Format.STANDARD,
     date: '2025-01-21',
+    name: 'Daily | Standard (21.01)',
     id: 232522,
     standings: [
       { player: 'RomanKohan14', rank: 1, points: 12, mp: 4, mw: 4 },
