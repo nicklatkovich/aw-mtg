@@ -10,7 +10,7 @@ export function getArchetypeInfo(archetype: string): ArchetypeInfo | null {
 
 export function getDeckArchetype(deck?: Deck | null): string | null {
   if (!deck) return null;
-  return typeof deck === 'string' ? deck : deck.archetype;
+  return typeof deck === 'string' ? deck : (deck.name ?? deck.archetype ?? null);
 }
 
 export function getDeckColor(deck?: Deck | null): string | null {

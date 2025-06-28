@@ -7,7 +7,7 @@ import FormatComponent from '@frontend/components/FormatComponent';
 const TournamentPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   if (!id) return null;
-  const melee = /[1-9]\d*/.test(id) ? `https://melee.gg/Tournament/View/${id}` : null;
+  const melee = /^[1-9]\d*$/.test(id) ? `https://melee.gg/Tournament/View/${id}` : null;
 
   return (
     <>
@@ -17,6 +17,7 @@ const TournamentPage: React.FC = () => {
           const rounds = Math.max(...data.standings.map((s) => s.rounds?.length ?? 0));
           const displayMatchRecord = data.standings.some((s) => s.match_record);
           const displayGameRecord = data.standings.some((s) => s.game_record);
+          const displayDecks = data.standings.some((s) => s.deck);
           return (
             <>
               {data.name ? <h1>{data.name}</h1> : null}
@@ -40,7 +41,7 @@ const TournamentPage: React.FC = () => {
                     <th>Rank</th>
                     <th>Player</th>
                     <th>Points</th>
-                    {data.standings.some((s) => s.deck) ? <th>Deck</th> : null}
+                    {displayDecks ? <th>Deck</th> : null}
                     {displayMatchRecord ? <th>Match Record</th> : null}
                     {displayGameRecord ? <th>Game Record</th> : null}
                     {...Array.from({ length: rounds })
@@ -54,9 +55,11 @@ const TournamentPage: React.FC = () => {
                       <th>{s.rank}</th>
                       <th>{s.player}</th>
                       <th>{s.points}</th>
-                      <th className="left">
-                        <DeckComponent deck={s.deck} />
-                      </th>
+                      {displayDecks ? (
+                        <th className="left">
+                          <DeckComponent deck={s.deck} />
+                        </th>
+                      ) : null}
                       {displayMatchRecord ? <th>{s.match_record}</th> : null}
                       {displayGameRecord ? <th>{s.game_record}</th> : null}
                       {...Array.from({ length: rounds })

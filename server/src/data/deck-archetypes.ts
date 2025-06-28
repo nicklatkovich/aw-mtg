@@ -1,5 +1,5 @@
 import { DeckType } from '@dtos';
-import { _assertType } from '@server/type.utils';
+import { _assertType } from '@server/utils';
 
 export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 
@@ -19,11 +19,13 @@ export const ARCHETYPES = {
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
   'Esper Oculus': ['WUB', DeckType.MIDRANGE],
+  'Esper Midrange': ['WUB', DeckType.MIDRANGE],
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
   'Jeskai Monument': ['WUR', DeckType.MIDRANGE],
   'Jeskai Control': ['WUR', DeckType.CONTROL],
+  'Jeskai Solution': ['WUR', DeckType.MIDRANGE],
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -35,10 +37,12 @@ export const ARCHETYPES = {
   'Orzhov Tokens': ['WB', DeckType.CONTROL],
   'Death and Taxes': 'WB',
   'Orzhov Blade': 'WB',
+  'Orzhov Deadguy Ale': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
   'Mardu Gates': 'WBR',
+  'Mardu Energy': ['WBR', DeckType.AGGRO],
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
@@ -54,6 +58,7 @@ export const ARCHETYPES = {
   'Boros Raise the Past': ['WR', DeckType.COMBO],
   'Boros Synthesizer': 'WR',
   'Boros Bully': 'WR',
+  'Boros Energy': ['WR', DeckType.AGGRO],
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -78,12 +83,16 @@ export const ARCHETYPES = {
   'Dimir Midrange': ['UB', DeckType.MIDRANGE],
   'Dimir Ninjas': ['UB', DeckType.TEMPO],
   'Dimir Faeries': ['UB', DeckType.TEMPO],
+  'Dimir Oculus': ['UB', DeckType.MIDRANGE],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
+  'Grixis Control': ['UBR', DeckType.CONTROL],
+  'Grixis Midrange': ['UBR', DeckType.MIDRANGE],
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
+  'Sultai Reanimator': ['UBG', DeckType.COMBO],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -97,10 +106,12 @@ export const ARCHETYPES = {
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
   'Simic Petitioners Combo': ['UG', DeckType.COMBO],
+  'Simic Madness': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
   'Mono-Black Pactdoll': 'B',
+  'Mono-Black Pit Rack': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -131,6 +142,7 @@ export const ARCHETYPES = {
   'Gruul Bard Class': ['RG', DeckType.AGGRO],
   'Gruul Dinosaurs': ['RG', DeckType.AGGRO],
   'Gruul Ramp': ['RG', DeckType.MIDRANGE],
+  'Gruul Madness': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
@@ -148,6 +160,7 @@ export const ARCHETYPES = {
   'Enigmatic Incarnation': ['WUBRG', DeckType.CONTROL],
   'Domain Zur': ['WUBRG', DeckType.CONTROL],
   'Domain Control': ['WUBRG', DeckType.CONTROL],
+  'Domain Zoo': ['WUBRG', DeckType.MIDRANGE],
   'Ephemerate Tron': 'WUBRG',
 } as const;
 
