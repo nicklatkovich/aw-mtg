@@ -7,5 +7,5 @@ export type RecentTournamentsTableRowDTO = {
   date: string;
   name?: string;
   players_count: number;
-  winner: { player: string; deck?: DeckDTO };
+  winner: { player: { display_name: string; id: string }; deck?: DeckDTO };
 };

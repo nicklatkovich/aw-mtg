@@ -1,10 +1,10 @@
 import assert from 'assert';
-import { MatchPlayerResultDTO, TournamentResultDTO } from '@dtos';
+import { MatchPlayerResultDTO, PlayerDTO, TournamentResultDTO } from '@dtos';
 import { allTournaments } from '@server/data';
 import { flipRecord, toDeckDTO } from '@server/data/data.utils';
-import { playersByGuid, playersByUsername } from '@server/data/players';
+import { playersByUsername } from '@server/data/players';
 
-export function buildTournamentResults(): Record<string, TournamentResultDTO> {
+export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Record<string, TournamentResultDTO> {
   const result: Record<string, TournamentResultDTO> = {};
   for (const tournament of allTournaments) {
     const id = tournament.id.toString(10);
@@ -15,9 +15,11 @@ export function buildTournamentResults(): Record<string, TournamentResultDTO> {
       format: tournament.format,
       standings: tournament.standings.map((standings) => {
         const player_guid = playersByUsername[standings.player] ?? standings.player;
+        const player_dto = playersMap.get(player_guid);
+        assert(player_dto, `Failed to get player: ${player_guid}`);
         return {
           rank: standings.rank,
-          player: playersByGuid[player_guid] ?? standings.player,
+          player: { display_name: player_dto.display_name, id: player_dto.id },
           points: standings.points,
           deck: toDeckDTO(standings.deck) ?? undefined,
           match_record: standings.match_record,

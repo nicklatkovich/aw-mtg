@@ -1,5 +1,5 @@
 import { TournamentResultDTO } from '@dtos';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { WithJsonData } from '@frontend/components/WithJsonDataComponent';
 import DeckComponent from '@frontend/components/Deck/DeckComponent';
 import FormatComponent from '@frontend/components/FormatComponent';
@@ -53,7 +53,9 @@ const TournamentPage: React.FC = () => {
                   {data.standings.map((s) => (
                     <tr key={s.rank}>
                       <th>{s.rank}</th>
-                      <th>{s.player}</th>
+                      <th>
+                        <Link to={`/player/${s.player.id}`}>{s.player.display_name}</Link>
+                      </th>
                       <th>{s.points}</th>
                       {displayDecks ? (
                         <th className="left">

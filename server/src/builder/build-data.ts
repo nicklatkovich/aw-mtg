@@ -2,6 +2,7 @@ import { mkdir, writeFile, rm } from 'fs/promises';
 import path from 'path';
 import { buildRecentTournamentsData } from './recent-tournaments.builder';
 import { buildTournamentResults } from './tournament-results.builder';
+import { buildPlayersData } from './players-data.builder';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -9,12 +10,13 @@ const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
 export async function buildData() {
   await rm(CONTENT_PATH, { recursive: true, force: true });
   await mkdir(CONTENT_PATH, { recursive: true });
-  const recentTournaments = buildRecentTournamentsData();
+  const playersMap = buildPlayersData();
+  const recentTournaments = buildRecentTournamentsData(playersMap);
   await writeFile(
     path.resolve(CONTENT_PATH, 'recent-tournaments.json'),
     `[\n  ${recentTournaments.map((t) => JSON.stringify(t)).join(',\n  ')}\n]\n`,
   );
-  const tournamentResults = buildTournamentResults();
+  const tournamentResults = buildTournamentResults(playersMap);
   await mkdir(TOURNAMENTS_PATH, { recursive: true });
   await Promise.all(
     Object.entries(tournamentResults).map(async ([id, content]) => {

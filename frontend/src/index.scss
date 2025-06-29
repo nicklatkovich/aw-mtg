@@ -18,12 +18,11 @@
 }
 
 a {
-  font-weight: 500;
-  color: $color-fg-1;
-  // text-decoration: inherit;
-
+  color: inherit;
+  text-decoration: none;
   &:hover {
     color: $color-info;
+    text-decoration: underline;
   }
 }
 
@@ -44,6 +43,39 @@ h1 {
 
 h2 {
   color: $color-info;
+}
+
+.grid-table {
+  display: grid;
+
+  & > * {
+    &:first-child .cell {
+      font-weight: bold;
+      border: solid $color-active-border;
+      border-width: 0 0 2px 0;
+    }
+    & .cell {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px 8px;
+      min-height: 36px;
+      &.left {
+        justify-content: left;
+      }
+    }
+    &:nth-last-child(2n + 1) .cell {
+      background-color: $color-bg-2;
+    }
+    & > a:hover {
+      &:has(a:hover) .cell {
+        color: $color-fg-1;
+      }
+      &:not(:has(a:hover)) .cell {
+        background-color: $color-bg-3;
+      }
+    }
+  }
 }
 
 table {
@@ -144,24 +176,3 @@ table {
 .date {
   color: $color-string;
 }
-
-// button {
-//   border-radius: 8px;
-//   border: 1px solid transparent;
-//   padding: 0.6em 1.2em;
-//   font-size: 1em;
-//   font-weight: 500;
-//   font-family: inherit;
-//   background-color: #1a1a1a;
-//   cursor: pointer;
-//   transition: border-color 0.25s;
-
-//   &:hover {
-//     border-color: $primary-color;
-//   }
-
-//   &:focus,
-//   &:focus-visible {
-//     outline: 4px auto -webkit-focus-ring-color;
-//   }
-// }
