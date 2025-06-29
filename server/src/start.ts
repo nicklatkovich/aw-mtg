@@ -6,7 +6,7 @@ const port = 3000;
 
 app.use(express.static(path.resolve(__dirname, '../../dist/client')));
 
-app.get(/(.*)/, (_req, res) => {
+app.get('/', (_req, res) => {
   res.sendFile(path.resolve(__dirname, '../../dist/client/index.html'));
 });
 

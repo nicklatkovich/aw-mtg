@@ -6,7 +6,7 @@
     "tsBuildInfoFile": "../dist/client/.tsbuildinfo",
     "baseUrl": ".",
     "rootDir": "src",
-    "module": "commonjs",
+    "module": "esnext",
     "noEmit": false,
     "paths": { "@dtos": ["../dtos/src/index"], "@frontend/*": ["src/*"] },
     "jsx": "react-jsx"

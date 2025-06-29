@@ -12,7 +12,7 @@ const TournamentPage: React.FC = () => {
   return (
     <>
       {/* <h1>Event [{id}]</h1> */}
-      <WithJsonData<TournamentResultDTO> url={`/data/tournaments/${id}.json`}>
+      <WithJsonData<TournamentResultDTO> url={`${import.meta.env.BASE_URL}data/tournaments/${id}.json`}>
         {(data) => {
           const rounds = Math.max(...data.standings.map((s) => s.rounds?.length ?? 0));
           const displayMatchRecord = data.standings.some((s) => s.match_record);

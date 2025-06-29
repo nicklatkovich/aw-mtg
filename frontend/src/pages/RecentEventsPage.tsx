@@ -8,7 +8,7 @@ export default function RecentEventsPage() {
   return (
     <>
       <h1>Recent Events</h1>
-      <WithJsonData<RecentTournamentsTableRowDTO[]> url="/data/recent-tournaments.json">
+      <WithJsonData<RecentTournamentsTableRowDTO[]> url={`${import.meta.env.BASE_URL}data/recent-tournaments.json`}>
         {(data) => (
           <div
             className="grid-table"
