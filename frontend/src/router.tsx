@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
 import App from './App';
 import RecentEventsPage from './pages/RecentEventsPage';
 import PioneerLadder from './pages/PioneerLadder';
@@ -13,13 +13,14 @@ const router = createBrowserRouter([
     path: '/',
     element: <App />,
     children: [
-      { path: 'recent-events', element: <RecentEventsPage /> },
-      { path: 'pioneer-ladder', element: <PioneerLadder /> },
-      { path: 'standard-ladder', element: <StandardLadder /> },
-      { path: 'summer-league-2025', element: <SummerLeague2025 /> },
-      { path: 'players', element: <Players /> },
-      { path: 'event/:id', element: <TournamentPage /> },
-      { path: '*', element: <NotFound /> },
+      { path: '/', element: <Navigate to={'/recent-events'} /> },
+      { path: '/recent-events', index: true, element: <RecentEventsPage /> },
+      { path: '/pioneer-ladder', element: <PioneerLadder /> },
+      { path: '/standard-ladder', element: <StandardLadder /> },
+      { path: '/summer-league-2025', element: <SummerLeague2025 /> },
+      { path: '/players', element: <Players /> },
+      { path: '/event/:id', element: <TournamentPage /> },
+      { path: '/*', element: <NotFound /> },
     ],
   },
 ]);

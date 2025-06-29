@@ -42,4 +42,38 @@ export const _2025_legacy: Tournament[] = [
       ],
     ],
   },
+  {
+    format: Format.LEGACY,
+    date: '2025-06-01',
+    id: 315138,
+    standings: [
+      { player: 'Tanti', deck: 'Domain Control', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'aklshk', deck: 'Death and Taxes', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'NickLatkovich', deck: 'Domain Control', rank: 3, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Norbi', deck: 'Sultai Beanstalk', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: '4onoki', deck: 'Naya Maverick', rank: 5, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '1-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['4onoki', 'Tanti'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'aklshk'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4onoki', 'aklshk'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Norbi'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['4onoki', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Tanti', 'aklshk'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tanti', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['aklshk', 'Norbi'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['Tanti', 'Norbi'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
 ];
