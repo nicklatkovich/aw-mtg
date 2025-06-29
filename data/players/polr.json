@@ -1,0 +1,14 @@
+{
+  "guid": "16f3ca52-6de4-4ad0-9217-345bde3c0312",
+  "id": "polr",
+  "display_name": "Romanenko Polina",
+  "recent_events": [
+    {"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":6,"rank":[7,19],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":6,"rank":[7,18],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":4,"rank":[10,14],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},
+    {"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":6,"rank":[7,11],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-4-0"},
+    {"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":4,"rank":[11,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"4-5-1"},
+    {"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"2-6-0"},
+    {"name":"League Pioneer | Season 5 (6/12)","date":"2025-03-06","format":"pioneer","points":1,"rank":[14,16],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "77652d65-3561-4bfa-80a3-9e0b20901040",
+  "id": "serj",
+  "display_name": "Basharimov Sergey",
+  "recent_events": [
+    {"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-2-0"},
+    {"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"2-4-0"},
+    {"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[4,12],"match_record":"2-1-0","game_record":"4-3-0"},
+    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":6,"rank":[7,12],"deck":{"archetype":"Simic Draft","colors":"UG","type":null},"match_record":"2-2-0","game_record":"5-6-0"}
+  ]
+}

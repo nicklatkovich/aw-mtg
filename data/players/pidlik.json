@@ -1,0 +1,10 @@
+{
+  "guid": "1d0d62ff-4896-4452-93ad-c1268dc2d9f9",
+  "id": "pidlik",
+  "display_name": "Sobyanin Dmitriy",
+  "recent_events": [
+    {"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":6,"rank":[4,7],"deck":{"archetype":"Mono-Red Goblins","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-4-0"},
+    {"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[6,12],"match_record":"2-1-0","game_record":"5-4-0"},
+    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":3,"rank":[8,12],"match_record":"1-2-0","game_record":"3-4-0"}
+  ]
+}

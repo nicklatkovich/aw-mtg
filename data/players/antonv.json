@@ -1,0 +1,24 @@
+{
+  "guid": "782535a1-83c9-4a03-96a0-87c7db19b362",
+  "id": "antonv",
+  "display_name": "Volotovich Anton",
+  "recent_events": [
+    {"name":"Summer League 2025 | Pioneer #2","date":"2025-06-12","format":"pioneer","points":3,"rank":[11,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-1-0","game_record":"2-2-0"},
+    {"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":0,"rank":[12,12],"match_record":"0-1-0","game_record":"0-2-0"},
+    {"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":12,"rank":[1,15],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"4-0-0","game_record":"8-2-0"},
+    {"date":"2024-11-28","format":"pioneer","points":3,"rank":[14,14]},
+    {"date":"2024-09-26","format":"pioneer","points":0,"rank":[12,12]},
+    {"date":"2024-08-15","format":"pioneer","points":0,"rank":[17,17]},
+    {"date":"2024-08-08","format":"pioneer","points":0,"rank":[12,12]},
+    {"date":"2024-07-25","format":"pioneer","points":0,"rank":[13,13]},
+    {"date":"2024-06-20","format":"pioneer","points":12,"rank":[1,12]},
+    {"date":"2024-06-13","format":"pioneer","points":3,"rank":[12,12]},
+    {"date":"2024-06-06","format":"pioneer","points":4,"rank":[10,14]},
+    {"date":"2024-05-30","format":"pioneer","points":9,"rank":[3,10]},
+    {"date":"2024-05-16","format":"pioneer","points":12,"rank":[1,11]},
+    {"date":"2024-05-02","format":"pioneer","points":0,"rank":[12,12]},
+    {"date":"2024-04-25","format":"pioneer","points":3,"rank":[10,12]},
+    {"date":"2024-04-18","format":"pioneer","points":9,"rank":[1,10]},
+    {"date":"2024-04-11","format":"pioneer","points":12,"rank":[1,12]}
+  ]
+}

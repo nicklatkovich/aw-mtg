@@ -1,0 +1,9 @@
+{
+  "guid": "8ce56328-5704-4347-8b89-c54902e03a19",
+  "id": "artb9",
+  "display_name": "Birukov Arthur",
+  "recent_events": [
+    {"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[1,7],"deck":{"archetype":"Mono-Black Pit Rack","colors":"B","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
+    {"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[11,17],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"5-5-0"}
+  ]
+}

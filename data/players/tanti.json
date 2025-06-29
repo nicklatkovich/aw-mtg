@@ -1,0 +1,10 @@
+{
+  "guid": "a52d83e2-0c2f-4fe0-bc03-1d03a54a4170",
+  "id": "tanti",
+  "display_name": "Charniauski Mikita",
+  "recent_events": [
+    {"name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":12,"rank":[1,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
+    {"name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
+    {"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
+  ]
+}
