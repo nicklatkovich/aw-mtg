@@ -1,6 +1,8 @@
 import assert from 'assert';
-import { PlayerDTO } from '@dtos';
+import { PlayerDTO, PlayerTournamentDTO } from '@dtos';
 import { playersByGuid, playersByUsername } from '@server/data/players';
+import { allTournaments } from '@server/data';
+import { toDeckDTO } from '@server/data/data.utils';
 
 export function buildPlayersData(): Map<string, PlayerDTO> {
   const usedIds = new Map<string, string>();
@@ -21,7 +23,24 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
       assert(!dupGuid, `User id duplicate: ${id} ${guid} !== ${dupGuid})`);
     }
     usedIds.set(id, guid);
-    result.set(guid, { display_name, guid, id });
+    const recent_events = allTournaments
+      .map<PlayerTournamentDTO | null>((t) => {
+        const s = t.standings.find((s) => (playersByUsername[s.player] ?? s.player) === guid);
+        if (!s) return null;
+        const result: PlayerTournamentDTO = {
+          name: t.name,
+          date: t.date,
+          format: t.format,
+          points: s.points,
+          rank: [s.rank, t.standings.length],
+          deck: toDeckDTO(s.deck) ?? undefined,
+          match_record: s.match_record,
+          game_record: s.game_record,
+        };
+        return result;
+      })
+      .filter((e): e is NonNullable<typeof e> => !!e);
+    result.set(guid, { display_name, guid, id, recent_events });
   }
   return result;
 }

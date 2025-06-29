@@ -6,11 +6,28 @@ import { buildPlayersData } from './players-data.builder';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
+const PLAYERS_PATH = path.resolve(CONTENT_PATH, 'players/');
 
 export async function buildData() {
   await rm(CONTENT_PATH, { recursive: true, force: true });
   await mkdir(CONTENT_PATH, { recursive: true });
   const playersMap = buildPlayersData();
+  await mkdir(PLAYERS_PATH, { recursive: true });
+  await Promise.all(
+    [...playersMap.entries()].map(async ([_, dto]) => {
+      await writeFile(
+        path.resolve(PLAYERS_PATH, `${dto.id}.json`),
+        `{
+  "guid": "${dto.guid}",
+  "id": "${dto.id}",
+  "display_name": "${dto.display_name}",
+  "recent_events": [
+    ${dto.recent_events.map((e) => JSON.stringify(e)).join(',\n    ')}
+  ]
+}\n`,
+      );
+    }),
+  );
   const recentTournaments = buildRecentTournamentsData(playersMap);
   await writeFile(
     path.resolve(CONTENT_PATH, 'recent-tournaments.json'),
