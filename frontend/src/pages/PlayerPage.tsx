@@ -2,6 +2,7 @@ import { PlayerDTO } from '@dtos';
 import DeckComponent from '@frontend/components/Deck/DeckComponent';
 import FormatComponent from '@frontend/components/FormatComponent';
 import { WithJsonData } from '@frontend/components/WithJsonDataComponent';
+import { Link } from 'react-router-dom';
 import { useParams } from 'react-router-dom';
 
 const COLOR_STATS_BAR_WIDTH = 32;
@@ -71,7 +72,7 @@ export default function PlayerPage() {
                 </div>
                 {data.recent_events.map((t) => (
                   // FIXME: key
-                  <div style={{ display: 'contents' }} key={t.date}>
+                  <Link style={{ display: 'contents' }} key={t.date} to={`/event/${t.id}`}>
                     <div className="left cell">{t.name ?? `Event #${t.id}`}</div>
                     <div className="cell">{t.date}</div>
                     <div className="cell">
@@ -86,7 +87,7 @@ export default function PlayerPage() {
                     </div>
                     <div className="cell">{t.match_record}</div>
                     <div className="cell">{t.game_record}</div>
-                  </div>
+                  </Link>
                 ))}
               </div>
             </>
