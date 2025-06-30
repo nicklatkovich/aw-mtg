@@ -2,7 +2,8 @@
   "guid": "6e234591-776e-4051-8617-3cf750dfa8f7",
   "id": "tot-samyi",
   "display_name": "Fedulov Rinat",
+  "color_stats": {},
   "recent_events": [
-    {"date":"2024-10-31","format":"pioneer","points":10,"rank":[2,14]}
+    {"id":177981,"date":"2024-10-31","format":"pioneer","points":10,"rank":[2,14]}
   ]
 }

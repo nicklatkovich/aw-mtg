@@ -2,14 +2,15 @@
   "guid": "7f5ab7e2-0393-408d-8b6d-faa97bb3d03f",
   "id": "draa",
   "display_name": "Draghin Alexander",
+  "color_stats": {"U":1,"B":0.75},
   "recent_events": [
-    {"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"},
-    {"name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":6,"rank":[2,7]},
-    {"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":4,"rank":[12,18],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},
-    {"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":9,"rank":[6,17],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
-    {"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":0,"rank":[19,19],"deck":{"archetype":"Mono-Blue Ninjas","colors":"U","type":"Tempo"},"match_record":"0-4-0","game_record":"2-7-0"},
-    {"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":6,"rank":[9,14],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-0-3","game_record":"5-4-0"},
-    {"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
-    {"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
+    {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"},
+    {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":6,"rank":[2,7]},
+    {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":4,"rank":[12,18],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},
+    {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":9,"rank":[6,17],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":320629,"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":0,"rank":[19,19],"deck":{"archetype":"Mono-Blue Ninjas","colors":"U","type":"Tempo"},"match_record":"0-4-0","game_record":"2-7-0"},
+    {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":6,"rank":[9,14],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-0-3","game_record":"5-4-0"},
+    {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
+    {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
   ]
 }

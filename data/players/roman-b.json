@@ -2,10 +2,11 @@
   "guid": "24aea299-9435-4698-9baf-4b97a993ddf2",
   "id": "roman-b",
   "display_name": "Bashkirov Roman",
+  "color_stats": {"B":1,"G":1},
   "recent_events": [
-    {"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"6-3-0"},
-    {"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":7,"rank":[3,12],"match_record":"2-1-1","game_record":"6-3-0"},
-    {"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":9,"rank":[1,12],"match_record":"3-0-0","game_record":"6-2-0"},
-    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[3,12],"deck":{"archetype":"Golgari Draft","colors":"BG","type":null},"match_record":"3-1-0","game_record":"6-4-0"}
+    {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"6-3-0"},
+    {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":7,"rank":[3,12],"match_record":"2-1-1","game_record":"6-3-0"},
+    {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":9,"rank":[1,12],"match_record":"3-0-0","game_record":"6-2-0"},
+    {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[3,12],"deck":{"archetype":"Golgari Draft","colors":"BG","type":null},"match_record":"3-1-0","game_record":"6-4-0"}
   ]
 }

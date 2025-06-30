@@ -2,13 +2,14 @@
   "guid": "28e086b4-9b7f-417a-b115-a174cd9056cc",
   "id": "hogar",
   "display_name": "Korol Igor",
+  "color_stats": {"W":1,"B":0.7857142857142857,"R":1,"G":0.2142857142857143},
   "recent_events": [
-    {"name":"Summer League 2025 | Standard #3","date":"2025-06-17","format":"standard","points":6,"rank":[6,15],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},
-    {"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[9,17],"deck":{"archetype":"Golgari Saprolings","colors":"BG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
-    {"name":"Summer League 2025 | Standard #2","date":"2025-06-10","format":"standard","points":6,"rank":[7,13],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"2-2-0","game_record":"4-6-0"},
-    {"name":"Summer League 2025 | Standard #1","date":"2025-06-03","format":"standard","points":3,"rank":[15,21],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
-    {"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":4,"rank":[11,18],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"1-2-1","game_record":"4-5-0"},
-    {"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":3,"rank":[15,17],"deck":{"archetype":"Boros Raise the Past","colors":"WR","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
-    {"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[7,11],"deck":{"archetype":"Boros Raise the Past","colors":"WR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"}
+    {"id":327452,"name":"Summer League 2025 | Standard #3","date":"2025-06-17","format":"standard","points":6,"rank":[6,15],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},
+    {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[9,17],"deck":{"archetype":"Golgari Saprolings","colors":"BG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":323688,"name":"Summer League 2025 | Standard #2","date":"2025-06-10","format":"standard","points":6,"rank":[7,13],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"2-2-0","game_record":"4-6-0"},
+    {"id":320135,"name":"Summer League 2025 | Standard #1","date":"2025-06-03","format":"standard","points":3,"rank":[15,21],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
+    {"id":311189,"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":4,"rank":[11,18],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"1-2-1","game_record":"4-5-0"},
+    {"id":307313,"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":3,"rank":[15,17],"deck":{"archetype":"Boros Raise the Past","colors":"WR","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
+    {"id":303479,"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[7,11],"deck":{"archetype":"Boros Raise the Past","colors":"WR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"}
   ]
 }

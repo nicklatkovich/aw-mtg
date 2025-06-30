@@ -2,7 +2,8 @@
   "guid": "b1084213-5f4d-46dc-8d7f-569b3aca266c",
   "id": "prudkevich",
   "display_name": "Prudkevich Vlad",
+  "color_stats": {},
   "recent_events": [
-    {"name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[6,7]}
+    {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[6,7]}
   ]
 }

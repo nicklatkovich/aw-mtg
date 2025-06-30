@@ -2,14 +2,15 @@
   "guid": "5188dedb-3c53-4644-ac45-73b99669b87b",
   "id": "alexkhan",
   "display_name": "Khan Alex",
+  "color_stats": {"W":1,"G":0.875,"U":0.125},
   "recent_events": [
-    {"name":"Daily | Pioneer (22.05)","date":"2025-05-22","format":"pioneer","points":4,"rank":[7,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-2-1","game_record":"3-5-0"},
-    {"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":4,"rank":[11,15],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-6-0"},
-    {"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":6,"rank":[9,15],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
-    {"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":7,"rank":[7,19],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-2-0"},
-    {"name":"League Pioneer | Season 5 (10/12)","date":"2025-04-03","format":"pioneer","points":3,"rank":[18,20],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-3-0","game_record":"2-6-0"},
-    {"name":"League Pioneer | Season 5 (9/12)","date":"2025-03-27","format":"pioneer","points":7,"rank":[6,15],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-3-0"},
-    {"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
-    {"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
+    {"id":312488,"name":"Daily | Pioneer (22.05)","date":"2025-05-22","format":"pioneer","points":4,"rank":[7,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-2-1","game_record":"3-5-0"},
+    {"id":307291,"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":4,"rank":[11,15],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-6-0"},
+    {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":6,"rank":[9,15],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
+    {"id":287604,"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":7,"rank":[7,19],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-2-0"},
+    {"id":282533,"name":"League Pioneer | Season 5 (10/12)","date":"2025-04-03","format":"pioneer","points":3,"rank":[18,20],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-3-0","game_record":"2-6-0"},
+    {"id":276209,"name":"League Pioneer | Season 5 (9/12)","date":"2025-03-27","format":"pioneer","points":7,"rank":[6,15],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-3-0"},
+    {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
+    {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ]
 }

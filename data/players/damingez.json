@@ -2,15 +2,16 @@
   "guid": "5bfb24cd-0bb5-4040-b74f-c535c6a5bf4d",
   "id": "damingez",
   "display_name": "Kryshkavets Egor",
+  "color_stats": {"U":1,"W":0.25,"R":0.43749999999999994,"B":0.9375},
   "recent_events": [
-    {"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":3,"rank":[16,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
-    {"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":4,"rank":[14,18],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"1-2-1","game_record":"2-5-3"},
-    {"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":6,"rank":[8,17],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-2-0","game_record":"6-5-0"},
-    {"name":"Daily | Standard (29.04)","date":"2025-04-29","format":"standard","points":6,"rank":[9,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
-    {"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
-    {"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[5,18],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"2-1-1","game_record":"6-4-0"},
-    {"name":"League Standard | Season 11 (5/12)","date":"2025-02-25","format":"standard","points":3,"rank":[13,18],"deck":{"archetype":"Izzet Monument","colors":"UR","type":"Midrange"}},
-    {"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
-    {"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
+    {"id":320629,"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":3,"rank":[16,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
+    {"id":311189,"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":4,"rank":[14,18],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"1-2-1","game_record":"2-5-3"},
+    {"id":307313,"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":6,"rank":[8,17],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-2-0","game_record":"6-5-0"},
+    {"id":299223,"name":"Daily | Standard (29.04)","date":"2025-04-29","format":"standard","points":6,"rank":[9,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
+    {"id":287604,"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[5,18],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"2-1-1","game_record":"6-4-0"},
+    {"id":253636,"name":"League Standard | Season 11 (5/12)","date":"2025-02-25","format":"standard","points":3,"rank":[13,18],"deck":{"archetype":"Izzet Monument","colors":"UR","type":"Midrange"}},
+    {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
+    {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ]
 }

@@ -2,13 +2,14 @@
   "guid": "0333117a-0222-4d69-9b52-e482b136ed5d",
   "id": "torongil",
   "display_name": "Bulyshkin Yauheny",
+  "color_stats": {"W":1,"B":1,"U":0.28571428571428575,"R":0.28571428571428575,"G":0.28571428571428575},
   "recent_events": [
-    {"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":0,"rank":[11,12],"match_record":"0-2-0","game_record":"2-4-0"},
-    {"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"5-2-0"},
-    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[5,12],"deck":{"archetype":"Orzhov Draft","colors":"WB","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
-    {"date":"2024-05-09","format":"pioneer","points":3,"rank":[9,12]},
-    {"date":"2024-04-18","format":"pioneer","points":6,"rank":[5,10]},
-    {"date":"2024-04-11","format":"pioneer","points":0,"rank":[12,12]},
-    {"date":"2024-03-21","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Lich's Mastery","colors":"WUBRG","type":"Combo"}}
+    {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":0,"rank":[11,12],"match_record":"0-2-0","game_record":"2-4-0"},
+    {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"5-2-0"},
+    {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[5,12],"deck":{"archetype":"Orzhov Draft","colors":"WB","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
+    {"id":91514,"date":"2024-05-09","format":"pioneer","points":3,"rank":[9,12]},
+    {"id":80096,"date":"2024-04-18","format":"pioneer","points":6,"rank":[5,10]},
+    {"id":82321,"date":"2024-04-11","format":"pioneer","points":0,"rank":[12,12]},
+    {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Lich's Mastery","colors":"WUBRG","type":"Combo"}}
   ]
 }

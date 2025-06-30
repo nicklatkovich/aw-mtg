@@ -2,7 +2,8 @@
   "guid": "af6204f9-632f-43d1-9e9a-81fe2edd8d79",
   "id": "hi-art",
   "display_name": "Arepin Artyom",
+  "color_stats": {},
   "recent_events": [
-    {"date":"2024-05-23","format":"pioneer","points":12,"rank":[1,12]}
+    {"id":96558,"date":"2024-05-23","format":"pioneer","points":12,"rank":[1,12]}
   ]
 }

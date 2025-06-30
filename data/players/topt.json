@@ -2,7 +2,8 @@
   "guid": "256a7e56-4af5-45e4-8e2a-b95be6e3de96",
   "id": "topt",
   "display_name": "Ostapenko Kirill",
+  "color_stats": {},
   "recent_events": [
-    {"date":"2024-06-06","format":"pioneer","points":6,"rank":[7,14]}
+    {"id":102802,"date":"2024-06-06","format":"pioneer","points":6,"rank":[7,14]}
   ]
 }

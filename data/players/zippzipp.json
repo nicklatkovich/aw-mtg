@@ -2,9 +2,10 @@
   "guid": "f3f3ff2c-bc4f-47a7-b179-d64dbab34326",
   "id": "zippzipp",
   "display_name": "Zubovich Stanislau",
+  "color_stats": {"W":1,"U":1},
   "recent_events": [
-    {"name":"Daily | Standard (27.05)","date":"2025-05-27","format":"standard","points":6,"rank":[6,13],"deck":{"archetype":"Azorius Omniscience","colors":"WU","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
-    {"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":9,"rank":[4,18],"deck":{"archetype":"Azorius Omniscience","colors":"WU","type":"Combo"},"match_record":"3-1-0","game_record":"7-2-0"},
-    {"date":"2024-07-04","format":"pioneer","points":9,"rank":[2,16]}
+    {"id":315089,"name":"Daily | Standard (27.05)","date":"2025-05-27","format":"standard","points":6,"rank":[6,13],"deck":{"archetype":"Azorius Omniscience","colors":"WU","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
+    {"id":311189,"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":9,"rank":[4,18],"deck":{"archetype":"Azorius Omniscience","colors":"WU","type":"Combo"},"match_record":"3-1-0","game_record":"7-2-0"},
+    {"id":117232,"date":"2024-07-04","format":"pioneer","points":9,"rank":[2,16]}
   ]
 }

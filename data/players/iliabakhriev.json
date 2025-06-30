@@ -2,10 +2,11 @@
   "guid": "df8a4cf5-e6c4-461c-adab-b0171072f3f5",
   "id": "iliabakhriev",
   "display_name": "Bakhriev Ilia",
+  "color_stats": {},
   "recent_events": [
-    {"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"7-3-0"},
-    {"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":7,"rank":[4,12],"match_record":"2-1-1","game_record":"5-3-0"},
-    {"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":0,"rank":[11,12],"match_record":"0-3-0","game_record":"3-6-0"},
-    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"7-5-0"}
+    {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":7,"rank":[4,12],"match_record":"2-1-1","game_record":"5-3-0"},
+    {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":0,"rank":[11,12],"match_record":"0-3-0","game_record":"3-6-0"},
+    {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"7-5-0"}
   ]
 }

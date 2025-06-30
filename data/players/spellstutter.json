@@ -2,7 +2,8 @@
   "guid": "3bba4ab7-f840-4645-b6c6-07b14abce4cb",
   "id": "spellstutter",
   "display_name": "Belousov Timophey",
+  "color_stats": {"U":1},
   "recent_events": [
-    {"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-6-0"}
+    {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-6-0"}
   ]
 }

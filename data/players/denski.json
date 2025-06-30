@@ -2,7 +2,8 @@
   "guid": "f1d37087-88a2-4e31-9cce-47cc932146e2",
   "id": "denski",
   "display_name": "Havrylenko Den",
+  "color_stats": {},
   "recent_events": [
-    {"date":"2024-08-15","format":"pioneer","points":3,"rank":[15,17]}
+    {"id":134250,"date":"2024-08-15","format":"pioneer","points":3,"rank":[15,17]}
   ]
 }

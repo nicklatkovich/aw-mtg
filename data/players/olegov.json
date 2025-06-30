@@ -2,8 +2,9 @@
   "guid": "44ea1bf1-d9ce-4664-b0d2-9d02535601df",
   "id": "olegov",
   "display_name": "Olegov Yaroslav",
+  "color_stats": {},
   "recent_events": [
-    {"name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":3,"rank":[4,7]},
-    {"name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[6,12]}
+    {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":3,"rank":[4,7]},
+    {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[6,12]}
   ]
 }

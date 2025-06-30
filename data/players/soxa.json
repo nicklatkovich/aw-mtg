@@ -2,10 +2,11 @@
   "guid": "24c1faab-e93d-4b28-82d5-31b9a6d50411",
   "id": "soxa",
   "display_name": "Lashkin Ilya",
+  "color_stats": {"U":1,"B":0.5,"G":0.5},
   "recent_events": [
-    {"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":4,"rank":[12,17],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},
-    {"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[6,11],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
-    {"date":"2024-12-05","format":"pioneer","points":0,"rank":[16,16]},
-    {"date":"2024-08-29","format":"pioneer","points":3,"rank":[13,14]}
+    {"id":307313,"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":4,"rank":[12,17],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},
+    {"id":303479,"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[6,11],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
+    {"id":204715,"date":"2024-12-05","format":"pioneer","points":0,"rank":[16,16]},
+    {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[13,14]}
   ]
 }

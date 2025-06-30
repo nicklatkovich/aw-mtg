@@ -2,9 +2,10 @@
   "guid": "0016753f-03ae-4d21-87b9-30e12b888192",
   "id": "bezinbaker",
   "display_name": "Klishevich Nikita",
+  "color_stats": {"W":1,"U":1},
   "recent_events": [
-    {"name":"League Standard | Season 11 (7/12)","date":"2025-03-11","format":"standard","points":0,"rank":[17,18]},
-    {"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":0,"rank":[18,21],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}},
-    {"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":0,"rank":[20,22]}
+    {"id":264855,"name":"League Standard | Season 11 (7/12)","date":"2025-03-11","format":"standard","points":0,"rank":[17,18]},
+    {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":0,"rank":[18,21],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}},
+    {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":0,"rank":[20,22]}
   ]
 }

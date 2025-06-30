@@ -2,9 +2,10 @@
   "guid": "631cb171-e442-4a2a-93f0-b2bc3c06b416",
   "id": "nikitap",
   "display_name": "Polevskiy Nikita",
+  "color_stats": {},
   "recent_events": [
-    {"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":12,"rank":[1,12],"match_record":"4-0-0","game_record":"8-3-0"},
-    {"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"4-3-0"},
-    {"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":0,"rank":[10,12],"match_record":"0-2-0","game_record":"1-4-0"}
+    {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":12,"rank":[1,12],"match_record":"4-0-0","game_record":"8-3-0"},
+    {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"4-3-0"},
+    {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":0,"rank":[10,12],"match_record":"0-2-0","game_record":"1-4-0"}
   ]
 }

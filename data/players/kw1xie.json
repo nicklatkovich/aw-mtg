@@ -2,17 +2,18 @@
   "guid": "1b1fa269-4fe0-46a4-b6d8-037f4b42baa8",
   "id": "kw1xie",
   "display_name": "Selivonchyk Mikalai",
+  "color_stats": {},
   "recent_events": [
-    {"date":"2024-08-15","format":"pioneer","points":12,"rank":[1,17]},
-    {"date":"2024-08-01","format":"pioneer","points":12,"rank":[1,13]},
-    {"date":"2024-07-25","format":"pioneer","points":6,"rank":[8,13]},
-    {"date":"2024-07-18","format":"pioneer","points":10,"rank":[3,21]},
-    {"date":"2024-07-04","format":"pioneer","points":6,"rank":[9,16]},
-    {"date":"2024-06-27","format":"pioneer","points":6,"rank":[7,14]},
-    {"date":"2024-06-20","format":"pioneer","points":9,"rank":[2,12]},
-    {"date":"2024-06-06","format":"pioneer","points":9,"rank":[2,14]},
-    {"date":"2024-05-09","format":"pioneer","points":9,"rank":[4,12]},
-    {"date":"2024-05-02","format":"pioneer","points":9,"rank":[2,12]},
-    {"date":"2024-04-25","format":"pioneer","points":6,"rank":[8,12]}
+    {"id":134250,"date":"2024-08-15","format":"pioneer","points":12,"rank":[1,17]},
+    {"id":126622,"date":"2024-08-01","format":"pioneer","points":12,"rank":[1,13]},
+    {"id":124355,"date":"2024-07-25","format":"pioneer","points":6,"rank":[8,13]},
+    {"id":121447,"date":"2024-07-18","format":"pioneer","points":10,"rank":[3,21]},
+    {"id":117232,"date":"2024-07-04","format":"pioneer","points":6,"rank":[9,16]},
+    {"id":114234,"date":"2024-06-27","format":"pioneer","points":6,"rank":[7,14]},
+    {"id":110597,"date":"2024-06-20","format":"pioneer","points":9,"rank":[2,12]},
+    {"id":102802,"date":"2024-06-06","format":"pioneer","points":9,"rank":[2,14]},
+    {"id":91514,"date":"2024-05-09","format":"pioneer","points":9,"rank":[4,12]},
+    {"id":89303,"date":"2024-05-02","format":"pioneer","points":9,"rank":[2,12]},
+    {"id":86794,"date":"2024-04-25","format":"pioneer","points":6,"rank":[8,12]}
   ]
 }
