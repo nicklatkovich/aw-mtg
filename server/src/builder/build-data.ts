@@ -21,6 +21,7 @@ export async function buildData() {
   "guid": "${dto.guid}",
   "id": "${dto.id}",
   "display_name": "${dto.display_name}",
+  "color_stats": ${JSON.stringify(dto.color_stats)},
   "recent_events": [
     ${dto.recent_events.map((e) => JSON.stringify(e)).join(',\n    ')}
   ]

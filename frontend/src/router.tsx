@@ -7,6 +7,7 @@ import SummerLeague2025 from './pages/SummerLeague2025';
 import Players from './pages/Players';
 import NotFound from './pages/NotFound';
 import TournamentPage from './pages/TournamentPage';
+import PlayerPage from './pages/PlayerPage';
 
 const router = createHashRouter([
   {
@@ -20,6 +21,7 @@ const router = createHashRouter([
       { path: '/summer-league-2025', element: <SummerLeague2025 /> },
       { path: '/players', element: <Players /> },
       { path: '/event/:id', element: <TournamentPage /> },
+      { path: '/player/:id', element: <PlayerPage /> },
       { path: '/*', element: <NotFound /> },
     ],
   },

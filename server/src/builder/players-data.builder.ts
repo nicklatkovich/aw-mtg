@@ -2,7 +2,7 @@ import assert from 'assert';
 import { PlayerDTO, PlayerTournamentDTO } from '@dtos';
 import { playersByGuid, playersByUsername } from '@server/data/players';
 import { allTournaments } from '@server/data';
-import { toDeckDTO } from '@server/data/data.utils';
+import { getDeckColor, toDeckDTO } from '@server/data/data.utils';
 
 export function buildPlayersData(): Map<string, PlayerDTO> {
   const usedIds = new Map<string, string>();
@@ -23,11 +23,18 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
       assert(!dupGuid, `User id duplicate: ${id} ${guid} !== ${dupGuid})`);
     }
     usedIds.set(id, guid);
+    const color_stats_values: Record<string, number> = {};
     const recent_events = allTournaments
       .map<PlayerTournamentDTO | null>((t) => {
         const s = t.standings.find((s) => (playersByUsername[s.player] ?? s.player) === guid);
         if (!s) return null;
+        const colors = [...(getDeckColor(s.deck)?.toUpperCase() ?? '')].filter((c) => 'WUBRG'.includes(c));
+        if (colors.length > 0) {
+          const color_stat_inc = 1 / colors.length;
+          for (const c of colors) color_stats_values[c] = (color_stats_values[c] ?? 0) + color_stat_inc;
+        }
         const result: PlayerTournamentDTO = {
+          id: t.id,
           name: t.name,
           date: t.date,
           format: t.format,
@@ -40,7 +47,11 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
         return result;
       })
       .filter((e): e is NonNullable<typeof e> => !!e);
-    result.set(guid, { display_name, guid, id, recent_events });
+    const max_color_stat_value = Math.max(...Object.values(color_stats_values));
+    const colors_stats = Object.fromEntries(
+      Object.entries(color_stats_values).map(([c, v]) => [c, v / max_color_stat_value]),
+    );
+    result.set(guid, { display_name, guid, id, recent_events, color_stats: colors_stats });
   }
   return result;
 }
