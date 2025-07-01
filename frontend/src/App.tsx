@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <main style={{ padding: '1rem' }}>
+      <main>
         <Outlet />
       </main>
     </>

@@ -1,6 +1,7 @@
 import { PlayerDTO } from '@dtos';
 import DeckComponent from '@frontend/components/Deck/DeckComponent';
 import FormatComponent from '@frontend/components/FormatComponent';
+import { GridCell, TruncatableGridCell } from '@frontend/components/GridCell';
 import { WithJsonData } from '@frontend/components/WithJsonDataComponent';
 import { Link } from 'react-router-dom';
 import { useParams } from 'react-router-dom';
@@ -58,7 +59,9 @@ export default function PlayerPage() {
               <h2>Events</h2>
               <div
                 className="grid-table"
-                style={{ gridTemplateColumns: Array.from({ length: 8 }, () => 'auto').join(' ') }}
+                style={{
+                  gridTemplateColumns: ['minmax(0, 1fr)', ...Array.from({ length: 7 }, () => 'auto')].join(' '),
+                }}
               >
                 <div style={{ display: 'contents' }}>
                   <div className="cell">Name</div>
@@ -73,20 +76,22 @@ export default function PlayerPage() {
                 {data.recent_events.map((t) => (
                   // FIXME: key
                   <Link style={{ display: 'contents' }} key={t.date} to={`/event/${t.id}`}>
-                    <div className="left cell">{t.name ?? `Event #${t.id}`}</div>
-                    <div className="cell">{t.date}</div>
-                    <div className="cell">
+                    <TruncatableGridCell left title={t.name}>
+                      <span>{t.name ?? `Event #${t.id}`}</span>
+                    </TruncatableGridCell>
+                    <GridCell>{t.date}</GridCell>
+                    <GridCell>
                       <FormatComponent value={t.format} />
-                    </div>
-                    <div className="cell">{t.points}</div>
-                    <div className="cell">
+                    </GridCell>
+                    <GridCell>{t.points}</GridCell>
+                    <GridCell>
                       {t.rank[0]} / {t.rank[1]}
-                    </div>
-                    <div className="left cell">
+                    </GridCell>
+                    <TruncatableGridCell left title={t.deck?.archetype}>
                       <DeckComponent deck={t.deck} />
-                    </div>
-                    <div className="cell">{t.match_record}</div>
-                    <div className="cell">{t.game_record}</div>
+                    </TruncatableGridCell>
+                    <GridCell>{t.match_record}</GridCell>
+                    <GridCell>{t.game_record}</GridCell>
                   </Link>
                 ))}
               </div>

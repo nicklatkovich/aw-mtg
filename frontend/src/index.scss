@@ -30,7 +30,7 @@ body {
   overflow-y: scroll;
   margin: 0;
   display: flex;
-  min-width: 320px;
+  min-width: $min-width;
   min-height: calc(100vh - $header-size);
   padding-top: $header-size; /* Reserve space for fixed header */
 }
@@ -59,7 +59,16 @@ h2 {
       align-items: center;
       justify-content: center;
       padding: 4px 8px;
-      min-height: 36px;
+      height: 36px;
+
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+
+      &.is-truncated span {
+        mask-image: linear-gradient(to right, black 80%, transparent);
+      }
+
       &.left {
         justify-content: left;
       }
