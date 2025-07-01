@@ -1,4 +1,5 @@
 [
+  {"id":334010,"format":"standard","date":"2025-07-01","name":"Summer League 2025 | Standard #5","players_count":13,"winner":{"player":{"display_name":"Bondarchik Andrei","id":"omgprofunny"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":330422,"format":"pioneer","date":"2025-06-26","name":"Summer League 2025 | Pioneer #4","players_count":12,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":330427,"format":"pauper","date":"2025-06-25","name":"Summer League 2025 | Pauper #4","players_count":19,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"}}},
   {"id":330421,"format":"standard","date":"2025-06-24","name":"Summer League 2025 | Standard #4","players_count":14,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"}}},

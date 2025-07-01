@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"W":0.3406593406593405,"B":0.5054945054945053,"R":0.5824175824175821,"G":0.07692307692307689},
+  "color_stats": {"U":1,"B":0.5212765957446807,"W":0.32978723404255306,"R":0.5638297872340423,"G":0.07446808510638295},
   "recent_events": [
+    {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":9,"rank":[5,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":9,"rank":[1,14],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[4,5],"deck":{"archetype":"Mardu Energy","colors":"WBR","type":"Aggro"}},
