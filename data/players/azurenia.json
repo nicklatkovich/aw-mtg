@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"B":0.6631578947368423,"G":1,"U":0.9473684210526315,"R":0.8315789473684211,"W":0.22105263157894744},
+  "color_stats": {"B":0.6767676767676769,"R":0.8383838383838382,"G":1,"U":0.909090909090909,"W":0.21212121212121215},
   "recent_events": [
+    {"id":334536,"name":"Summer League 2025 | Pauper #5","date":"2025-07-02","format":"pauper","points":6,"rank":[8,14],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":9,"rank":[4,13],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":6,"rank":[6,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":12,"rank":[1,19],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"4-0-0","game_record":"8-0-0"},

@@ -2,8 +2,9 @@
   "guid": "824039fa-f433-42e7-845c-7c0fd61a21c2",
   "id": "vorotinskyv",
   "display_name": "Vorotinsky Vitaliy",
-  "color_stats": {"R":1,"U":0.009302325581395349,"B":0.023255813953488372,"G":0.1116279069767442,"W":0.02790697674418605},
+  "color_stats": {"R":1,"U":0.00904977375565611,"B":0.02262443438914027,"G":0.10859728506787332,"W":0.02714932126696833},
   "recent_events": [
+    {"id":334536,"name":"Summer League 2025 | Pauper #5","date":"2025-07-02","format":"pauper","points":3,"rank":[10,14],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":9,"rank":[3,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[14,19],"deck":{"archetype":"Mono-Red Bushwhacker","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":0,"rank":[12,12],"match_record":"0-1-0","game_record":"0-2-0"},

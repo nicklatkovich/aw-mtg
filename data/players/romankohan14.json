@@ -2,8 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"U":0.07843137254901959,"B":0.13725490196078433,"R":1,"W":0.2549019607843137,"G":0.17647058823529413},
+  "color_stats": {"W":0.2941176470588235,"U":0.07843137254901959,"B":0.13725490196078433,"R":1,"G":0.17647058823529413},
   "recent_events": [
+    {"id":334536,"name":"Summer League 2025 | Pauper #5","date":"2025-07-02","format":"pauper","points":9,"rank":[3,14],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":9,"rank":[2,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":12,"rank":[2,19],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-2-0","game_record":"1-4-0"},
