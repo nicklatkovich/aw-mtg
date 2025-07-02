@@ -7,6 +7,7 @@ export const ARCHETYPES = {
   // c
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
+  'Mono-White Weenie': ['W', DeckType.AGGRO],
   // WU
   'Azorius Control': ['WU', DeckType.CONTROL],
   'Azorius Spirits': ['WU', DeckType.TEMPO],
@@ -38,6 +39,7 @@ export const ARCHETYPES = {
   'Death and Taxes': 'WB',
   'Orzhov Blade': 'WB',
   'Orzhov Deadguy Ale': 'WB',
+  'Orzhov Gates': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -60,6 +62,7 @@ export const ARCHETYPES = {
   'Boros Bully': 'WR',
   'Boros Energy': ['WR', DeckType.AGGRO],
   'Boros Burn': ['WR', DeckType.AGGRO],
+  'Boros Weenie': ['WR', DeckType.AGGRO],
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -90,6 +93,7 @@ export const ARCHETYPES = {
   'Grixis Madness Burn': 'UBR',
   'Grixis Control': ['UBR', DeckType.CONTROL],
   'Grixis Midrange': ['UBR', DeckType.MIDRANGE],
+  'Grixis Cycle Storm': ['UBR', DeckType.COMBO],
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -163,6 +167,7 @@ export const ARCHETYPES = {
   'Domain Control': ['WUBRG', DeckType.CONTROL],
   'Domain Zoo': ['WUBRG', DeckType.MIDRANGE],
   'Ephemerate Tron': 'WUBRG',
+  'Cycle Storm': ['WUBRG', DeckType.COMBO],
 } as const;
 
 _assertType<{ readonly [name: string]: ArchetypeInfo }>(ARCHETYPES);
