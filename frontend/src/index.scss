@@ -31,8 +31,9 @@ body {
   margin: 0;
   display: flex;
   min-width: $min-width;
-  min-height: calc(100vh - $header-size);
+  min-height: calc(100vh - $header-size - 32px);
   padding-top: $header-size; /* Reserve space for fixed header */
+  padding-bottom: 32px;
 }
 
 h1 {

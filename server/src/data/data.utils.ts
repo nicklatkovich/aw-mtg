@@ -8,6 +8,11 @@ export function getArchetypeInfo(archetype: string): ArchetypeInfo | null {
   return (ARCHETYPES as Record<string, ArchetypeInfo | undefined>)[archetype] ?? null;
 }
 
+export function getDeckArchetypeStrict(deck?: Deck | null): DeckArchetype | null {
+  if (!deck) return null;
+  return typeof deck === 'string' ? deck : (deck.archetype ?? null);
+}
+
 export function getDeckArchetype(deck?: Deck | null): string | null {
   if (!deck) return null;
   return typeof deck === 'string' ? deck : (deck.name ?? deck.archetype ?? null);
@@ -29,6 +34,8 @@ export function getDeckType(deck?: Deck | null): string | null {
   return !info || typeof info === 'string' ? null : (info[1] ?? null);
 }
 
+export function toDeckDTO(deck: Deck): DeckDTO;
+export function toDeckDTO(deck?: Deck | null): DeckDTO | null;
 export function toDeckDTO(deck?: Deck | null): DeckDTO | null {
   if (!deck) return null;
   return { archetype: getDeckArchetype(deck), colors: getDeckColor(deck), type: getDeckType(deck) };
