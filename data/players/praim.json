@@ -1,0 +1,9 @@
+{
+  "guid": "259361a8-d433-409f-932b-c0b1afcca9c9",
+  "id": "praim",
+  "display_name": "Motovilov Andrey",
+  "color_stats": {"W":1,"U":1},
+  "recent_events": [
+    {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":4,"rank":[10,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"}
+  ]
+}
