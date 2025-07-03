@@ -27,11 +27,12 @@ export default function PlayerPage() {
                 <h1>{data.display_name}</h1>
                 <div
                   style={{
-                    marginLeft: 32,
+                    margin: 32,
                     display: 'flex',
                     justifyContent: 'start',
                     alignItems: 'end',
-                    border: 'solid 2px #babed8',
+                    border: 'solid #babed8 0',
+                    borderBottomWidth: 2,
                     // backgroundColor: 'grey',
                     width: COLOR_STATS_BAR_WIDTH * 5,
                     height: COLOR_STATS_BAR_HEIGHT,
@@ -42,7 +43,7 @@ export default function PlayerPage() {
                       key={c}
                       style={{
                         width: '20%',
-                        height: `${Math.round(v * 100)}%`,
+                        height: v < 0.07 ? 0 : `${Math.round(v * 100)}%`,
                         backgroundColor: {
                           W: 'white',
                           U: 'blue',
@@ -50,6 +51,7 @@ export default function PlayerPage() {
                           R: 'red',
                           G: 'green',
                         }[c],
+                        boxShadow: 'inset #babed8 0 0 0 2px, #babed8 0 0 16px 2px',
                       }}
                     />
                   ))}
