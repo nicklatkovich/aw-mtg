@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"W":0.9805825242718448,"U":0.9805825242718448,"R":0.9320388349514562,"G":1,"B":0.06796116504854367},
+  "color_stats": {"W":1,"R":0.9532710280373831,"U":0.9439252336448598,"G":0.9626168224299064,"B":0.06542056074766353},
   "recent_events": [
+    {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":3,"rank":[10,14],"deck":{"archetype":"Boros Burn","colors":"WR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":6,"rank":[5,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":6,"rank":[6,13],"deck":{"archetype":"Gruul Resonance","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":3,"rank":[12,12],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
