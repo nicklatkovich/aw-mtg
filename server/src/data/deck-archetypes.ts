@@ -94,10 +94,12 @@ export const ARCHETYPES = {
   'Grixis Control': ['UBR', DeckType.CONTROL],
   'Grixis Midrange': ['UBR', DeckType.MIDRANGE],
   'Grixis Cycle Storm': ['UBR', DeckType.COMBO],
+  'Grixis Hidetsugu Combo': ['UBR', DeckType.COMBO],
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
   'Sultai Reanimator': ['UBG', DeckType.COMBO],
+  'Sultai Dragons': ['UBG', DeckType.CONTROL],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],

@@ -106,6 +106,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '390a1168-bacc-45b8-9cf5-439a2018c5bf': ['Tkachenko Mikhail', { id: 'tkachenko' }],
   'b1084213-5f4d-46dc-8d7f-569b3aca266c': ['Prudkevich Vlad', { id: 'prudkevich' }],
   '259361a8-d433-409f-932b-c0b1afcca9c9': 'Motovilov Andrey',
+  '8d9259b5-6373-4dc7-8282-d1847d935e42': 'Moiseenko Pavel',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -219,4 +220,5 @@ export const playersByUsername: { [username in string]?: string } = {
   AntonG: '7a325eaf-159d-4806-9b32-8b19c4ae0de0',
   SasK3: '037e76b0-88c8-4458-94a8-d63c2f9a8155',
   praim: '259361a8-d433-409f-932b-c0b1afcca9c9',
+  ykcyc: '8d9259b5-6373-4dc7-8282-d1847d935e42',
 };
