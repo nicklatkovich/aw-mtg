@@ -16,6 +16,7 @@ export const ARCHETYPES = {
   'Azorius Oculus': ['WU', DeckType.MIDRANGE],
   'Azorius Ensoul': ['WU', DeckType.AGGRO],
   'Azorius Artifacts': ['WU', DeckType.MIDRANGE],
+  'Azorius Familiar': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -143,6 +144,7 @@ export const ARCHETYPES = {
   'Mono-Red Goblins': ['R', DeckType.AGGRO],
   'Mono-Red Burn': ['R', DeckType.AGGRO],
   'Mono-Red Bushwhacker': ['R', DeckType.AGGRO],
+  'Mono-Red Synthesizer': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
