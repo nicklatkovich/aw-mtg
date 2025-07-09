@@ -1,4 +1,5 @@
 [
+  {"id":337407,"format":"pauper","date":"2025-07-09","name":"Summer League 2025 | Pauper #6","players_count":18,"winner":{"player":{"display_name":"Guretsky Andrey","id":"andreyg"},"deck":{"archetype":"Orzhov Gates","colors":"WB","type":null}}},
   {"id":337405,"format":"standard","date":"2025-07-08","name":"Summer League 2025 | Standard #6","players_count":14,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"}}},
   {"id":335125,"format":"pioneer","date":"2025-07-03","name":"Summer League 2025 | Pioneer #5","players_count":14,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"}}},
   {"id":334536,"format":"pauper","date":"2025-07-02","name":"Summer League 2025 | Pauper #5","players_count":14,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"}}},

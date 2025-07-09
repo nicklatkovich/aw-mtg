@@ -2,8 +2,9 @@
   "guid": "16f3ca52-6de4-4ad0-9217-345bde3c0312",
   "id": "polr",
   "display_name": "Romanenko Polina",
-  "color_stats": {"U":1,"B":0.10256410256410256,"R":0.10256410256410256,"G":0.10256410256410256,"W":0.038461538461538464},
+  "color_stats": {"U":1,"B":0.08602150537634408,"R":0.08602150537634408,"G":0.08602150537634408,"W":0.03225806451612903},
   "recent_events": [
+    {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":3,"rank":[13,18],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":6,"rank":[7,19],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":6,"rank":[7,18],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":4,"rank":[10,14],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-6-0"},

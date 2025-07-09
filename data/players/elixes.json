@@ -2,8 +2,9 @@
   "guid": "1323794b-87dc-48c1-9d90-0880bd436373",
   "id": "elixes",
   "display_name": "Basay Vasiliy",
-  "color_stats": {"W":0.3648648648648649,"U":0.2027027027027027,"B":0.3648648648648649,"G":0.5,"R":1},
+  "color_stats": {"U":0.24358974358974356,"B":0.3974358974358974,"R":1,"W":0.34615384615384615,"G":0.47435897435897434},
   "recent_events": [
+    {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":3,"rank":[14,18],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":328637,"name":"Summer League 2025 | Pioneer #3","date":"2025-06-19","format":"pioneer","points":0,"rank":[13,13],"deck":{"archetype":"Bogles","colors":"WUBG","type":"Aggro"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":6,"rank":[11,18],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},

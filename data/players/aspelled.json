@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"U":0.9215686274509803,"B":0.392156862745098,"W":0.4117647058823529,"R":1,"G":0.6862745098039216},
+  "color_stats": {"W":0.47058823529411764,"U":0.980392156862745,"B":0.392156862745098,"R":1,"G":0.6862745098039216},
   "recent_events": [
+    {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":10,"rank":[2,18],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"3-0-1","game_record":"7-2-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":9,"rank":[2,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":9,"rank":[3,13],"deck":{"archetype":"Jeskai Oculus","colors":"WUR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":6,"rank":[8,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},

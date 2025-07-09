@@ -2,8 +2,9 @@
   "guid": "a7892ae0-6591-4760-a40d-9444a1f58812",
   "id": "4onoki",
   "display_name": "Plisko Ihar",
-  "color_stats": {"W":1,"G":0.7567567567567566,"R":0.8648648648648648,"U":0.16216216216216214,"B":0.29729729729729726},
+  "color_stats": {"W":1,"R":0.8749999999999999,"G":0.6999999999999998,"U":0.15,"B":0.27499999999999997},
   "recent_events": [
+    {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":6,"rank":[8,18],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":7,"rank":[6,14],"deck":{"archetype":"Selesnya Cage","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":6,"rank":[8,14],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":334536,"name":"Summer League 2025 | Pauper #5","date":"2025-07-02","format":"pauper","points":1,"rank":[14,14],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"0-3-1","game_record":"3-7-1"},
