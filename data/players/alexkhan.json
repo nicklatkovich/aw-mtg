@@ -2,8 +2,9 @@
   "guid": "5188dedb-3c53-4644-ac45-73b99669b87b",
   "id": "alexkhan",
   "display_name": "Khan Alex",
-  "color_stats": {"W":1,"G":0.8888888888888888,"U":0.1111111111111111},
+  "color_stats": {"W":1,"G":0.9,"U":0.1},
   "recent_events": [
+    {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":9,"rank":[6,22],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":10,"rank":[2,14],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":312488,"name":"Daily | Pioneer (22.05)","date":"2025-05-22","format":"pioneer","points":4,"rank":[7,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":307291,"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":4,"rank":[11,15],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-6-0"},
