@@ -41,6 +41,7 @@ export const ARCHETYPES = {
   'Orzhov Blade': 'WB',
   'Orzhov Deadguy Ale': 'WB',
   'Orzhov Gates': 'WB',
+  'Orzhov Monument': ['WB', DeckType.COMBO],
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -89,6 +90,7 @@ export const ARCHETYPES = {
   'Dimir Ninjas': ['UB', DeckType.TEMPO],
   'Dimir Faeries': ['UB', DeckType.TEMPO],
   'Dimir Oculus': ['UB', DeckType.MIDRANGE],
+  'Dimir Mill Combo': ['UB', DeckType.COMBO],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -106,6 +108,7 @@ export const ARCHETYPES = {
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
   'Izzet Aggro': ['UR', DeckType.AGGRO],
   'Izzet Otters': ['UR', DeckType.AGGRO],
+  'Izzet Vivi': ['UR', DeckType.TEMPO],
   // URG
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
