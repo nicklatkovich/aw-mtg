@@ -6,5 +6,6 @@ export enum Format {
   LEGACY = 'legacy',
   PREMODERN = 'premodern',
   DRAFT = 'draft',
+  SEALED = 'sealed',
   COMMANDER = 'commander',
 }

@@ -3,6 +3,30 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_commander: Tournament[] = [
   {
+    id: 'c250627',
+    format: Format.COMMANDER,
+    name: 'Summer League 2025 | Commander #3 (Tribal)',
+    date: '2025-06-27',
+    standings: [
+      { rank: 1, player: '46d4ca5f-1d44-47da-9be8-414af89faf15' /* Bontsevich Gleb */, deck: { name: 'Dinosaur Tribal' }, points: 12 },
+      { rank: 2, player: 'Prokis', deck: { name: 'Beast Tribal' }, points: 9 },
+      { rank: 3, player: '6924b43a-3d96-48c4-ba76-d9618bc920ea' /* Gulenkov Egor */, deck: { name: 'Vampire Tribal' }, points: 9 },
+      { rank: 4, player: 'e639966a-37b7-424f-8b74-3d82bd133879' /* Levdansky Alexander */, deck: { name: 'Dragon Tribal' }, points: 9 },
+      { rank: 5, player: '1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed' /* Khvin Alexander */, deck: { name: 'Merfolk Tribal' }, points: 6 },
+      { rank: 6, player: '390a1168-bacc-45b8-9cf5-439a2018c5bf' /* Tkachenko Mikhail */, deck: { name: 'Rogue Tribal' }, points: 6 },
+      { rank: 7, player: 'Eugheni', deck: { name: 'Vampire Tribal' }, points: 6 },
+      { rank: 8, player: 'McRais', deck: { name: 'Soldier Tribal' }, points: 6 },
+      { rank: 9, player: 'Sutko', deck: { name: 'Elf Tribal' }, points: 3 },
+      { rank: 10, player: 'abbff07f-ef92-498f-8cc8-ca3b61169ad9' /* Polevikov Aleksandr */, deck: { name: 'Elf Tribal' }, points: 3 },
+      { rank: 11, player: '607e01c3-b538-43fa-adc7-5a7581bd5bb4' /* Shantar Vlad */, deck: { name: 'Vampire Tribal' }, points: 3 },
+      { rank: 12, player: 'e6d28df5-a35e-434f-87f0-4be11c9b9079' /* Andrey Pichushkin */, deck: { name: 'Shaman Tribal' }, points: 3 },
+      { rank: 13, player: 'DraA', deck: { name: 'Goblin Tribal' }, points: 0 },
+      { rank: 14, player: '44ea1bf1-d9ce-4664-b0d2-9d02535601df' /* Olegov Yaroslav */, deck: { name: 'Goblin Tribal' }, points: 0 },
+      { rank: 15, player: '53a0b738-a093-484e-8905-e9b5e7f98a3d' /* Trukhanovich Makar */, deck: { name: 'Eldrazi Tribal' }, points: 0 },
+      { rank: 16, player: '12393604-d4e2-43a6-90ba-d7a61d229b3c' /* Askerko Andrey */, deck: { name: 'Rogue Tribal' }, points: 0 },
+    ],
+  },
+  {
     id: 'c250621',
     format: Format.COMMANDER,
     name: 'Summer League 2025 | Commander #2 (cEDH)',

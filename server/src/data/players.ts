@@ -107,6 +107,14 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'b1084213-5f4d-46dc-8d7f-569b3aca266c': ['Prudkevich Vlad', { id: 'prudkevich' }],
   '259361a8-d433-409f-932b-c0b1afcca9c9': 'Motovilov Andrey',
   '8d9259b5-6373-4dc7-8282-d1847d935e42': 'Moiseenko Pavel',
+  '9376b10f-6905-4c26-a2b0-b82f57bb03ab': ['Zhigar', { id: 'zhigar' }],
+  'abbff07f-ef92-498f-8cc8-ca3b61169ad9': ['Polevikov Aleksandr', { id: 'polevikov' }],
+  'e6d28df5-a35e-434f-87f0-4be11c9b9079': ['Pichushkin Andrey', { id: 'pichushkin' }],
+  '53a0b738-a093-484e-8905-e9b5e7f98a3d': ['Trukhanovich Makar', { id: 'trukhanovich' }],
+  '12393604-d4e2-43a6-90ba-d7a61d229b3c': ['Askerko Andrey', { id: 'askerko' }],
+  'f129a4a3-03c7-4771-8637-308d6a856477': 'Zmachynski Aleh',
+  '113cbf9d-f743-41a0-9e60-0350d78d0d32': 'Melnik Kirill',
+  '8451e35b-7a12-4241-8e4a-08729fadfc83': 'Bondar Dmitry',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -221,4 +229,8 @@ export const playersByUsername: { [username in string]?: string } = {
   SasK3: '037e76b0-88c8-4458-94a8-d63c2f9a8155',
   praim: '259361a8-d433-409f-932b-c0b1afcca9c9',
   ykcyc: '8d9259b5-6373-4dc7-8282-d1847d935e42',
+  SVETLYK: 'f129a4a3-03c7-4771-8637-308d6a856477',
+  KirillM: '113cbf9d-f743-41a0-9e60-0350d78d0d32',
+  DmiB: '8451e35b-7a12-4241-8e4a-08729fadfc83',
+  EugB2: '11201119-6296-4f7b-bf08-c97364f1e99a',
 };
