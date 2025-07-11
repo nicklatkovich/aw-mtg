@@ -4,6 +4,7 @@
   "display_name": "Rapanovich Yauhen",
   "color_stats": {"U":0.6153846153846153,"B":1,"G":1,"R":0.6153846153846153,"W":0.23076923076923078},
   "recent_events": [
+    {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":6,"rank":[3,5],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":324254,"name":"Summer League 2025 | Legacy #1","date":"2025-06-15","format":"legacy","points":6,"rank":[5,7],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[2,12],"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":0,"rank":[16,17],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"}},

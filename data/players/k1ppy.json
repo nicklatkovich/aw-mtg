@@ -5,6 +5,7 @@
   "color_stats": {"W":0.2201834862385321,"U":0.03669724770642202,"B":0.03669724770642202,"R":1,"G":0.3577981651376147},
   "recent_events": [
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":9,"rank":[4,22],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":12,"rank":[1,5],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":6,"rank":[11,19],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":9,"rank":[2,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},

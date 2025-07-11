@@ -4,6 +4,8 @@
   "display_name": "Gulenkov Egor",
   "color_stats": {},
   "recent_events": [
+    {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":9,"rank":[3,16],"deck":{"archetype":"Vampire Tribal","colors":null,"type":null}},
+    {"id":"sl250621","name":"Summer League 2025 | Sealed #1","date":"2025-06-21","format":"sealed","points":0,"rank":[10,10]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":3,"rank":[10,12]}
   ]
 }

@@ -4,6 +4,7 @@
   "display_name": "Smoktunovich Kirill",
   "color_stats": {"B":1,"R":0.8548387096774194,"W":0.03225806451612903,"G":0.14516129032258066},
   "recent_events": [
+    {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":0,"rank":[12,12],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":3,"rank":[7,12],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":328637,"name":"Summer League 2025 | Pioneer #3","date":"2025-06-19","format":"pioneer","points":9,"rank":[2,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},

@@ -4,6 +4,7 @@
   "display_name": "Shantar Vlad",
   "color_stats": {},
   "recent_events": [
+    {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[11,16],"deck":{"archetype":"Vampire Tribal","colors":null,"type":null}},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":3,"rank":[8,12]}
   ]
 }

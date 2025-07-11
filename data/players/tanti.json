@@ -4,6 +4,7 @@
   "display_name": "Charniauski Mikita",
   "color_stats": {"U":1,"B":1,"R":1,"W":0.23076923076923078,"G":0.23076923076923078},
   "recent_events": [
+    {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":9,"rank":[2,5],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":12,"rank":[1,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}

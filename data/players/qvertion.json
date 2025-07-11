@@ -12,6 +12,7 @@
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":9,"rank":[1,14],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[4,5],"deck":{"archetype":"Mardu Energy","colors":"WBR","type":"Aggro"}},
+    {"id":"sl250621","name":"Summer League 2025 | Sealed #1","date":"2025-06-21","format":"sealed","points":4,"rank":[7,10]},
     {"id":328637,"name":"Summer League 2025 | Pioneer #3","date":"2025-06-19","format":"pioneer","points":6,"rank":[7,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":327452,"name":"Summer League 2025 | Standard #3","date":"2025-06-17","format":"standard","points":9,"rank":[3,15],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
