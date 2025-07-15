@@ -17,6 +17,7 @@ export const ARCHETYPES = {
   'Azorius Ensoul': ['WU', DeckType.AGGRO],
   'Azorius Artifacts': ['WU', DeckType.MIDRANGE],
   'Azorius Familiar': 'WU',
+  'Azorius Convoke': ['WU', DeckType.AGGRO],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -28,6 +29,7 @@ export const ARCHETYPES = {
   'Jeskai Monument': ['WUR', DeckType.MIDRANGE],
   'Jeskai Control': ['WUR', DeckType.CONTROL],
   'Jeskai Solution': ['WUR', DeckType.MIDRANGE],
+  'Jeskai Convoke': ['WUR', DeckType.AGGRO],
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
