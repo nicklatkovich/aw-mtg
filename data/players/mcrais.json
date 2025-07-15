@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"W":0.6328671328671328,"U":0.8951048951048949,"B":1,"R":0.12587412587412586,"G":0.07342657342657342},
+  "color_stats": {"W":0.6452702702702701,"U":0.8986486486486485,"B":1,"R":0.12162162162162161,"G":0.07094594594594594},
   "recent_events": [
+    {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":9,"rank":[6,17],"deck":{"archetype":"Esper Oculus","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":0,"rank":[22,22],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":6,"rank":[8,16],"deck":{"archetype":"Soldier Tribal","colors":null,"type":null}},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":6,"rank":[6,14],"deck":{"archetype":"Dimir Doomsday","colors":"UB","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},

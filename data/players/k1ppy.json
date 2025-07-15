@@ -2,8 +2,9 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"W":0.2201834862385321,"U":0.03669724770642202,"B":0.03669724770642202,"R":1,"G":0.3577981651376147},
+  "color_stats": {"U":0.05963302752293577,"B":0.05963302752293577,"W":0.2201834862385321,"R":1,"G":0.3577981651376147},
   "recent_events": [
+    {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[8,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":9,"rank":[4,22],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":12,"rank":[1,5],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
