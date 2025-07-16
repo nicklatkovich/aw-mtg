@@ -1,0 +1,10 @@
+{
+  "guid": "b1084213-5f4d-46dc-8d7f-569b3aca266c",
+  "id": "prudya",
+  "display_name": "Prudnikovich Vladislav",
+  "color_stats": {"B":1,"R":1,"G":1},
+  "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[19,25],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"1-3-0","game_record":"2-6-0"},
+    {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[6,7]}
+  ]
+}

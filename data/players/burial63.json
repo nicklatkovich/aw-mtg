@@ -2,8 +2,9 @@
   "guid": "00c53649-c5aa-4bed-a147-35396f52ec60",
   "id": "burial63",
   "display_name": "Burankou Aliaksei",
-  "color_stats": {"U":0.8823529411764706,"B":1,"R":0.47058823529411764,"G":0.7058823529411765},
+  "color_stats": {"U":0.9411764705882353,"G":0.7647058823529411,"B":1,"R":0.47058823529411764},
   "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[13,25],"deck":{"archetype":"Simic Elves","colors":"UG","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":3,"rank":[16,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":6,"rank":[8,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":3,"rank":[9,13],"deck":{"archetype":"Rakdos Lizards","colors":"BR","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},

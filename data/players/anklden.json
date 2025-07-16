@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"W":1,"U":0.6445497630331753,"G":0.8578199052132702,"B":0.81042654028436,"R":0.81042654028436},
+  "color_stats": {"W":1,"G":0.8672566371681416,"U":0.6017699115044248,"B":0.7566371681415928,"R":0.7566371681415928},
   "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[4,25],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":7,"rank":[8,22],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":9,"rank":[5,18],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":9,"rank":[4,14],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"7-3-0"},

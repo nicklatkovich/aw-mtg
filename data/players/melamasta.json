@@ -2,8 +2,9 @@
   "guid": "adeba5e9-a5e4-4c9e-85c9-a09f10acc4af",
   "id": "melamasta",
   "display_name": "Yushkevich Egor",
-  "color_stats": {"R":1,"B":0.3333333333333333,"U":0.3333333333333333,"G":0.3333333333333333},
+  "color_stats": {"U":0.6666666666666666,"R":1,"B":0.3333333333333333,"G":0.3333333333333333},
   "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[18,25],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[16,19],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":0,"rank":[17,18],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":324254,"name":"Summer League 2025 | Legacy #1","date":"2025-06-15","format":"legacy","points":3,"rank":[6,7],"match_record":"1-3-0","game_record":"2-7-0"},

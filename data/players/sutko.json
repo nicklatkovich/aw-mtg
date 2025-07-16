@@ -2,8 +2,9 @@
   "guid": "ff90ac15-5373-4769-9681-a1f23fb04340",
   "id": "sutko",
   "display_name": "Sutko Artem",
-  "color_stats": {"U":0.25,"B":1,"G":1,"W":0.25},
+  "color_stats": {"B":1,"R":0.14285714285714288,"G":1,"U":0.2142857142857143,"W":0.2142857142857143},
   "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[6,25],"deck":{"archetype":"Jund Altar Tron","colors":"BRG","type":null},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":6,"rank":[9,18],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":3,"rank":[7,12],"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[9,16],"deck":{"archetype":"Elf Tribal","colors":null,"type":null}},

@@ -1,9 +1,10 @@
 {
   "guid": "607e01c3-b538-43fa-adc7-5a7581bd5bb4",
-  "id": "shantar",
+  "id": "vlas2",
   "display_name": "Shantar Vlad",
-  "color_stats": {},
+  "color_stats": {"U":1},
   "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[3,25],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[11,16],"deck":{"archetype":"Vampire Tribal","colors":null,"type":null}},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":3,"rank":[8,12]}
   ]

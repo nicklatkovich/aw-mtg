@@ -1,0 +1,9 @@
+{
+  "guid": "499caa9c-a843-4878-8558-d2b79f522761",
+  "id": "yarz",
+  "display_name": "Zalutsky Yaroslav",
+  "color_stats": {"B":1,"R":1,"G":1},
+  "recent_events": [
+    {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":7,"rank":[9,25],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-1-1","game_record":"6-3-0"}
+  ]
+}
