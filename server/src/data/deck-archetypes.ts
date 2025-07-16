@@ -49,6 +49,7 @@ export const ARCHETYPES = {
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
   'Mardu Gates': 'WBR',
   'Mardu Energy': ['WBR', DeckType.AGGRO],
+  'Mardu Synthesizer': 'WBR',
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
@@ -111,6 +112,7 @@ export const ARCHETYPES = {
   'Izzet Aggro': ['UR', DeckType.AGGRO],
   'Izzet Otters': ['UR', DeckType.AGGRO],
   'Izzet Vivi': ['UR', DeckType.TEMPO],
+  'Izzet Skred': 'UR',
   // URG
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
@@ -120,6 +122,7 @@ export const ARCHETYPES = {
   'Simic Artifacts': ['UG', DeckType.AGGRO],
   'Simic Petitioners Combo': ['UG', DeckType.COMBO],
   'Simic Madness': 'UG',
+  'Simic Elves': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -137,6 +140,7 @@ export const ARCHETYPES = {
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
   'Jund Wildfire': ['BRG', DeckType.CONTROL],
+  'Jund Altar Tron': 'BRG',
   // BG
   'Golgari Obliterator': ['BG', DeckType.MIDRANGE],
   'Golgari Aggro': ['BG', DeckType.AGGRO],

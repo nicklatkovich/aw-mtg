@@ -95,16 +95,16 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'ed9526f1-51b3-4060-b1fa-d72b122b0dd7': 'Kostko Evgeniy',
   'cccbc218-96c8-415c-9a22-6153ec9921a2': 'Pilkevich Aleksandr',
   'f919242e-c4df-4d20-b28f-77f3bd5033f6': 'Moroz Egor',
-  '5a1a3197-1193-4637-a2ad-01fe86d05a4e': ['Nabeshko Daniil', { id: 'nabeshko' }],
+  '5a1a3197-1193-4637-a2ad-01fe86d05a4e': 'Nabeshko Daniil',
   'fed69699-d5b2-4c4d-b7b7-7defc3ade796': ['Bliznetsov Daniil', { id: 'bliznetsov' }],
   '1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed': ['Khvin Alexander', { id: 'khvin' }],
   '46d4ca5f-1d44-47da-9be8-414af89faf15': ['Bontsevich Gleb', { id: 'bontsevich' }],
   '44ea1bf1-d9ce-4664-b0d2-9d02535601df': ['Olegov Yaroslav', { id: 'olegov' }],
-  '607e01c3-b538-43fa-adc7-5a7581bd5bb4': ['Shantar Vlad', { id: 'shantar' }],
+  '607e01c3-b538-43fa-adc7-5a7581bd5bb4': 'Shantar Vlad',
   'e639966a-37b7-424f-8b74-3d82bd133879': ['Levdansky Alexander', { id: 'levdansky' }],
   '6924b43a-3d96-48c4-ba76-d9618bc920ea': ['Gulenkov Egor', { id: 'gulenkov' }],
   '390a1168-bacc-45b8-9cf5-439a2018c5bf': ['Tkachenko Mikhail', { id: 'tkachenko' }],
-  'b1084213-5f4d-46dc-8d7f-569b3aca266c': ['Prudkevich Vlad', { id: 'prudkevich' }],
+  'b1084213-5f4d-46dc-8d7f-569b3aca266c': 'Prudnikovich Vladislav',
   '259361a8-d433-409f-932b-c0b1afcca9c9': 'Motovilov Andrey',
   '8d9259b5-6373-4dc7-8282-d1847d935e42': 'Moiseenko Pavel',
   '9376b10f-6905-4c26-a2b0-b82f57bb03ab': ['Zhigar', { id: 'zhigar' }],
@@ -115,6 +115,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'f129a4a3-03c7-4771-8637-308d6a856477': 'Zmachynski Aleh',
   '113cbf9d-f743-41a0-9e60-0350d78d0d32': 'Melnik Kirill',
   '8451e35b-7a12-4241-8e4a-08729fadfc83': 'Bondar Dmitry',
+  '499caa9c-a843-4878-8558-d2b79f522761': 'Zalutsky Yaroslav',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -233,4 +234,9 @@ export const playersByUsername: { [username in string]?: string } = {
   KirillM: '113cbf9d-f743-41a0-9e60-0350d78d0d32',
   DmiB: '8451e35b-7a12-4241-8e4a-08729fadfc83',
   EugB2: '11201119-6296-4f7b-bf08-c97364f1e99a',
+  VlaS2: '607e01c3-b538-43fa-adc7-5a7581bd5bb4',
+  YarZ: '499caa9c-a843-4878-8558-d2b79f522761',
+  Irina_G: '7c778241-33e7-4d77-a062-ef576cfcf669',
+  DanilaNabeshko: '5a1a3197-1193-4637-a2ad-01fe86d05a4e',
+  Prudya: 'b1084213-5f4d-46dc-8d7f-569b3aca266c',
 };
