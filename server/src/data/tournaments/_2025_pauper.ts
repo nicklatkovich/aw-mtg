@@ -21,7 +21,7 @@ export const _2025_pauper: Tournament[] = [
       { player: 'PolR', deck: 'Mono-Blue Faeries', rank: 11, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'Alex88', deck: 'Rakdos Madness Burn', rank: 12, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'BuRial63', deck: 'Simic Elves', rank: 13, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
-      { player: 'Irina_G', deck: 'Gruul Ramp', rank: 14, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Irina_G', deck: 'Gruul Ponza', rank: 14, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
       { player: 'aklshk', deck: 'Mono-Blue Tempo', rank: 15, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
       { player: 'RomanKohan14', deck: 'Mono-White Weenie', rank: 16, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'DanilaNabeshko', deck: 'Izzet Skred', rank: 17, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },

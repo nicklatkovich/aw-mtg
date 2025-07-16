@@ -16,7 +16,8 @@
     "build": "yarn build:dtos && yarn build:client && yarn build:data",
     "build:all": "yarn build && yarn build:server",
     "parse:melee": "ts-node --project server/tsconfig.json --require tsconfig-paths/register server/src/melee/parse-melee-event.ts",
-    "start:server": "node dist/server/start.js"
+    "start:server": "node dist/server/start.js",
+    "start:dev": "concurrently \"yarn dev:server\" \"yarn dev:frontend\""
   },
   "dependencies": {
     "express": "^5.1.0",
@@ -31,6 +32,7 @@
     "@types/react-dom": "^19.1.2",
     "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.4.1",
+    "concurrently": "^9.2.0",
     "eslint": "^9.25.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-import-resolver-typescript": "^4.4.4",
