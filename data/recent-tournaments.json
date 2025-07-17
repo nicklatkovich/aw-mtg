@@ -1,4 +1,5 @@
 [
+  {"id":341304,"format":"pioneer","date":"2025-07-17","name":"Summer League 2025 | Pioneer #7","players_count":15,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":340835,"format":"pauper","date":"2025-07-16","name":"Summer League 2025 | Pauper #7","players_count":25,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"},"deck":{"archetype":"Mardu Synthesizer","colors":"WBR","type":null}}},
   {"id":340482,"format":"standard","date":"2025-07-15","name":"Summer League 2025 | Standard #7","players_count":17,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Sultai Dragons","colors":"UBG","type":"Control"}}},
   {"id":337409,"format":"pioneer","date":"2025-07-10","name":"Summer League 2025 | Pioneer #6","players_count":22,"winner":{"player":{"display_name":"Volotovich Anton","id":"antonv"},"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"}}},
