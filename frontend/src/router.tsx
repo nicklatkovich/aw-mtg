@@ -3,11 +3,11 @@ import App from './App';
 import RecentEventsPage from './pages/RecentEventsPage';
 import StandardLadder from './pages/StandardLadder';
 import SummerLeague2025 from './pages/SummerLeague2025';
-import Players from './pages/Players';
 import NotFound from './pages/NotFound';
 import TournamentPage from './pages/TournamentPage';
 import PlayerPage from './pages/PlayerPage';
 import { PioneerLadder2025 } from './pages/PioneerLadder';
+import PlayersListPage from './pages/PlayersListPage';
 
 const router = createHashRouter([
   {
@@ -19,7 +19,7 @@ const router = createHashRouter([
       { path: '/pioneer-ladder', element: <PioneerLadder2025 /> },
       { path: '/standard-ladder', element: <StandardLadder /> },
       { path: '/summer-league-2025', element: <SummerLeague2025 /> },
-      { path: '/players', element: <Players /> },
+      { path: '/players', element: <PlayersListPage /> },
       { path: '/event/:id', element: <TournamentPage /> },
       { path: '/player/:id', element: <PlayerPage /> },
       { path: '/*', element: <NotFound /> },

@@ -19,4 +19,8 @@ export interface PlayerDTO {
   display_name: string;
   recent_events: PlayerTournamentDTO[];
   color_stats: Record<string, number>; // key = color code (eg.'W','U',etc). value = [0-1]
+  events_count: number;
+  match_played: number;
+  match_wins: number;
+  favorite_format: [Format, percentage: number] | null;
 }

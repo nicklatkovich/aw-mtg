@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { PlayerDTO, PlayerTournamentDTO } from '@dtos';
+import { Format, PlayerDTO, PlayerTournamentDTO } from '@dtos';
 import { playersByGuid, playersByUsername } from '@server/data/players';
 import { allTournaments } from '@server/data';
 import { getDeckColor, toDeckDTO } from '@server/data/data.utils';
@@ -24,6 +24,9 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
     }
     usedIds.set(id, guid);
     const color_stats_values: Record<string, number> = {};
+    const formatStats = new Map<Format, number>();
+    let mp = 0;
+    let mw = 0;
     const recent_events = allTournaments
       .map<PlayerTournamentDTO | null>((t) => {
         const s = t.standings.find((s) => (playersByUsername[s.player] ?? s.player) === guid);
@@ -33,6 +36,19 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
           const color_stat_inc = 1 / colors.length;
           for (const c of colors) color_stats_values[c] = (color_stats_values[c] ?? 0) + color_stat_inc;
         }
+        for (const m of t.rounds?.flat() ?? []) {
+          if ((playersByGuid[m.players[0]] ?? m.players[0] === guid) && m.players[1] !== null) {
+            mp += 1;
+            mw += m.winner === 1 ? 1 : 0;
+          } else if (m.players[1] && (playersByGuid[m.players[1]] ?? m.players[1] === guid)) {
+            mp += 1;
+            mw += m.winner === 2 ? 1 : 0;
+          }
+        }
+        // FIXME: use format from standings (in case of trios tournament)
+        // const format = s.format ?? t.format;
+        const format = t.format;
+        formatStats.set(format, (formatStats.get(format) ?? 0) + 1);
         const result: PlayerTournamentDTO = {
           id: t.id,
           name: t.name,
@@ -51,7 +67,20 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
     const colors_stats = Object.fromEntries(
       Object.entries(color_stats_values).map(([c, v]) => [c, v / max_color_stat_value]),
     );
-    result.set(guid, { display_name, guid, id, recent_events, color_stats: colors_stats });
+    const events_count = recent_events.length;
+    const favorite_format = [...formatStats.entries()].sort((a, b) => b[1] - a[1])[0][0] ?? null;
+    const favorite_format_percentage = events_count > 0 ? (formatStats.get(favorite_format) ?? 0) / events_count : 0;
+    result.set(guid, {
+      display_name,
+      guid,
+      id,
+      recent_events,
+      color_stats: colors_stats,
+      events_count,
+      match_played: mp,
+      match_wins: mw,
+      favorite_format: [favorite_format, favorite_format_percentage],
+    });
   }
   return result;
 }

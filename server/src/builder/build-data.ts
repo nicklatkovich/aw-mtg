@@ -4,6 +4,7 @@ import { buildRecentTournamentsData } from './recent-tournaments.builder';
 import { buildTournamentResults } from './tournament-results.builder';
 import { buildPlayersData } from './players-data.builder';
 import { buildPioneerLadder } from './pioneer-ladder.builder';
+import { buildPlayersList } from './players-list.builder';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -26,7 +27,11 @@ export async function buildData() {
   "color_stats": ${JSON.stringify(dto.color_stats)},
   "recent_events": [
     ${dto.recent_events.map((e) => JSON.stringify(e)).join(',\n    ')}
-  ]
+  ],
+  "events_count": ${dto.events_count},
+  "match_played": ${dto.match_played},
+  "match_wins": ${dto.match_wins},
+  "favorite_format": ${dto.favorite_format ? `["${dto.favorite_format[0]}", ${dto.favorite_format[1]}]` : 'null'}
 }\n`,
       );
     }),
@@ -44,6 +49,12 @@ export async function buildData() {
     Object.entries(tournamentResults).map(async ([id, content]) => {
       await writeFile(path.resolve(TOURNAMENTS_PATH, `${id}.json`), `${JSON.stringify(content)}\n`);
     }),
+  );
+
+  const playersList = buildPlayersList(playersMap);
+  await writeFile(
+    path.resolve(CONTENT_PATH, 'players-list.json'),
+    `[\n  ${playersList.map((item) => JSON.stringify(item)).join(',\n  ')}\n]\n`,
   );
 
   const pioneerLadder = buildPioneerLadder(playersMap);
