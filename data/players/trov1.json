@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"R":1,"W":0.6874999999999998,"U":0.6874999999999998,"B":0.6874999999999998,"G":0.6874999999999998},
+  "color_stats": {"W":0.7169811320754715,"U":0.7169811320754715,"R":1,"B":0.622641509433962,"G":0.622641509433962},
   "recent_events": [
+    {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":10,"rank":[2,20],"deck":{"archetype":"Jeskai Gates","colors":"WUR","type":null},"match_record":"3-0-1","game_record":"7-1-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":12,"rank":[1,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":331797,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-27","format":"draft","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"0-4-0"},

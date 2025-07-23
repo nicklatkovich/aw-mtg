@@ -2,8 +2,10 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"R":0.5391304347826088,"B":0.45217391304347826,"G":0.08695652173913043,"W":0.26956521739130435},
+  "color_stats": {"W":0.28099173553719015,"U":1,"R":0.5371900826446284,"B":0.42975206611570266,"G":0.08264462809917358},
   "recent_events": [
+    {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":9,"rank":[6,20],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"3-1-0","game_record":"6-1-0"},
+    {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":10,"rank":[1,15],"deck":{"archetype":"Izzet Vivi","colors":"UR","type":"Tempo"},"match_record":"3-0-1","game_record":"7-1-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[10,25],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":9,"rank":[5,17],"deck":{"archetype":"Izzet Vivi","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":6,"rank":[14,22],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-6-0"},

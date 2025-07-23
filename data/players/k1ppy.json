@@ -2,8 +2,10 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"W":0.2222222222222222,"U":0.06666666666666665,"B":0.06666666666666665,"R":1,"G":0.37777777777777777},
+  "color_stats": {"R":1,"G":0.41304347826086957,"B":0.08695652173913042,"W":0.21739130434782608,"U":0.06521739130434781},
   "recent_events": [
+    {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":9,"rank":[4,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":9,"rank":[2,15],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":7,"rank":[5,15],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-1-1","game_record":"4-3-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[7,25],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[8,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},

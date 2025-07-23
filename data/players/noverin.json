@@ -2,8 +2,9 @@
   "guid": "cd86c4cf-e4f2-4383-b9d0-5177d891a29a",
   "id": "noverin",
   "display_name": "Novik Misha",
-  "color_stats": {},
+  "color_stats": {"R":1},
   "recent_events": [
+    {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[16,20],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":3,"rank":[10,14]}
   ]
 }
