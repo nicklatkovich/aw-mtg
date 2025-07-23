@@ -116,6 +116,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '113cbf9d-f743-41a0-9e60-0350d78d0d32': 'Melnik Kirill',
   '8451e35b-7a12-4241-8e4a-08729fadfc83': 'Bondar Dmitry',
   '499caa9c-a843-4878-8558-d2b79f522761': 'Zalutsky Yaroslav',
+  'f9b56863-6786-4a5d-a2aa-b8c05fa154ec': 'Blinkou Ilya',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -239,4 +240,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Irina_G: '7c778241-33e7-4d77-a062-ef576cfcf669',
   DanilaNabeshko: '5a1a3197-1193-4637-a2ad-01fe86d05a4e',
   Prudya: 'b1084213-5f4d-46dc-8d7f-569b3aca266c',
+  Mamkalover228: '499caa9c-a843-4878-8558-d2b79f522761',
+  Ilyb: 'f9b56863-6786-4a5d-a2aa-b8c05fa154ec',
 };

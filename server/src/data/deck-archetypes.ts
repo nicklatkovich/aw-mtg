@@ -30,6 +30,7 @@ export const ARCHETYPES = {
   'Jeskai Control': ['WUR', DeckType.CONTROL],
   'Jeskai Solution': ['WUR', DeckType.MIDRANGE],
   'Jeskai Convoke': ['WUR', DeckType.AGGRO],
+  'Jeskai Gates': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -44,6 +45,7 @@ export const ARCHETYPES = {
   'Orzhov Deadguy Ale': 'WB',
   'Orzhov Gates': 'WB',
   'Orzhov Monument': ['WB', DeckType.COMBO],
+  'Orzhov Ketramose': ['WB', DeckType.MIDRANGE],
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -78,6 +80,7 @@ export const ARCHETYPES = {
   'Selesnya Rabbits': ['WG', DeckType.AGGRO],
   'Selesnya Bogles': ['WG', DeckType.AGGRO],
   'Selesnya Angels': ['WG', DeckType.MIDRANGE],
+  'Selesnya Counters': 'WG',
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],
@@ -154,6 +157,7 @@ export const ARCHETYPES = {
   'Mono-Red Burn': ['R', DeckType.AGGRO],
   'Mono-Red Bushwhacker': ['R', DeckType.AGGRO],
   'Mono-Red Synthesizer': 'R',
+  'Mono-Red Madness': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
