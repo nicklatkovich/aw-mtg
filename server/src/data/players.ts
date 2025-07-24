@@ -117,6 +117,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '8451e35b-7a12-4241-8e4a-08729fadfc83': 'Bondar Dmitry',
   '499caa9c-a843-4878-8558-d2b79f522761': 'Zalutsky Yaroslav',
   'f9b56863-6786-4a5d-a2aa-b8c05fa154ec': 'Blinkou Ilya',
+  '79ac47e0-a103-4957-b557-f39d0740474d': 'Kamliuk Stanislav',
+  '572d195e-97c9-4922-9a7c-c3cdd31dac62': 'Kuch Andrey',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -242,4 +244,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Prudya: 'b1084213-5f4d-46dc-8d7f-569b3aca266c',
   Mamkalover228: '499caa9c-a843-4878-8558-d2b79f522761',
   Ilyb: 'f9b56863-6786-4a5d-a2aa-b8c05fa154ec',
+  Raynold: '79ac47e0-a103-4957-b557-f39d0740474d',
+  Toi: '572d195e-97c9-4922-9a7c-c3cdd31dac62',
 };

@@ -46,6 +46,7 @@ export const ARCHETYPES = {
   'Orzhov Gates': 'WB',
   'Orzhov Monument': ['WB', DeckType.COMBO],
   'Orzhov Ketramose': ['WB', DeckType.MIDRANGE],
+  'Orzhov Enchantments': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
