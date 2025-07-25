@@ -6,6 +6,7 @@
   "recent_events": [
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":9,"rank":[3,20],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[17,25],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
+    {"id":335225,"name":"Summer League 2025 | Modern #3","date":"2025-07-06","format":"modern","points":9,"rank":[2,6],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[5,5],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":9,"rank":[1,7]}
   ]

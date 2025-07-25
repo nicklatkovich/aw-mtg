@@ -7,6 +7,7 @@
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[15,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[23,25],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":3,"rank":[16,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"5-7-0"},
+    {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[10,12]},
     {"id":334536,"name":"Summer League 2025 | Pauper #5","date":"2025-07-02","format":"pauper","points":6,"rank":[7,14],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":0,"rank":[13,16],"deck":{"archetype":"Goblin Tribal","colors":null,"type":null}},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"},

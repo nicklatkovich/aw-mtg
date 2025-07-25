@@ -2,8 +2,9 @@
   "guid": "46d4ca5f-1d44-47da-9be8-414af89faf15",
   "id": "bontsevich",
   "display_name": "Bontsevich Gleb",
-  "color_stats": {},
+  "color_stats": {"B":1,"R":1,"G":1},
   "recent_events": [
+    {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":12,"rank":[1,12],"deck":{"archetype":"Graveyard Overdrive","colors":"BRG","type":null}},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":12,"rank":[1,16],"deck":{"archetype":"Dinosaur Tribal","colors":null,"type":null}},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[5,12]}
   ]

@@ -4,6 +4,7 @@
   "display_name": "Pichushkin Andrey",
   "color_stats": {},
   "recent_events": [
+    {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[6,12]},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[12,16],"deck":{"archetype":"Shaman Tribal","colors":null,"type":null}}
   ]
 }
