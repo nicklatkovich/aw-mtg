@@ -119,6 +119,12 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'f9b56863-6786-4a5d-a2aa-b8c05fa154ec': 'Blinkou Ilya',
   '79ac47e0-a103-4957-b557-f39d0740474d': 'Kamliuk Stanislav',
   '572d195e-97c9-4922-9a7c-c3cdd31dac62': 'Kuch Andrey',
+  'f3f15d02-01a0-4754-9ef1-520eafc8540b': 'Zmachynskaya Yelizaveta',
+  '47ea23fe-6e8c-4e6f-8ba3-4f1a06747ffd': 'Garanin Alex',
+  'f8aaf1aa-1e14-4663-b8dd-c78ac5361f14': ['Pikulev Daniil', { id: 'pikulev' }],
+  '631fd7bc-fd14-4de3-ade2-984bd64352b6': ['Vergeichik Kirill', { id: 'vergeichik' }],
+  '906038db-c395-4c01-886b-92e9e1bfcfab': ['Pastushik Pavel', { id: 'pastushik' }],
+  'c6b54f23-d2ed-440a-9f0f-57408f0f820b': ['Simakov Dmitriy', { id: 'simakov' }],
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -246,4 +252,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Ilyb: 'f9b56863-6786-4a5d-a2aa-b8c05fa154ec',
   Raynold: '79ac47e0-a103-4957-b557-f39d0740474d',
   Toi: '572d195e-97c9-4922-9a7c-c3cdd31dac62',
+  PINCHAA: 'f3f15d02-01a0-4754-9ef1-520eafc8540b',
+  GarA: '47ea23fe-6e8c-4e6f-8ba3-4f1a06747ffd',
 };
