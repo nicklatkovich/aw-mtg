@@ -84,7 +84,7 @@ export const ARCHETYPES = {
   'Selesnya Bogles': ['WG', DeckType.AGGRO],
   'Selesnya Angels': ['WG', DeckType.MIDRANGE],
   'Selesnya Counters': 'WG',
-  'Selesnya Maverick': ['WG', DeckType.CONTROL],
+  'Selesnya Depths': ['WG', DeckType.COMBO],
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],

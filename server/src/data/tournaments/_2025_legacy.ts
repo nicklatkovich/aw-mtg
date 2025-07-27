@@ -13,7 +13,7 @@ export const _2025_legacy: Tournament[] = [
       { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
       { player: 'Tanti', rank: 4, deck: 'Domain Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
       { player: 'NickLatkovich', rank: 5, deck: 'Domain Enchantments', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
-      { player: '4onoki', rank: 6, deck: 'Selesnya Maverick', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: '4onoki', rank: 6, deck: 'Selesnya Depths', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
       { player: 'qvertion', rank: 7, deck: 'Cephalid Breakfast', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
       { player: 'ykcyc', rank: 8, deck: 'Mono-Red Prison', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '1-8-0' },
     ],
