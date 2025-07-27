@@ -5,6 +5,7 @@ export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 
 export const ARCHETYPES = {
   // c
+  'Colorless Tron': 'c',
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
@@ -36,6 +37,7 @@ export const ARCHETYPES = {
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
   'Bant Lotus Field': ['WUG', DeckType.COMBO],
   'Bant Bogles': ['WUG', DeckType.AGGRO],
+  'Cephalid Breakfast': ['WUG', DeckType.COMBO],
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
@@ -82,6 +84,7 @@ export const ARCHETYPES = {
   'Selesnya Bogles': ['WG', DeckType.AGGRO],
   'Selesnya Angels': ['WG', DeckType.MIDRANGE],
   'Selesnya Counters': 'WG',
+  'Selesnya Maverick': ['WG', DeckType.CONTROL],
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],
@@ -132,6 +135,7 @@ export const ARCHETYPES = {
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
   'Mono-Black Pactdoll': 'B',
   'Mono-Black Pit Rack': 'B',
+  'Mono-Black Pox': ['B', DeckType.CONTROL],
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -159,6 +163,7 @@ export const ARCHETYPES = {
   'Mono-Red Bushwhacker': ['R', DeckType.AGGRO],
   'Mono-Red Synthesizer': 'R',
   'Mono-Red Madness': 'R',
+  'Mono-Red Prison': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
@@ -185,6 +190,7 @@ export const ARCHETYPES = {
   'Domain Zur': ['WUBRG', DeckType.CONTROL],
   'Domain Control': ['WUBRG', DeckType.CONTROL],
   'Domain Zoo': ['WUBRG', DeckType.MIDRANGE],
+  'Domain Enchantments': ['WUBRG', DeckType.CONTROL],
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
 } as const;
