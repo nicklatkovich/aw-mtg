@@ -177,6 +177,7 @@ export const ARCHETYPES = {
   'Mono-Green Elves': 'G',
   'Mono-Green Infect': 'G',
   'Walls Combo': ['G', DeckType.COMBO],
+  'Mono-Green Landfall': ['G', DeckType.AGGRO],
   // 4c
   Dredge: ['WBRG', DeckType.COMBO],
   Tron: 'WBRG',
