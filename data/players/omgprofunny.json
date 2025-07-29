@@ -2,8 +2,9 @@
   "guid": "584bf7f8-7b31-4575-b43e-e636daac85ab",
   "id": "omgprofunny",
   "display_name": "Bondarchik Andrei",
-  "color_stats": {"U":0.80327868852459,"B":1,"R":0.80327868852459,"G":0.22950819672131145,"W":0.40983606557377056},
+  "color_stats": {"U":0.8124999999999998,"B":1,"R":0.7656249999999998,"G":0.21874999999999997,"W":0.39062500000000006},
   "recent_events": [
+    {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":3,"rank":[13,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":7,"rank":[5,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":12,"rank":[1,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-3-0"},
