@@ -1,0 +1,9 @@
+{
+  "guid": "f0c906e8-43b9-48e3-b92e-24fccc2a191f",
+  "id": "volkovalex",
+  "display_name": "Volkau Aliaksandr",
+  "color_stats": {"B":1,"G":1},
+  "recent_events": [
+    {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":7,"rank":[6,19],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"2-1-1","game_record":"6-4-0"}
+  ]
+}

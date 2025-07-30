@@ -1,0 +1,9 @@
+{
+  "guid": "7fee916b-52aa-4b7f-bfd3-8d8ae80b2ce2",
+  "id": "tihm",
+  "display_name": "Tihomirov Maxim",
+  "color_stats": {"B":1,"R":1,"G":1},
+  "recent_events": [
+    {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":3,"rank":[19,19],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"}
+  ]
+}
