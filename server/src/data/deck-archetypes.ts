@@ -19,6 +19,7 @@ export const ARCHETYPES = {
   'Azorius Artifacts': ['WU', DeckType.MIDRANGE],
   'Azorius Familiar': 'WU',
   'Azorius Convoke': ['WU', DeckType.AGGRO],
+  'Azorius Gates': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -59,6 +60,7 @@ export const ARCHETYPES = {
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
   'Abzan Bounce': ['WBG', DeckType.MIDRANGE],
+  'Abzan Gates': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
@@ -155,6 +157,7 @@ export const ARCHETYPES = {
   'Golgari Midrange': ['BG', DeckType.MIDRANGE],
   'Golgari Pactdoll': 'BG',
   'Golgari Saprolings': 'BG',
+  'Golgari Spy Combo': ['BG', DeckType.COMBO],
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],

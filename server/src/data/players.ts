@@ -125,6 +125,9 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '631fd7bc-fd14-4de3-ade2-984bd64352b6': ['Vergeichik Kirill', { id: 'vergeichik' }],
   '906038db-c395-4c01-886b-92e9e1bfcfab': ['Pastushik Pavel', { id: 'pastushik' }],
   'c6b54f23-d2ed-440a-9f0f-57408f0f820b': ['Simakov Dmitriy', { id: 'simakov' }],
+  'f0c906e8-43b9-48e3-b92e-24fccc2a191f': 'Volkau Aliaksandr',
+  '7fee916b-52aa-4b7f-bfd3-8d8ae80b2ce2': 'Tihomirov Maxim',
+  '58124235-296f-4aa8-a419-4f0c442767f8': 'Burak Dima',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -254,4 +257,7 @@ export const playersByUsername: { [username in string]?: string } = {
   Toi: '572d195e-97c9-4922-9a7c-c3cdd31dac62',
   PINCHAA: 'f3f15d02-01a0-4754-9ef1-520eafc8540b',
   GarA: '47ea23fe-6e8c-4e6f-8ba3-4f1a06747ffd',
+  VolkovAlex: 'f0c906e8-43b9-48e3-b92e-24fccc2a191f',
+  TihM: '7fee916b-52aa-4b7f-bfd3-8d8ae80b2ce2',
+  DimB1: '58124235-296f-4aa8-a419-4f0c442767f8',
 };
