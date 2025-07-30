@@ -17,7 +17,7 @@ export const _2025_pauper: Tournament[] = [
       { player: 'VolkovAlex', rank: 6, deck: 'Golgari Spy Combo', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-0' },
       { player: 'Mamkalover228', rank: 7, deck: 'Jund Wildfire', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'aspelled', rank: 8, deck: 'Golgari Spy Combo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
-      { player: '4onoki', rank: 9, deck: 'Golgari Saprolings', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: '4onoki', rank: 9, deck: 'Mardu Synthesizer', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
       { player: 'AndreyG', rank: 10, deck: 'Abzan Gates', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
       { player: 'RomanKohan14', rank: 11, deck: 'Mono-Red Burn', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
       { player: 'qvertion', rank: 12, deck: 'Azorius Familiar', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-5-0' },
@@ -26,7 +26,7 @@ export const _2025_pauper: Tournament[] = [
       { player: 'Prokis', rank: 15, deck: 'Dimir Faeries', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
       { player: 'Aliaksandr', rank: 16, deck: 'Mono-Red Goblins', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
       { player: 'BuRial63', rank: 17, deck: 'Azorius Gates', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
-      { player: 'Hogar', rank: 18, deck: 'Mardu Synthesizer', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'Hogar', rank: 18, deck: 'Golgari Saprolings', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
       { player: 'TihM', rank: 19, deck: 'Jund Dredge', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
     ],
     rounds: [
