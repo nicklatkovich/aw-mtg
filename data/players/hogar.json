@@ -2,9 +2,9 @@
   "guid": "28e086b4-9b7f-417a-b115-a174cd9056cc",
   "id": "hogar",
   "display_name": "Korol Igor",
-  "color_stats": {"W":0.8799999999999999,"B":1,"R":0.8799999999999999,"G":0.36},
+  "color_stats": {"B":1,"G":0.46153846153846156,"W":0.7692307692307692,"R":0.7692307692307692},
   "recent_events": [
-    {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":3,"rank":[18,19],"deck":{"archetype":"Mardu Synthesizer","colors":"WBR","type":null},"match_record":"1-3-0","game_record":"4-7-0"},
+    {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":3,"rank":[18,19],"deck":{"archetype":"Golgari Saprolings","colors":"BG","type":null},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[14,20],"deck":{"archetype":"Golgari Saprolings","colors":"BG","type":null},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":3,"rank":[13,15],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[9,17],"deck":{"archetype":"Mardu Raise the Past","colors":"WBR","type":"Combo"},"match_record":"2-2-0","game_record":"5-6-0"},
