@@ -3,6 +3,58 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 349068,
+    format: Format.STANDARD,
+    name: 'Summer League 2025 | Standard #9',
+    date: '2025-08-05',
+    standings: [
+      { player: '[OMG]Summie', rank: 1, deck: 'Azorius Control', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-1-0' },
+      { player: '4onoki', rank: 2, deck: 'Temur Landfall', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Very_Bad_Man', rank: 3, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'qvertion', rank: 4, deck: 'Izzet Vivi', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'aspelled', rank: 5, deck: 'Izzet Aggro', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-5-0' },
+      { player: 'BRV', rank: 6, deck: 'Boros Burn', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'RomanKohan14', rank: 7, deck: 'Dimir Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Azurenia', rank: 8, deck: 'Sultai Dragons', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'McRais', rank: 9, deck: 'Orzhov Ketramose', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'IgnS', rank: 10, deck: 'Azorius Artifacts', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: '4exOFFby', rank: 11, deck: 'Orzhov Bounce', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', 'McRais'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', '[OMG]Summie'], winner: 2, record: '2-0-0' },
+        { players: ['RomanKohan14', 'aspelled'], winner: 2, record: '2-1-0' },
+        { players: ['4exOFFby', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['IgnS', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['RomanKohan14', null], winner: 1, record: 'bye' },
+        { players: ['Azurenia', '4onoki'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'aspelled'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', '4exOFFby'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'IgnS'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['IgnS', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'aspelled'], winner: 0, record: '1-1-0' },
+        { players: ['RomanKohan14', '4exOFFby'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'qvertion'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', '[OMG]Summie'], winner: 2, record: '2-0-0' },
+        { players: ['aspelled', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['RomanKohan14', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'IgnS'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 346466,
     format: Format.STANDARD,
     name: 'Summer League 2025 | Standard #8',
