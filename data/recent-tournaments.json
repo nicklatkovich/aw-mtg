@@ -1,4 +1,5 @@
 [
+  {"id":349068,"format":"standard","date":"2025-08-05","name":"Summer League 2025 | Standard #9","players_count":11,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":347017,"format":"pioneer","date":"2025-07-31","name":"Summer League 2025 | Pioneer #9","players_count":12,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":347002,"format":"pauper","date":"2025-07-30","name":"Summer League 2025 | Pauper #9","players_count":19,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":346466,"format":"standard","date":"2025-07-29","name":"Summer League 2025 | Standard #8","players_count":14,"winner":{"player":{"display_name":"Seletsky Ignat","id":"igns"},"deck":{"archetype":"Azorius Artifacts","colors":"WU","type":"Midrange"}}},

@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"U":0.9065420560747663,"B":1,"W":0.6261682242990652,"R":0.11214953271028036,"G":0.06542056074766354},
+  "color_stats": {"W":0.6428571428571425,"B":1,"U":0.8660714285714285,"R":0.10714285714285711,"G":0.06249999999999998},
   "recent_events": [
+    {"id":349068,"name":"Summer League 2025 | Standard #9","date":"2025-08-05","format":"standard","points":3,"rank":[9,11],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":4,"rank":[10,14],"deck":{"archetype":"Dimir Doomsday","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":6,"rank":[8,15],"deck":{"archetype":"Esper Oculus","colors":"WUB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":9,"rank":[6,17],"deck":{"archetype":"Esper Oculus","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-2-0"},

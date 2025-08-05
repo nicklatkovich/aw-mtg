@@ -2,8 +2,9 @@
   "guid": "d3f6dfd4-2da2-45fc-bad4-fb638074a99c",
   "id": "summie",
   "display_name": "Bandarchyk Anton",
-  "color_stats": {"W":1,"U":0.34782608695652173,"B":0.9347826086956522,"R":0.06521739130434782,"G":0.13043478260869565},
+  "color_stats": {"W":1,"U":0.38775510204081637,"B":0.8775510204081632,"R":0.06122448979591837,"G":0.12244897959183675},
   "recent_events": [
+    {"id":349068,"name":"Summer League 2025 | Standard #9","date":"2025-08-05","format":"standard","points":10,"rank":[1,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-0-1","game_record":"7-1-0"},
     {"id":347017,"name":"Summer League 2025 | Pioneer #9","date":"2025-07-31","format":"pioneer","points":10,"rank":[2,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-0-1","game_record":"6-2-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":9,"rank":[4,15],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":9,"rank":[3,17],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
