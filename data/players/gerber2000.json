@@ -2,8 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"R":0.9610389610389604,"G":0.506493506493506,"W":0.16883116883116872,"U":0.24675324675324664},
+  "color_stats": {"B":1,"R":0.9620253164556957,"G":0.5189873417721514,"W":0.16455696202531636,"U":0.24050632911392394},
   "recent_events": [
+    {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":4,"rank":[10,14],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-2-1","game_record":"4-6-0"},
     {"id":347017,"name":"Summer League 2025 | Pioneer #9","date":"2025-07-31","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":342697,"name":"Summer League 2025 | Pioneer #8","date":"2025-07-24","format":"pioneer","points":6,"rank":[9,13],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},

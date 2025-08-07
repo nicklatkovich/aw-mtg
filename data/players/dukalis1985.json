@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"B":1,"R":0.8676470588235294,"W":0.029411764705882356,"G":0.1323529411764706},
+  "color_stats": {"W":0.07352941176470588,"U":0.04411764705882353,"B":1,"R":0.8676470588235294,"G":0.1323529411764706},
   "recent_events": [
+    {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":4,"rank":[11,14],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":347017,"name":"Summer League 2025 | Pioneer #9","date":"2025-07-31","format":"pioneer","points":6,"rank":[6,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":342697,"name":"Summer League 2025 | Pioneer #8","date":"2025-07-24","format":"pioneer","points":6,"rank":[6,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":0,"rank":[12,12],"match_record":"0-2-0","game_record":"1-4-0"},
