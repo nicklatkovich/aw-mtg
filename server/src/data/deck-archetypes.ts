@@ -103,6 +103,7 @@ export const ARCHETYPES = {
   'Dimir Faeries': ['UB', DeckType.TEMPO],
   'Dimir Oculus': ['UB', DeckType.MIDRANGE],
   'Dimir Mill Combo': ['UB', DeckType.COMBO],
+  'Dimir Omni-Tell': ['UB', DeckType.COMBO],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -139,6 +140,7 @@ export const ARCHETYPES = {
   'Mono-Black Pactdoll': 'B',
   'Mono-Black Pit Rack': 'B',
   'Mono-Black Pox': ['B', DeckType.CONTROL],
+  'Mono-Black Depths': ['B', DeckType.COMBO],
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],

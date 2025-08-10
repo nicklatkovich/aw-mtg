@@ -3,6 +3,41 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 'l250810',
+    format: Format.LEGACY,
+    name: 'Summer League 2025 | Legacy #4',
+    date: '2025-08-10',
+    standings: [
+      { player: 'aklshk', rank: 1, deck: 'Mono-Black Depths', points: 9, tgw: 66.67 /*6/9*/ },
+      { player: 'NickLatkovich', rank: 2, deck: 'Dimir Omni-Tell', points: 9, tgw: 63.64 /*7/11*/ },
+      { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 6, tgw: 54.55 /*6/11*/ },
+      { player: 'K1ppy', rank: 4, deck: 'Mono-Red Prison', points: 6, tgw: 45.45 /*5/11*/ },
+      { player: 'TroV1', rank: 5, deck: 'Death and Taxes', points: 0, tgw: 20 /*2/10*/ },
+    ],
+    rounds: [
+      [
+        { players: ['farsmac', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'aklshk'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'K1ppy'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'aklshk'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'K1ppy'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'K1ppy'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'aklshk'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'TroV1'], winner: 1, record: '2-1-0' },
+        { players: ['aklshk', 'K1ppy'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 342699,
     format: Format.LEGACY,
     name: 'Summer League 2025 | Legacy #3',
