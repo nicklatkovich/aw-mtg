@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"B":0.5676691729323308,"W":0.26691729323308266,"R":0.17293233082706766,"G":0.13533834586466165},
+  "color_stats": {"B":0.6804511278195489,"U":1,"W":0.26691729323308266,"R":0.17293233082706766,"G":0.13533834586466165},
   "recent_events": [
+    {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Mono-Black Depths","colors":"B","type":"Combo"}},
     {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":12,"rank":[1,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":342699,"name":"Summer League 2025 | Legacy #3","date":"2025-07-27","format":"legacy","points":9,"rank":[2,8],"deck":{"archetype":"Mono-Black Pox","colors":"B","type":"Control"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":6,"rank":[10,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
