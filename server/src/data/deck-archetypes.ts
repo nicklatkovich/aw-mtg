@@ -75,6 +75,8 @@ export const ARCHETYPES = {
   'Boros Energy': ['WR', DeckType.AGGRO],
   'Boros Burn': ['WR', DeckType.AGGRO],
   'Boros Weenie': ['WR', DeckType.AGGRO],
+  'Boros Resonance': ['WR', DeckType.AGGRO],
+  'Boros Mice': ['WR', DeckType.AGGRO],
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
