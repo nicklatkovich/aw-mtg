@@ -2,8 +2,9 @@
   "guid": "2d789a5a-12d2-448a-97e1-06200c147e55",
   "id": "4exoffby",
   "display_name": "Chakhouski Vasili",
-  "color_stats": {"W":0.5714285714285714,"B":1,"U":0.5714285714285715},
+  "color_stats": {"W":0.5932203389830508,"B":1,"U":0.5423728813559322},
   "recent_events": [
+    {"id":351528,"name":"Summer League 2025 | Standard #10","date":"2025-08-12","format":"standard","points":0,"rank":[12,12],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":349068,"name":"Summer League 2025 | Standard #9","date":"2025-08-05","format":"standard","points":0,"rank":[11,11],"deck":{"archetype":"Orzhov Bounce","colors":"WB","type":"Midrange"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":4,"rank":[11,14],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"1-2-1","game_record":"3-4-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":4,"rank":[12,15],"deck":{"archetype":"Orzhov Bounce","colors":"WB","type":"Midrange"},"match_record":"1-2-1","game_record":"4-6-0"},

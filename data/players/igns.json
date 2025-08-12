@@ -2,8 +2,9 @@
   "guid": "1357114b-2042-4ce2-9ccc-49dddd4cef55",
   "id": "igns",
   "display_name": "Seletsky Ignat",
-  "color_stats": {"W":1,"U":0.95,"B":0.05},
+  "color_stats": {"W":1,"U":0.9523809523809523,"B":0.047619047619047616},
   "recent_events": [
+    {"id":351528,"name":"Summer League 2025 | Standard #10","date":"2025-08-12","format":"standard","points":3,"rank":[10,12],"deck":{"archetype":"Azorius Artifacts","colors":"WU","type":"Midrange"},"match_record":"1-3-0","game_record":"2-7-0"},
     {"id":349068,"name":"Summer League 2025 | Standard #9","date":"2025-08-05","format":"standard","points":3,"rank":[10,11],"deck":{"archetype":"Azorius Artifacts","colors":"WU","type":"Midrange"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":12,"rank":[1,14],"deck":{"archetype":"Azorius Artifacts","colors":"WU","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":6,"rank":[11,15],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},

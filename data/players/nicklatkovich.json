@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"U":1,"B":0.5158450704225352,"W":0.9031690140845069,"R":0.6390845070422535,"G":0.8503521126760564},
+  "color_stats": {"U":1,"B":0.540133779264214,"W":0.857859531772575,"R":0.6070234113712373,"G":0.8076923076923076},
   "recent_events": [
+    {"id":351528,"name":"Summer League 2025 | Standard #10","date":"2025-08-12","format":"standard","points":7,"rank":[4,12],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":9,"rank":[2,5],"deck":{"archetype":"Dimir Omni-Tell","colors":"UB","type":"Combo"}},
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":12,"rank":[1,14],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":342699,"name":"Summer League 2025 | Legacy #3","date":"2025-07-27","format":"legacy","points":6,"rank":[5,8],"deck":{"archetype":"Domain Enchantments","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
