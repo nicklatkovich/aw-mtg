@@ -143,6 +143,7 @@ export const ARCHETYPES = {
   'Mono-Black Pit Rack': 'B',
   'Mono-Black Pox': ['B', DeckType.CONTROL],
   'Mono-Black Depths': ['B', DeckType.COMBO],
+  'Mono-Black Sacrifice': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -163,6 +164,8 @@ export const ARCHETYPES = {
   'Golgari Pactdoll': 'BG',
   'Golgari Saprolings': 'BG',
   'Golgari Spy Combo': ['BG', DeckType.COMBO],
+  'Golgari Gardens': 'BG',
+  'Golgari Altar Tron': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],

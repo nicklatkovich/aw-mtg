@@ -128,6 +128,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'f0c906e8-43b9-48e3-b92e-24fccc2a191f': 'Volkau Aliaksandr',
   '7fee916b-52aa-4b7f-bfd3-8d8ae80b2ce2': 'Tihomirov Maxim',
   '58124235-296f-4aa8-a419-4f0c442767f8': 'Burak Dima',
+  'd2090e17-cbd7-4d1b-a569-7533efb4eff5': 'Malcheuski Yauheni',
+  'a2e41c80-3248-43c7-a873-c1e69493709e': 'Muhtasarov Roman',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -260,4 +262,6 @@ export const playersByUsername: { [username in string]?: string } = {
   VolkovAlex: 'f0c906e8-43b9-48e3-b92e-24fccc2a191f',
   TihM: '7fee916b-52aa-4b7f-bfd3-8d8ae80b2ce2',
   DimB1: '58124235-296f-4aa8-a419-4f0c442767f8',
+  Kurt: 'd2090e17-cbd7-4d1b-a569-7533efb4eff5',
+  Roman012345: 'a2e41c80-3248-43c7-a873-c1e69493709e',
 };
