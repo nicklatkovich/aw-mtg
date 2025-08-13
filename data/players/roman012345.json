@@ -1,0 +1,9 @@
+{
+  "guid": "a2e41c80-3248-43c7-a873-c1e69493709e",
+  "id": "roman012345",
+  "display_name": "Muhtasarov Roman",
+  "color_stats": {"B":1,"R":1,"G":1},
+  "recent_events": [
+    {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":6,"rank":[12,20],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"6-5-0"}
+  ]
+}
