@@ -1,4 +1,5 @@
 [
+  {"id":351533,"format":"pioneer","date":"2025-08-14","name":"Summer League 2025 | Pioneer #11","players_count":11,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":351531,"format":"pauper","date":"2025-08-13","name":"Summer League 2025 | Pauper #10","players_count":20,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"}}},
   {"id":351528,"format":"standard","date":"2025-08-12","name":"Summer League 2025 | Standard #10","players_count":12,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":"l250810","format":"legacy","date":"2025-08-10","name":"Summer League 2025 | Legacy #4","players_count":5,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Black Depths","colors":"B","type":"Combo"}}},
