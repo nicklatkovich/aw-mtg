@@ -166,6 +166,7 @@ export const ARCHETYPES = {
   'Golgari Spy Combo': ['BG', DeckType.COMBO],
   'Golgari Gardens': 'BG',
   'Golgari Altar Tron': 'BG',
+  'Golgari Food': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
