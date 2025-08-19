@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.7844827586206896,"B":0.7844827586206896,"R":1,"G":0.6551724137931033,"U":0.6551724137931033},
+  "color_stats": {"U":0.7844827586206896,"B":0.9137931034482758,"W":0.7844827586206896,"R":1,"G":0.6551724137931033},
   "recent_events": [
+    {"id":353652,"name":"Summer League 2025 | Standard #11","date":"2025-08-19","format":"standard","points":6,"rank":[4,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":0,"rank":[5,5],"deck":{"archetype":"Death and Taxes","colors":"WB","type":null}},
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":9,"rank":[3,14],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":10,"rank":[2,20],"deck":{"archetype":"Jeskai Gates","colors":"WUR","type":null},"match_record":"3-0-1","game_record":"7-1-0"},
