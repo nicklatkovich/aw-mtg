@@ -4,6 +4,7 @@ import { buildRecentTournamentsData } from './recent-tournaments.builder';
 import { buildTournamentResults } from './tournament-results.builder';
 import { buildPlayersData } from './players-data.builder';
 import { buildPioneerLadder } from './pioneer-ladder.builder';
+import { buildStandardLadder } from './standard-ladder.builder';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -52,6 +53,16 @@ export async function buildData() {
     `{
   "totalEvents": ${pioneerLadder.totalEvents},
   "table": [\n    ${pioneerLadder.table.map((r) => JSON.stringify(r)).join(',\n    ')}\n  ]\n}\n`,
+  );
+
+  const standardLadder = buildStandardLadder(playersMap);
+  await writeFile(
+    path.resolve(CONTENT_PATH, `standard-ladder.json`),
+    `{
+  "totalEvents": ${standardLadder.totalEvents},
+  "standings": [
+    ${standardLadder.standings.map((r) => JSON.stringify(r)).join(',\n    ')}
+  ]\n}\n`,
   );
 }
 

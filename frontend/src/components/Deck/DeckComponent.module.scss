@@ -8,6 +8,9 @@
 
   &.img__active {
     border-color: white;
+    &.img__black_border {
+      border-color: black;
+    }
   }
 
   margin: 2px;

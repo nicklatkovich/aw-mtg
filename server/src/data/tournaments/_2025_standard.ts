@@ -3,6 +3,53 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 353652,
+    format: Format.STANDARD,
+    name: 'Summer League 2025 | Standard #11',
+    date: '2025-08-19',
+    standings: [
+      { player: 'qvertion', rank: 1, deck: 'Temur Battlecrier', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'Alex88', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'aspelled', rank: 3, deck: 'Mono-Red Dragons', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'VT', rank: 4, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BRV', rank: 5, deck: 'Gruul Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: '4exOFFby', rank: 6, deck: 'Esper Bounce', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'McRais', rank: 8, deck: 'Azorius Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'RomanKohan14', rank: 9, deck: 'Simic Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Alex88', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'VT'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', '4exOFFby'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'aspelled'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['RomanKohan14', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Alex88', 'VT'], winner: 2, record: '2-0-0' },
+        { players: ['aspelled', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['4exOFFby', 'Very_Bad_Man'], winner: 2, record: '1-0-0' },
+      ],
+      [
+        { players: ['4exOFFby', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', 'VT'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['aspelled', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['McRais', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['4exOFFby', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['VT', 'aspelled'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 351528,
     format: Format.STANDARD,
     name: 'Summer League 2025 | Standard #10',

@@ -130,12 +130,14 @@ export const ARCHETYPES = {
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
   'Temur Landfall': 'URG',
+  'Temur Battlecrier': ['URG', DeckType.COMBO],
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
   'Simic Petitioners Combo': ['UG', DeckType.COMBO],
   'Simic Madness': 'UG',
   'Simic Elves': 'UG',
+  'Simic Aggro': ['UG', DeckType.AGGRO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -176,6 +178,7 @@ export const ARCHETYPES = {
   'Mono-Red Synthesizer': 'R',
   'Mono-Red Madness': 'R',
   'Mono-Red Prison': 'R',
+  'Mono-Red Dragons': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
