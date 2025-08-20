@@ -43,32 +43,34 @@ export const StandardLadder2025: React.FC = () => (
             </div>
             <div className="cell">favorite deck</div>
           </div>
-          {data.standings.slice(0).map((row) => (
-            <div style={{ display: 'contents' }}>
-              <div className="cell">{row.rank}</div>
-              <div className="cell">{row.lvl}</div>
-              <div className="cell">
-                <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
+          {data.standings
+            // .filter((row) => row.points > 0)
+            .map((row) => (
+              <div style={{ display: 'contents' }}>
+                <div className="cell">{row.rank}</div>
+                <div className="cell">{row.lvl}</div>
+                <div className="cell">
+                  <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
+                </div>
+                <div className="cell">{row.points}</div>
+                <div className="cell">{row.events}</div>
+                <div className="cell">{row.vmw}</div>
+                <div className="cell">{row.vml}</div>
+                <div className="cell">{row.draw}</div>
+                <div className="cell">{((row.vmw / row.vmp) * 100).toFixed(2)}</div>
+                <div className="cell">{((row.vmw / (row.vmw + row.vml)) * 100).toFixed(2)}</div>
+                <div className="cell">{row.events_won || ''}</div>
+                <div className="cell">{row.major_events_won || ''}</div>
+                <div className="cell left">
+                  {row.favorite_deck ? (
+                    <>
+                      <DeckComponent deck={row.favorite_deck.deck} blackBorder /> &nbsp; (
+                      {Math.round(row.favorite_deck.percentage)}%)
+                    </>
+                  ) : null}
+                </div>
               </div>
-              <div className="cell">{row.points}</div>
-              <div className="cell">{row.events}</div>
-              <div className="cell">{row.vmw}</div>
-              <div className="cell">{row.vml}</div>
-              <div className="cell">{row.draw}</div>
-              <div className="cell">{((row.vmw / row.vmp) * 100).toFixed(2)}</div>
-              <div className="cell">{((row.vmw / (row.vmw + row.vml)) * 100).toFixed(2)}</div>
-              <div className="cell">{row.events_won || ''}</div>
-              <div className="cell">{row.major_events_won || ''}</div>
-              <div className="cell left">
-                {row.favorite_deck ? (
-                  <>
-                    <DeckComponent deck={row.favorite_deck.deck} blackBorder /> &nbsp; (
-                    {Math.round(row.favorite_deck.percentage)}%)
-                  </>
-                ) : null}
-              </div>
-            </div>
-          ))}
+            ))}
         </div>
       </>
     )}
