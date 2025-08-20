@@ -56,7 +56,7 @@ export const StandardLadder2025: React.FC = () => (
               <div className="cell">{row.vml}</div>
               <div className="cell">{row.draw}</div>
               <div className="cell">{((row.vmw / row.vmp) * 100).toFixed(2)}</div>
-              <div className="cell">{((row.vmw / (row.vmw + row.vml + row.draw)) * 100).toFixed(2)}</div>
+              <div className="cell">{((row.vmw / (row.vmw + row.vml)) * 100).toFixed(2)}</div>
               <div className="cell">{row.events_won || ''}</div>
               <div className="cell">{row.major_events_won || ''}</div>
               <div className="cell left">
