@@ -2,9 +2,9 @@
   "guid": "1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed",
   "id": "khvin",
   "display_name": "Khvin Alexander",
-  "color_stats": {"R":1},
+  "color_stats": {"U":1},
   "recent_events": [
-    {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":3,"rank":[15,20],"deck":{"archetype":"Mono-Red Goblins","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"4-4-0"},
+    {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[9,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[9,12]},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":6,"rank":[5,16],"deck":{"archetype":"Merfolk Tribal","colors":null,"type":null}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[7,7]},
