@@ -96,7 +96,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'cccbc218-96c8-415c-9a22-6153ec9921a2': 'Pilkevich Aleksandr',
   'f919242e-c4df-4d20-b28f-77f3bd5033f6': 'Moroz Egor',
   '5a1a3197-1193-4637-a2ad-01fe86d05a4e': 'Nabeshko Daniil',
-  'fed69699-d5b2-4c4d-b7b7-7defc3ade796': ['Bliznetsov Daniil', { id: 'bliznetsov' }],
+  'fed69699-d5b2-4c4d-b7b7-7defc3ade796': 'Bliznetsov Daniil',
   '1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed': ['Khvin Alexander', { id: 'khvin' }],
   '46d4ca5f-1d44-47da-9be8-414af89faf15': ['Bontsevich Gleb', { id: 'bontsevich' }],
   '44ea1bf1-d9ce-4664-b0d2-9d02535601df': ['Olegov Yaroslav', { id: 'olegov' }],
@@ -130,6 +130,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '58124235-296f-4aa8-a419-4f0c442767f8': 'Burak Dima',
   'd2090e17-cbd7-4d1b-a569-7533efb4eff5': 'Malcheuski Yauheni',
   'a2e41c80-3248-43c7-a873-c1e69493709e': 'Muhtasarov Roman',
+  '9314b499-6958-4f4e-9fd3-dea9bfd0f06c': 'Tihomirov Kirill',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -264,4 +265,6 @@ export const playersByUsername: { [username in string]?: string } = {
   DimB1: '58124235-296f-4aa8-a419-4f0c442767f8',
   Kurt: 'd2090e17-cbd7-4d1b-a569-7533efb4eff5',
   Roman012345: 'a2e41c80-3248-43c7-a873-c1e69493709e',
+  DanB69: 'fed69699-d5b2-4c4d-b7b7-7defc3ade796',
+  KirT2: '9314b499-6958-4f4e-9fd3-dea9bfd0f06c',
 };
