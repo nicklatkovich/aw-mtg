@@ -2,8 +2,9 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"R":1,"G":0.42857142857142855,"B":0.0892857142857143,"W":0.17857142857142858,"U":0.05357142857142856},
+  "color_stats": {"W":0.1843971631205674,"U":0.06028368794326241,"B":0.09574468085106386,"R":1,"G":0.4326241134751774},
   "recent_events": [
+    {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":6,"rank":[10,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":351528,"name":"Summer League 2025 | Standard #10","date":"2025-08-12","format":"standard","points":6,"rank":[7,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":6,"rank":[4,5],"deck":{"archetype":"Mono-Red Prison","colors":"R","type":null}},

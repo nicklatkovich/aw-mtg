@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.5263157894736841,"U":0.3578947368421052,"G":0.22105263157894736,"B":1,"R":0.42105263157894735},
+  "color_stats": {"B":1,"R":0.4387755102040815,"W":0.510204081632653,"U":0.346938775510204,"G":0.21428571428571425},
   "recent_events": [
+    {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":353652,"name":"Summer League 2025 | Standard #11","date":"2025-08-19","format":"standard","points":6,"rank":[7,9],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":7,"rank":[4,14],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"6-4-0"},
     {"id":349068,"name":"Summer League 2025 | Standard #9","date":"2025-08-05","format":"standard","points":9,"rank":[3,11],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
