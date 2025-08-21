@@ -1,5 +1,6 @@
 [
   {"id":353663,"format":"pioneer","date":"2025-08-21","name":"Summer League 2025 | Pioneer #11","players_count":12,"winner":{"player":{"display_name":"Kondibor Nikita","id":"k1ppy"},"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}}},
+  {"id":353655,"format":"pauper","date":"2025-08-20","name":"Summer League 2025 | Pauper #11","players_count":20,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"},"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null}}},
   {"id":353652,"format":"standard","date":"2025-08-19","name":"Summer League 2025 | Standard #11","players_count":9,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"}}},
   {"id":351533,"format":"pioneer","date":"2025-08-14","name":"Summer League 2025 | Pioneer #11","players_count":11,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":351531,"format":"pauper","date":"2025-08-13","name":"Summer League 2025 | Pauper #10","players_count":20,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"}}},
@@ -37,7 +38,7 @@
   {"id":"sl250621","format":"sealed","date":"2025-06-21","name":"Summer League 2025 | Sealed #1","players_count":10,"winner":{"player":{"display_name":"Levdansky Alexander","id":"levdansky"}}},
   {"id":"c250621","format":"commander","date":"2025-06-21","name":"Summer League 2025 | Commander #2 (cEDH)","players_count":7,"winner":{"player":{"display_name":"Nabeshko Daniil","id":"danilanabeshko"}}},
   {"id":329063,"format":"draft","date":"2025-06-20","name":"Summer League 2025 | Draft #3 (FIN)","players_count":12,"winner":{"player":{"display_name":"Polevskiy Nikita","id":"nikitap"}}},
-  {"id":"c250620","format":"commander","date":"2025-06-20","name":"Summer League 2025 | Commander #1 (Planechase)","players_count":12,"winner":{"player":{"display_name":"Bliznetsov Daniil","id":"bliznetsov"}}},
+  {"id":"c250620","format":"commander","date":"2025-06-20","name":"Summer League 2025 | Commander #1 (Planechase)","players_count":12,"winner":{"player":{"display_name":"Bliznetsov Daniil","id":"danb69"}}},
   {"id":328637,"format":"pioneer","date":"2025-06-19","name":"Summer League 2025 | Pioneer #3","players_count":13,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":328097,"format":"pauper","date":"2025-06-18","name":"Summer League 2025 | Pauper #3","players_count":18,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"}}},
   {"id":327452,"format":"standard","date":"2025-06-17","name":"Summer League 2025 | Standard #3","players_count":15,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
