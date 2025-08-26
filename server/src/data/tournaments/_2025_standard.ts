@@ -3,6 +3,53 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 355998,
+    format: Format.STANDARD,
+    name: 'Summer League 2025 | Standard #11',
+    date: '2025-08-26',
+    standings: [
+      { player: 'qvertion', rank: 1, deck: 'Temur Battlecrier', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'TroV1', rank: 2, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'RomanKohan14', rank: 3, deck: 'Orzhov Sacrifice', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'BuRial63', rank: 4, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Azurenia', rank: 5, deck: 'Sultai Dragons', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: '4exOFFby', rank: 6, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'Barbossa', rank: 7, deck: 'Mono-White Control', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'BRV', rank: 8, deck: 'Boros Burn', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'aspelled', rank: 9, deck: 'Mono-Red Dragons', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Alex88', rank: 10, deck: 'Mono-Red Aggro', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '4-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Barbossa', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['TroV1', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'Azurenia'], winner: 2, record: '2-0-0' },
+        { players: ['4exOFFby', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['BuRial63', 'BRV'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['aspelled', 'Barbossa'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'TroV1'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'BuRial63'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['4exOFFby', 'Alex88'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['BuRial63', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['4exOFFby', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'Barbossa'], winner: 1, record: '2-1-0' },
+        { players: ['Alex88', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', '4exOFFby'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['TroV1', 'BuRial63'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Azurenia'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 353652,
     format: Format.STANDARD,
     name: 'Summer League 2025 | Standard #11',
