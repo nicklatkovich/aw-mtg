@@ -44,7 +44,7 @@ export const StandardLadder2025: React.FC = () => (
             <div className="cell">favorite deck</div>
           </div>
           {data.standings
-            .filter((row) => row.points > 0)
+            // .filter((row) => row.points > 0)
             .map((row) => (
               <div style={{ display: 'contents' }}>
                 <div className="cell">{row.rank}</div>
