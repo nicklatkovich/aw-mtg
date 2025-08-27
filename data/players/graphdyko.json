@@ -1,0 +1,9 @@
+{
+  "guid": "642e0fd1-d7f7-4598-9b43-d7ba2a7c102b",
+  "id": "graphdyko",
+  "display_name": "Dyko Pavel",
+  "color_stats": {"U":1},
+  "recent_events": [
+    {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-5-0"}
+  ]
+}

@@ -4,6 +4,7 @@
   "display_name": "Tihomirov Kirill",
   "color_stats": {"B":1,"R":1,"G":1},
   "recent_events": [
+    {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":3,"rank":[14,16],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":0,"rank":[20,20],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"0-4-0","game_record":"2-8-0"}
   ]
 }
