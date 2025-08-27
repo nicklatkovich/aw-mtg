@@ -107,6 +107,8 @@ export const ARCHETYPES = {
   'Dimir Oculus': ['UB', DeckType.MIDRANGE],
   'Dimir Mill Combo': ['UB', DeckType.COMBO],
   'Dimir Omni-Tell': ['UB', DeckType.COMBO],
+  'Dimir Affinity': 'UB',
+  'Dimir Abjure': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',

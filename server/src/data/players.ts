@@ -131,6 +131,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'd2090e17-cbd7-4d1b-a569-7533efb4eff5': 'Malcheuski Yauheni',
   'a2e41c80-3248-43c7-a873-c1e69493709e': 'Muhtasarov Roman',
   '9314b499-6958-4f4e-9fd3-dea9bfd0f06c': 'Tihomirov Kirill',
+  '642e0fd1-d7f7-4598-9b43-d7ba2a7c102b': 'Dyko Pavel',
+  '9a917182-b0cc-4443-934e-c5e57173cd6c': 'Korzhov Alexey',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -267,4 +269,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Roman012345: 'a2e41c80-3248-43c7-a873-c1e69493709e',
   DanB69: 'fed69699-d5b2-4c4d-b7b7-7defc3ade796',
   KirT2: '9314b499-6958-4f4e-9fd3-dea9bfd0f06c',
+  GraphDyko: '642e0fd1-d7f7-4598-9b43-d7ba2a7c102b',
+  AlexeyKorzhov: '9a917182-b0cc-4443-934e-c5e57173cd6c',
 };
