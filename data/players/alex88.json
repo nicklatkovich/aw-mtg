@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"R":1,"W":0.5555555555555556,"B":0.045454545454545456,"U":0.08585858585858586,"G":0.0101010101010101},
+  "color_stats": {"W":0.5621890547263682,"R":1,"B":0.04477611940298507,"U":0.08457711442786069,"G":0.009950248756218905},
   "recent_events": [
+    {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":6,"rank":[6,13],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":0,"rank":[10,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"4-8-0"},
     {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":9,"rank":[2,12],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":0,"rank":[19,20],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"0-3-0","game_record":"0-6-0"},

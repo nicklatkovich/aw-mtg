@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"B":1,"R":0.8783783783783783,"W":0.06756756756756756,"U":0.040540540540540536,"G":0.12162162162162161},
+  "color_stats": {"B":1,"R":0.883116883116883,"W":0.06493506493506493,"U":0.03896103896103896,"G":0.11688311688311688},
   "recent_events": [
+    {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":9,"rank":[3,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"0-2-0","game_record":"2-4-0"},
     {"id":351533,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-14","format":"pioneer","points":6,"rank":[8,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":4,"rank":[11,14],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-5-0"},

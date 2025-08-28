@@ -1,4 +1,5 @@
 [
+  {"id":356405,"format":"pioneer","date":"2025-08-28","name":"Summer League 2025 | Pioneer #12","players_count":13,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Selesnya Company","colors":"WG","type":null}}},
   {"id":356404,"format":"pauper","date":"2025-08-27","name":"Summer League 2025 | Pauper #11","players_count":16,"winner":{"player":{"display_name":"Kondibor Nikita","id":"k1ppy"},"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"}}},
   {"id":355998,"format":"standard","date":"2025-08-26","name":"Summer League 2025 | Standard #11","players_count":10,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"}}},
   {"id":353663,"format":"pioneer","date":"2025-08-21","name":"Summer League 2025 | Pioneer #11","players_count":12,"winner":{"player":{"display_name":"Kondibor Nikita","id":"k1ppy"},"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}}},
