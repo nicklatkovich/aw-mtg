@@ -22,7 +22,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f': 'Novikov Valentine',
   'adeba5e9-a5e4-4c9e-85c9-a09f10acc4af': 'Yushkevich Egor',
   '28e086b4-9b7f-417a-b115-a174cd9056cc': 'Korol Igor',
-  '94a41687-53a7-4651-b45c-72061e28251a': ['Snytko Egor', { id: 'warded-bye' }],
+  '94a41687-53a7-4651-b45c-72061e28251a': 'Snytko Egor',
   '2c039725-2aba-44a8-b53a-ce1d84e0fca5': ['Novik Ernest', { id: 'novik' }],
   '1cac0dfc-55ad-42dd-9d8a-f7812cf73013': 'Smoktunovich Kirill',
   'af6204f9-632f-43d1-9e9a-81fe2edd8d79': ['Arepin Artyom', { id: 'hi-art' }],
@@ -271,4 +271,5 @@ export const playersByUsername: { [username in string]?: string } = {
   KirT2: '9314b499-6958-4f4e-9fd3-dea9bfd0f06c',
   GraphDyko: '642e0fd1-d7f7-4598-9b43-d7ba2a7c102b',
   AlexeyKorzhov: '9a917182-b0cc-4443-934e-c5e57173cd6c',
+  EgorS: '94a41687-53a7-4651-b45c-72061e28251a',
 };

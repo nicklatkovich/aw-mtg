@@ -3,6 +3,52 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 359861,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (02.09)',
+    date: '2025-09-02',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Temur Landfall', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'McRais', rank: 2, deck: 'Orzhov Ketramose', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'qvertion', rank: 3, deck: 'Temur Battlecrier', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'RomanKohan14', rank: 4, deck: 'Orzhov Sacrifice', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Alex88', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: '4exOFFby', rank: 6, deck: 'Dimir Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'aspelled', rank: 7, deck: 'Mono-Red Aggro', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'EgorS', rank: 8, deck: 'Rakdos Sacrifice', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-7-0' },
+      { player: 'BRV', rank: 9, deck: 'Boros Burn', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '5-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['4exOFFby', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['RomanKohan14', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'EgorS'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['aspelled', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['4exOFFby', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['EgorS', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['EgorS', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['4exOFFby', 'RomanKohan14'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['EgorS', '4exOFFby'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Alex88'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 355998,
     format: Format.STANDARD,
     name: 'Summer League 2025 | Standard #11',
