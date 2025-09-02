@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"R":0.45544554455445535,"W":0.49504950495049493,"U":0.33663366336633654,"G":0.20792079207920788},
+  "color_stats": {"U":0.35643564356435636,"R":0.47524752475247517,"G":0.22772277227722768,"B":1,"W":0.49504950495049493},
   "recent_events": [
+    {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":12,"rank":[1,9],"deck":{"archetype":"Temur Landfall","colors":"URG","type":null},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":6,"rank":[10,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":353652,"name":"Summer League 2025 | Standard #11","date":"2025-08-19","format":"standard","points":6,"rank":[7,9],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},

@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"B":0.437086092715232,"R":0.5298013245033115,"G":0.11920529801324507,"U":1,"W":0.2582781456953643},
+  "color_stats": {"U":1,"R":0.5359477124183009,"G":0.13071895424836608,"B":0.4313725490196081,"W":0.25490196078431376},
   "recent_events": [
+    {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":6,"rank":[8,16],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":12,"rank":[1,10],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},

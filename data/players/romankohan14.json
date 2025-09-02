@@ -2,8 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"W":0.3191489361702128,"G":0.18617021276595744,"B":0.24999999999999997,"R":1,"U":0.1595744680851064},
+  "color_stats": {"W":0.3351063829787234,"B":0.26595744680851063,"G":0.18617021276595744,"R":1,"U":0.1595744680851064},
   "recent_events": [
+    {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":6,"rank":[4,9],"deck":{"archetype":"Orzhov Sacrifice","colors":"WB","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":12,"rank":[1,13],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":9,"rank":[3,10],"deck":{"archetype":"Orzhov Sacrifice","colors":"WB","type":null},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":353663,"name":"Summer League 2025 | Pioneer #11","date":"2025-08-21","format":"pioneer","points":9,"rank":[4,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
