@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"R":1,"W":0.5458937198067633,"B":0.043478260869565216,"U":0.08212560386473429,"G":0.00966183574879227},
+  "color_stats": {"W":0.5523809523809523,"R":1,"B":0.04285714285714286,"U":0.08095238095238094,"G":0.009523809523809523},
   "recent_events": [
+    {"id":360985,"name":"Daily | Pioneer (04.09)","date":"2025-09-04","format":"pioneer","points":9,"rank":[2,15],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":6,"rank":[5,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":6,"rank":[6,13],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":0,"rank":[10,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"4-8-0"},
