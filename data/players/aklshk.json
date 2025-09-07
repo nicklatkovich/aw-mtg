@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"B":0.5084269662921348,"W":0.19943820224719097,"R":0.1292134831460674,"G":0.10112359550561797},
+  "color_stats": {"U":1,"B":0.4689119170984456,"W":0.18393782383419685,"R":0.11917098445595854,"G":0.09326424870466321},
   "recent_events": [
+    {"id":362305,"name":"MTGA Vintage Pauper (07.09)","date":"2025-09-07","format":"pauper","points":6,"rank":[3,9],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":9,"rank":[5,16],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":9,"rank":[5,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":9,"rank":[6,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
