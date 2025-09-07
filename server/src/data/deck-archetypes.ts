@@ -20,6 +20,7 @@ export const ARCHETYPES = {
   'Azorius Familiar': 'WU',
   'Azorius Convoke': ['WU', DeckType.AGGRO],
   'Azorius Gates': 'WU',
+  'Azorius Ephemerate': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -62,6 +63,7 @@ export const ARCHETYPES = {
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
   'Abzan Bounce': ['WBG', DeckType.MIDRANGE],
   'Abzan Gates': 'WBG',
+  'Abzan Lifegain': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
