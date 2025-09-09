@@ -3,6 +3,46 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 362552,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (09.09)',
+    date: '2025-09-09',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Temur Landfall', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'McRais', rank: 2, deck: 'Izzet Vivi', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'K1ppy', rank: 3, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'warded_bye', rank: 4, deck: 'Rakdos Sacrifice', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'qvertion', rank: 5, deck: 'Temur Battlecrier', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-7-0' },
+      { player: 'BuRial63', rank: 6, deck: 'Rakdos Lizards', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'RomanKohan14', rank: 7, deck: 'Dimir Midrange', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+      { player: 'Azurenia', rank: 8, deck: 'Orzhov Ketramose', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Very_Bad_Man', 'warded_bye'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'BuRial63'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'K1ppy'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['qvertion', 'K1ppy'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['warded_bye', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['BuRial63', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['K1ppy', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'warded_bye'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'BuRial63'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['warded_bye', null], winner: 1, record: 'bye' },
+        { players: ['K1ppy', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'qvertion'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 359861,
     format: Format.STANDARD,
     name: 'Daily | Standard (02.09)',
