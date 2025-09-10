@@ -26,6 +26,7 @@ export const ARCHETYPES = {
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
   'Esper Oculus': ['WUB', DeckType.MIDRANGE],
   'Esper Midrange': ['WUB', DeckType.MIDRANGE],
+  'Esper Affinity': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -151,6 +152,7 @@ export const ARCHETYPES = {
   'Mono-Black Pox': ['B', DeckType.CONTROL],
   'Mono-Black Depths': ['B', DeckType.COMBO],
   'Mono-Black Sacrifice': 'B',
+  'Mono-Black Land Destruction': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
