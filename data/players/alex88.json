@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"B":0.056338028169014086,"R":1,"W":0.5446009389671361,"U":0.07981220657276994,"G":0.009389671361502348},
+  "color_stats": {"W":0.5509259259259259,"R":1,"B":0.05555555555555555,"U":0.07870370370370369,"G":0.009259259259259259},
   "recent_events": [
+    {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":12,"rank":[1,17],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":12,"rank":[1,13],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":360985,"name":"Daily | Pioneer (04.09)","date":"2025-09-04","format":"pioneer","points":9,"rank":[2,15],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":6,"rank":[5,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},

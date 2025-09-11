@@ -2,8 +2,9 @@
   "guid": "ff90ac15-5373-4769-9681-a1f23fb04340",
   "id": "sutko",
   "display_name": "Sutko Artem",
-  "color_stats": {"W":0.2213114754098361,"U":0.2213114754098361,"B":1,"R":0.26229508196721313,"G":1},
+  "color_stats": {"W":0.3442622950819672,"U":0.3442622950819672,"B":1,"R":0.26229508196721313,"G":1},
   "recent_events": [
+    {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":0,"rank":[16,17],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":360985,"name":"Daily | Pioneer (04.09)","date":"2025-09-04","format":"pioneer","points":6,"rank":[9,15],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":9,"rank":[4,13],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[7,20],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},

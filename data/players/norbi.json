@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"U":1,"B":0.2222222222222222,"G":0.2962962962962963,"R":0.8518518518518517,"W":0.07407407407407407},
+  "color_stats": {"U":1,"R":0.8666666666666666,"B":0.2,"G":0.26666666666666666,"W":0.06666666666666667},
   "recent_events": [
+    {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[7,17],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":0,"rank":[11,12],"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":6,"rank":[3,5]},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":3,"rank":[7,12],"match_record":"1-1-0","game_record":"3-2-0"},

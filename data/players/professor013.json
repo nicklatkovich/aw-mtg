@@ -1,0 +1,9 @@
+{
+  "guid": "ce70951c-9b0c-4927-9fda-0b77f3848dcf",
+  "id": "professor013",
+  "display_name": "Inshakov Nikita",
+  "color_stats": {"W":1,"U":1},
+  "recent_events": [
+    {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":4,"rank":[13,17],"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"}
+  ]
+}
