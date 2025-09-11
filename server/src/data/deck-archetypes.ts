@@ -21,6 +21,7 @@ export const ARCHETYPES = {
   'Azorius Convoke': ['WU', DeckType.AGGRO],
   'Azorius Gates': 'WU',
   'Azorius Ephemerate': 'WU',
+  'Azorius Lotus Field': ['WU', DeckType.CONTROL],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
