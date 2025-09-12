@@ -5,6 +5,7 @@ export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 
 export const ARCHETYPES = {
   // c
+  'Colorless Tron': 'c',
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
@@ -18,11 +19,15 @@ export const ARCHETYPES = {
   'Azorius Artifacts': ['WU', DeckType.MIDRANGE],
   'Azorius Familiar': 'WU',
   'Azorius Convoke': ['WU', DeckType.AGGRO],
+  'Azorius Gates': 'WU',
+  'Azorius Ephemerate': 'WU',
+  'Azorius Lotus Field': ['WU', DeckType.CONTROL],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
   'Esper Oculus': ['WUB', DeckType.MIDRANGE],
   'Esper Midrange': ['WUB', DeckType.MIDRANGE],
+  'Esper Affinity': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -30,11 +35,13 @@ export const ARCHETYPES = {
   'Jeskai Control': ['WUR', DeckType.CONTROL],
   'Jeskai Solution': ['WUR', DeckType.MIDRANGE],
   'Jeskai Convoke': ['WUR', DeckType.AGGRO],
+  'Jeskai Gates': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
   'Bant Lotus Field': ['WUG', DeckType.COMBO],
   'Bant Bogles': ['WUG', DeckType.AGGRO],
+  'Cephalid Breakfast': ['WUG', DeckType.COMBO],
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
@@ -44,6 +51,9 @@ export const ARCHETYPES = {
   'Orzhov Deadguy Ale': 'WB',
   'Orzhov Gates': 'WB',
   'Orzhov Monument': ['WB', DeckType.COMBO],
+  'Orzhov Ketramose': ['WB', DeckType.MIDRANGE],
+  'Orzhov Enchantments': 'WB',
+  'Orzhov Sacrifice': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -54,6 +64,8 @@ export const ARCHETYPES = {
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
   'Abzan Bounce': ['WBG', DeckType.MIDRANGE],
+  'Abzan Gates': 'WBG',
+  'Abzan Lifegain': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
@@ -68,6 +80,8 @@ export const ARCHETYPES = {
   'Boros Energy': ['WR', DeckType.AGGRO],
   'Boros Burn': ['WR', DeckType.AGGRO],
   'Boros Weenie': ['WR', DeckType.AGGRO],
+  'Boros Resonance': ['WR', DeckType.AGGRO],
+  'Boros Mice': ['WR', DeckType.AGGRO],
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -78,6 +92,8 @@ export const ARCHETYPES = {
   'Selesnya Rabbits': ['WG', DeckType.AGGRO],
   'Selesnya Bogles': ['WG', DeckType.AGGRO],
   'Selesnya Angels': ['WG', DeckType.MIDRANGE],
+  'Selesnya Counters': 'WG',
+  'Selesnya Depths': ['WG', DeckType.COMBO],
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],
@@ -94,6 +110,9 @@ export const ARCHETYPES = {
   'Dimir Faeries': ['UB', DeckType.TEMPO],
   'Dimir Oculus': ['UB', DeckType.MIDRANGE],
   'Dimir Mill Combo': ['UB', DeckType.COMBO],
+  'Dimir Omni-Tell': ['UB', DeckType.COMBO],
+  'Dimir Affinity': 'UB',
+  'Dimir Abjure': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -117,17 +136,24 @@ export const ARCHETYPES = {
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
+  'Temur Landfall': 'URG',
+  'Temur Battlecrier': ['URG', DeckType.COMBO],
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
   'Simic Petitioners Combo': ['UG', DeckType.COMBO],
   'Simic Madness': 'UG',
   'Simic Elves': 'UG',
+  'Simic Aggro': ['UG', DeckType.AGGRO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
   'Mono-Black Pactdoll': 'B',
   'Mono-Black Pit Rack': 'B',
+  'Mono-Black Pox': ['B', DeckType.CONTROL],
+  'Mono-Black Depths': ['B', DeckType.COMBO],
+  'Mono-Black Sacrifice': 'B',
+  'Mono-Black Land Destruction': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -147,6 +173,10 @@ export const ARCHETYPES = {
   'Golgari Midrange': ['BG', DeckType.MIDRANGE],
   'Golgari Pactdoll': 'BG',
   'Golgari Saprolings': 'BG',
+  'Golgari Spy Combo': ['BG', DeckType.COMBO],
+  'Golgari Gardens': 'BG',
+  'Golgari Altar Tron': 'BG',
+  'Golgari Food': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -154,6 +184,9 @@ export const ARCHETYPES = {
   'Mono-Red Burn': ['R', DeckType.AGGRO],
   'Mono-Red Bushwhacker': ['R', DeckType.AGGRO],
   'Mono-Red Synthesizer': 'R',
+  'Mono-Red Madness': 'R',
+  'Mono-Red Prison': 'R',
+  'Mono-Red Dragons': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
@@ -167,6 +200,7 @@ export const ARCHETYPES = {
   'Mono-Green Elves': 'G',
   'Mono-Green Infect': 'G',
   'Walls Combo': ['G', DeckType.COMBO],
+  'Mono-Green Landfall': ['G', DeckType.AGGRO],
   // 4c
   Dredge: ['WBRG', DeckType.COMBO],
   Tron: 'WBRG',
@@ -180,6 +214,7 @@ export const ARCHETYPES = {
   'Domain Zur': ['WUBRG', DeckType.CONTROL],
   'Domain Control': ['WUBRG', DeckType.CONTROL],
   'Domain Zoo': ['WUBRG', DeckType.MIDRANGE],
+  'Domain Enchantments': ['WUBRG', DeckType.CONTROL],
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
 } as const;

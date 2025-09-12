@@ -1,13 +1,13 @@
 import { createHashRouter, Navigate, RouterProvider } from 'react-router-dom';
 import App from './App';
 import RecentEventsPage from './pages/RecentEventsPage';
-import StandardLadder from './pages/StandardLadder';
 import SummerLeague2025 from './pages/SummerLeague2025';
 import NotFound from './pages/NotFound';
 import TournamentPage from './pages/TournamentPage';
 import PlayerPage from './pages/PlayerPage';
 import { PioneerLadder2025 } from './pages/PioneerLadder';
 import PlayersListPage from './pages/PlayersListPage';
+import { StandardLadder2025 } from './pages/StandardLadder';
 
 const router = createHashRouter([
   {
@@ -17,7 +17,7 @@ const router = createHashRouter([
       { path: '/', element: <Navigate to={'/recent-events'} /> },
       { path: '/recent-events', index: true, element: <RecentEventsPage /> },
       { path: '/pioneer-ladder', element: <PioneerLadder2025 /> },
-      { path: '/standard-ladder', element: <StandardLadder /> },
+      { path: '/standard-ladder', element: <StandardLadder2025 /> },
       { path: '/summer-league-2025', element: <SummerLeague2025 /> },
       { path: '/players', element: <PlayersListPage /> },
       { path: '/event/:id', element: <TournamentPage /> },

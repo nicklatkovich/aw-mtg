@@ -3,6 +3,83 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 'l250810',
+    format: Format.LEGACY,
+    name: 'Summer League 2025 | Legacy #4',
+    date: '2025-08-10',
+    standings: [
+      { player: 'aklshk', rank: 1, deck: 'Mono-Black Depths', points: 9, tgw: 66.67 /*6/9*/ },
+      { player: 'NickLatkovich', rank: 2, deck: 'Dimir Omni-Tell', points: 9, tgw: 63.64 /*7/11*/ },
+      { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 6, tgw: 54.55 /*6/11*/ },
+      { player: 'K1ppy', rank: 4, deck: 'Mono-Red Prison', points: 6, tgw: 45.45 /*5/11*/ },
+      { player: 'TroV1', rank: 5, deck: 'Death and Taxes', points: 0, tgw: 20 /*2/10*/ },
+    ],
+    rounds: [
+      [
+        { players: ['farsmac', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'aklshk'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'K1ppy'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'aklshk'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'K1ppy'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'K1ppy'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'aklshk'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'TroV1'], winner: 1, record: '2-1-0' },
+        { players: ['aklshk', 'K1ppy'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
+    id: 342699,
+    format: Format.LEGACY,
+    name: 'Summer League 2025 | Legacy #3',
+    date: '2025-07-27',
+    standings: [
+      { player: 'K1ppy', rank: 1, deck: 'Mono-Red Prison', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'aklshk', rank: 2, deck: 'Mono-Black Pox', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Tanti', rank: 4, deck: 'Domain Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'NickLatkovich', rank: 5, deck: 'Domain Enchantments', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: '4onoki', rank: 6, deck: 'Selesnya Depths', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'qvertion', rank: 7, deck: 'Cephalid Breakfast', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'ykcyc', rank: 8, deck: 'Mono-Red Prison', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '1-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['farsmac', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['aklshk', 'ykcyc'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['K1ppy', 'qvertion'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['K1ppy', 'aklshk'], winner: 1, record: '2-1-0' },
+        { players: ['4onoki', 'farsmac'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'ykcyc'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tanti', 'K1ppy'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'aklshk'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'farsmac'], winner: 2, record: '2-0-0' },
+        { players: ['ykcyc', '4onoki'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['K1ppy', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['Tanti', 'aklshk'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', '4onoki'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'ykcyc'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 'l250629',
     format: Format.LEGACY,
     name: 'Summer League 2025 | Legacy #2',

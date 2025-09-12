@@ -21,7 +21,7 @@ for (const round of meleeRounds) {
     const p2id = p2?.Username ?? null;
     if (p2 === null || p2id === null) {
       assert(match.ResultString.startsWith(p1.DisplayName + ' '));
-      assert(/^.+ was (assigned|awarded) a bye$/.test(match.ResultString));
+      assert(/^.+ (was (assigned|awarded) a bye|(won 2-0))$/.test(match.ResultString), match.ResultString);
       matches.push({ players: [p1id, null], winner: 1, record: 'bye' });
       continue;
     }

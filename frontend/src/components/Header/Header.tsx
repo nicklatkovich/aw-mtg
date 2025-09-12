@@ -2,11 +2,10 @@ import { Link, useLocation } from 'react-router-dom';
 import styles from './Header.module.scss';
 
 const navLinks = [
-  { to: '/recent-events', label: 'Recent Events [WIP]' },
-  { to: '/pioneer-ladder', label: 'Pioneer Ladder [TBD]' },
-  { to: '/standard-ladder', label: 'Standard Ladder [TBD]' },
-  { to: '/summer-league-2025', label: 'Summer League 2025 [TBD???]' },
-  { to: '/players', label: 'Players [TBD]' },
+  { to: '/recent-events', label: 'Recent Events' },
+  { to: '/pioneer-ladder', label: 'Pioneer Ladder' },
+  { to: '/standard-ladder', label: 'Standard Ladder' },
+  { to: '/players', label: 'Players [WIP]' },
 ];
 
 export default function Header() {

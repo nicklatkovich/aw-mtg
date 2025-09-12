@@ -1,6 +1,8 @@
+import assert from 'assert';
 import { DeckDTO } from '@dtos';
 import { Deck, DeckArchetype } from './data.types';
 import { ArchetypeInfo, ARCHETYPES } from './deck-archetypes';
+import { playersByGuid } from './players';
 
 export function getArchetypeInfo(archetype: DeckArchetype): ArchetypeInfo;
 export function getArchetypeInfo(archetype: string): ArchetypeInfo | null;
@@ -44,4 +46,10 @@ export function toDeckDTO(deck?: Deck | null): DeckDTO | null {
 export function flipRecord(record: string): string {
   const split = record.split('-');
   return [split[1], split[0], split.slice(2)].join('-');
+}
+
+export function getPlayerNameByGuid(guid: string): string {
+  const player = playersByGuid[guid];
+  assert(player, `Player ${guid} not found`);
+  return typeof player === 'string' ? player : player[0];
 }

@@ -4,5 +4,6 @@ export * from './format';
 export * from './player.dto';
 export * from './players-list.dto';
 export * from './recent-tournaments-table-row.dto';
+export * from './standard-ladder.dto';
 export * from './tournament-results';
 export * from './pioneer-ladder.dto';

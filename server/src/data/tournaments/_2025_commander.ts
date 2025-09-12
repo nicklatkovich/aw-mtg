@@ -3,6 +3,26 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_commander: Tournament[] = [
   {
+    id: 'c250704',
+    format: Format.COMMANDER,
+    name: 'Summer League 2025 | Commander #4 (Precons)',
+    date: '2025-07-04',
+    standings: [
+      { rank: 1, points: 12, player: '46d4ca5f-1d44-47da-9be8-414af89faf15' /* Bontsevich Gleb */, deck: { name: 'Graveyard Overdrive', colors: 'BRG' } },
+      { rank: 2, points: 9, player: '44ea1bf1-d9ce-4664-b0d2-9d02535601df' /* Olegov Yaroslav */, deck: { name: 'Ahoy Mateys', colors: 'UBR' } },
+      { rank: 3, points: 6, player: 'Eugheni', deck: { name: 'Scions & Spellcraft', colors: 'WUB' } },
+      { rank: 4, points: 6, player: 'DmiB', deck: { name: 'Tyranid Swarm', colors: 'URG' } },
+      { rank: 5, points: 3, player: 'Prokis' },
+      { rank: 6, points: 3, player: 'e6d28df5-a35e-434f-87f0-4be11c9b9079' /* Pichushkin Andrey */ },
+      { rank: 7, points: 3, player: 'f8aaf1aa-1e14-4663-b8dd-c78ac5361f14' /* Pikulev Daniil */ },
+      { rank: 8, points: 3, player: '631fd7bc-fd14-4de3-ade2-984bd64352b6' /* Vergeichik Kirill */ },
+      { rank: 9, points: 3, player: '1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed' /* Khvin Alexander */ },
+      { rank: 10, points: 3, player: 'DraA' },
+      { rank: 11, points: 0, player: '906038db-c395-4c01-886b-92e9e1bfcfab' /* Pastushik Pavel */ },
+      { rank: 12, points: 0, player: 'c6b54f23-d2ed-440a-9f0f-57408f0f820b' /* Simakov Dmitriy */ },
+    ],
+  },
+  {
     id: 'c250627',
     format: Format.COMMANDER,
     name: 'Summer League 2025 | Commander #3 (Tribal)',

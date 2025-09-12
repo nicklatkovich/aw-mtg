@@ -36,7 +36,7 @@ export const PioneerLadder2025: React.FC = () => (
               <div className="cell">
                 <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
               </div>
-              <div className="cell">{row.points}</div>
+              <div className={`cell ${row.points >= 200 ? 'red-highlight' : ''}`}>{row.points}</div>
               <div className="cell">{row.events}</div>
               <div className="cell">
                 {((row.mw / row.mp) * 100).toFixed(2)}% ({row.mw}/{row.mp})
