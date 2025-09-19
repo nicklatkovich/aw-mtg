@@ -3,6 +3,42 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 364962,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (16.09)',
+    date: '2025-09-16',
+    standings: [
+      { player: 'qvertion', rank: 1, deck: 'Temur Battlecrier', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'warded_bye', rank: 2, deck: 'Rakdos Sacrifice', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: '4exOFFby', rank: 3, deck: 'Dimir Midrange', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-4-0' },
+      { player: 'aspelled', rank: 4, deck: 'Azorius Control', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'BRV', rank: 5, deck: 'Boros Burn', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Very_Bad_Man', rank: 6, deck: 'Orzhov Sacrifice', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: '[OMG]Summie', rank: 7, deck: 'Dimir Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-5-0' },
+      { player: 'RomanKohan14', rank: 8, deck: 'Temur Landfall', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['4exOFFby', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['RomanKohan14', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['warded_bye', '[OMG]Summie'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['aspelled', 'warded_bye'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', '4exOFFby'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', '[OMG]Summie'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['warded_bye', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['aspelled', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', '4exOFFby'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 362552,
     format: Format.STANDARD,
     name: 'Daily | Standard (09.09)',
