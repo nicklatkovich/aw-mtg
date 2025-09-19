@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.5201535508637235,"U":0.3953934740882918,"B":1,"R":0.510556621880998,"G":0.28023032629558536},
+  "color_stats": {"W":0.5489443378119002,"R":0.5393474088291746,"U":0.3953934740882918,"B":1,"G":0.28023032629558536},
   "recent_events": [
+    {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":6,"rank":[5,14],"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[6,17],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"4-3-0"},
     {"id":362552,"name":"Daily | Standard (09.09)","date":"2025-09-09","format":"standard","points":9,"rank":[1,8],"deck":{"archetype":"Temur Landfall","colors":"URG","type":null},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":362305,"name":"MTGA Vintage Pauper (07.09)","date":"2025-09-07","format":"pauper","points":3,"rank":[6,9],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-3-0","game_record":"3-6-0"},

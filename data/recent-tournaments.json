@@ -1,4 +1,5 @@
 [
+  {"id":365576,"format":"pioneer","date":"2025-09-18","name":"Daily | Pioneer (18.09)","players_count":14,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":362554,"format":"pioneer","date":"2025-09-11","name":"Daily | Pioneer (11.09)","players_count":17,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"}}},
   {"id":362553,"format":"pauper","date":"2025-09-10","name":"Daily | Pauper (10.09)","players_count":13,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null}}},
   {"id":362552,"format":"standard","date":"2025-09-09","name":"Daily | Standard (09.09)","players_count":8,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Temur Landfall","colors":"URG","type":null}}},

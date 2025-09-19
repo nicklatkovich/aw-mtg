@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"B":1,"R":0.891566265060241,"W":0.06024096385542168,"U":0.03614457831325301,"G":0.10843373493975904},
+  "color_stats": {"B":1,"R":0.8953488372093024,"W":0.05813953488372092,"U":0.03488372093023256,"G":0.10465116279069767},
   "recent_events": [
+    {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":12,"rank":[1,14],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":4,"rank":[12,17],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-1","game_record":"3-5-1"},
     {"id":360985,"name":"Daily | Pioneer (04.09)","date":"2025-09-04","format":"pioneer","points":12,"rank":[1,15],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":356405,"name":"Summer League 2025 | Pioneer #12","date":"2025-08-28","format":"pioneer","points":9,"rank":[3,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
