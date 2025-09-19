@@ -195,6 +195,7 @@ export const ARCHETYPES = {
   'Gruul Ramp': ['RG', DeckType.MIDRANGE],
   'Gruul Madness': 'RG',
   'Gruul Ponza': 'RG',
+  'Gruul Vehicles': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
