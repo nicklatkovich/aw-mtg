@@ -4,6 +4,7 @@
   "display_name": "Chakhouski Vasili",
   "color_stats": {"U":0.6142857142857144,"B":1,"W":0.5285714285714286},
   "recent_events": [
+    {"id":366845,"name":"Daily | Standard (23.09)","date":"2025-09-23","format":"standard","points":0,"rank":[9,9],"match_record":"0-3-0","game_record":"3-6-0"},
     {"id":364962,"name":"Daily | Standard (16.09)","date":"2025-09-16","format":"standard","points":6,"rank":[3,8],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-1-0","game_record":"4-4-0"},
     {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":6,"rank":[6,10],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-6-0"},
