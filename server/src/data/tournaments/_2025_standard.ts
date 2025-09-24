@@ -3,6 +3,52 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 366845,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (23.09)',
+    date: '2025-09-23',
+    standings: [
+      { player: '[OMG]Summie', rank: 1, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-2-0' },
+      { player: 'BRV', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'RomanKohan14', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Very_Bad_Man', rank: 4, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-4-0' },
+      { player: 'BuRial63', rank: 5, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'qvertion', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'warded_bye', rank: 7, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Azurenia', rank: 8, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: '4exOFFby', rank: 9, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BuRial63', null], winner: 1, record: 'bye' },
+        { players: ['Azurenia', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'warded_bye'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'RomanKohan14'], winner: 2, record: '2-0-0' },
+        { players: ['4exOFFby', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['warded_bye', null], winner: 1, record: 'bye' },
+        { players: ['[OMG]Summie', '4exOFFby'], winner: 1, record: '2-1-0' },
+        { players: ['BuRial63', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['Azurenia', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Azurenia', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'BuRial63'], winner: 1, record: '2-0-0' },
+        { players: ['RomanKohan14', '4exOFFby'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'warded_bye'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'Very_Bad_Man'], winner: 0, record: '1-1-0' },
+        { players: ['BRV', 'BuRial63'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['warded_bye', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 364962,
     format: Format.STANDARD,
     name: 'Daily | Standard (16.09)',
