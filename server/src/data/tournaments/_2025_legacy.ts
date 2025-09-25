@@ -3,16 +3,46 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 'l250921',
+    format: Format.LEGACY,
+    name: 'Daily | Legacy (21.09)',
+    date: '2025-09-21',
+    standings: [
+      { player: 'farsmac', rank: 1, deck: 'Mono-Blue Cloudpost', points: 9, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'Tanti', rank: 2, deck: 'Bant Nadu', points: 6, match_record: '2-2-0', game_record: '4-6-0', omw: 56.25 /*9/16*/ },
+      { player: 'aklshk', rank: 3, deck: 'Azorius Stoneblade', points: 6, match_record: '2-2-0', game_record: '6-5-0', omw: 43.75 /*7/16*/ },
+      { player: '4onoki', rank: 4, deck: 'Abzan Maverick', points: 3, match_record: '1-3-0', game_record: '3-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['farsmac', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['Tanti', 'aklshk'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'Tanti'], winner: 1, record: '2-0-0' },
+        { players: ['aklshk', '4onoki'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'aklshk'], winner: 2, record: '2-1-0' },
+        { players: ['Tanti', '4onoki'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'Tanti'], winner: 1, record: '2-0-0' },
+        { players: ['4onoki', 'aklshk'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 'l250810',
     format: Format.LEGACY,
     name: 'Summer League 2025 | Legacy #4',
     date: '2025-08-10',
     standings: [
-      { player: 'aklshk', rank: 1, deck: 'Mono-Black Depths', points: 9, tgw: 66.67 /*6/9*/ },
-      { player: 'NickLatkovich', rank: 2, deck: 'Dimir Omni-Tell', points: 9, tgw: 63.64 /*7/11*/ },
-      { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 6, tgw: 54.55 /*6/11*/ },
-      { player: 'K1ppy', rank: 4, deck: 'Mono-Red Prison', points: 6, tgw: 45.45 /*5/11*/ },
-      { player: 'TroV1', rank: 5, deck: 'Death and Taxes', points: 0, tgw: 20 /*2/10*/ },
+      { player: 'aklshk', rank: 1, deck: 'Mono-Black Depths', points: 9, match_record: '3-1-0', game_record: '6-3-0', tgw: 66.67 /*6/9*/ },
+      { player: 'NickLatkovich', rank: 2, deck: 'Dimir Omni-Tell', points: 9, match_record: '3-1-0', game_record: '7-4-0', tgw: 63.64 /*7/11*/ },
+      { player: 'farsmac', rank: 3, deck: 'Colorless Tron', points: 6, match_record: '2-2-0', game_record: '6-5-0', tgw: 54.55 /*6/11*/ },
+      { player: 'K1ppy', rank: 4, deck: 'Mono-Red Prison', points: 6, match_record: '2-2-0', game_record: '5-6-0', tgw: 45.45 /*5/11*/ },
+      { player: 'TroV1', rank: 5, deck: 'Death and Taxes', points: 0, match_record: '0-4-0', game_record: '2-8-0', tgw: 20 /*2/10*/ },
     ],
     rounds: [
       [

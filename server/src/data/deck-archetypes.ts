@@ -22,12 +22,14 @@ export const ARCHETYPES = {
   'Azorius Gates': 'WU',
   'Azorius Ephemerate': 'WU',
   'Azorius Lotus Field': ['WU', DeckType.CONTROL],
+  'Azorius Stoneblade': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
   'Esper Oculus': ['WUB', DeckType.MIDRANGE],
   'Esper Midrange': ['WUB', DeckType.MIDRANGE],
   'Esper Affinity': 'WUB',
+  'Esper Glintblade': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -42,6 +44,7 @@ export const ARCHETYPES = {
   'Bant Lotus Field': ['WUG', DeckType.COMBO],
   'Bant Bogles': ['WUG', DeckType.AGGRO],
   'Cephalid Breakfast': ['WUG', DeckType.COMBO],
+  'Bant Nadu': 'WUG',
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
@@ -66,6 +69,7 @@ export const ARCHETYPES = {
   'Abzan Bounce': ['WBG', DeckType.MIDRANGE],
   'Abzan Gates': 'WBG',
   'Abzan Lifegain': 'WBG',
+  'Abzan Maverick': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
@@ -101,6 +105,7 @@ export const ARCHETYPES = {
   'Mono-Blue Terror': ['U', DeckType.TEMPO],
   'Mono-Blue High Tide': ['U', DeckType.COMBO],
   'Mono-Blue Ninjas': ['U', DeckType.TEMPO],
+  'Mono-Blue Cloudpost': 'U',
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],

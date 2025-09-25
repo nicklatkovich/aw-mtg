@@ -136,6 +136,12 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '14776540-5dfc-4c8c-bdcb-edc8e8629bc5': 'Shatunov Yuri',
   'ce70951c-9b0c-4927-9fda-0b77f3848dcf': 'Inshakov Nikita',
   '6b76518c-1ad7-4a9b-bcfc-780bb7a54142': 'Dmitry Avdeenko',
+
+  // unknown players
+  '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9',
+  '5db075fb-48e5-48c9-b675-32b86f0312f7': 'HeartlessHero',
+  'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2',
+  '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -280,4 +286,9 @@ export const playersByUsername: { [username in string]?: string } = {
   Yisan77: '08306c56-4ad8-4dbc-84ba-9d8ac0586ff2',
   Professor013: 'ce70951c-9b0c-4927-9fda-0b77f3848dcf',
   Dalotus: '6b76518c-1ad7-4a9b-bcfc-780bb7a54142',
+  Miroslav1k: '22e801b1-eea9-4d42-a617-c7dad2add995',
+  DanZ9: '2ee74800-0713-4f8a-abb2-c5ed1329911f',
+  HeartlessHero: '5db075fb-48e5-48c9-b675-32b86f0312f7',
+  VitG2: 'b0439307-6a92-4967-b30f-2b255d3f989a',
+  xcavi: '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5',
 };
