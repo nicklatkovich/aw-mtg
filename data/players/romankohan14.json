@@ -2,9 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"R":1,"G":0.2357642357642358,"U":0.18081918081918083,"W":0.35064935064935077,"B":0.3006993006993008},
+  "color_stats": {"W":0.3806193806193807,"R":1,"G":0.2357642357642358,"U":0.18081918081918083,"B":0.3006993006993008},
   "recent_events": [
-    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":12,"rank":[1,14],"match_record":"4-0-0","game_record":"8-2-0"},
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":12,"rank":[1,14],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":366845,"name":"Daily | Standard (23.09)","date":"2025-09-23","format":"standard","points":9,"rank":[3,9],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":6,"rank":[9,14],"deck":{"archetype":"Gruul Vehicles","colors":"RG","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":364962,"name":"Daily | Standard (16.09)","date":"2025-09-16","format":"standard","points":0,"rank":[8,8],"deck":{"archetype":"Temur Landfall","colors":"URG","type":null},"match_record":"0-3-0","game_record":"2-6-0"},

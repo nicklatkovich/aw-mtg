@@ -2,9 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"G":0.44353518821603966,"R":0.7299509001636667,"W":0.11620294599018013,"U":0.1653027823240591},
+  "color_stats": {"B":1,"G":0.42277691107644333,"R":0.695787831513261,"W":0.11076443057722316,"U":0.15756630265210622},
   "recent_events": [
-    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":0,"rank":[12,14],"match_record":"0-2-0","game_record":"2-4-0"},
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":0,"rank":[12,14],"deck":{"archetype":"Mono-Black Sacrifice","colors":"B","type":null},"match_record":"0-2-0","game_record":"2-4-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":1,"rank":[13,14],"deck":{"archetype":"Golgari Food","colors":"BG","type":null},"match_record":"0-2-1","game_record":"2-5-0"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Black Sacrifice","colors":"B","type":null},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":5,"rank":[11,17],"deck":{"archetype":"Golgari Food","colors":"BG","type":null},"match_record":"1-1-2","game_record":"4-4-2"},

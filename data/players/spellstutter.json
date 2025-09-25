@@ -2,9 +2,9 @@
   "guid": "3bba4ab7-f840-4645-b6c6-07b14abce4cb",
   "id": "spellstutter",
   "display_name": "Belousov Timophey",
-  "color_stats": {"U":1,"B":0.4,"R":0.7,"G":0.30000000000000004,"W":0.6000000000000001},
+  "color_stats": {"U":1,"B":0.25,"R":0.43749999999999994,"G":0.1875,"W":0.375},
   "recent_events": [
-    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[2,14],"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[2,14],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[11,20],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":6,"rank":[6,13],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":4,"rank":[10,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-2-1","game_record":"4-5-1"},

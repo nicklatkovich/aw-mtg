@@ -2,9 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"W":0.19700214132762311,"U":1,"B":0.4004282655246253,"R":0.11134903640256959,"G":0.08993576017130621},
+  "color_stats": {"U":1,"W":0.1851106639839034,"B":0.3762575452716298,"R":0.10462776659959758,"G":0.08450704225352113},
   "recent_events": [
-    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[5,14],"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[5,14],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":"l250921","name":"Daily | Legacy (21.09)","date":"2025-09-21","format":"legacy","points":6,"rank":[3,4],"deck":{"archetype":"Azorius Stoneblade","colors":"WU","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":6,"rank":[3,8],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":9,"rank":[3,13],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},

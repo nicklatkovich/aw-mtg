@@ -2,9 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"W":0.3213572854291417,"U":0.7405189620758482,"B":0.3912175648702594,"R":1,"G":0.42115768463073844},
+  "color_stats": {"B":0.4031311154598824,"R":1,"G":0.43248532289628167,"W":0.31506849315068486,"U":0.7260273972602738},
   "recent_events": [
-    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":6,"rank":[6,14],"match_record":"2-2-0","game_record":"5-6-0"},
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":6,"rank":[6,14],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":0,"rank":[18,20],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":3,"rank":[6,8],"deck":{"archetype":"Esper Glintblade","colors":"WUB","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":364962,"name":"Daily | Standard (16.09)","date":"2025-09-16","format":"standard","points":6,"rank":[4,8],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-1-0","game_record":"5-2-0"},
