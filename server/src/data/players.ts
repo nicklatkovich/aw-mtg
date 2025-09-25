@@ -291,4 +291,5 @@ export const playersByUsername: { [username in string]?: string } = {
   HeartlessHero: '5db075fb-48e5-48c9-b675-32b86f0312f7',
   VitG2: 'b0439307-6a92-4967-b30f-2b255d3f989a',
   xcavi: '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5',
+  SutkoA: 'ff90ac15-5373-4769-9681-a1f23fb04340',
 };

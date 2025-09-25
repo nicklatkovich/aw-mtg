@@ -3,6 +3,54 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 367375,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (25.09)',
+    date: '2025-09-25',
+    standings: [
+      { player: 'Roman_B', rank: 1, deck: 'Mono-Black Midrange', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-0' },
+      { player: 'vorotinskyV', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Dukalis1985', rank: 3, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'NickLatkovich', rank: 4, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '3-3-0' },
+      { player: 'ispinyouround', rank: 5, deck: 'Rakdos Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'SutkoA', rank: 6, deck: 'Bant Lotus Field', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Selesnya Company', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-6-0' },
+      { player: 'AlexKhan', rank: 8, deck: 'Azorius Control', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-5-0' },
+      { player: 'GlebK', rank: 9, deck: 'Mono-Red Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'Professor013', rank: 10, deck: 'Azorius Lotus Field', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '4-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['vorotinskyV', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Roman_B'], winner: 0, record: '1-1-0' },
+        { players: ['Dukalis1985', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['Professor013', 'AlexKhan'], winner: 0, record: '1-1-0' },
+        { players: ['SutkoA', 'GlebK'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'SutkoA'], winner: 2, record: '1-0-0' },
+        { players: ['vorotinskyV', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['Roman_B', 'Professor013'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'AlexKhan'], winner: 2, record: '2-1-0' },
+        { players: ['Dukalis1985', 'ispinyouround'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['vorotinskyV', 'AlexKhan'], winner: 1, record: '2-1-0' },
+        { players: ['Roman_B', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['SutkoA', 'Professor013'], winner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'Dukalis1985'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['vorotinskyV', 'Roman_B'], winner: 2, record: '2-1-0' },
+        { players: ['Dukalis1985', 'SutkoA'], winner: 1, record: '2-0-0' },
+        { players: ['AlexKhan', 'NickLatkovich'], winner: 2, record: '1-0-0' },
+        { players: ['GlebK', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['Professor013', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 365576,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (18.09)',
