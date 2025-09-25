@@ -4,6 +4,7 @@
   "display_name": "Moiseenko Pavel",
   "color_stats": {"R":1,"G":0.5294117647058824,"U":0.2941176470588235,"B":0.4705882352941176,"W":0.1764705882352941},
   "recent_events": [
+    {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[14,20],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":1,"rank":[16,16],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"0-3-1","game_record":"3-7-1"},
     {"id":342699,"name":"Summer League 2025 | Legacy #3","date":"2025-07-27","format":"legacy","points":0,"rank":[8,8],"deck":{"archetype":"Mono-Red Prison","colors":"R","type":null},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[20,25],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"1-3-0","game_record":"3-6-0"},

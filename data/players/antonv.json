@@ -4,6 +4,7 @@
   "display_name": "Volotovich Anton",
   "color_stats": {"W":1,"U":1},
   "recent_events": [
+    {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":0,"rank":[19,20],"match_record":"0-1-0","game_record":"0-2-0"},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":12,"rank":[1,22],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":324253,"name":"Summer League 2025 | Pioneer #2","date":"2025-06-12","format":"pioneer","points":3,"rank":[11,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-1-0","game_record":"2-2-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":0,"rank":[12,12],"match_record":"0-1-0","game_record":"0-2-0"},

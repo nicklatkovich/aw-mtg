@@ -2,9 +2,11 @@
   "guid": "00c53649-c5aa-4bed-a147-35396f52ec60",
   "id": "burial63",
   "display_name": "Burankou Aliaksei",
-  "color_stats": {"G":0.7391304347826086,"B":1,"R":0.391304347826087,"W":0.13043478260869565,"U":0.9565217391304348},
+  "color_stats": {"W":0.17391304347826086,"U":1,"G":0.7391304347826086,"B":1,"R":0.391304347826087},
   "recent_events": [
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":0,"rank":[14,14],"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":366845,"name":"Daily | Standard (23.09)","date":"2025-09-23","format":"standard","points":6,"rank":[5,9],"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":0,"rank":[8,8],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":1,"rank":[13,13],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"0-2-1","game_record":"3-4-0"},
     {"id":362552,"name":"Daily | Standard (09.09)","date":"2025-09-09","format":"standard","points":3,"rank":[6,8],"deck":{"archetype":"Rakdos Lizards","colors":"BR","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":4,"rank":[11,16],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"1-2-1","game_record":"4-6-1"},

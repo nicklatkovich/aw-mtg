@@ -4,6 +4,7 @@
   "display_name": "Raptunovich Aleksei",
   "color_stats": {"W":0.5570776255707762,"R":1,"B":0.0547945205479452,"U":0.0776255707762557,"G":0.0091324200913242},
   "recent_events": [
+    {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[4,14],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":6,"rank":[6,14],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":12,"rank":[1,17],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":12,"rank":[1,13],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
@@ -45,7 +46,7 @@
     {"id":307313,"name":"Daily | Standard (13.05)","date":"2025-05-13","format":"standard","points":6,"rank":[7,17],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":300529,"name":"Daily | Pioneer (01.05)","date":"2025-05-01","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":299223,"name":"Daily | Standard (29.04)","date":"2025-04-29","format":"standard","points":9,"rank":[3,14],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-2-0"},
-    {"id":295341,"name":"Daily | Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":12,"rank":[1,18],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":12,"rank":[1,18],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":9,"rank":[3,15],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":290646,"name":"League Standard | Season 11 (12/12)","date":"2025-04-15","format":"standard","points":6,"rank":[9,19],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":286201,"name":"League Standard | Season 11 (11/12)","date":"2025-04-08","format":"standard","points":6,"rank":[9,17],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},

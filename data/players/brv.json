@@ -2,7 +2,7 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"W":0.8737373737373738,"U":0.601010101010101,"R":1,"G":0.7626262626262625,"B":0.03535353535353535},
+  "color_stats": {"W":0.875249500998004,"U":0.6057884231536926,"R":1,"G":0.7654690618762475,"B":0.046906187624750496},
   "recent_events": [
     {"id":366845,"name":"Daily | Standard (23.09)","date":"2025-09-23","format":"standard","points":9,"rank":[2,9],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":6,"rank":[7,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"2-2-0","game_record":"5-6-0"},
@@ -38,7 +38,7 @@
     {"id":320135,"name":"Summer League 2025 | Standard #1","date":"2025-06-03","format":"standard","points":12,"rank":[1,21],"deck":{"archetype":"Gruul Resonance","colors":"RG","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":311189,"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":7,"rank":[6,18],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"2-1-1","game_record":"5-5-0"},
     {"id":307291,"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":9,"rank":[2,15],"deck":{"archetype":"Bant Bogles","colors":"WUG","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
-    {"id":295341,"name":"Daily | Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":7,"rank":[6,18],"match_record":"2-1-1","game_record":"5-5-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"random deck each round","colors":"WUBRG","type":null},"match_record":"2-1-1","game_record":"5-5-0"},
     {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":9,"rank":[4,15],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":290646,"name":"League Standard | Season 11 (12/12)","date":"2025-04-15","format":"standard","points":9,"rank":[4,19],"deck":{"archetype":"Gruul Resonance","colors":"RG","type":"Aggro"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":287604,"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":6,"rank":[8,19],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
