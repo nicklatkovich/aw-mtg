@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":1,"W":0.01234567901234568,"U":0.01234567901234568,"G":0.01234567901234568},
+  "color_stats": {"B":1,"R":1,"W":0.011976047904191617,"U":0.011976047904191617,"G":0.011976047904191617},
   "recent_events": [
+    {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":3,"rank":[11,14],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-3-0","game_record":"5-7-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":7,"rank":[5,17],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":360985,"name":"Daily | Pioneer (04.09)","date":"2025-09-04","format":"pioneer","points":9,"rank":[5,15],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},

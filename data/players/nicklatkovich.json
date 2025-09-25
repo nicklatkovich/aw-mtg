@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"W":0.9181547619047618,"U":1,"G":0.9032738095238096,"B":0.5907738095238094,"R":0.6056547619047619},
+  "color_stats": {"W":0.9216524216524214,"U":1,"G":0.8646723646723647,"B":0.5655270655270654,"R":0.5797720797720797},
   "recent_events": [
+    {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":6,"rank":[4,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"3-3-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":9,"rank":[4,14],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":9,"rank":[3,17],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":362305,"name":"MTGA Vintage Pauper (07.09)","date":"2025-09-07","format":"pauper","points":6,"rank":[4,9],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
