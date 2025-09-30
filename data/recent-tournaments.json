@@ -1,5 +1,5 @@
 [
-  {"id":368882,"format":"standard","date":"2025-09-30","name":"Autumn League 2025 | Standard #1/12","players_count":9,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},
+  {"id":368882,"format":"standard","date":"2025-09-30","name":"Fall League 2025 | Standard #1/12","players_count":9,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},
   {"id":367375,"format":"pioneer","date":"2025-09-25","name":"Daily | Pioneer (25.09)","players_count":10,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"},"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}}},
   {"id":367113,"format":"pauper","date":"2025-09-24","name":"Daily | Pauper (24.09)","players_count":14,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},
   {"id":366845,"format":"standard","date":"2025-09-23","name":"Daily | Standard (23.09)","players_count":9,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},
