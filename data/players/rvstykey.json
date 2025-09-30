@@ -2,8 +2,9 @@
   "guid": "f6ec82b1-955a-4cc8-b232-8142ffac7675",
   "id": "rvstykey",
   "display_name": "Zapolskiy Rostislav",
-  "color_stats": {"W":1,"U":1,"B":1},
+  "color_stats": {"U":1,"B":1,"W":0.7272727272727274},
   "recent_events": [
+    {"id":368882,"name":"Autumn League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":290646,"name":"League Standard | Season 11 (12/12)","date":"2025-04-15","format":"standard","points":9,"rank":[5,19],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":286201,"name":"League Standard | Season 11 (11/12)","date":"2025-04-08","format":"standard","points":9,"rank":[4,17],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":281369,"name":"League Standard | Season 11 (10/12)","date":"2025-04-01","format":"standard","points":12,"rank":[1,19],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
