@@ -5,7 +5,7 @@ export const _2025_standard: Tournament[] = [
   {
     id: 368882,
     format: Format.STANDARD,
-    name: 'Autumn League 2025 | Standard #1/12',
+    name: 'Fall League 2025 | Standard #1/12',
     date: '2025-09-30',
     standings: [
       { player: '[OMG]Summie', rank: 1, deck: 'Jeskai Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
