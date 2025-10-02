@@ -1,4 +1,5 @@
 [
+  {"id":369531,"format":"pioneer","date":"2025-10-02","name":"Fall League 2025 | Pioneer #1/12","players_count":11,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":368882,"format":"standard","date":"2025-09-30","name":"Fall League 2025 | Standard #1/12","players_count":9,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},
   {"id":367375,"format":"pioneer","date":"2025-09-25","name":"Daily | Pioneer (25.09)","players_count":10,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"},"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}}},
   {"id":367113,"format":"pauper","date":"2025-09-24","name":"Daily | Pauper (24.09)","players_count":14,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},

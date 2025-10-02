@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.7945205479452055,"B":0.7945205479452055,"G":0.5890410958904109,"R":1,"U":0.9315068493150686},
+  "color_stats": {"W":0.8675496688741722,"U":1,"B":0.7682119205298014,"G":0.5695364238410595,"R":0.966887417218543},
   "recent_events": [
+    {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":6,"rank":[5,20],"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":365579,"name":"Draft 19.09 (FIN)","date":"2025-09-19","format":"draft","points":6,"rank":[2,6],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":362305,"name":"MTGA Vintage Pauper (07.09)","date":"2025-09-07","format":"pauper","points":0,"rank":[9,9],"deck":{"archetype":"Abzan Lifegain","colors":"WBG","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
