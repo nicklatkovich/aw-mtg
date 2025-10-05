@@ -151,6 +151,7 @@ export const ARCHETYPES = {
   'Simic Madness': 'UG',
   'Simic Elves': 'UG',
   'Simic Aggro': ['UG', DeckType.AGGRO],
+  'Simic Scapeshift': ['UG', DeckType.COMBO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],

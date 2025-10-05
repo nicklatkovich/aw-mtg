@@ -30,7 +30,7 @@ export const PioneerLadder2025: React.FC = () => (
             <div className="cell">4-0s</div>
             <div className="cell">favorite deck</div>
           </div>
-          {data.table.slice(0, 25).map((row) => (
+          {data.table.slice(0).map((row) => (
             <div style={{ display: 'contents' }}>
               <div className="cell">{row.rank}</div>
               <div className="cell">
