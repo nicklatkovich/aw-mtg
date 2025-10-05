@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"U":1,"R":0.8666666666666666,"B":0.2,"G":0.26666666666666666,"W":0.06666666666666667},
+  "color_stats": {"U":1,"R":0.8787878787878788,"B":0.18181818181818182,"G":0.2424242424242424,"W":0.0606060606060606},
   "recent_events": [
+    {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":3,"rank":[9,10],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[2,20],"match_record":"3-0-0","game_record":"6-2-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[7,17],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":0,"rank":[11,12],"match_record":"0-3-0","game_record":"2-6-0"},

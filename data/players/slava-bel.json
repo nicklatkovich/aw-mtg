@@ -2,8 +2,9 @@
   "guid": "d35155ca-808a-4885-b99b-1178c4e2302d",
   "id": "slava-bel",
   "display_name": "Belezeko Slava",
-  "color_stats": {"B":1,"R":0.2857142857142857,"U":0.7142857142857143},
+  "color_stats": {"B":1,"R":0.375,"U":0.625},
   "recent_events": [
+    {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":3,"rank":[13,15],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":323688,"name":"Summer League 2025 | Standard #2","date":"2025-06-10","format":"standard","points":9,"rank":[1,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
