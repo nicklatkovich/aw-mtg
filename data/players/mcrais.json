@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"U":0.959016393442623,"B":1,"R":0.1393442622950819,"W":0.7540983606557373,"G":0.09836065573770487},
+  "color_stats": {"W":0.76063829787234,"U":0.9601063829787234,"B":1,"R":0.13563829787234036,"G":0.09574468085106379},
   "recent_events": [
+    {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":0,"rank":[5,5],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":368882,"name":"Fall League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":6,"rank":[7,9],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":362552,"name":"Daily | Standard (09.09)","date":"2025-09-09","format":"standard","points":9,"rank":[2,8],"deck":{"archetype":"Izzet Vivi","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":359861,"name":"Daily | Standard (02.09)","date":"2025-09-02","format":"standard","points":9,"rank":[2,9],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},

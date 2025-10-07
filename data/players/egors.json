@@ -4,6 +4,7 @@
   "display_name": "Snytko Egor",
   "color_stats": {"B":1,"R":1},
   "recent_events": [
+    {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":9,"rank":[3,5],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":368882,"name":"Fall League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":366845,"name":"Daily | Standard (23.09)","date":"2025-09-23","format":"standard","points":6,"rank":[7,9],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":364962,"name":"Daily | Standard (16.09)","date":"2025-09-16","format":"standard","points":6,"rank":[2,8],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"},"match_record":"2-1-0","game_record":"4-3-0"},
