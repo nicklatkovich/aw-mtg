@@ -61,6 +61,10 @@ export function buildStandardLadder(playersMap: Map<string, PlayerDTO>): Standar
         if (!match) {
           drops += 1;
           continue;
+        } else if (match.players[1] === null && match.winner === 2) {
+          // bye without 3 points
+          // (to prevent mocked bye to be counted as a drop, eg in case of 5 players each-vs-each)
+          continue;
         }
         mp += 1;
         if (!match.players[1]) bye += 1;

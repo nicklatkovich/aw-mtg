@@ -26,7 +26,7 @@ export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Reco
           game_record: standings.game_record,
           rounds: tournament.rounds?.map<MatchPlayerResultDTO | null>((round) => {
             const match = round.find((m) => m.players.some((p) => p && (playersByUsername[p] ?? p) === player_guid));
-            if (!match) return null;
+            if (!match || (match.players[1] === null && match.winner === 2)) return null;
             if (match.players[1] === null) return 'bye';
             const selfInd = match.players.findIndex((p) => (playersByUsername[p] ?? p) === player_guid);
             assert(selfInd >= 0);

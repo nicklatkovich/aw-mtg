@@ -16,22 +16,27 @@ export const _2025_standard: Tournament[] = [
     ],
     rounds: [
       [
+        { players: ['4exOFFby', null], winner: 2, record: '-' },
         { players: ['BRV', 'McRais'], winner: 1, record: '2-1-0' },
         { players: ['Very_Bad_Man', 'warded_bye'], winner: 1, record: '2-0-0' },
       ],
       [
+        { players: ['warded_bye', null], winner: 2, record: '-' },
         { players: ['4exOFFby', 'McRais'], winner: 1, record: '2-1-0' },
         { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
       ],
       [
+        { players: ['BRV', null], winner: 2, record: '-' },
         { players: ['4exOFFby', 'warded_bye'], winner: 2, record: '2-1-0' },
         { players: ['McRais', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
       ],
       [
+        { players: ['McRais', null], winner: 2, record: '-' },
         { players: ['4exOFFby', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
         { players: ['warded_bye', 'BRV'], winner: 1, record: '2-0-0' },
       ],
       [
+        { players: ['Very_Bad_Man', null], winner: 2, record: '-' },
         { players: ['4exOFFby', 'BRV'], winner: 2, record: '2-1-0' },
         { players: ['warded_bye', 'McRais'], winner: 1, record: '2-1-0' },
       ],
