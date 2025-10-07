@@ -3,6 +3,41 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 370840,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #2/12',
+    date: '2025-10-07',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'BRV', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'warded_bye', rank: 3, deck: 'Rakdos Sacrifice', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: '4exOFFby', rank: 4, deck: 'Dimir Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'McRais', rank: 5, deck: 'Esper Control', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '3-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'warded_bye'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4exOFFby', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4exOFFby', 'warded_bye'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['4exOFFby', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['warded_bye', 'BRV'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4exOFFby', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['warded_bye', 'McRais'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 368882,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #1/12',
