@@ -2,8 +2,9 @@
   "guid": "5188dedb-3c53-4644-ac45-73b99669b87b",
   "id": "alexkhan",
   "display_name": "Khan Alex",
-  "color_stats": {"W":1,"U":0.23529411764705882,"G":0.8823529411764706},
+  "color_stats": {"W":1,"U":0.2777777777777778,"G":0.8333333333333334},
   "recent_events": [
+    {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":4,"rank":[8,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":4,"rank":[8,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":365576,"name":"Daily | Pioneer (18.09)","date":"2025-09-18","format":"pioneer","points":4,"rank":[10,14],"deck":{"archetype":"Mono-Green Devotion","colors":"G","type":"Combo"},"match_record":"1-2-1","game_record":"5-6-0"},

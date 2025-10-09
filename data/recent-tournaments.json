@@ -1,4 +1,5 @@
 [
+  {"id":370846,"format":"pioneer","date":"2025-10-09","name":"Fall League 2025 | Pioneer #2/12","players_count":11,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":370840,"format":"standard","date":"2025-10-07","name":"Fall League 2025 | Standard #2/12","players_count":5,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":370371,"format":"pioneer","date":"2025-10-05","name":"MTGA Pioneer (05.10)","players_count":10,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":369531,"format":"pioneer","date":"2025-10-02","name":"Fall League 2025 | Pioneer #1/12","players_count":11,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
