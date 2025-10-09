@@ -3,6 +3,56 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 370846,
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer #2/12',
+    date: '2025-10-09',
+    standings: [
+      { player: 'vorotinskyV', rank: 1, deck: 'Mono-Red Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'GlebK', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'Norbi', rank: 3, deck: 'Izzet Phoenix', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'Very_Bad_Man', rank: 4, deck: 'Rakdos Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 5, deck: 'Azorius Spirits', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'AlexKhan', rank: 6, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'ispinyouround', rank: 7, deck: 'Rakdos Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'Dukalis1985', rank: 8, deck: 'Rakdos Midrange', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-5-0' },
+      { player: 'NickLatkovich', rank: 9, deck: 'Bant Lotus Field', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'AnklDen', rank: 10, deck: 'Azorius Control', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '3-7-0' },
+      { player: 'Egorov', rank: 11, deck: 'Rakdos Madness', points: 0, mp: 1, mw: 0, match_record: '0-1-0', game_record: '0-2-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Very_Bad_Man', null], winner: 1, record: 'bye' },
+        { players: ['Norbi', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['AlexKhan', 'Egorov'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'vorotinskyV'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Dukalis1985'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Norbi', 'AlexKhan'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'Dukalis1985'], winner: 0, record: '1-1-0' },
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['vorotinskyV', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['AlexKhan', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Dukalis1985', 'ispinyouround'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['GlebK', 'vorotinskyV'], winner: 2, record: '2-1-0' },
+        { players: ['AlexKhan', 'Very_Bad_Man'], winner: 2, record: '1-0-0' },
+        { players: ['BRV', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'Dukalis1985'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'AnklDen'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 369531,
     format: Format.PIONEER,
     name: 'Fall League 2025 | Pioneer #1/12',

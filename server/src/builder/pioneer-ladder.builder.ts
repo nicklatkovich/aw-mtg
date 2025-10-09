@@ -5,7 +5,11 @@ import { getDeckArchetypeStrict, toDeckDTO } from '@server/data/data.utils';
 import { playersByUsername } from '@server/data/players';
 import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
 
-const tournaments = _2025_pioneer.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+const tournaments = _2025_pioneer
+  .filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime())
+  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+
+const winner = '824039fa-f433-42e7-845c-7c0fd61a21c2'; // Vorotinsky Vitaliy
 
 type PlayerDecks = Map<
   DeckArchetype,
@@ -45,6 +49,8 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
   }
   // points DESC, 4-0s DESC, events ASC, mw DESC, mp ASC, guid ASC
   const rows = [...result.entries()].sort(([apid, a], [bpid, b]) => {
+    if (apid === winner) return -1;
+    if (bpid === winner) return 1;
     if (a.points !== b.points) return b.points - a.points;
     if (a._4_0s !== b._4_0s) return b._4_0s - a._4_0s;
     if (a.events !== b.events) return a.events - b.events;

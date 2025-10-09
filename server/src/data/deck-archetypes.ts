@@ -169,6 +169,7 @@ export const ARCHETYPES = {
   'Rakdos Lizards': ['BR', DeckType.AGGRO],
   'Rakdos Transmogrify': ['BR', DeckType.COMBO],
   'Rakdos Madness Burn': 'BR',
+  'Rakdos Madness': 'BR',
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
