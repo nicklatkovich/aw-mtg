@@ -2,8 +2,10 @@
   "guid": "7f5ab7e2-0393-408d-8b6d-faa97bb3d03f",
   "id": "draa",
   "display_name": "Draghin Alexander",
-  "color_stats": {"U":1,"R":0.09523809523809523,"B":0.3333333333333333},
+  "color_stats": {"U":1,"R":0.08,"B":0.28},
   "recent_events": [
+    {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":9,"rank":[5,17],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":6,"rank":[3,10],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":3,"rank":[7,8],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[8,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":1,"rank":[19,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"0-3-1","game_record":"4-7-0"},

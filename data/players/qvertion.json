@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"G":0.18808411214953277,"R":0.6028037383177572,"B":0.3925233644859815,"W":0.23481308411214954},
+  "color_stats": {"U":1,"G":0.18171557562076757,"R":0.5823927765237024,"B":0.3792325056433411,"W":0.22686230248307002},
   "recent_events": [
+    {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":6,"rank":[8,17],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":368882,"name":"Fall League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":9,"rank":[2,9],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[3,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},

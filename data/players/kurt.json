@@ -2,8 +2,9 @@
   "guid": "d2090e17-cbd7-4d1b-a569-7533efb4eff5",
   "id": "kurt",
   "display_name": "Malcheuski Yauheni",
-  "color_stats": {"B":1,"G":0.3333333333333333},
+  "color_stats": {"U":0.6666666666666666,"B":1,"G":0.3333333333333333},
   "recent_events": [
+    {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":6,"rank":[7,17],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":3,"rank":[10,13],"deck":{"archetype":"Mono-Black Land Destruction","colors":"B","type":null},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":7,"rank":[7,20],"deck":{"archetype":"Golgari Food","colors":"BG","type":null},"match_record":"2-1-1","game_record":"5-4-0"}
   ]

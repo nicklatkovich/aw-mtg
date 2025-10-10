@@ -2,8 +2,9 @@
   "guid": "2a5bc626-8498-41f6-a461-f20544245280",
   "id": "andreyg",
   "display_name": "Guretsky Andrey",
-  "color_stats": {"B":1,"R":0.36585365853658536,"U":0.3902439024390244,"W":0.3902439024390244,"G":0.04878048780487805},
+  "color_stats": {"W":0.4186046511627908,"B":1,"G":0.0930232558139535,"R":0.34883720930232565,"U":0.372093023255814},
   "recent_events": [
+    {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":3,"rank":[12,17],"deck":{"archetype":"Abzan Gates","colors":"WBG","type":null},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":3,"rank":[11,14],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":3,"rank":[9,13],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":4,"rank":[13,20],"deck":{"archetype":"Orzhov Gates","colors":"WB","type":null},"match_record":"1-2-1","game_record":"3-4-0"},
