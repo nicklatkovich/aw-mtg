@@ -161,6 +161,7 @@ export const ARCHETYPES = {
   'Mono-Black Depths': ['B', DeckType.COMBO],
   'Mono-Black Sacrifice': 'B',
   'Mono-Black Land Destruction': 'B',
+  'Mono-Black Devotion': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -169,7 +170,6 @@ export const ARCHETYPES = {
   'Rakdos Lizards': ['BR', DeckType.AGGRO],
   'Rakdos Transmogrify': ['BR', DeckType.COMBO],
   'Rakdos Madness Burn': 'BR',
-  'Rakdos Madness': 'BR',
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
