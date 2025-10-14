@@ -18,7 +18,7 @@ export const _2025_pioneer: Tournament[] = [
       { player: 'Dukalis1985', rank: 8, deck: 'Rakdos Midrange', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-5-0' },
       { player: 'NickLatkovich', rank: 9, deck: 'Bant Lotus Field', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
       { player: 'AnklDen', rank: 10, deck: 'Azorius Control', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '3-7-0' },
-      { player: 'Egorov', rank: 11, deck: 'Rakdos Madness', points: 0, mp: 1, mw: 0, match_record: '0-1-0', game_record: '0-2-0' },
+      { player: 'Egorov', rank: 11, deck: 'Rakdos Madness Burn', points: 0, mp: 1, mw: 0, match_record: '0-1-0', game_record: '0-2-0' },
     ],
     rounds: [
       [

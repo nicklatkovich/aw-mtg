@@ -5,6 +5,7 @@ import { buildTournamentResults } from './tournament-results.builder';
 import { buildPlayersData } from './players-data.builder';
 import { buildPioneerLadder } from './pioneer-ladder.builder';
 import { buildStandardLadder } from './standard-ladder.builder';
+import { buildLeague } from './league.builder';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -63,6 +64,27 @@ export async function buildData() {
   "standings": [
     ${standardLadder.standings.map((r) => JSON.stringify(r)).join(',\n    ')}
   ]\n}\n`,
+  );
+
+  const leagues = buildLeague(playersMap);
+  await writeFile(
+    path.resolve(CONTENT_PATH, 'leagues.json'),
+    `[
+${leagues
+  .map(
+    (l) => `  {
+    "format": "${l.format}",
+    "name": "${l.name}",
+    "id": "${l.id}",
+    "total_events": ${l.total_events},
+    "top": ${l.top},
+    "prize_fund": ${l.prize_fund},
+    "players": [
+      ${l.players.map((p) => JSON.stringify(p)).join(',\n      ')}
+    ]
+  }`,
+  )
+  .join(',\n')}\n]\n`,
   );
 }
 
