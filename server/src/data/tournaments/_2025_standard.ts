@@ -3,6 +3,53 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 372561,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #3/12',
+    date: '2025-10-14',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Dimir Midrange', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-2-0' },
+      { player: 'BRV', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'OMGProfunny', rank: 3, deck: 'Dimir Midrange', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: '[OMG]Summie', rank: 4, deck: 'Jeskai Control', points: 7, mp: 3, mw: 1, match_record: '2-1-1', game_record: '6-4-0' },
+      { player: 'McRais', rank: 5, deck: 'Esper Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: '4exOFFby', rank: 6, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'qvertion', rank: 7, deck: 'Temur Battlecrier', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'NickLatkovich', rank: 8, deck: 'Dimir Doomsday', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'warded_bye', rank: 9, deck: 'Rakdos Sacrifice', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['[OMG]Summie', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'warded_bye'], winner: 1, record: '2-0-0' },
+        { players: ['OMGProfunny', '4exOFFby'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['OMGProfunny', null], winner: 1, record: 'bye' },
+        { players: ['4exOFFby', 'warded_bye'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', '[OMG]Summie'], winner: 0, record: '1-1-0' },
+        { players: ['NickLatkovich', 'qvertion'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['BRV', '[OMG]Summie'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', '4exOFFby'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'warded_bye'], winner: 1, record: '2-0-0' },
+        { players: ['OMGProfunny', 'McRais'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['McRais', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'OMGProfunny'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'warded_bye'], winner: 1, record: '2-1-0' },
+        { players: ['4exOFFby', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 370840,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #2/12',
