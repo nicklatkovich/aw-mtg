@@ -77,7 +77,7 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
       }
     }
     for (const p of players.values()) {
-      const top_points = p.points
+      const top_points = [...p.points]
         .sort((a, b) => (b ?? 0) - (a ?? 0))
         .slice(0, 6)
         .reduce<number>((a, b) => a + (b ?? 0), 0);
