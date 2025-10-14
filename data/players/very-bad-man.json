@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"R":0.5056726094003241,"U":0.4084278768233387,"W":0.5461912479740682,"G":0.3111831442463533},
+  "color_stats": {"U":0.4224683544303798,"B":1,"R":0.4936708860759494,"W":0.533227848101266,"G":0.3037974683544304},
   "recent_events": [
+    {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":10,"rank":[1,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-0-1","game_record":"7-2-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":6,"rank":[4,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":9,"rank":[1,5],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"0-2-0","game_record":"1-4-0"},
