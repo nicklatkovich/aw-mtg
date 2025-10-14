@@ -4,6 +4,8 @@
   "display_name": "Rapanovich Yauhen",
   "color_stats": {"U":1,"B":0.5652173913043479,"G":0.5652173913043479,"R":0.3478260869565218,"W":0.13043478260869568},
   "recent_events": [
+    {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":6,"rank":[3,7],"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":9,"rank":[1,5]},
     {"id":"l250921","name":"Daily | Legacy (21.09)","date":"2025-09-21","format":"legacy","points":9,"rank":[1,4],"deck":{"archetype":"Mono-Blue Cloudpost","colors":"U","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[12,20],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":6,"rank":[3,5],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"2-2-0","game_record":"6-5-0"},

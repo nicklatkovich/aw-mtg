@@ -1,8 +1,10 @@
 [
   {"id":372561,"format":"standard","date":"2025-10-14","name":"Fall League 2025 | Standard #3/12","players_count":9,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
+  {"id":370849,"format":"modern","date":"2025-10-12","name":"Fall League 2025 | Modern #1/6","players_count":7,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"}}},
   {"id":370846,"format":"pioneer","date":"2025-10-09","name":"Fall League 2025 | Pioneer #2/12","players_count":11,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":370843,"format":"pauper","date":"2025-10-08","name":"Fall League 2025 | Pauper #2/12","players_count":17,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":370840,"format":"standard","date":"2025-10-07","name":"Fall League 2025 | Standard #2/12","players_count":5,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
+  {"id":"l251005","format":"legacy","date":"2025-10-05","name":"Fall League 2025 | Legacy #1/6","players_count":5,"winner":{"player":{"display_name":"Rapanovich Yauhen","id":"farsmac"}}},
   {"id":370371,"format":"pioneer","date":"2025-10-05","name":"MTGA Pioneer (05.10)","players_count":10,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":369531,"format":"pioneer","date":"2025-10-02","name":"Fall League 2025 | Pioneer #1/12","players_count":11,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":369139,"format":"pauper","date":"2025-10-01","name":"Fall League 2025 | Pauper #1/12","players_count":10,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null}}},

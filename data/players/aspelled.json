@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"R":1,"W":0.3253234750462107,"U":0.7134935304990755,"B":0.38077634011090555,"G":0.4085027726432531},
   "recent_events": [
+    {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":6,"rank":[4,7],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":9,"rank":[2,17],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":0,"rank":[10,10],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":6,"rank":[6,14],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"5-6-0"},
