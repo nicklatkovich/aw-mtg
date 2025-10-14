@@ -9,7 +9,7 @@ export type LeaguePlayerDto = {
 };
 
 export type LeagueDto = {
-  format: Format;
+  format: Format | Format[];
   name: string;
   id: string;
   total_events: number;

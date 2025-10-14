@@ -73,7 +73,7 @@ export async function buildData() {
 ${leagues
   .map(
     (l) => `  {
-    "format": "${l.format}",
+    "format": ${JSON.stringify(l.format)},
     "name": "${l.name}",
     "id": "${l.id}",
     "total_events": ${l.total_events},

@@ -3,6 +3,19 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 'l251005',
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #1/6',
+    date: '2025-10-05',
+    standings: [
+      { player: 'farsmac', rank: 1, points: 9 },
+      { player: 'Norbi', rank: 2, points: 6 },
+      { player: '4onoki', rank: 3, points: 6 },
+      { player: 'Tanti', rank: 4, points: 6 },
+      { player: 'aklshk', rank: 5, points: 3 },
+    ],
+  },
+  {
     id: 'l250921',
     format: Format.LEGACY,
     name: 'Daily | Legacy (21.09)',

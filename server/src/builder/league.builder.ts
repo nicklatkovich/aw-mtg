@@ -5,9 +5,11 @@ import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
 import { _2025_standard } from '@server/data/tournaments/_2025_standard';
 import { playersByUsername } from '@server/data/players';
 import { _2025_pauper } from '@server/data/tournaments/_2025_pauper';
+import { _2025_legacy } from '@server/data/tournaments/_2025_legacy';
+import { _2025_modern } from '@server/data/tournaments/_2025_modern';
 
 const leagueInfo: {
-  format: Format;
+  format: Format | Format[];
   name: string;
   id: string;
   total_events: number;
@@ -51,10 +53,22 @@ const leagueInfo: {
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
   },
+  {
+    format: [Format.MODERN, Format.LEGACY],
+    name: 'Fall League 2025 | Eternal',
+    id: 'fall-league-2025-eternal',
+    total_events: 12,
+    top: 6,
+    prize_pool_inc_by_player: 0,
+    events: [..._2025_modern, ..._2025_legacy]
+      .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-05').getTime())
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+      .slice(0, 12),
+  },
 ];
 
 export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
-  return leagueInfo.map((league) => {
+  return leagueInfo.map<LeagueDto>((league) => {
     const players = new Map<string, LeaguePlayerDto>();
     let prize_pool = 0;
     assert(league.events.length <= league.total_events);

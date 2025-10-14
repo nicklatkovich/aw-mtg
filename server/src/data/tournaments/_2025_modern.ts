@@ -3,6 +3,46 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_modern: Tournament[] = [
   {
+    id: 370849,
+    format: Format.MODERN,
+    name: 'Fall League 2025 | Modern #1/6',
+    date: '2025-10-12',
+    standings: [
+      { player: '4onoki', rank: 1, points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'Norbi', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'farsmac', rank: 3, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'aspelled', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'BRV', rank: 5, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'NikitaC1', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Aleksandr_KoLishk', rank: 7, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['farsmac', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLishk', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'NikitaC1'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', null], winner: 1, record: 'bye' },
+        { players: ['NikitaC1', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Aleksandr_KoLishk'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['aspelled', '4onoki'], winner: 2, record: '2-0-0' },
+        { players: ['NikitaC1', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLishk', 'farsmac'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['4onoki', 'farsmac'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Aleksandr_KoLishk'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 335225,
     format: Format.MODERN,
     name: 'Summer League 2025 | Modern #3',
