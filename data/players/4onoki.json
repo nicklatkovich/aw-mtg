@@ -4,6 +4,7 @@
   "display_name": "Plisko Ihar",
   "color_stats": {"W":1,"R":1,"B":0.4859813084112149,"G":0.735202492211838,"U":0.2367601246105919},
   "recent_events": [
+    {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":12,"rank":[1,7],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":9,"rank":[4,17],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":6,"rank":[3,5]},
