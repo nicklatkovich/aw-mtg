@@ -138,10 +138,11 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '6b76518c-1ad7-4a9b-bcfc-780bb7a54142': 'Dmitry Avdeenko',
 
   // unknown players
-  '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9',
-  '5db075fb-48e5-48c9-b675-32b86f0312f7': 'HeartlessHero',
-  'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2',
-  '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi',
+  '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
+  '5db075fb-48e5-48c9-b675-32b86f0312f7': 'HeartlessHero*',
+  'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2*',
+  '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi*',
+  'cd794a46-4193-4d5b-ae04-d02add6aafbf': 'NikK8*',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -294,4 +295,5 @@ export const playersByUsername: { [username in string]?: string } = {
   SutkoA: 'ff90ac15-5373-4769-9681-a1f23fb04340',
   Tamplier007333: '49786616-ed05-4c94-932f-f8d26e8f4360',
   NikitaC1: 'a52d83e2-0c2f-4fe0-bc03-1d03a54a4170',
+  NikK8: 'cd794a46-4193-4d5b-ae04-d02add6aafbf',
 };
