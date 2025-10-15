@@ -2,9 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"B":0.08974358974358974,"R":1,"W":0.5213675213675213,"U":0.07264957264957264,"G":0.008547008547008546},
+  "color_stats": {"B":0.10126582278481013,"R":1,"W":0.5147679324894514,"U":0.07172995780590717,"G":0.008438818565400843},
   "recent_events": [
-    {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-3-0"},
+    {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":9,"rank":[2,12],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":9,"rank":[6,17],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":9,"rank":[4,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":12,"rank":[1,10],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"4-0-0","game_record":"8-1-0"},

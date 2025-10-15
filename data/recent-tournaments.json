@@ -1,5 +1,5 @@
 [
-  {"id":372563,"format":"pauper","date":"2025-10-15","name":"Fall League 2025 | Pauper #3/12","players_count":12,"winner":{"player":{"display_name":"Draghin Alexander","id":"draa"}}},
+  {"id":372563,"format":"pauper","date":"2025-10-15","name":"Fall League 2025 | Pauper #3/12","players_count":12,"winner":{"player":{"display_name":"Draghin Alexander","id":"draa"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":372561,"format":"standard","date":"2025-10-14","name":"Fall League 2025 | Standard #3/12","players_count":9,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":370849,"format":"modern","date":"2025-10-12","name":"Fall League 2025 | Modern #1/6","players_count":7,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"}}},
   {"id":370846,"format":"pioneer","date":"2025-10-09","name":"Fall League 2025 | Pioneer #2/12","players_count":11,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},

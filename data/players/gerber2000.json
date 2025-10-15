@@ -2,9 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"U":0.19523099850968714,"G":0.40387481371087947,"R":0.6646795827123698,"W":0.10581222056631898},
+  "color_stats": {"B":1,"R":0.6696035242290753,"G":0.4126284875183556,"U":0.19236417033773875,"W":0.104258443465492},
   "recent_events": [
-    {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[5,12],"match_record":"2-2-0","game_record":"5-4-0"},
+    {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[5,12],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":6,"rank":[10,17],"deck":{"archetype":"Mono-Black Sacrifice","colors":"B","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":6,"rank":[5,10],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":0,"rank":[12,14],"deck":{"archetype":"Mono-Black Sacrifice","colors":"B","type":null},"match_record":"0-2-0","game_record":"2-4-0"},
