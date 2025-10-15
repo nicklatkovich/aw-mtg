@@ -52,7 +52,7 @@ export const LeaguesPage: React.FC = () => {
                       </div>
                     ))}
                   </div>
-                  {league.players.map((player, index) => (
+                  {league.players.slice(0).map((player, index) => (
                     <div
                       style={{ display: 'contents' }}
                       key={player.id}
