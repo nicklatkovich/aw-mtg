@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"U":1,"R":0.9722222222222224,"B":0.25,"G":0.22222222222222224,"W":0.05555555555555556},
+  "color_stats": {"U":1,"R":0.9743589743589745,"B":0.23076923076923073,"G":0.20512820512820512,"W":0.05128205128205128},
   "recent_events": [
+    {"id":372564,"name":"Fall League 2025 | Pioneer #3/12","date":"2025-10-16","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":9,"rank":[2,7],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":9,"rank":[3,11],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":3,"rank":[15,17],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
