@@ -2,8 +2,9 @@
   "guid": "b8d65678-3f77-49a6-a51d-f80ef537419d",
   "id": "farsmac",
   "display_name": "Rapanovich Yauhen",
-  "color_stats": {"U":1,"B":0.5652173913043479,"G":0.5652173913043479,"R":0.3478260869565218,"W":0.13043478260869568},
+  "color_stats": {"W":0.28571428571428575,"U":1,"G":0.6428571428571429,"B":0.46428571428571436,"R":0.28571428571428575},
   "recent_events": [
+    {"id":"l251019","name":"Fall League 2025 | Legacy #2/6","date":"2025-10-19","format":"legacy","points":12,"rank":[1,5],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null}},
     {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":6,"rank":[3,7],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":9,"rank":[1,5]},
     {"id":"l250921","name":"Daily | Legacy (21.09)","date":"2025-09-21","format":"legacy","points":9,"rank":[1,4],"deck":{"archetype":"Mono-Blue Cloudpost","colors":"U","type":null},"match_record":"3-1-0","game_record":"7-2-0"},

@@ -83,13 +83,14 @@
     "top": 6,
     "prize_fund": 0,
     "players": [
-      {"display_name":"Plisko Ihar","id":"4onoki","total_points":19,"event_count":2,"points":[6,12,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Rapanovich Yauhen","id":"farsmac","total_points":15,"event_count":2,"points":[9,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Voiteh Stas","id":"norbi","total_points":15,"event_count":2,"points":[6,9,null,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Rapanovich Yauhen","id":"farsmac","total_points":28,"event_count":3,"points":[9,6,12,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Plisko Ihar","id":"4onoki","total_points":25,"event_count":3,"points":[6,12,6,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Voiteh Stas","id":"norbi","total_points":18,"event_count":3,"points":[6,9,3,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Brozhat Rostislav","id":"brv","total_points":15,"event_count":2,"points":[null,6,9,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Charniauski Mikita","id":"tanti","total_points":9,"event_count":2,"points":[6,3,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Brozhat Rostislav","id":"brv","total_points":6,"event_count":1,"points":[null,6,null,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Zubovich Valery","id":"aspelled","total_points":6,"event_count":1,"points":[null,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Kolyshko Alexander","id":"aklshk","total_points":6,"event_count":2,"points":[3,3,null,null,null,null,null,null,null,null,null,null]}
+      {"display_name":"Kolyshko Alexander","id":"aklshk","total_points":6,"event_count":2,"points":[3,3,null,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Nabeshko Daniil","id":"danilanabeshko","total_points":0,"event_count":1,"points":[null,null,0,null,null,null,null,null,null,null,null,null]}
     ]
   }
 ]
