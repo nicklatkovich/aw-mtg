@@ -23,6 +23,7 @@ export const ARCHETYPES = {
   'Azorius Ephemerate': 'WU',
   'Azorius Lotus Field': ['WU', DeckType.CONTROL],
   'Azorius Stoneblade': 'WU',
+  'Azorius Cats': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -138,6 +139,7 @@ export const ARCHETYPES = {
   'Izzet Otters': ['UR', DeckType.AGGRO],
   'Izzet Vivi': ['UR', DeckType.TEMPO],
   'Izzet Skred': 'UR',
+  'Izzet Delver': 'UR',
   // URG
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
@@ -215,6 +217,7 @@ export const ARCHETYPES = {
   Tron: 'WBRG',
   Caves: ['WBRG', DeckType.CONTROL],
   Bogles: ['WUBG', DeckType.AGGRO],
+  'WBRG Maverick': ['WBRG', DeckType.COMBO],
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],

@@ -3,6 +3,19 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 'l251019',
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #2/6',
+    date: '2025-10-19',
+    standings: [
+      { player: 'farsmac', rank: 1, deck: 'Bant Nadu', points: 12 },
+      { player: 'BRV', rank: 2, deck: 'Izzet Delver', points: 9 },
+      { player: '4onoki', rank: 3, deck: 'WBRG Maverick', points: 6 },
+      { player: 'Norbi', rank: 4, deck: 'Sultai Beanstalk', points: 3 },
+      { player: 'DanilaNabeshko', rank: 5, deck: 'Azorius Cats', points: 0 },
+    ],
+  },
+  {
     id: 'l251005',
     format: Format.LEGACY,
     name: 'Fall League 2025 | Legacy #1/6',
