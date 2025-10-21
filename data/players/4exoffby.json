@@ -2,8 +2,9 @@
   "guid": "2d789a5a-12d2-448a-97e1-06200c147e55",
   "id": "4exoffby",
   "display_name": "Chakhouski Vasili",
-  "color_stats": {"U":0.6341463414634144,"B":1,"W":0.48780487804878025},
+  "color_stats": {"U":0.6470588235294117,"B":1,"W":0.47058823529411753},
   "recent_events": [
+    {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":0,"rank":[6,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":3,"rank":[4,5],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":368882,"name":"Fall League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":1,"rank":[9,9],"deck":{"archetype":"Orzhov Ketramose","colors":"WB","type":"Midrange"},"match_record":"0-3-1","game_record":"1-6-0"},
