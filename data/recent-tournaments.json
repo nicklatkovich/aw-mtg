@@ -1,4 +1,5 @@
 [
+  {"id":374660,"format":"pauper","date":"2025-10-22","name":"Fall League 2025 | Pauper #4/12","players_count":15,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"}}},
   {"id":374653,"format":"standard","date":"2025-10-21","name":"Fall League 2025 | Standard #4/12","players_count":6,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"}}},
   {"id":"l251019","format":"legacy","date":"2025-10-19","name":"Fall League 2025 | Legacy #2/6","players_count":5,"winner":{"player":{"display_name":"Rapanovich Yauhen","id":"farsmac"},"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null}}},
   {"id":372564,"format":"pioneer","date":"2025-10-16","name":"Fall League 2025 | Pioneer #3/12","players_count":8,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Selesnya Angels","colors":"WG","type":"Midrange"}}},
