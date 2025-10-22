@@ -296,4 +296,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Tamplier007333: '49786616-ed05-4c94-932f-f8d26e8f4360',
   NikitaC1: 'a52d83e2-0c2f-4fe0-bc03-1d03a54a4170',
   NikK8: 'cd794a46-4193-4d5b-ae04-d02add6aafbf',
+  Aleksandr_KoLoshk: '037e76b0-88c8-4458-94a8-d63c2f9a8155',
 };
