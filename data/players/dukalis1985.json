@@ -2,9 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"U":0.06512605042016807,"B":1,"R":0.9684873949579832,"W":0.06512605042016807,"G":0.10714285714285715},
+  "color_stats": {"W":0.1281512605042017,"U":0.06512605042016807,"B":1,"R":0.9684873949579832,"G":0.10714285714285715},
   "recent_events": [
-    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"match_record":"4-0-0","game_record":"8-1-0"},
+    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[8,12],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":4,"rank":[8,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-1","game_record":"5-5-0"},
     {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Mono-Red Goblins","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},

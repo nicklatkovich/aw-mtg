@@ -2,9 +2,9 @@
   "guid": "a7892ae0-6591-4760-a40d-9444a1f58812",
   "id": "4onoki",
   "display_name": "Plisko Ihar",
-  "color_stats": {"W":1,"B":0.5050946142649199,"R":0.9854439592430859,"G":0.7379912663755458,"U":0.264919941775837},
+  "color_stats": {"B":0.5265423242467718,"R":1,"G":0.7560975609756097,"W":0.9856527977044477,"U":0.26111908177905313},
   "recent_events": [
-    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[10,15],"match_record":"2-2-0","game_record":"3-5-0"},
+    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[10,15],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"3-5-0"},
     {"id":"l251019","name":"Fall League 2025 | Legacy #2/6","date":"2025-10-19","format":"legacy","points":6,"rank":[3,5],"deck":{"archetype":"WBRG Maverick","colors":"WBRG","type":"Combo"}},
     {"id":372564,"name":"Fall League 2025 | Pioneer #3/12","date":"2025-10-16","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-3-0","game_record":"4-5-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":9,"rank":[4,12],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},

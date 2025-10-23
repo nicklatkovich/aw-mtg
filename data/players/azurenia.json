@@ -2,9 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"B":0.9542857142857141,"R":0.8742857142857142,"G":1,"W":0.22285714285714273,"U":0.7885714285714284},
+  "color_stats": {"B":0.9553072625698322,"R":0.877094972067039,"G":1,"W":0.21787709497206692,"U":0.7709497206703909},
   "recent_events": [
-    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[4,15],"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[4,15],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":0,"rank":[16,17],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":1,"rank":[9,10],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"0-1-1","game_record":"2-3-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":3,"rank":[9,14],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"1-2-0","game_record":"4-4-0"},
