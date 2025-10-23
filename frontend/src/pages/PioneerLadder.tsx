@@ -30,10 +30,10 @@ export const PioneerLadder2025: React.FC = () => (
             <div className="cell">4-0s</div>
             <div className="cell">favorite deck</div>
           </div>
-          {data.table.slice(0).map((row) => (
+          {data.table.slice(0).map((row, i) => (
             <div style={{ display: 'contents' }}>
-              <div className="cell">{row.rank}</div>
-              <div className="cell">
+              <div className={`cell ${i < 3 ? 'red-highlight' : ''}`}>{row.rank}</div>
+              <div className={`cell ${i < 3 ? 'red-highlight' : ''}`}>
                 <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
               </div>
               <div className={`cell ${row.points >= 200 ? 'red-highlight' : ''}`}>{row.points}</div>

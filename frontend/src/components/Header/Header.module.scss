@@ -2,6 +2,7 @@
 @use '../../constants.scss' as *;
 
 .header {
+  user-select: none;
   position: fixed;
   top: 0;
   left: 0;

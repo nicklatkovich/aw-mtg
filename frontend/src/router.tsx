@@ -8,6 +8,7 @@ import PlayerPage from './pages/PlayerPage';
 import { PioneerLadder2025 } from './pages/PioneerLadder';
 import PlayersListPage from './pages/PlayersListPage';
 import { StandardLadder2025 } from './pages/StandardLadder';
+import { LeaguesPage } from './pages/Leagues/LeaguesPage';
 
 const router = createHashRouter([
   {
@@ -22,6 +23,8 @@ const router = createHashRouter([
       { path: '/players', element: <PlayersListPage /> },
       { path: '/event/:id', element: <TournamentPage /> },
       { path: '/player/:id', element: <PlayerPage /> },
+      { path: '/leagues', element: <LeaguesPage /> },
+      { path: '/leagues/:id', element: <LeaguesPage /> },
       { path: '/*', element: <NotFound /> },
     ],
   },

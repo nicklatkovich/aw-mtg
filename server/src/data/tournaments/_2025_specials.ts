@@ -3,6 +3,53 @@ import { Tournament } from '../data.types';
 
 export const _2025_specials: Tournament[] = [
   {
+    id: 370371,
+    format: Format.PIONEER,
+    name: 'MTGA Pioneer (05.10)',
+    date: '2025-10-05',
+    standings: [
+      { player: 'Tamplier007333', rank: 1, deck: 'Gruul Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'BRV', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'ispinyouround', rank: 3, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Shatunov', rank: 4, deck: 'Mono-Black Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Slava_bel', rank: 5, deck: 'Rakdos Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'qvertion', rank: 6, deck: 'Simic Scapeshift', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'NickLatkovich', rank: 7, deck: 'Azorius Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-7-0' },
+      { player: 'ykcyc', rank: 8, deck: 'Mono-Red Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Norbi', rank: 9, deck: 'Izzet Phoenix', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Very_Bad_Man', rank: 10, deck: 'Mono-Black Midrange', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['qvertion', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['Slava_bel', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['ykcyc', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['Tamplier007333', 'Shatunov'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tamplier007333', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['ykcyc', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['Slava_bel', 'Shatunov'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Norbi', null], winner: 1, record: 'bye' },
+        { players: ['Tamplier007333', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['ykcyc', 'Shatunov'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Slava_bel'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['Shatunov', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['ykcyc', 'Slava_bel'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 362305,
     format: Format.PAUPER,
     name: 'MTGA Vintage Pauper (07.09)',

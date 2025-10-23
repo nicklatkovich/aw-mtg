@@ -1,10 +1,11 @@
 import { Link, useLocation } from 'react-router-dom';
 import styles from './Header.module.scss';
 
-const navLinks = [
+const navLinks: { to: string; label: string }[] = [
   { to: '/recent-events', label: 'Recent Events' },
   { to: '/pioneer-ladder', label: 'Pioneer Ladder' },
   { to: '/standard-ladder', label: 'Standard Ladder' },
+  { to: '/leagues', label: 'Leagues' },
   { to: '/players', label: 'Players [WIP]' },
 ];
 
@@ -19,7 +20,9 @@ export default function Header() {
               key={link.to}
               to={link.to}
               className={
-                location.pathname === link.to ? `${styles.header__link} ${styles.active}` : styles.header__link
+                (link.to === '/leagues' && location.pathname.startsWith('/leagues')) || location.pathname === link.to
+                  ? `${styles.header__link} ${styles.active}`
+                  : styles.header__link
               }
             >
               {link.label}

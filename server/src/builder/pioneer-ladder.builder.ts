@@ -5,7 +5,12 @@ import { getDeckArchetypeStrict, toDeckDTO } from '@server/data/data.utils';
 import { playersByUsername } from '@server/data/players';
 import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
 
-const tournaments = _2025_pioneer.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+const tournaments = _2025_pioneer
+  .filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime())
+  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+
+const winner = '824039fa-f433-42e7-845c-7c0fd61a21c2'; // Vorotinsky Vitaliy
+const winnerDefeats = new Map<string, number>();
 
 type PlayerDecks = Map<
   DeckArchetype,
@@ -42,9 +47,21 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
         decks,
       });
     }
+
+    for (const m of t.rounds?.flat() ?? []) {
+      const p1id = playersByUsername[m.players[0]] ?? m.players[0];
+      const p2id = m.players[1] && (playersByUsername[m.players[1]] ?? m.players[1]);
+      if (p1id === winner && m.winner === 2 && p2id) {
+        winnerDefeats.set(p2id, (winnerDefeats.get(p2id) ?? 0) + 1);
+      } else if (p2id === winner && m.winner === 1) {
+        winnerDefeats.set(p1id, (winnerDefeats.get(p1id) ?? 0) + 1);
+      }
+    }
   }
   // points DESC, 4-0s DESC, events ASC, mw DESC, mp ASC, guid ASC
   const rows = [...result.entries()].sort(([apid, a], [bpid, b]) => {
+    if (apid === winner) return -1;
+    if (bpid === winner) return 1;
     if (a.points !== b.points) return b.points - a.points;
     if (a._4_0s !== b._4_0s) return b._4_0s - a._4_0s;
     if (a.events !== b.events) return a.events - b.events;
@@ -64,6 +81,13 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
         if (a.lastTimestamp !== b.lastTimestamp) return b.lastTimestamp - a.lastTimestamp;
         return a.archetype < b.archetype ? -1 : 1;
       })[0] ?? null;
+    // console.log(player.display_name, [...row.decks.entries()].filter(([, v]) => v.events >= 2).length);
+    // // Shagoiko Maxim
+    // if (player.guid === 'cd3375a9-b0bc-4bb1-bff4-7e50504b68d9') {
+    //   for (const [deckId, { events }] of [...row.decks.entries()].sort((a, b) => b[1].events - a[1].events)) {
+    //     console.log(`- ${deckId} x${events}`);
+    //   }
+    // }
     return {
       rank: i + 1,
       player: { display_name: player.display_name, id: player.id },
@@ -77,5 +101,9 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
         : null,
     };
   });
+  // console.log('Pioneer Ladder 2025 winner defeats:');
+  // for (const [pid, count] of [...winnerDefeats.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10)) {
+  //   console.log(`- ${playersMap.get(pid)?.display_name ?? pid}: ${count}`);
+  // }
   return { totalEvents: tournaments.length, table };
 }

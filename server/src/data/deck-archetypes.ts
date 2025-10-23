@@ -22,12 +22,15 @@ export const ARCHETYPES = {
   'Azorius Gates': 'WU',
   'Azorius Ephemerate': 'WU',
   'Azorius Lotus Field': ['WU', DeckType.CONTROL],
+  'Azorius Stoneblade': 'WU',
+  'Azorius Cats': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
   'Esper Oculus': ['WUB', DeckType.MIDRANGE],
   'Esper Midrange': ['WUB', DeckType.MIDRANGE],
   'Esper Affinity': 'WUB',
+  'Esper Glintblade': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -42,6 +45,7 @@ export const ARCHETYPES = {
   'Bant Lotus Field': ['WUG', DeckType.COMBO],
   'Bant Bogles': ['WUG', DeckType.AGGRO],
   'Cephalid Breakfast': ['WUG', DeckType.COMBO],
+  'Bant Nadu': 'WUG',
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
@@ -66,6 +70,8 @@ export const ARCHETYPES = {
   'Abzan Bounce': ['WBG', DeckType.MIDRANGE],
   'Abzan Gates': 'WBG',
   'Abzan Lifegain': 'WBG',
+  'Abzan Maverick': 'WBG',
+  'Abzan Pestilence': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
@@ -101,6 +107,7 @@ export const ARCHETYPES = {
   'Mono-Blue Terror': ['U', DeckType.TEMPO],
   'Mono-Blue High Tide': ['U', DeckType.COMBO],
   'Mono-Blue Ninjas': ['U', DeckType.TEMPO],
+  'Mono-Blue Cloudpost': 'U',
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -132,6 +139,7 @@ export const ARCHETYPES = {
   'Izzet Otters': ['UR', DeckType.AGGRO],
   'Izzet Vivi': ['UR', DeckType.TEMPO],
   'Izzet Skred': 'UR',
+  'Izzet Delver': 'UR',
   // URG
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
@@ -145,6 +153,7 @@ export const ARCHETYPES = {
   'Simic Madness': 'UG',
   'Simic Elves': 'UG',
   'Simic Aggro': ['UG', DeckType.AGGRO],
+  'Simic Scapeshift': ['UG', DeckType.COMBO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -154,6 +163,7 @@ export const ARCHETYPES = {
   'Mono-Black Depths': ['B', DeckType.COMBO],
   'Mono-Black Sacrifice': 'B',
   'Mono-Black Land Destruction': 'B',
+  'Mono-Black Devotion': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -195,6 +205,7 @@ export const ARCHETYPES = {
   'Gruul Ramp': ['RG', DeckType.MIDRANGE],
   'Gruul Madness': 'RG',
   'Gruul Ponza': 'RG',
+  'Gruul Vehicles': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
@@ -206,6 +217,7 @@ export const ARCHETYPES = {
   Tron: 'WBRG',
   Caves: ['WBRG', DeckType.CONTROL],
   Bogles: ['WUBG', DeckType.AGGRO],
+  'WBRG Maverick': ['WBRG', DeckType.COMBO],
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
