@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.14285714285714285},
+  "color_stats": {"R":1,"G":0.13333333333333333},
   "recent_events": [
+    {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":6,"rank":[7,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":372564,"name":"Fall League 2025 | Pioneer #3/12","date":"2025-10-16","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"0-2-0","game_record":"2-4-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":12,"rank":[1,10],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"4-0-0","game_record":"8-3-0"},
@@ -45,8 +46,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 40,
-  "match_played": 142,
-  "match_wins": 88,
+  "events_count": 41,
+  "match_played": 146,
+  "match_wins": 90,
   "favorite_format": ["pioneer", 1]
 }

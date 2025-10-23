@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":1,"W":0.010695187165775402,"U":0.010695187165775402,"G":0.010695187165775402},
+  "color_stats": {"B":1,"R":1,"W":0.010416666666666668,"U":0.010416666666666668,"G":0.010416666666666668},
   "recent_events": [
+    {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":9,"rank":[2,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":372564,"name":"Fall League 2025 | Pioneer #3/12","date":"2025-10-16","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":6,"rank":[7,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":9,"rank":[3,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -70,8 +71,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 65,
-  "match_played": 248,
-  "match_wins": 119,
+  "events_count": 66,
+  "match_played": 252,
+  "match_wins": 122,
   "favorite_format": ["pioneer", 1]
 }

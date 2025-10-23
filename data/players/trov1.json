@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"U":1,"W":0.7237569060773481,"B":0.6408839779005525,"G":0.4751381215469613,"R":0.8066298342541437},
+  "color_stats": {"W":0.7448979591836735,"U":1,"B":0.5918367346938777,"G":0.4387755102040816,"R":0.7448979591836735},
   "recent_events": [
+    {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[3,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":6,"rank":[5,20],"match_record":"2-1-0","game_record":"5-3-0"},
@@ -46,8 +47,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 41,
-  "match_played": 140,
+  "events_count": 42,
+  "match_played": 142,
   "match_wins": 85,
-  "favorite_format": ["pioneer", 0.6341463414634146]
+  "favorite_format": ["pioneer", 0.6428571428571429]
 }
