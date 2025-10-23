@@ -7,5 +7,9 @@
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":12,"rank":[1,12],"deck":{"archetype":"Graveyard Overdrive","colors":"BRG","type":null}},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":12,"rank":[1,16],"deck":{"archetype":"Dinosaur Tribal","colors":null,"type":null}},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[5,12]}
-  ]
+  ],
+  "events_count": 3,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 1]
 }

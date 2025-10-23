@@ -35,5 +35,9 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":3,"rank":[14,16],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[13,22],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":1,"rank":[16,17]}
-  ]
+  ],
+  "events_count": 31,
+  "match_played": 109,
+  "match_wins": 29,
+  "favorite_format": ["standard", 1]
 }

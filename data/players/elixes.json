@@ -16,12 +16,16 @@
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":303479,"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[5,11],"deck":{"archetype":"Gruul Resonance","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":299223,"name":"Daily | Standard (29.04)","date":"2025-04-29","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-3-0","game_record":"2-6-0"},
-    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":3,"rank":[15,18],"deck":{"archetype":"random deck each round","colors":"WUBRG","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":3,"rank":[15,18],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":286201,"name":"League Standard | Season 11 (11/12)","date":"2025-04-08","format":"standard","points":6,"rank":[11,17],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":282533,"name":"League Pioneer | Season 5 (10/12)","date":"2025-04-03","format":"pioneer","points":6,"rank":[11,20],"deck":{"archetype":"Gruul Resonance","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":276051,"name":"League Standard | Season 11 (9/12)","date":"2025-03-25","format":"standard","points":3,"rank":[18,20],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":6,"rank":[9,18],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":264855,"name":"League Standard | Season 11 (7/12)","date":"2025-03-11","format":"standard","points":0,"rank":[18,18],"deck":{"archetype":"Selesnya Enchantments","colors":"WG","type":"Aggro"}},
     {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":6,"rank":[11,21],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}}
-  ]
+  ],
+  "events_count": 19,
+  "match_played": 61,
+  "match_wins": 24,
+  "favorite_format": ["standard", 0.42105263157894735]
 }

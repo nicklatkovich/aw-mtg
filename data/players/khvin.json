@@ -9,5 +9,9 @@
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":6,"rank":[5,16],"deck":{"archetype":"Merfolk Tribal","colors":null,"type":null}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[7,7]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":9,"rank":[2,12]}
-  ]
+  ],
+  "events_count": 5,
+  "match_played": 4,
+  "match_wins": 2,
+  "favorite_format": ["commander", 0.8]
 }

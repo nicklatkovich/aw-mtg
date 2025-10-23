@@ -8,5 +8,9 @@
     {"id":"sl250621","name":"Summer League 2025 | Sealed #1","date":"2025-06-21","format":"sealed","points":12,"rank":[1,10]},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":3,"rank":[5,7]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":3,"rank":[9,12]}
-  ]
+  ],
+  "events_count": 4,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 0.75]
 }

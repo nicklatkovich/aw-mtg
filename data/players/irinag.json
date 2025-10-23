@@ -9,5 +9,9 @@
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[14,25],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":3,"rank":[18,22]}
-  ]
+  ],
+  "events_count": 5,
+  "match_played": 20,
+  "match_wins": 10,
+  "favorite_format": ["pauper", 0.8]
 }

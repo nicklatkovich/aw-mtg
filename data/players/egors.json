@@ -26,5 +26,9 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":9,"rank":[4,16],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":9,"rank":[3,22],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"}},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":6,"rank":[7,17]}
-  ]
+  ],
+  "events_count": 22,
+  "match_played": 80,
+  "match_wins": 43,
+  "favorite_format": ["standard", 1]
 }

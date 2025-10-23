@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     
-  ]
+  ],
+  "events_count": 0,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["null", 0]
 }

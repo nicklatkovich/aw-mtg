@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":0,"rank":[15,16],"deck":{"archetype":"Eldrazi Tribal","colors":null,"type":null}}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 1]
 }

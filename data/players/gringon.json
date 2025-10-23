@@ -8,5 +8,9 @@
     {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":3,"rank":[15,21],"deck":{"archetype":"Temur Creativity","colors":"URG","type":"Combo"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":0,"rank":[21,22]},
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":0,"rank":[15,16]}
-  ]
+  ],
+  "events_count": 4,
+  "match_played": 13,
+  "match_wins": 2,
+  "favorite_format": ["standard", 0.75]
 }

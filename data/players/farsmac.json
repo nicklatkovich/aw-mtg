@@ -18,5 +18,9 @@
     {"id":237939,"name":"League Pioneer | Season 5 (1/12)","date":"2025-01-30","format":"pioneer","points":6,"rank":[10,18],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}},
     {"id":233771,"date":"2025-01-23","format":"pioneer","points":7,"rank":[5,15]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[6,12]}
-  ]
+  ],
+  "events_count": 14,
+  "match_played": 42,
+  "match_wins": 21,
+  "favorite_format": ["legacy", 0.5]
 }

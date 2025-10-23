@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":6,"rank":[3,7]}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 1]
 }

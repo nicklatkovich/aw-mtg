@@ -20,5 +20,9 @@
     {"id":249246,"name":"League Standard | Season 11 (4/12)","date":"2025-02-18","format":"standard","points":3,"rank":[11,15],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[15,22]},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":9,"rank":[4,17]}
-  ]
+  ],
+  "events_count": 16,
+  "match_played": 53,
+  "match_wins": 22,
+  "favorite_format": ["standard", 1]
 }

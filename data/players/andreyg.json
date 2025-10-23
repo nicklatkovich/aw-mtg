@@ -21,5 +21,9 @@
     {"id":320629,"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":7,"rank":[7,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":0,"rank":[14,14],"deck":{"archetype":"Mardu Gates","colors":"WBR","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":3,"rank":[13,15],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-3-0","game_record":"4-6-0"}
-  ]
+  ],
+  "events_count": 17,
+  "match_played": 64,
+  "match_wins": 21,
+  "favorite_format": ["pauper", 1]
 }

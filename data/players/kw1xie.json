@@ -15,5 +15,9 @@
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":9,"rank":[4,12]},
     {"id":89303,"date":"2024-05-02","format":"pioneer","points":9,"rank":[2,12]},
     {"id":86794,"date":"2024-04-25","format":"pioneer","points":6,"rank":[8,12]}
-  ]
+  ],
+  "events_count": 11,
+  "match_played": 43,
+  "match_wins": 30,
+  "favorite_format": ["pioneer", 1]
 }

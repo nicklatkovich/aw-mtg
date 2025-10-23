@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":365579,"name":"Draft 19.09 (FIN)","date":"2025-09-19","format":"draft","points":0,"rank":[6,6],"match_record":"0-3-0","game_record":"0-6-0"}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 0,
+  "favorite_format": ["draft", 1]
 }

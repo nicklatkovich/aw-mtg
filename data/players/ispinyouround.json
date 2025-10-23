@@ -29,7 +29,7 @@
     {"id":307291,"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":6,"rank":[8,15],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":7,"rank":[5,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-1-1","game_record":"6-4-0"},
     {"id":300529,"name":"Daily | Pioneer (01.05)","date":"2025-05-01","format":"pioneer","points":9,"rank":[1,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
-    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":3,"rank":[14,18],"deck":{"archetype":"random deck each round","colors":"WUBRG","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":3,"rank":[14,18],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":6,"rank":[10,15],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":287604,"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":6,"rank":[9,19],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":282533,"name":"League Pioneer | Season 5 (10/12)","date":"2025-04-03","format":"pioneer","points":4,"rank":[13,20],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-1","game_record":"4-5-0"},
@@ -69,5 +69,9 @@
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":6,"rank":[5,12]},
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
-  ]
+  ],
+  "events_count": 65,
+  "match_played": 248,
+  "match_wins": 119,
+  "favorite_format": ["pioneer", 1]
 }

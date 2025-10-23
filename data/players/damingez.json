@@ -19,5 +19,9 @@
     {"id":253636,"name":"League Standard | Season 11 (5/12)","date":"2025-02-25","format":"standard","points":3,"rank":[13,18],"deck":{"archetype":"Izzet Monument","colors":"UR","type":"Midrange"}},
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
-  ]
+  ],
+  "events_count": 15,
+  "match_played": 59,
+  "match_wins": 23,
+  "favorite_format": ["pauper", 0.4666666666666667]
 }

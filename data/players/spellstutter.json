@@ -11,5 +11,9 @@
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":9,"rank":[3,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-6-0"}
-  ]
+  ],
+  "events_count": 7,
+  "match_played": 27,
+  "match_wins": 14,
+  "favorite_format": ["pauper", 0.8571428571428571]
 }

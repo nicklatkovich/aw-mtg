@@ -6,5 +6,9 @@
   "recent_events": [
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":6,"rank":[4,12],"deck":{"archetype":"Tyranid Swarm","colors":"URG","type":null}},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":6,"rank":[6,12],"match_record":"2-1-0","game_record":"5-2-0"}
-  ]
+  ],
+  "events_count": 2,
+  "match_played": 3,
+  "match_wins": 2,
+  "favorite_format": ["commander", 0.5]
 }

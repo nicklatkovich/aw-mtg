@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":96558,"date":"2024-05-23","format":"pioneer","points":12,"rank":[1,12]}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 4,
+  "favorite_format": ["pioneer", 1]
 }

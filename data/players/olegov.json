@@ -8,5 +8,9 @@
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":0,"rank":[14,16],"deck":{"archetype":"Goblin Tribal","colors":null,"type":null}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":3,"rank":[4,7]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[6,12]}
-  ]
+  ],
+  "events_count": 4,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 1]
 }

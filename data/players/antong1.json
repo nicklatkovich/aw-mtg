@@ -11,5 +11,9 @@
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":9,"rank":[3,19],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":324258,"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[2,7],"deck":{"archetype":"Gruul Madness","colors":"RG","type":null},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-5-0"}
-  ]
+  ],
+  "events_count": 7,
+  "match_played": 24,
+  "match_wins": 15,
+  "favorite_format": ["pauper", 0.42857142857142855]
 }

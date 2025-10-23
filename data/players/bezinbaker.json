@@ -7,5 +7,9 @@
     {"id":264855,"name":"League Standard | Season 11 (7/12)","date":"2025-03-11","format":"standard","points":0,"rank":[17,18]},
     {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":0,"rank":[18,21],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":0,"rank":[20,22]}
-  ]
+  ],
+  "events_count": 3,
+  "match_played": 8,
+  "match_wins": 0,
+  "favorite_format": ["standard", 0.6666666666666666]
 }

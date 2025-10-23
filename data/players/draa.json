@@ -26,5 +26,9 @@
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":6,"rank":[9,14],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-0-3","game_record":"5-4-0"},
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
-  ]
+  ],
+  "events_count": 22,
+  "match_played": 73,
+  "match_wins": 26,
+  "favorite_format": ["pauper", 0.8636363636363636]
 }

@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":3,"rank":[14,15],"match_record":"1-2-0","game_record":"3-4-0"}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 2,
+  "match_wins": 0,
+  "favorite_format": ["standard", 1]
 }

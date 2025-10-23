@@ -37,7 +37,7 @@
     {"id":320135,"name":"Summer League 2025 | Standard #1","date":"2025-06-03","format":"standard","points":9,"rank":[2,21],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":9,"rank":[2,14],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":311189,"name":"Daily | Standard (20.05)","date":"2025-05-20","format":"standard","points":6,"rank":[10,18],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
-    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":4,"rank":[12,18],"deck":{"archetype":"random deck each round","colors":"WUBRG","type":null},"match_record":"1-2-1","game_record":"5-6-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":4,"rank":[12,18],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"1-2-1","game_record":"5-6-0"},
     {"id":294659,"name":"Daily | Standard (22.04)","date":"2025-04-22","format":"standard","points":6,"rank":[6,12],"deck":{"archetype":"Domain Zur","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":6,"rank":[8,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":290646,"name":"League Standard | Season 11 (12/12)","date":"2025-04-15","format":"standard","points":7,"rank":[7,19],"deck":{"archetype":"Domain Zur","colors":"WUBRG","type":"Control"},"match_record":"2-1-1","game_record":"5-4-0"},
@@ -92,5 +92,9 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":9,"rank":[3,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[10,12]},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":3,"rank":[12,12]}
-  ]
+  ],
+  "events_count": 88,
+  "match_played": 345,
+  "match_wins": 197,
+  "favorite_format": ["pioneer", 0.5909090909090909]
 }

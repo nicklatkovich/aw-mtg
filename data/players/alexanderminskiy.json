@@ -5,5 +5,9 @@
   "color_stats": {"W":1},
   "recent_events": [
     {"id":253636,"name":"League Standard | Season 11 (5/12)","date":"2025-02-25","format":"standard","points":3,"rank":[16,18],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"}}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 2,
+  "match_wins": 0,
+  "favorite_format": ["standard", 1]
 }

@@ -19,5 +19,9 @@
     {"id":276051,"name":"League Standard | Season 11 (9/12)","date":"2025-03-25","format":"standard","points":3,"rank":[15,20],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":3,"rank":[14,17],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":0,"rank":[20,21],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
-  ]
+  ],
+  "events_count": 15,
+  "match_played": 55,
+  "match_wins": 12,
+  "favorite_format": ["pioneer", 0.8666666666666667]
 }

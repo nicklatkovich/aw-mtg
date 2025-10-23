@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[8,12]}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["commander", 1]
 }

@@ -6,5 +6,9 @@
   "recent_events": [
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":0,"rank":[12,12]},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":3,"rank":[12,17]}
-  ]
+  ],
+  "events_count": 2,
+  "match_played": 1,
+  "match_wins": 0,
+  "favorite_format": ["commander", 0.5]
 }

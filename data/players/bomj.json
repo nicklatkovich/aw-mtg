@@ -7,5 +7,9 @@
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[1,20],"match_record":"3-0-0","game_record":"6-1-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-3-0"}
-  ]
+  ],
+  "events_count": 3,
+  "match_played": 9,
+  "match_wins": 6,
+  "favorite_format": ["draft", 1]
 }

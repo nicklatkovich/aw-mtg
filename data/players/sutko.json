@@ -23,5 +23,9 @@
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":3,"rank":[15,18],"deck":{"archetype":"Walls Combo","colors":"G","type":"Combo"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":320629,"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":6,"rank":[10,19],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":3,"rank":[14,15],"deck":{"archetype":"Mono-Black Pactdoll","colors":"B","type":null},"match_record":"1-2-0","game_record":"3-4-0"}
-  ]
+  ],
+  "events_count": 19,
+  "match_played": 57,
+  "match_wins": 26,
+  "favorite_format": ["pauper", 0.631578947368421]
 }

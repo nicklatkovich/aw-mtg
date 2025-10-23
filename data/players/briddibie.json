@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":3,"rank":[12,16]}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
 }

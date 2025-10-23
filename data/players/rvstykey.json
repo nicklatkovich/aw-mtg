@@ -9,5 +9,9 @@
     {"id":286201,"name":"League Standard | Season 11 (11/12)","date":"2025-04-08","format":"standard","points":9,"rank":[4,17],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":281369,"name":"League Standard | Season 11 (10/12)","date":"2025-04-01","format":"standard","points":12,"rank":[1,19],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":276051,"name":"League Standard | Season 11 (9/12)","date":"2025-03-25","format":"standard","points":6,"rank":[12,20],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"}
-  ]
+  ],
+  "events_count": 5,
+  "match_played": 19,
+  "match_wins": 13,
+  "favorite_format": ["standard", 1]
 }

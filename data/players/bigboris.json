@@ -7,5 +7,9 @@
     {"id":335217,"name":"Summer League 2025 | Draft #4 (FIN)","date":"2025-07-04","format":"draft","points":3,"rank":[11,12],"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":3,"rank":[10,12],"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":3,"rank":[10,12],"match_record":"1-3-0","game_record":"3-6-0"}
-  ]
+  ],
+  "events_count": 3,
+  "match_played": 11,
+  "match_wins": 2,
+  "favorite_format": ["draft", 1]
 }

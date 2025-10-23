@@ -6,5 +6,9 @@
   "recent_events": [
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":1,"rank":[16,16]},
     {"id":80096,"date":"2024-04-18","format":"pioneer","points":0,"rank":[10,10]}
-  ]
+  ],
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 0,
+  "favorite_format": ["pioneer", 1]
 }

@@ -5,5 +5,9 @@
   "color_stats": {},
   "recent_events": [
     {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":0,"rank":[11,12],"match_record":"0-2-0","game_record":"1-4-0"}
-  ]
+  ],
+  "events_count": 1,
+  "match_played": 2,
+  "match_wins": 0,
+  "favorite_format": ["draft", 1]
 }

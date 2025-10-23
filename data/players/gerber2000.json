@@ -49,7 +49,7 @@
     {"id":307291,"name":"Daily | Pioneer (15.05)","date":"2025-05-15","format":"pioneer","points":6,"rank":[6,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":9,"rank":[4,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":300529,"name":"Daily | Pioneer (01.05)","date":"2025-05-01","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"2-2-0","game_record":"6-5-0"},
-    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":0,"rank":[18,18],"deck":{"archetype":"random deck each round","colors":"WUBRG","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
+    {"id":295341,"name":"Chaos Pioneer (24.04)","date":"2025-04-24","format":"pioneer","points":0,"rank":[18,18],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":291886,"name":"League Pioneer | Season 5 (12/12)","date":"2025-04-17","format":"pioneer","points":0,"rank":[15,15],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":287604,"name":"League Pioneer | Season 5 (11/12)","date":"2025-04-10","format":"pioneer","points":7,"rank":[6,19],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"2-1-1","game_record":"5-5-0"},
     {"id":282533,"name":"League Pioneer | Season 5 (10/12)","date":"2025-04-03","format":"pioneer","points":6,"rank":[8,20],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"2-2-0","game_record":"5-6-0"},
@@ -61,5 +61,9 @@
     {"id":249795,"name":"League Pioneer | Season 5 (4/12)","date":"2025-02-20","format":"pioneer","points":6,"rank":[6,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
-  ]
+  ],
+  "events_count": 57,
+  "match_played": 207,
+  "match_wins": 76,
+  "favorite_format": ["pioneer", 0.5789473684210527]
 }

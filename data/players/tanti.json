@@ -13,5 +13,9 @@
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":12,"rank":[1,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
-  ]
+  ],
+  "events_count": 9,
+  "match_played": 27,
+  "match_wins": 17,
+  "favorite_format": ["legacy", 0.5555555555555556]
 }

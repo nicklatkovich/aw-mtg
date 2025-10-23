@@ -8,5 +8,9 @@
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":2,"rank":[18,20],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"0-2-2","game_record":"2-6-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[19,25],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[6,7]}
-  ]
+  ],
+  "events_count": 4,
+  "match_played": 10,
+  "match_wins": 0,
+  "favorite_format": ["pauper", 0.75]
 }

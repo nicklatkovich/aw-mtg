@@ -34,5 +34,9 @@
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":0,"rank":[17,17]},
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":6,"rank":[10,16]},
     {"id":126622,"date":"2024-08-01","format":"pioneer","points":6,"rank":[6,13]}
-  ]
+  ],
+  "events_count": 30,
+  "match_played": 109,
+  "match_wins": 50,
+  "favorite_format": ["standard", 0.9]
 }

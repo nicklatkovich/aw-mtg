@@ -6,5 +6,9 @@
   "recent_events": [
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":9,"rank":[5,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":136903,"date":"2024-08-22","format":"pioneer","points":0,"rank":[14,14]}
-  ]
+  ],
+  "events_count": 2,
+  "match_played": 7,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 0.5]
 }
