@@ -24,7 +24,7 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
     }
     usedIds.set(id, guid);
     const color_stats_values: Record<string, number> = {};
-    const formatStats = new Map<Format, number>();
+    const formatStats = new Map<Format, { events: number; lastPlayed: Date }>();
     let mp = 0;
     let mw = 0;
     const recent_events = allTournaments
@@ -37,10 +37,10 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
           for (const c of colors) color_stats_values[c] = (color_stats_values[c] ?? 0) + color_stat_inc;
         }
         for (const m of t.rounds?.flat() ?? []) {
-          if ((playersByGuid[m.players[0]] ?? m.players[0] === guid) && m.players[1] !== null) {
+          if ((playersByUsername[m.players[0]] ?? m.players[0]) === guid && m.players[1] !== null) {
             mp += 1;
             mw += m.winner === 1 ? 1 : 0;
-          } else if (m.players[1] && (playersByGuid[m.players[1]] ?? m.players[1] === guid)) {
+          } else if (m.players[1] && (playersByUsername[m.players[1]] ?? m.players[1]) === guid) {
             mp += 1;
             mw += m.winner === 2 ? 1 : 0;
           }
@@ -48,7 +48,10 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
         // FIXME: use format from standings (in case of trios tournament)
         // const format = s.format ?? t.format;
         const format = t.format;
-        formatStats.set(format, (formatStats.get(format) ?? 0) + 1);
+        formatStats.set(format, {
+          events: (formatStats.get(format)?.events ?? 0) + 1,
+          lastPlayed: new Date(t.date),
+        });
         const result: PlayerTournamentDTO = {
           id: t.id,
           name: t.name,
@@ -68,8 +71,12 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
       Object.entries(color_stats_values).map(([c, v]) => [c, v / max_color_stat_value]),
     );
     const events_count = recent_events.length;
-    const favorite_format = [...formatStats.entries()].sort((a, b) => b[1] - a[1])[0][0] ?? null;
-    const favorite_format_percentage = events_count > 0 ? (formatStats.get(favorite_format) ?? 0) / events_count : 0;
+    const favorite_format =
+      [...formatStats.entries()].sort(
+        (a, b) => b[1].events - a[1].events || b[1].lastPlayed.getTime() - a[1].lastPlayed.getTime(),
+      )[0]?.[0] ?? null;
+    const favorite_format_percentage =
+      events_count > 0 ? (formatStats.get(favorite_format)?.events ?? 0) / events_count : 0;
     result.set(guid, {
       display_name,
       guid,

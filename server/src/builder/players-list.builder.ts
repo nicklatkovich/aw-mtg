@@ -4,6 +4,7 @@ export function buildPlayersList(playersData: Map<string, PlayerDTO>): PlayersLi
   const result: [guid: string, PlayersListItemDto][] = [];
 
   for (const dto of playersData.values()) {
+    if (dto.events_count === 0) continue;
     result.push([
       dto.guid,
       {
