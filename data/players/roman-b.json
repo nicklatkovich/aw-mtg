@@ -18,7 +18,7 @@
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[3,12],"deck":{"archetype":"Golgari Draft","colors":"BG","type":null},"match_record":"3-1-0","game_record":"6-4-0"}
   ],
   "events_count": 12,
-  "match_played": 37,
-  "match_wins": 25,
+  "match_played": 39,
+  "match_wins": 27,
   "favorite_format": ["draft", 0.75]
 }

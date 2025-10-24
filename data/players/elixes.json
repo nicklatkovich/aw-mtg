@@ -25,7 +25,7 @@
     {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":6,"rank":[11,21],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}}
   ],
   "events_count": 19,
-  "match_played": 61,
-  "match_wins": 24,
+  "match_played": 62,
+  "match_wins": 25,
   "favorite_format": ["standard", 0.42105263157894735]
 }

@@ -20,7 +20,7 @@
     {"id":303479,"name":"Daily | Standard (06.05)","date":"2025-05-06","format":"standard","points":6,"rank":[7,11],"deck":{"archetype":"Boros Raise the Past","colors":"WR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"}
   ],
   "events_count": 14,
-  "match_played": 53,
-  "match_wins": 18,
+  "match_played": 55,
+  "match_wins": 20,
   "favorite_format": ["standard", 0.6428571428571429]
 }

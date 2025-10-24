@@ -41,7 +41,7 @@
     {"rank":38,"player":{"display_name":"Inshakov Nikita","id":"professor013"},"points":5,"events":2,"mp":8,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"percentage":1}},
     {"rank":39,"player":{"display_name":"Abramenkov Alexei","id":"alexei5"},"points":4,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":null},
     {"rank":40,"player":{"display_name":"Romanenko Polina","id":"polr"},"points":4,"events":2,"mp":6,"mw":0,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"percentage":0.5}},
-    {"rank":41,"player":{"display_name":"Dmitry Avdeenko","id":"dalotus"},"points":3,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"percentage":1}},
+    {"rank":41,"player":{"display_name":"Avdeenko Dmitry","id":"dalotus"},"points":3,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"percentage":1}},
     {"rank":42,"player":{"display_name":"Bulyshkin Yauheny","id":"torongil"},"points":3,"events":1,"mp":4,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Dimir Mill Combo","colors":"UB","type":"Combo"},"percentage":1}},
     {"rank":43,"player":{"display_name":"Maletin Alexey","id":"alem42"},"points":3,"events":1,"mp":4,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"percentage":1}},
     {"rank":44,"player":{"display_name":"Moiseenko Pavel","id":"ykcyc"},"points":3,"events":1,"mp":4,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"percentage":1}},

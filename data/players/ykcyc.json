@@ -17,7 +17,7 @@
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"0-4-0","game_record":"0-8-0"}
   ],
   "events_count": 11,
-  "match_played": 39,
-  "match_wins": 5,
+  "match_played": 42,
+  "match_wins": 8,
   "favorite_format": ["pauper", 0.45454545454545453]
 }

@@ -11,7 +11,7 @@
     {"id":276051,"name":"League Standard | Season 11 (9/12)","date":"2025-03-25","format":"standard","points":6,"rank":[12,20],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"}
   ],
   "events_count": 5,
-  "match_played": 19,
-  "match_wins": 13,
+  "match_played": 20,
+  "match_wins": 14,
   "favorite_format": ["standard", 1]
 }

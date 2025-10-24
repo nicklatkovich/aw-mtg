@@ -2,9 +2,10 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"W":0.7727272727272725,"U":0.9621212121212122,"B":1,"R":0.12878787878787873,"G":0.09090909090909086},
+  "color_stats": {"W":0.7536945812807878,"U":0.9384236453201971,"B":1,"R":0.15024630541871914,"G":0.11330049261083737},
   "recent_events": [
     {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":9,"rank":[3,6],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
+    {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[11,11],"deck":{"archetype":"Korvold, Fae-Cursed King","colors":"BRG","type":null},"match_record":"0-1-0"},
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":6,"rank":[5,9],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":0,"rank":[5,5],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":368882,"name":"Fall League 2025 | Standard #1/12","date":"2025-09-30","format":"standard","points":6,"rank":[7,9],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -58,8 +59,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 53,
-  "match_played": 181,
-  "match_wins": 68,
-  "favorite_format": ["standard", 0.5283018867924528]
+  "events_count": 54,
+  "match_played": 192,
+  "match_wins": 77,
+  "favorite_format": ["standard", 0.5185185185185185]
 }

@@ -8,7 +8,7 @@
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":3,"rank":[12,17]}
   ],
   "events_count": 2,
-  "match_played": 1,
-  "match_wins": 0,
+  "match_played": 2,
+  "match_wins": 1,
   "favorite_format": ["commander", 0.5]
 }

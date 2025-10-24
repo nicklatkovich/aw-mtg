@@ -8,7 +8,7 @@
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":3,"rank":[12,15],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"1-3-0","game_record":"5-7-0"}
   ],
   "events_count": 2,
-  "match_played": 7,
-  "match_wins": 1,
+  "match_played": 8,
+  "match_wins": 2,
   "favorite_format": ["pauper", 1]
 }

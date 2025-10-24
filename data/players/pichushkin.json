@@ -2,13 +2,14 @@
   "guid": "e6d28df5-a35e-434f-87f0-4be11c9b9079",
   "id": "pichushkin",
   "display_name": "Pichushkin Andrey",
-  "color_stats": {},
+  "color_stats": {"B":1,"G":1},
   "recent_events": [
+    {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[9,11],"deck":{"archetype":"Grist, the Hunger Tide","colors":"BG","type":null},"match_record":"0-3-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[6,12]},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[12,16],"deck":{"archetype":"Shaman Tribal","colors":null,"type":null}}
   ],
-  "events_count": 2,
-  "match_played": 0,
+  "events_count": 3,
+  "match_played": 3,
   "match_wins": 0,
   "favorite_format": ["commander", 1]
 }

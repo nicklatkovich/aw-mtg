@@ -17,7 +17,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Lich's Mastery","colors":"WUBRG","type":"Combo"}}
   ],
   "events_count": 11,
-  "match_played": 36,
-  "match_wins": 15,
+  "match_played": 37,
+  "match_wins": 16,
   "favorite_format": ["draft", 0.45454545454545453]
 }

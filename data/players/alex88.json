@@ -108,7 +108,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
   "events_count": 102,
-  "match_played": 390,
-  "match_wins": 235,
+  "match_played": 396,
+  "match_wins": 241,
   "favorite_format": ["pioneer", 0.5686274509803921]
 }

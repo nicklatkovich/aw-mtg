@@ -2,12 +2,13 @@
   "guid": "906038db-c395-4c01-886b-92e9e1bfcfab",
   "id": "pastushik",
   "display_name": "Pastushik Pavel",
-  "color_stats": {},
+  "color_stats": {"R":1},
   "recent_events": [
+    {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[8,11],"deck":{"archetype":"Magda, Brazen Outlaw","colors":"R","type":null},"match_record":"0-2-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":0,"rank":[11,12]}
   ],
-  "events_count": 1,
-  "match_played": 0,
+  "events_count": 2,
+  "match_played": 2,
   "match_wins": 0,
   "favorite_format": ["commander", 1]
 }

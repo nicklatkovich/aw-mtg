@@ -96,7 +96,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
   "events_count": 90,
-  "match_played": 338,
-  "match_wins": 152,
+  "match_played": 355,
+  "match_wins": 168,
   "favorite_format": ["pioneer", 0.7333333333333333]
 }

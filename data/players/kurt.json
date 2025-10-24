@@ -9,7 +9,7 @@
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":7,"rank":[7,20],"deck":{"archetype":"Golgari Food","colors":"BG","type":null},"match_record":"2-1-1","game_record":"5-4-0"}
   ],
   "events_count": 3,
-  "match_played": 10,
-  "match_wins": 4,
+  "match_played": 11,
+  "match_wins": 5,
   "favorite_format": ["pauper", 1]
 }

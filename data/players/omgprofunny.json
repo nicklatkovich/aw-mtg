@@ -62,7 +62,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
   "events_count": 56,
-  "match_played": 200,
-  "match_wins": 111,
+  "match_played": 202,
+  "match_wins": 113,
   "favorite_format": ["pioneer", 0.5535714285714286]
 }

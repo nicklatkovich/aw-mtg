@@ -25,7 +25,7 @@
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":3,"rank":[14,15],"deck":{"archetype":"Mono-Black Pactdoll","colors":"B","type":null},"match_record":"1-2-0","game_record":"3-4-0"}
   ],
   "events_count": 19,
-  "match_played": 57,
-  "match_wins": 26,
+  "match_played": 59,
+  "match_wins": 28,
   "favorite_format": ["pauper", 0.631578947368421]
 }

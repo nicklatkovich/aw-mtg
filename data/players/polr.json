@@ -17,7 +17,7 @@
     {"id":258802,"name":"League Pioneer | Season 5 (6/12)","date":"2025-03-06","format":"pioneer","points":1,"rank":[14,16],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}
   ],
   "events_count": 11,
-  "match_played": 39,
-  "match_wins": 11,
+  "match_played": 42,
+  "match_wins": 14,
   "favorite_format": ["pauper", 0.8181818181818182]
 }

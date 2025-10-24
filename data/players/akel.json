@@ -46,7 +46,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":4,"rank":[9,12],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"}}
   ],
   "events_count": 40,
-  "match_played": 154,
-  "match_wins": 77,
+  "match_played": 159,
+  "match_wins": 82,
   "favorite_format": ["pioneer", 0.975]
 }

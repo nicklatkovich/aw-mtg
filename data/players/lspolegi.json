@@ -19,7 +19,7 @@
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":12,"rank":[1,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
   "events_count": 13,
-  "match_played": 48,
-  "match_wins": 30,
+  "match_played": 49,
+  "match_wins": 31,
   "favorite_format": ["pioneer", 0.6153846153846154]
 }

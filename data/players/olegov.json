@@ -2,15 +2,16 @@
   "guid": "44ea1bf1-d9ce-4664-b0d2-9d02535601df",
   "id": "olegov",
   "display_name": "Olegov Yaroslav",
-  "color_stats": {"U":1,"B":1,"R":1},
+  "color_stats": {"W":0.6000000000000001,"R":1,"U":0.4,"B":0.4},
   "recent_events": [
+    {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":6,"rank":[5,11],"deck":{"archetype":"Koll, the Forgemaster","colors":"WR","type":null},"match_record":"1-3-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":9,"rank":[2,12],"deck":{"archetype":"Ahoy Mateys","colors":"UBR","type":null}},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":0,"rank":[14,16],"deck":{"archetype":"Goblin Tribal","colors":null,"type":null}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":3,"rank":[4,7]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":6,"rank":[6,12]}
   ],
-  "events_count": 4,
-  "match_played": 0,
-  "match_wins": 0,
+  "events_count": 5,
+  "match_played": 7,
+  "match_wins": 4,
   "favorite_format": ["commander", 1]
 }

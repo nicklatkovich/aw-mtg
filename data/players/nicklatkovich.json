@@ -88,7 +88,7 @@
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
   "events_count": 82,
-  "match_played": 316,
-  "match_wins": 147,
+  "match_played": 328,
+  "match_wins": 159,
   "favorite_format": ["pioneer", 0.7317073170731707]
 }

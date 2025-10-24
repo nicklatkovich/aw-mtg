@@ -28,7 +28,7 @@
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
   ],
   "events_count": 22,
-  "match_played": 73,
-  "match_wins": 26,
+  "match_played": 75,
+  "match_wins": 28,
   "favorite_format": ["pauper", 0.8636363636363636]
 }

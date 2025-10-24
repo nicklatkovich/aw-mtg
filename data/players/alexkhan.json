@@ -27,7 +27,7 @@
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
   "events_count": 21,
-  "match_played": 79,
-  "match_wins": 32,
+  "match_played": 83,
+  "match_wins": 36,
   "favorite_format": ["pioneer", 1]
 }
