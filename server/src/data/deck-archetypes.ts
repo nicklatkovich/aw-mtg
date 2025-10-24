@@ -229,6 +229,17 @@ export const ARCHETYPES = {
   'Domain Enchantments': ['WUBRG', DeckType.CONTROL],
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
+  // Commander
+  'Marneus Calgar': 'WUB',
+  'Tivit, Seller of Secrets': 'WUB',
+  'Tymna & Kraum': 'WUBR',
+  'Koll, the Forgemaster': 'WR',
+  "Yuriko, the Tiger's Shadow": 'UB',
+  'Rograkh & Thrasios': 'URG',
+  'Kinnan, Bonder Prodigy': 'UG',
+  'Korvold, Fae-Cursed King': 'BRG',
+  'Grist, the Hunger Tide': 'BG',
+  'Magda, Brazen Outlaw': 'R',
 } as const;
 
 _assertType<{ readonly [name: string]: ArchetypeInfo }>(ARCHETYPES);

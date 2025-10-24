@@ -1,7 +1,50 @@
 import { Format } from '@dtos';
 import { Tournament } from '@server/data/data.types';
 
+const nonMeleePlayers = {
+  levdansky: 'e639966a-37b7-424f-8b74-3d82bd133879',
+  darkowlai: 'e65cad71-3b22-44d7-8017-0e553f8c7231',
+  olegov: '44ea1bf1-d9ce-4664-b0d2-9d02535601df',
+  pastushik: '906038db-c395-4c01-886b-92e9e1bfcfab',
+  vitvitsky: '996c0dec-fdc1-4774-86c6-413a1a708c4f',
+  pichushkin: 'e6d28df5-a35e-434f-87f0-4be11c9b9079',
+} as const satisfies Record<string, string>;
+
 export const _2025_commander: Tournament[] = [
+  {
+    id: 'c251015',
+    format: Format.COMMANDER,
+    name: 'Fall League 2025 | Commander (15.10)',
+    date: '2025-10-15',
+    standings: [
+      { rank: 1, points: 12, player: 'DanilaNabeshko', deck: 'Rograkh & Thrasios', match_record: '2-1-0' }, // omw: 40.74%
+      { rank: 2, points: 12, player: nonMeleePlayers.vitvitsky, deck: 'Tivit, Seller of Secrets', match_record: '2-0-0' }, // omw: 33.33%
+      { rank: 3, points: 6, player: nonMeleePlayers.levdansky, deck: 'Tymna & Kraum', match_record: '1-0-0' },
+      { rank: 4, points: 6, player: 'EggsLicker', deck: 'Tymna & Kraum', match_record: '1-2-0' },
+      { rank: 5, points: 6, player: nonMeleePlayers.olegov, deck: 'Koll, the Forgemaster', match_record: '1-3-0' },
+      { rank: 6, points: 0, player: 'Prudya', deck: 'Kinnan, Bonder Prodigy', match_record: '0-4-0' },
+      { rank: 7, points: 0, player: nonMeleePlayers.darkowlai, deck: 'Marneus Calgar', match_record: '0-3-0' },
+      { rank: 8, points: 0, player: nonMeleePlayers.pastushik, deck: 'Magda, Brazen Outlaw', match_record: '0-2-0' },
+      { rank: 9, points: 0, player: nonMeleePlayers.pichushkin, deck: 'Grist, the Hunger Tide', match_record: '0-3-0' },
+      { rank: 10, points: 0, player: 'VlaS2', deck: "Yuriko, the Tiger's Shadow", match_record: '0-2-0' },
+      { rank: 11, points: 0, player: 'McRais', deck: 'Korvold, Fae-Cursed King', match_record: '0-1-0' },
+    ],
+    rounds: [
+      [
+        { pod: 1, players: ['Prudya', 'DanilaNabeshko', nonMeleePlayers.levdansky, nonMeleePlayers.darkowlai], winner: 3 },
+        { pod: 2, players: [nonMeleePlayers.olegov, nonMeleePlayers.vitvitsky, nonMeleePlayers.pichushkin, 'VlaS2'], winner: 2 },
+      ],
+      [
+        { pod: 1, players: ['Prudya', 'DanilaNabeshko', 'EggsLicker', nonMeleePlayers.darkowlai], winner: 2 },
+        { pod: 2, players: [nonMeleePlayers.olegov, nonMeleePlayers.vitvitsky, nonMeleePlayers.pichushkin, 'VlaS2'], winner: 2 },
+      ],
+      [
+        { pod: 1, players: ['Prudya', nonMeleePlayers.olegov, 'EggsLicker', nonMeleePlayers.pastushik], winner: 3 },
+        { pod: 2, players: [nonMeleePlayers.pichushkin, nonMeleePlayers.darkowlai, 'DanilaNabeshko', 'McRais'], winner: 3 },
+      ],
+      [{ pod: 1, players: ['Prudya', nonMeleePlayers.olegov, 'EggsLicker', nonMeleePlayers.pastushik], winner: 2 }],
+    ],
+  },
   {
     id: 'c250704',
     format: Format.COMMANDER,

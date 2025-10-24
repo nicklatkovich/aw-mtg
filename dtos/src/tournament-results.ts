@@ -3,11 +3,10 @@ import { Format } from './format';
 
 export type MatchPlayerResultDTO =
   | 'bye'
-  | {
-      vs: number;
+  | (({ vs: number; pod?: undefined } | { pod: number }) & {
       record?: string;
-      res: number; // 1=win; -1=lose; 0=draw
-    };
+      res: 1 | -1 | 0; // 1=win; -1=lose; 0=draw
+    });
 
 export type TournamentResultDTO = {
   id: number | string; // number = melee tournament id

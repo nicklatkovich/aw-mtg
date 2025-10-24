@@ -37,12 +37,15 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
           for (const c of colors) color_stats_values[c] = (color_stats_values[c] ?? 0) + color_stat_inc;
         }
         for (const m of t.rounds?.flat() ?? []) {
-          if ((playersByUsername[m.players[0]] ?? m.players[0]) === guid && m.players[1] !== null) {
+          const idx = m.players.findIndex((p) => p && (playersByUsername[p] ?? p) === guid);
+          if (idx < 0) continue;
+          const win = m.winner === idx + 1;
+          if (m.pod !== undefined) {
+            mp += win ? m.players.length : 1;
+            mw += win ? m.players.length : 0;
+          } else {
             mp += 1;
-            mw += m.winner === 1 ? 1 : 0;
-          } else if (m.players[1] && (playersByUsername[m.players[1]] ?? m.players[1]) === guid) {
-            mp += 1;
-            mw += m.winner === 2 ? 1 : 0;
+            mw += win ? 1 : 0;
           }
         }
         // FIXME: use format from standings (in case of trios tournament)

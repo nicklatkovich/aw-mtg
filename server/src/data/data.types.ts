@@ -7,7 +7,11 @@ export type Deck = DeckArchetype | { archetype?: DeckArchetype; colors?: string;
 
 // null;win:2 - bye without 3 points (to prevent mocked bye to be counted as a drop,
 // eg in case of 5 players each-vs-each)
-export type Match = ({ players: [string, string]; winner: 0 | 1 | 2 } | { players: [string, null]; winner: 1 | 2 }) & {
+export type Match = (
+  | { players: [string, string]; winner: 0 | 1 | 2; pod?: null }
+  | { players: [string, null]; winner: 1 | 2; pod?: null }
+  | { pod: number; players: string[]; winner: number }
+) & {
   record?: string;
 };
 

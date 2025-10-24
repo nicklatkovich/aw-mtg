@@ -135,7 +135,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '9a917182-b0cc-4443-934e-c5e57173cd6c': 'Korzhov Alexey',
   '14776540-5dfc-4c8c-bdcb-edc8e8629bc5': 'Shatunov Yuri',
   'ce70951c-9b0c-4927-9fda-0b77f3848dcf': 'Inshakov Nikita',
-  '6b76518c-1ad7-4a9b-bcfc-780bb7a54142': 'Dmitry Avdeenko',
+  '6b76518c-1ad7-4a9b-bcfc-780bb7a54142': 'Avdeenko Dmitry',
+  '996c0dec-fdc1-4774-86c6-413a1a708c4f': ['Vitvitsky Martin', { id: 'vitvitsky' }],
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -143,6 +144,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2*',
   '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi*',
   'cd794a46-4193-4d5b-ae04-d02add6aafbf': 'NikK8*',
+  'e65cad71-3b22-44d7-8017-0e553f8c7231': ['BrOwl* Artem', { id: 'darkowlai' }],
 };
 
 export const playersByUsername: { [username in string]?: string } = {
