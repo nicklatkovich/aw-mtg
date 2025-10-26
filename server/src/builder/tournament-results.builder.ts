@@ -30,12 +30,13 @@ export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Reco
             if (match.players[1] === null) return 'bye';
             const selfInd = match.players.findIndex((p) => (playersByUsername[p] ?? p) === player_guid);
             assert(selfInd >= 0);
+            const win = match.winner === selfInd + 1;
+            const res = match.winner === 0 ? 0 : win ? 1 : -1;
+            if (typeof match.pod === 'number') return { pod: match.pod, res };
             const op = match.players[1 - selfInd];
             const op_guid = playersByUsername[op] ?? op;
-            const win = match.winner === selfInd + 1;
             const vs = tournament.standings.find((s) => (playersByUsername[s.player] ?? s.player) === op_guid)?.rank;
             assert(typeof vs === 'number');
-            const res = match.winner === 0 ? 0 : win ? 1 : -1;
             let record;
             if (match.record) record = win ? match.record : flipRecord(match.record);
             else record = res === 1 ? 'win' : res === 0 ? 'draw' : 'lose';

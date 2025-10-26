@@ -74,9 +74,10 @@ const TournamentPage: React.FC = () => {
                           if (r.res === -1) className = 'round--lose';
                           else if (r.res === 0) className = 'round--draw';
                           else if (r.res === 1) className = 'round--win';
+                          const record = r.record ?? (r.res === -1 ? 'lose' : r.res === 0 ? 'draw' : 'win');
                           return (
                             <th className={className}>
-                              {r.vs}: {r.record}
+                              {r.pod === undefined ? r.vs : String.fromCharCode(64 + r.pod)}: {record}
                             </th>
                           );
                         })}
