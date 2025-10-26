@@ -4,7 +4,7 @@
   "display_name": "Six* Slava",
   "color_stats": {"G":1},
   "recent_events": [
-    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[9,16],"deck":{"archetype":"Six","colors":"G","type":null}}
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[14,16],"deck":{"archetype":"Six","colors":"G","type":null},"match_record":"0-1-0"}
   ],
   "events_count": 1,
   "match_played": 1,

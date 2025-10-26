@@ -4,7 +4,7 @@
   "display_name": "Pastushik Pavel",
   "color_stats": {"U":0.5,"B":0.5,"R":1},
   "recent_events": [
-    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[6,16],"deck":{"archetype":"Yuriko, the Tiger's Shadow","colors":"UB","type":null}},
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[6,16],"deck":{"archetype":"Yuriko, the Tiger's Shadow","colors":"UB","type":null},"match_record":"0-1-0"},
     {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[8,11],"deck":{"archetype":"Magda, Brazen Outlaw","colors":"R","type":null},"match_record":"0-2-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":0,"rank":[11,12]}
   ],

@@ -4,7 +4,7 @@
   "display_name": "Malcolm/Kediss* Roman",
   "color_stats": {"U":1,"R":1},
   "recent_events": [
-    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[9,16],"deck":{"archetype":"Malcolm & Kediss","colors":"UR","type":null}}
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[10,16],"deck":{"archetype":"Malcolm & Kediss","colors":"UR","type":null},"match_record":"0-2-0"}
   ],
   "events_count": 1,
   "match_played": 2,

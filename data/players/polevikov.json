@@ -4,7 +4,7 @@
   "display_name": "Polevikov Aleksandr",
   "color_stats": {"G":1},
   "recent_events": [
-    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[8,16],"deck":{"archetype":"Marwyn, the Nurturer","colors":"G","type":null}},
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[8,16],"deck":{"archetype":"Marwyn, the Nurturer","colors":"G","type":null},"match_record":"1-1-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[10,16],"deck":{"archetype":"Elf Tribal","colors":null,"type":null}}
   ],
   "events_count": 2,
