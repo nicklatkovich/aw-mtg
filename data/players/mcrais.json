@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"W":0.7536945812807878,"U":0.9384236453201971,"B":1,"R":0.15024630541871914,"G":0.11330049261083737},
+  "color_stats": {"U":0.9399038461538463,"B":1,"G":0.13461538461538455,"W":0.7355769230769228,"R":0.1466346153846153},
   "recent_events": [
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[9,16],"deck":{"archetype":"Glarb, Calamity's Augur","colors":"UBG","type":null}},
     {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":9,"rank":[3,6],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[11,11],"deck":{"archetype":"Korvold, Fae-Cursed King","colors":"BRG","type":null},"match_record":"0-1-0"},
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":6,"rank":[5,9],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -59,8 +60,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 54,
-  "match_played": 192,
+  "events_count": 55,
+  "match_played": 193,
   "match_wins": 77,
-  "favorite_format": ["standard", 0.5185185185185185]
+  "favorite_format": ["standard", 0.509090909090909]
 }
