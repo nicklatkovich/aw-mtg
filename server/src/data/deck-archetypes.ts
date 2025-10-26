@@ -39,6 +39,7 @@ export const ARCHETYPES = {
   'Jeskai Solution': ['WUR', DeckType.MIDRANGE],
   'Jeskai Convoke': ['WUR', DeckType.AGGRO],
   'Jeskai Gates': 'WUR',
+  'Jeskai Blink': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -140,6 +141,7 @@ export const ARCHETYPES = {
   'Izzet Vivi': ['UR', DeckType.TEMPO],
   'Izzet Skred': 'UR',
   'Izzet Delver': 'UR',
+  'Izzet Prowess': ['UR', DeckType.AGGRO],
   // URG
   'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
@@ -212,6 +214,7 @@ export const ARCHETYPES = {
   'Mono-Green Infect': 'G',
   'Walls Combo': ['G', DeckType.COMBO],
   'Mono-Green Landfall': ['G', DeckType.AGGRO],
+  'Amulet Titan': ['G', DeckType.COMBO],
   // 4c
   Dredge: ['WBRG', DeckType.COMBO],
   Tron: 'WBRG',

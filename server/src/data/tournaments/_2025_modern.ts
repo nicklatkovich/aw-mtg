@@ -3,6 +3,46 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_modern: Tournament[] = [
   {
+    id: 374673,
+    format: Format.MODERN,
+    name: 'Fall League 2025 | Modern #2/6',
+    date: '2025-10-26',
+    standings: [
+      { player: 'Norbi', rank: 1, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Prowess', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'aspelled', rank: 3, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'DanilaNabeshko', rank: 4, deck: 'Azorius Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'qvertion', rank: 5, deck: 'Boros Energy', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Tanti', rank: 6, deck: 'Dimir Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'EggsLicker', rank: 7, deck: 'Amulet Titan', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['qvertion', null], winner: 1, record: 'bye' },
+        { players: ['DanilaNabeshko', 'Norbi'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Tanti'], winner: 1, record: '2-0-0' },
+        { players: ['EggsLicker', 'aspelled'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['DanilaNabeshko', null], winner: 1, record: 'bye' },
+        { players: ['aspelled', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['EggsLicker', 'Tanti'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['EggsLicker', null], winner: 1, record: 'bye' },
+        { players: ['aspelled', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['DanilaNabeshko', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Tanti', 'qvertion'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Norbi', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['aspelled', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['DanilaNabeshko', 'EggsLicker'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 370849,
     format: Format.MODERN,
     name: 'Fall League 2025 | Modern #1/6',
