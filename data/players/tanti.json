@@ -2,8 +2,9 @@
   "guid": "a52d83e2-0c2f-4fe0-bc03-1d03a54a4170",
   "id": "tanti",
   "display_name": "Charniauski Mikita",
-  "color_stats": {"W":0.5238095238095238,"U":1,"G":0.5238095238095238,"B":0.761904761904762,"R":0.761904761904762},
+  "color_stats": {"U":1,"B":0.8245614035087719,"W":0.38596491228070184,"G":0.38596491228070184,"R":0.5614035087719299},
   "recent_events": [
+    {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":3,"rank":[6,7],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":3,"rank":[6,7],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":6,"rank":[4,5]},
     {"id":"l250921","name":"Daily | Legacy (21.09)","date":"2025-09-21","format":"legacy","points":6,"rank":[2,4],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
@@ -14,8 +15,8 @@
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 9,
-  "match_played": 27,
-  "match_wins": 17,
-  "favorite_format": ["legacy", 0.5555555555555556]
+  "events_count": 10,
+  "match_played": 30,
+  "match_wins": 18,
+  "favorite_format": ["modern", 0.5]
 }

@@ -2,8 +2,9 @@
   "guid": "5a1a3197-1193-4637-a2ad-01fe86d05a4e",
   "id": "danilanabeshko",
   "display_name": "Nabeshko Daniil",
-  "color_stats": {"W":0.3125,"U":1,"R":0.8125,"G":0.125},
+  "color_stats": {"W":0.42105263157894735,"U":1,"R":0.6842105263157895,"G":0.10526315789473684},
   "recent_events": [
+    {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":6,"rank":[4,7],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":"l251019","name":"Fall League 2025 | Legacy #2/6","date":"2025-10-19","format":"legacy","points":0,"rank":[5,5],"deck":{"archetype":"Azorius Cats","colors":"WU","type":null}},
     {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":12,"rank":[1,11],"deck":{"archetype":"Rograkh & Thrasios","colors":"URG","type":null},"match_record":"2-1-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":9,"rank":[2,20],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -13,8 +14,8 @@
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[5,5],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":9,"rank":[1,7]}
   ],
-  "events_count": 8,
-  "match_played": 29,
-  "match_wins": 20,
-  "favorite_format": ["pauper", 0.375]
+  "events_count": 9,
+  "match_played": 33,
+  "match_wins": 22,
+  "favorite_format": ["pauper", 0.3333333333333333]
 }
