@@ -235,14 +235,25 @@ export const ARCHETYPES = {
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',
+  "Y'shtola, Night's Blessed": 'WUB',
   'Tymna & Kraum': 'WUBR',
+  'Edgar Markov': 'WBR',
   'Koll, the Forgemaster': 'WR',
+  'Urza, Lord High Artificer': 'U',
   "Yuriko, the Tiger's Shadow": 'UB',
+  'Kefka, Court Mage': 'UBR',
+  'Kess, Dissident Mage': 'UBR',
+  "Glarb, Calamity's Augur": 'UBG',
+  'Krark & Sakashima': 'UR',
+  'Malcolm & Kediss': 'UR',
   'Rograkh & Thrasios': 'URG',
   'Kinnan, Bonder Prodigy': 'UG',
+  'The Wandering Minstrel': 'UG',
   'Korvold, Fae-Cursed King': 'BRG',
   'Grist, the Hunger Tide': 'BG',
   'Magda, Brazen Outlaw': 'R',
+  'Marwyn, the Nurturer': 'G',
+  Six: 'G',
 } as const;
 
 _assertType<{ readonly [name: string]: ArchetypeInfo }>(ARCHETYPES);

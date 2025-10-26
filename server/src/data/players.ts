@@ -137,6 +137,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'ce70951c-9b0c-4927-9fda-0b77f3848dcf': 'Inshakov Nikita',
   '6b76518c-1ad7-4a9b-bcfc-780bb7a54142': 'Avdeenko Dmitry',
   '996c0dec-fdc1-4774-86c6-413a1a708c4f': ['Vitvitsky Martin', { id: 'vitvitsky' }],
+  'bf7899ef-b66d-41f0-a257-6949f19dff34': ['Serov Daniil', { id: 'serov' }],
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -145,6 +146,9 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi*',
   'cd794a46-4193-4d5b-ae04-d02add6aafbf': 'NikK8*',
   'e65cad71-3b22-44d7-8017-0e553f8c7231': ['BrOwl* Artem', { id: 'darkowlai' }],
+  '0a1ef3df-d4af-494f-a300-a656a61574d7': ['Malcolm/Kediss* Roman', { id: 'malcolm-kediss-roman' }],
+  'eed2e7f4-3153-4500-8094-7673082d1c4a': ['Six* Slava', { id: 'six-slava' }],
+  '2b174219-f5a8-4df4-a6a4-3a7285ff3d72': ['Urza* Kirill', { id: 'urza-kirill' }],
 };
 
 export const playersByUsername: { [username in string]?: string } = {
