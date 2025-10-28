@@ -1,4 +1,5 @@
 [
+  {"id":376220,"format":"standard","date":"2025-10-28","name":"Event 376220","players_count":7,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"}}},
   {"id":374673,"format":"modern","date":"2025-10-26","name":"Fall League 2025 | Modern #2/6","players_count":7,"winner":{"player":{"display_name":"Voiteh Stas","id":"norbi"},"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null}}},
   {"id":"c251024","format":"commander","date":"2025-10-24","name":"Fall League 2025 | Commander (24.10)","players_count":16,"winner":{"player":{"display_name":"Tkachenko Mikhail","id":"tkachenko"},"deck":{"archetype":"Y'shtola, Night's Blessed","colors":"WUB","type":null}}},
   {"id":374661,"format":"pioneer","date":"2025-10-23","name":"Fall League 2025 | Pioneer #4/12","players_count":10,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"}}},

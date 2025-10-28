@@ -1,0 +1,13 @@
+{
+  "guid": "6b2579e7-b696-44dc-98d9-0b46d534dd8d",
+  "id": "gluck",
+  "display_name": "Karalenia Aliaksandr",
+  "color_stats": {"W":1,"U":1},
+  "recent_events": [
+    {"id":376220,"name":"Event 376220","date":"2025-10-28","format":"standard","points":9,"rank":[3,7],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"7-2-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 3,
+  "favorite_format": ["standard", 1]
+}
