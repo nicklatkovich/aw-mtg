@@ -3,6 +3,45 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 376220,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #5/12',
+    date: '2025-10-28',
+    standings: [
+      { player: 'qvertion', rank: 1, deck: 'Temur Battlecrier', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Very_Bad_Man', rank: 2, deck: 'Orzhov Bounce', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Gluck', rank: 3, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'NickLatkovich', rank: 4, deck: 'Simic Artifacts', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'warded_bye', rank: 5, deck: 'Rakdos Lizards', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'McRais', rank: 6, deck: 'Esper Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'Azurenia', rank: 7, deck: 'Dimir Midrange', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['qvertion', null], winner: 1, record: 'bye' },
+        { players: ['Azurenia', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['Gluck', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'warded_bye'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['warded_bye', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['Gluck', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['warded_bye', 'Gluck'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['Gluck', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'warded_bye'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 374653,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #4/12',
