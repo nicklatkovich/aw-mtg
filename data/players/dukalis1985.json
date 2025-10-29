@@ -4,6 +4,7 @@
   "display_name": "Smoktunovich Kirill",
   "color_stats": {"W":0.1281512605042017,"U":0.06512605042016807,"B":1,"R":0.9684873949579832,"G":0.10714285714285715},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[4,18],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[8,12],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":4,"rank":[8,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-1","game_record":"5-5-0"},
@@ -83,8 +84,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 78,
-  "match_played": 292,
-  "match_wins": 158,
-  "favorite_format": ["pioneer", 0.9487179487179487]
+  "events_count": 79,
+  "match_played": 296,
+  "match_wins": 161,
+  "favorite_format": ["pioneer", 0.9367088607594937]
 }

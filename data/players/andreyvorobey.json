@@ -4,6 +4,7 @@
   "display_name": "Ivanov Andrey",
   "color_stats": {"U":0.24999999999999997,"R":1,"W":0.28124999999999994,"G":0.28124999999999994,"B":0.24999999999999997},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[11,18],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[7,12],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":6,"rank":[8,14],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":6,"rank":[5,13],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -17,8 +18,8 @@
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":9,"rank":[5,15],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":6,"rank":[6,14]}
   ],
-  "events_count": 12,
-  "match_played": 47,
-  "match_wins": 24,
-  "favorite_format": ["pauper", 0.9166666666666666]
+  "events_count": 13,
+  "match_played": 51,
+  "match_wins": 26,
+  "favorite_format": ["pauper", 0.9230769230769231]
 }

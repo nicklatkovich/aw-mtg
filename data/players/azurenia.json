@@ -4,6 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"U":0.8044692737430166,"B":0.988826815642458,"R":0.877094972067039,"G":1,"W":0.21787709497206692},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[9,18],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":0,"rank":[7,7],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[4,15],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":0,"rank":[16,17],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"0-2-0","game_record":"0-4-0"},
@@ -73,8 +74,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 68,
-  "match_played": 249,
-  "match_wins": 140,
-  "favorite_format": ["standard", 0.4411764705882353]
+  "events_count": 69,
+  "match_played": 253,
+  "match_wins": 142,
+  "favorite_format": ["standard", 0.43478260869565216]
 }

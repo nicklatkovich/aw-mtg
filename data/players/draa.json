@@ -4,6 +4,7 @@
   "display_name": "Draghin Alexander",
   "color_stats": {"U":1,"R":0.1,"B":0.23333333333333334},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[7,18],"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[5,16],"deck":{"archetype":"Krark & Sakashima","colors":"UR","type":null},"match_record":"0-1-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[6,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"4-0-0","game_record":"8-3-0"},
@@ -28,8 +29,8 @@
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
   ],
-  "events_count": 23,
-  "match_played": 76,
-  "match_wins": 28,
-  "favorite_format": ["pauper", 0.8260869565217391]
+  "events_count": 24,
+  "match_played": 80,
+  "match_wins": 30,
+  "favorite_format": ["pauper", 0.8333333333333334]
 }

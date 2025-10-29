@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"W":0.3044189852700491,"U":0.6481178396072013,"R":1,"B":0.33715220949263497,"G":0.36170212765957444},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[6,18],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":9,"rank":[3,7],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[2,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":3,"rank":[11,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"},
@@ -90,8 +91,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 85,
-  "match_played": 311,
-  "match_wins": 154,
-  "favorite_format": ["pioneer", 0.43529411764705883]
+  "events_count": 86,
+  "match_played": 315,
+  "match_wins": 157,
+  "favorite_format": ["pioneer", 0.43023255813953487]
 }

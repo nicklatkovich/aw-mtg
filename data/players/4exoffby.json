@@ -4,6 +4,7 @@
   "display_name": "Chakhouski Vasili",
   "color_stats": {"U":0.6470588235294117,"B":1,"W":0.47058823529411753},
   "recent_events": [
+    {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[12,18],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":0,"rank":[6,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":370840,"name":"Fall League 2025 | Standard #2/12","date":"2025-10-07","format":"standard","points":3,"rank":[4,5],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-7-0"},
@@ -36,8 +37,8 @@
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[13,22],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":1,"rank":[16,17]}
   ],
-  "events_count": 31,
-  "match_played": 117,
-  "match_wins": 36,
-  "favorite_format": ["standard", 1]
+  "events_count": 32,
+  "match_played": 121,
+  "match_wins": 38,
+  "favorite_format": ["standard", 0.96875]
 }
