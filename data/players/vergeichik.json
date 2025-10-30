@@ -2,12 +2,14 @@
   "guid": "631fd7bc-fd14-4de3-ade2-984bd64352b6",
   "id": "vergeichik",
   "display_name": "Vergeichik Kirill",
-  "color_stats": {},
+  "color_stats": {"B":0.5,"R":0.5,"U":1},
   "recent_events": [
+    {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":0,"rank":[5,12],"deck":{"archetype":"Rowan, Scion of War","colors":"BR","type":null}},
+    {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[15,16],"deck":{"archetype":"Urza, Lord High Artificer","colors":"U","type":null},"match_record":"0-2-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[8,12]}
   ],
-  "events_count": 1,
-  "match_played": 0,
+  "events_count": 3,
+  "match_played": 5,
   "match_wins": 0,
   "favorite_format": ["commander", 1]
 }

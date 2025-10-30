@@ -4,10 +4,11 @@
   "display_name": "Serov Daniil",
   "color_stats": {"U":1,"B":1,"R":1},
   "recent_events": [
+    {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":0,"rank":[8,12],"deck":{"archetype":"Kess, Dissident Mage","colors":"UBR","type":null}},
     {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":0,"rank":[13,16],"deck":{"archetype":"Kess, Dissident Mage","colors":"UBR","type":null},"match_record":"0-1-0"}
   ],
-  "events_count": 1,
-  "match_played": 1,
+  "events_count": 2,
+  "match_played": 4,
   "match_wins": 0,
   "favorite_format": ["commander", 1]
 }

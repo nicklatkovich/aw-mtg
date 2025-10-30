@@ -2,8 +2,9 @@
   "guid": "1ddbc09f-aa00-45a0-b2f3-aa4f2aed8bed",
   "id": "khvin",
   "display_name": "Khvin Alexander",
-  "color_stats": {"U":0.25,"B":0.25,"R":1},
+  "color_stats": {"W":0.15789473684210528,"U":0.3684210526315789,"B":0.3684210526315789,"R":1},
   "recent_events": [
+    {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":12,"rank":[1,12],"deck":{"archetype":"Tymna & Kraum","colors":"WUBR","type":null}},
     {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":6,"rank":[2,16],"deck":{"archetype":"Kefka, Court Mage","colors":"UBR","type":null},"match_record":"2-1-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[9,20],"deck":{"archetype":"Mono-Red Goblins","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"c250704","name":"Summer League 2025 | Commander #4 (Precons)","date":"2025-07-04","format":"commander","points":3,"rank":[9,12]},
@@ -11,8 +12,8 @@
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":0,"rank":[7,7]},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":9,"rank":[2,12]}
   ],
-  "events_count": 6,
-  "match_played": 13,
-  "match_wins": 10,
-  "favorite_format": ["commander", 0.8333333333333334]
+  "events_count": 7,
+  "match_played": 25,
+  "match_wins": 22,
+  "favorite_format": ["commander", 0.8571428571428571]
 }
