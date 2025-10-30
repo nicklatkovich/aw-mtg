@@ -6,7 +6,7 @@ const navLinks: { to: string; label: string }[] = [
   { to: '/pioneer-ladder', label: 'Pioneer Ladder' },
   { to: '/standard-ladder', label: 'Standard Ladder' },
   { to: '/leagues', label: 'Leagues' },
-  { to: '/players', label: 'Players [WIP]' },
+  { to: '/players', label: 'Players List' },
 ];
 
 export default function Header() {

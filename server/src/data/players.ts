@@ -149,7 +149,6 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'e65cad71-3b22-44d7-8017-0e553f8c7231': ['BrOwl* Artem', { id: 'darkowlai' }],
   '0a1ef3df-d4af-494f-a300-a656a61574d7': ['Malcolm/Kediss* Roman', { id: 'malcolm-kediss-roman' }],
   'eed2e7f4-3153-4500-8094-7673082d1c4a': ['Six* Slava', { id: 'six-slava' }],
-  '2b174219-f5a8-4df4-a6a4-3a7285ff3d72': ['Urza* Kirill', { id: 'urza-kirill' }],
 };
 
 export const playersByUsername: { [username in string]?: string } = {
