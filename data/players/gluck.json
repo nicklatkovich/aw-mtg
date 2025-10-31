@@ -4,10 +4,11 @@
   "display_name": "Karalenia Aliaksandr",
   "color_stats": {"W":1,"U":1},
   "recent_events": [
+    {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":6,"rank":[7,9],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":9,"rank":[3,7],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"7-2-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 3,
-  "favorite_format": ["standard", 1]
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 5,
+  "favorite_format": ["pioneer", 0.5]
 }

@@ -1,4 +1,5 @@
 [
+  {"id":376482,"format":"pioneer","date":"2025-10-30","name":"Fall League 2025 | Pioneer #5/12","players_count":9,"winner":{"player":{"display_name":"Khan Alex","id":"alexkhan"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":376479,"format":"pauper","date":"2025-10-29","name":"Fall League 2025 | Pauper #5/12","players_count":18,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},
   {"id":"c251029","format":"commander","date":"2025-10-29","name":"Fall League 2025 | Commander (29.10)","players_count":12,"winner":{"player":{"display_name":"Khvin Alexander","id":"khvin"},"deck":{"archetype":"Tymna & Kraum","colors":"WUBR","type":null}}},
   {"id":376220,"format":"standard","date":"2025-10-28","name":"Fall League 2025 | Standard #5/12","players_count":7,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"}}},
