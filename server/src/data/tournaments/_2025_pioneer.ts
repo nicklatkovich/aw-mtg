@@ -3,6 +3,53 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 376482,
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer #5/12',
+    date: '2025-10-30',
+    standings: [
+      { player: 'AlexKhan', rank: 1, deck: 'Azorius Control', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'Very_Bad_Man', rank: 2, deck: 'Mono-Black Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Alex88', rank: 3, deck: 'Boros Equipment', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Norbi', rank: 4, deck: 'Izzet Phoenix', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'vorotinskyV', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'Slava_bel', rank: 6, deck: 'Rakdos Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Gluck', rank: 7, deck: 'Azorius Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'ispinyouround', rank: 8, deck: 'Rakdos Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-7-0' },
+      { player: 'AnklDen', rank: 9, deck: 'Rakdos Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AlexKhan', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'Slava_bel'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['vorotinskyV', 'Gluck'], winner: 1, record: '2-0-0' },
+        { players: ['Alex88', 'ispinyouround'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Gluck', null], winner: 1, record: 'bye' },
+        { players: ['AlexKhan', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['Slava_bel', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'AnklDen'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', null], winner: 1, record: 'bye' },
+        { players: ['vorotinskyV', 'Alex88'], winner: 2, record: '2-1-0' },
+        { players: ['AlexKhan', 'Gluck'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Slava_bel'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Slava_bel', null], winner: 1, record: 'bye' },
+        { players: ['Alex88', 'AlexKhan'], winner: 2, record: '2-0-0' },
+        { players: ['Norbi', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'vorotinskyV'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'Gluck'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 374661,
     format: Format.PIONEER,
     name: 'Fall League 2025 | Pioneer #4/12',
