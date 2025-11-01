@@ -2,8 +2,9 @@
   "guid": "b8d65678-3f77-49a6-a51d-f80ef537419d",
   "id": "farsmac",
   "display_name": "Rapanovich Yauhen",
-  "color_stats": {"W":0.28571428571428575,"U":1,"G":0.6428571428571429,"B":0.46428571428571436,"R":0.28571428571428575},
+  "color_stats": {"U":1,"W":0.18604651162790697,"G":0.41860465116279066,"B":0.3023255813953488,"R":0.18604651162790697},
   "recent_events": [
+    {"id":"l251101","name":"Fall League 2025 | Legacy #3/6","date":"2025-11-01","format":"legacy","points":6,"rank":[2,5],"deck":{"archetype":"Mono-Blue Affinity","colors":"U","type":null}},
     {"id":"l251019","name":"Fall League 2025 | Legacy #2/6","date":"2025-10-19","format":"legacy","points":12,"rank":[1,5],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null}},
     {"id":370849,"name":"Fall League 2025 | Modern #1/6","date":"2025-10-12","format":"modern","points":6,"rank":[3,7],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":9,"rank":[1,5]},
@@ -19,8 +20,8 @@
     {"id":233771,"date":"2025-01-23","format":"pioneer","points":7,"rank":[5,15]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 14,
+  "events_count": 15,
   "match_played": 44,
   "match_wins": 23,
-  "favorite_format": ["legacy", 0.5]
+  "favorite_format": ["legacy", 0.5333333333333333]
 }
