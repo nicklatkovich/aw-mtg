@@ -109,6 +109,7 @@ export const ARCHETYPES = {
   'Mono-Blue High Tide': ['U', DeckType.COMBO],
   'Mono-Blue Ninjas': ['U', DeckType.TEMPO],
   'Mono-Blue Cloudpost': 'U',
+  'Mono-Blue Affinity': 'U',
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],

@@ -139,6 +139,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '996c0dec-fdc1-4774-86c6-413a1a708c4f': ['Vitvitsky Martin', { id: 'vitvitsky' }],
   'bf7899ef-b66d-41f0-a257-6949f19dff34': ['Serov Daniil', { id: 'serov' }],
   '6b2579e7-b696-44dc-98d9-0b46d534dd8d': 'Karalenia Aliaksandr',
+  '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3': ['Miadzvedski Pavel', { id: 'miadzvedski' }],
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',

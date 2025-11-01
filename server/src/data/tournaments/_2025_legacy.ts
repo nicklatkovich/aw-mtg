@@ -1,7 +1,22 @@
 import { Format } from '@dtos';
 import { Tournament } from '@server/data/data.types';
 
+const MIADZVEDSKI_PAVEL = '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3';
+
 export const _2025_legacy: Tournament[] = [
+  {
+    id: 'l251101',
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #3/6',
+    date: '2025-11-01',
+    standings: [
+      { player: 'Norbi', rank: 1, deck: 'Izzet Delver', points: 12 },
+      { player: 'farsmac', rank: 2, deck: 'Mono-Blue Affinity', points: 6 },
+      { player: '4onoki', rank: 3, deck: 'Abzan Maverick', points: 6 },
+      { player: MIADZVEDSKI_PAVEL, rank: 4, deck: 'Grixis Control', points: 6 },
+      { player: 'BRV', rank: 5, deck: 'Izzet Delver', points: 0 },
+    ],
+  },
   {
     id: 'l251019',
     format: Format.LEGACY,
