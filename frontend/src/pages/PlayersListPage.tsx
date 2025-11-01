@@ -22,6 +22,7 @@ export default function PlayersListPage() {
               <div className="cell">Favorite Format</div>
             </div>
             {data
+              .filter((player) => player.events_count >= 10)
               .sort(
                 (a, b) =>
                   b.events_count - a.events_count ||
