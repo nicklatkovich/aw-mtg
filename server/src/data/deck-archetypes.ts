@@ -222,6 +222,7 @@ export const ARCHETYPES = {
   Caves: ['WBRG', DeckType.CONTROL],
   Bogles: ['WUBG', DeckType.AGGRO],
   'WBRG Maverick': ['WBRG', DeckType.COMBO],
+  '4c Control': ['WUBR', DeckType.CONTROL],
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
