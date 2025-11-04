@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"R":0.612445414847162,"G":0.20851528384279489,"W":0.2358078602620088,"B":0.36681222707423605},
+  "color_stats": {"U":1,"R":0.6166306695464366,"G":0.21706263498920098,"W":0.2332613390928726,"B":0.36285097192224647},
   "recent_events": [
+    {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":6,"rank":[5,8],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":9,"rank":[1,7],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":6,"rank":[5,7],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":9,"rank":[1,6],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -106,8 +107,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 101,
-  "match_played": 393,
-  "match_wins": 226,
-  "favorite_format": ["standard", 0.38613861386138615]
+  "events_count": 102,
+  "match_played": 397,
+  "match_wins": 228,
+  "favorite_format": ["standard", 0.39215686274509803]
 }

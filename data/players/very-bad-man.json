@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"W":0.5370370370370371,"R":0.5014245014245015,"U":0.3803418803418803,"G":0.2735042735042735},
+  "color_stats": {"U":0.39330543933054396,"B":1,"W":0.5258019525801954,"R":0.49093444909344497,"G":0.26778242677824265},
   "recent_events": [
+    {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":3,"rank":[6,8],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":9,"rank":[2,9],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[3,18],"deck":{"archetype":"Mardu Synthesizer","colors":"WBR","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":9,"rank":[2,7],"deck":{"archetype":"Orzhov Bounce","colors":"WB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -98,8 +99,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 93,
-  "match_played": 367,
-  "match_wins": 177,
-  "favorite_format": ["pioneer", 0.7204301075268817]
+  "events_count": 94,
+  "match_played": 371,
+  "match_wins": 178,
+  "favorite_format": ["pioneer", 0.7127659574468085]
 }

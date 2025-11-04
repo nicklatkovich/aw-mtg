@@ -1,4 +1,5 @@
 [
+  {"id":379103,"format":"standard","date":"2025-11-04","name":"Fall League 2025 | Standard #6/12","players_count":8,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":"l251101","format":"legacy","date":"2025-11-01","name":"Fall League 2025 | Legacy #3/6","players_count":5,"winner":{"player":{"display_name":"Voiteh Stas","id":"norbi"},"deck":{"archetype":"Izzet Delver","colors":"UR","type":null}}},
   {"id":376482,"format":"pioneer","date":"2025-10-30","name":"Fall League 2025 | Pioneer #5/12","players_count":9,"winner":{"player":{"display_name":"Khan Alex","id":"alexkhan"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":376479,"format":"pauper","date":"2025-10-29","name":"Fall League 2025 | Pauper #5/12","players_count":18,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},
