@@ -72,7 +72,7 @@ h2 {
       border-width: 0 0 2px 0;
     }
     & .cell {
-      height: 36px;
+      height: 27px;
       white-space: nowrap;
 
       &.is-truncated span {
@@ -83,7 +83,7 @@ h2 {
         justify-content: left;
       }
     }
-    &:nth-last-child(2n + 1) .cell {
+    &:nth-last-child(2n + 1):not(:first-child) .cell {
       background-color: $color-bg-2;
     }
     & > a:hover {
@@ -138,6 +138,10 @@ table {
 
 .link {
   cursor: pointer;
+}
+
+.small-font {
+  font-size: 0.6em;
 }
 
 .format--standard {
