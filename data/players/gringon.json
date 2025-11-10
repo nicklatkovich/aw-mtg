@@ -2,10 +2,10 @@
   "guid": "4fd6e46a-aaca-4486-96ee-bd1f3e2fb156",
   "id": "gringon",
   "display_name": "Gordeychik Egor",
-  "color_stats": {"R":1,"G":1,"U":0.4},
+  "color_stats": {"R":1,"G":0.5,"U":0.5},
   "recent_events": [
     {"id":264855,"name":"League Standard | Season 11 (7/12)","date":"2025-03-11","format":"standard","points":6,"rank":[12,18],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}},
-    {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":3,"rank":[15,21],"deck":{"archetype":"Temur Creativity","colors":"URG","type":"Combo"}},
+    {"id":255308,"name":"League Pioneer | Season 5 (5/12)","date":"2025-02-27","format":"pioneer","points":3,"rank":[15,21],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":0,"rank":[21,22]},
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":0,"rank":[15,16]}
   ],

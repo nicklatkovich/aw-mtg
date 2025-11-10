@@ -2,12 +2,13 @@
   "guid": "7a134928-e3d9-4204-b100-deff5eba1c43",
   "id": "lorestold",
   "display_name": "Adigamov Veniamin",
-  "color_stats": {"U":1},
+  "color_stats": {"W":0.3333333333333333,"U":1},
   "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":12,"rank":[7,33],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"3-1-3","game_record":"8-6-5"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[19,35],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-3-0","game_record":"6-6-0"}
   ],
-  "events_count": 1,
-  "match_played": 6,
-  "match_wins": 3,
-  "favorite_format": ["pauper", 1]
+  "events_count": 2,
+  "match_played": 13,
+  "match_wins": 6,
+  "favorite_format": ["pioneer", 0.5]
 }

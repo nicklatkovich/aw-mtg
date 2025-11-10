@@ -2,13 +2,14 @@
   "guid": "3dbd5dfa-4cc3-4d4c-85a6-5e3aeac3d053",
   "id": "ilya",
   "display_name": "Ilya Kharin",
-  "color_stats": {"U":0.25,"B":0.25,"R":1},
+  "color_stats": {"W":0.75,"U":0.25,"B":0.25,"R":1},
   "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[14,33],"deck":{"archetype":"Mono-White Humans","colors":"W","type":"Aggro"},"match_record":"3-3-0","game_record":"9-8-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":0,"rank":[35,35],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":9,"rank":[8,20],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-3-0","game_record":"7-6-0"}
   ],
-  "events_count": 2,
-  "match_played": 9,
-  "match_wins": 3,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 3,
+  "match_played": 15,
+  "match_wins": 6,
+  "favorite_format": ["pioneer", 0.3333333333333333]
 }

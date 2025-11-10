@@ -1,0 +1,13 @@
+{
+  "guid": "a496e51d-3cf1-4028-8668-17cb5da44188",
+  "id": "coolebaka",
+  "display_name": "Plushnyn Alexandr",
+  "color_stats": {"W":1,"G":1},
+  "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":3,"rank":[29,33],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-4-0","game_record":"4-9-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 1]
+}

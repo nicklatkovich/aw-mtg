@@ -2,12 +2,13 @@
   "guid": "3944e6bb-406b-4a40-9fbb-696c6757dcaf",
   "id": "choxotel",
   "display_name": "Berezin Ivan",
-  "color_stats": {"G":1},
+  "color_stats": {"U":0.5,"R":0.5,"G":1},
   "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":3,"rank":[28,33],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":13,"rank":[8,35],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"4-2-1","game_record":"8-4-3"}
   ],
-  "events_count": 1,
-  "match_played": 7,
-  "match_wins": 4,
-  "favorite_format": ["pauper", 1]
+  "events_count": 2,
+  "match_played": 11,
+  "match_wins": 5,
+  "favorite_format": ["pioneer", 0.5]
 }

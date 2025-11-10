@@ -1,0 +1,13 @@
+{
+  "guid": "362cbe7c-79b0-4aa6-bef7-c2e2b41a79bb",
+  "id": "bokoni",
+  "display_name": "Bondarenko Konstantin",
+  "color_stats": {"B":1},
+  "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":3,"rank":[26,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"1-3-0","game_record":"2-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 1]
+}

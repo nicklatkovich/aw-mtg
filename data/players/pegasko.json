@@ -1,0 +1,13 @@
+{
+  "guid": "fafd9999-b8a4-4a30-bd30-632f43f82e5a",
+  "id": "pegasko",
+  "display_name": "Dychek Dmitry",
+  "color_stats": {"B":1,"R":1},
+  "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":7,"rank":[19,33],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-1","game_record":"6-7-1"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 2,
+  "favorite_format": ["pioneer", 1]
+}

@@ -2,8 +2,9 @@
   "guid": "24aea299-9435-4698-9baf-4b97a993ddf2",
   "id": "roman-b",
   "display_name": "Bashkirov Roman",
-  "color_stats": {"B":1,"G":0.2},
+  "color_stats": {"B":1,"G":0.14285714285714285},
   "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":0,"rank":[30,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":10,"rank":[1,10],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":6,"rank":[9,20],"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":365579,"name":"Draft 19.09 (FIN)","date":"2025-09-19","format":"draft","points":7,"rank":[1,6],"match_record":"2-0-1","game_record":"5-3-0"},
@@ -17,8 +18,8 @@
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":9,"rank":[1,12],"match_record":"3-0-0","game_record":"6-2-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[3,12],"deck":{"archetype":"Golgari Draft","colors":"BG","type":null},"match_record":"3-1-0","game_record":"6-4-0"}
   ],
-  "events_count": 12,
-  "match_played": 39,
+  "events_count": 13,
+  "match_played": 42,
   "match_wins": 27,
-  "favorite_format": ["draft", 0.75]
+  "favorite_format": ["draft", 0.6923076923076923]
 }

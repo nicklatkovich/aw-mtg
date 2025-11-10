@@ -2,13 +2,14 @@
   "guid": "fc1cf6cb-5d0b-4e80-ac8e-40f0dea6b291",
   "id": "ixidor",
   "display_name": "Gaponov Nikita",
-  "color_stats": {"U":1,"B":0.6000000000000001,"W":0.4,"R":0.4},
+  "color_stats": {"W":0.625,"U":1,"B":0.375,"R":0.25},
   "recent_events": [
+    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":22,"rank":[1,33],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"7-1-1","game_record":"14-3-3"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":13,"rank":[5,35],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"4-2-1","game_record":"10-7-3"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":15,"rank":[3,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"5-2-0","game_record":"10-8-0"}
   ],
-  "events_count": 2,
-  "match_played": 14,
-  "match_wins": 9,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 3,
+  "match_played": 23,
+  "match_wins": 16,
+  "favorite_format": ["pioneer", 0.3333333333333333]
 }
