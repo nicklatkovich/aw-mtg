@@ -1,7 +1,7 @@
 {
   "guid": "3dbd5dfa-4cc3-4d4c-85a6-5e3aeac3d053",
   "id": "ilya",
-  "display_name": "Ilya Kharin",
+  "display_name": "Kharin Ilya",
   "color_stats": {"W":0.75,"U":0.25,"B":0.25,"R":1},
   "recent_events": [
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[14,33],"deck":{"archetype":"Mono-White Humans","colors":"W","type":"Aggro"},"match_record":"3-3-0","game_record":"9-8-0"},

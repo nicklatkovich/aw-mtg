@@ -43,7 +43,7 @@
   {"id":"choxotel","display_name":"Berezin Ivan","events_count":2,"match_played":11,"match_wins":5,"color_stats":{"U":0.5,"R":0.5,"G":1},"favorite_format":["pioneer",0.5]},
   {"id":"spellstutter","display_name":"Belousov Timophey","events_count":7,"match_played":27,"match_wins":14,"color_stats":{"U":1,"B":0.25,"R":0.43749999999999994,"G":0.1875,"W":0.375},"favorite_format":["pauper",0.8571428571428571]},
   {"id":"alem42","display_name":"Maletin Alexey","events_count":1,"match_played":4,"match_wins":1,"color_stats":{"B":1,"R":1},"favorite_format":["pioneer",1]},
-  {"id":"ilya","display_name":"Ilya Kharin","events_count":3,"match_played":15,"match_wins":6,"color_stats":{"W":0.75,"U":0.25,"B":0.25,"R":1},"favorite_format":["pioneer",0.3333333333333333]},
+  {"id":"ilya","display_name":"Kharin Ilya","events_count":3,"match_played":15,"match_wins":6,"color_stats":{"W":0.75,"U":0.25,"B":0.25,"R":1},"favorite_format":["pioneer",0.3333333333333333]},
   {"id":"antonmogilev","display_name":"Kondibor Anton","events_count":1,"match_played":6,"match_wins":3,"color_stats":{"W":1,"B":1},"favorite_format":["pauper",1]},
   {"id":"olegov","display_name":"Olegov Yaroslav","events_count":6,"match_played":10,"match_wins":4,"color_stats":{"W":0.75,"R":1,"U":0.25,"B":0.25},"favorite_format":["commander",1]},
   {"id":"fae","display_name":"Kondratyuk Nikita","events_count":2,"match_played":10,"match_wins":6,"color_stats":{"R":1},"favorite_format":["pauper",0.5]},
