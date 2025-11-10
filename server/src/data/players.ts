@@ -140,7 +140,14 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'bf7899ef-b66d-41f0-a257-6949f19dff34': ['Serov Daniil', { id: 'serov' }],
   '6b2579e7-b696-44dc-98d9-0b46d534dd8d': 'Karalenia Aliaksandr',
   '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3': ['Miadzvedski Pavel', { id: 'miadzvedski' }],
-  'a7608b6b-8899-4d38-ad34-639500b5a069': 'Kirpa Sergey',
+  'a7608b6b-8899-4d38-ad34-639500b5a069': 'Sergey Kirpa',
+  'fc1cf6cb-5d0b-4e80-ac8e-40f0dea6b291': 'Gaponov Nikita',
+  'e918c62c-4483-443d-aa74-17d6fdb2382c': 'Erlanger Alex',
+  '1cb73c35-b01c-490c-b684-d014428643e4': 'Komar Maksim',
+  '3dbd5dfa-4cc3-4d4c-85a6-5e3aeac3d053': 'Ilya Kharin',
+  'cc26ece0-58ab-4f40-acee-d05969652fa0': 'Remizov Pavel',
+  '774da251-87f6-4860-a93f-aa55f29b84e8': 'Shmelev Alexander',
+  '94dbf181-0e59-4d0f-8a39-dc3003663a43': 'Trukhin Ilya',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -307,4 +314,11 @@ export const playersByUsername: { [username in string]?: string } = {
   Aleksandr_KoLoshk: '037e76b0-88c8-4458-94a8-d63c2f9a8155',
   Gluck: '6b2579e7-b696-44dc-98d9-0b46d534dd8d',
   Jeinh: 'a7608b6b-8899-4d38-ad34-639500b5a069',
+  Ixidor: 'fc1cf6cb-5d0b-4e80-ac8e-40f0dea6b291',
+  BlackStrike3011: 'e918c62c-4483-443d-aa74-17d6fdb2382c',
+  Faern7: '1cb73c35-b01c-490c-b684-d014428643e4',
+  Ilya: '3dbd5dfa-4cc3-4d4c-85a6-5e3aeac3d053',
+  iscoparp: 'cc26ece0-58ab-4f40-acee-d05969652fa0',
+  juicyeater: '774da251-87f6-4860-a93f-aa55f29b84e8',
+  Iliatrukhin2: '94dbf181-0e59-4d0f-8a39-dc3003663a43',
 };

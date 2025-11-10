@@ -32,6 +32,7 @@ export const ARCHETYPES = {
   'Esper Midrange': ['WUB', DeckType.MIDRANGE],
   'Esper Affinity': 'WUB',
   'Esper Glintblade': 'WUB',
+  'Esper Tempo': ['WUB', DeckType.TEMPO],
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -130,6 +131,7 @@ export const ARCHETYPES = {
   'Grixis Midrange': ['UBR', DeckType.MIDRANGE],
   'Grixis Cycle Storm': ['UBR', DeckType.COMBO],
   'Grixis Hidetsugu Combo': ['UBR', DeckType.COMBO],
+  'Grixis Artifacts': 'UBR',
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -218,6 +220,7 @@ export const ARCHETYPES = {
   'Walls Combo': ['G', DeckType.COMBO],
   'Mono-Green Landfall': ['G', DeckType.AGGRO],
   'Amulet Titan': ['G', DeckType.COMBO],
+  'Mono-Green Aggro': ['G', DeckType.AGGRO],
   // 4c
   Dredge: ['WBRG', DeckType.COMBO],
   Tron: 'WBRG',
