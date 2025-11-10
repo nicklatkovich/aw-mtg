@@ -6,6 +6,8 @@ export type ArchetypeInfo = string | readonly [colors: string, type: DeckType];
 export const ARCHETYPES = {
   // c
   'Colorless Tron': 'c',
+  'Mystic Forge Combo': ['c', DeckType.COMBO],
+  Eldrazi: ['c', DeckType.MIDRANGE],
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
@@ -33,6 +35,7 @@ export const ARCHETYPES = {
   'Esper Affinity': 'WUB',
   'Esper Glintblade': 'WUB',
   'Esper Tempo': ['WUB', DeckType.TEMPO],
+  'Esper Stoneblade': ['WUB', DeckType.MIDRANGE],
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -61,6 +64,7 @@ export const ARCHETYPES = {
   'Orzhov Ketramose': ['WB', DeckType.MIDRANGE],
   'Orzhov Enchantments': 'WB',
   'Orzhov Sacrifice': 'WB',
+  'Orzhov Stompy': ['WB', DeckType.AGGRO],
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -112,6 +116,7 @@ export const ARCHETYPES = {
   'Mono-Blue Ninjas': ['U', DeckType.TEMPO],
   'Mono-Blue Cloudpost': 'U',
   'Mono-Blue Affinity': 'U',
+  'Mono-Blue Painter': ['U', DeckType.COMBO],
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -125,6 +130,8 @@ export const ARCHETYPES = {
   'Dimir Affinity': 'UB',
   'Dimir Abjure': 'UB',
   'Dimir Rogues': ['UB', DeckType.TEMPO],
+  'Dimir Tempo': ['UB', DeckType.TEMPO],
+  'Dimir Reanimator': ['UB', DeckType.COMBO],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -162,6 +169,7 @@ export const ARCHETYPES = {
   'Simic Elves': 'UG',
   'Simic Aggro': ['UG', DeckType.AGGRO],
   'Simic Scapeshift': ['UG', DeckType.COMBO],
+  'Simic Omni-Tell': ['UG', DeckType.COMBO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -172,6 +180,7 @@ export const ARCHETYPES = {
   'Mono-Black Sacrifice': 'B',
   'Mono-Black Land Destruction': 'B',
   'Mono-Black Devotion': 'B',
+  'Oops! All Spells': ['B', DeckType.COMBO],
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],
@@ -180,6 +189,7 @@ export const ARCHETYPES = {
   'Rakdos Lizards': ['BR', DeckType.AGGRO],
   'Rakdos Transmogrify': ['BR', DeckType.COMBO],
   'Rakdos Madness Burn': 'BR',
+  'Rakdos Reanimator': ['BR', DeckType.COMBO],
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
@@ -215,6 +225,7 @@ export const ARCHETYPES = {
   'Gruul Madness': 'RG',
   'Gruul Ponza': 'RG',
   'Gruul Vehicles': 'RG',
+  'Gruul Creative Technique': ['RG', DeckType.COMBO],
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
@@ -223,6 +234,7 @@ export const ARCHETYPES = {
   'Mono-Green Landfall': ['G', DeckType.AGGRO],
   'Amulet Titan': ['G', DeckType.COMBO],
   'Mono-Green Aggro': ['G', DeckType.AGGRO],
+  'Mono-Green Lands': ['G', DeckType.COMBO],
   // 4c
   Dredge: ['WBRG', DeckType.COMBO],
   Tron: 'WBRG',
