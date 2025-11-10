@@ -2,8 +2,9 @@
   "guid": "7f5ab7e2-0393-408d-8b6d-faa97bb3d03f",
   "id": "draa",
   "display_name": "Draghin Alexander",
-  "color_stats": {"R":0.16666666666666666,"U":1,"B":0.23333333333333334},
+  "color_stats": {"U":1,"R":0.15625,"B":0.21875},
   "recent_events": [
+    {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":6,"rank":[6,11],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[7,18],"deck":{"archetype":"Mono-Red Goblins","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[5,16],"deck":{"archetype":"Krark & Sakashima","colors":"UR","type":null},"match_record":"0-1-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[6,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -29,8 +30,8 @@
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
   ],
-  "events_count": 24,
-  "match_played": 80,
-  "match_wins": 30,
-  "favorite_format": ["pauper", 0.8333333333333334]
+  "events_count": 25,
+  "match_played": 84,
+  "match_wins": 32,
+  "favorite_format": ["pauper", 0.84]
 }

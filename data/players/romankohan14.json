@@ -2,8 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"W":0.42160611854684515,"B":0.3451242829827916,"R":1,"U":0.18738049713193114,"G":0.22562141491395793},
+  "color_stats": {"W":0.4502868068833652,"B":0.3451242829827916,"R":1,"U":0.18738049713193114,"G":0.22562141491395793},
   "recent_events": [
+    {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":6,"rank":[5,11],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":12,"rank":[1,18],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"7-1-0"},
     {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
@@ -111,8 +112,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 106,
-  "match_played": 410,
-  "match_wins": 250,
-  "favorite_format": ["pioneer", 0.46226415094339623]
+  "events_count": 107,
+  "match_played": 414,
+  "match_wins": 252,
+  "favorite_format": ["pioneer", 0.45794392523364486]
 }

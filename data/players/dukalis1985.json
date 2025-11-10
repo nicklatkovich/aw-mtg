@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.19117647058823534,"U":0.06512605042016807,"B":1,"R":0.9684873949579832,"G":0.10714285714285715},
+  "color_stats": {"W":0.2158859470468432,"B":1,"U":0.06313645621181262,"R":0.9389002036659877,"G":0.10386965376782077},
   "recent_events": [
+    {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":6,"rank":[7,11],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":6,"rank":[8,12],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
@@ -84,8 +85,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 79,
-  "match_played": 296,
-  "match_wins": 161,
-  "favorite_format": ["pioneer", 0.9367088607594937]
+  "events_count": 80,
+  "match_played": 300,
+  "match_wins": 163,
+  "favorite_format": ["pioneer", 0.925]
 }

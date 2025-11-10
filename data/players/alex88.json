@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"W":0.5447154471544715,"R":1,"B":0.10975609756097561,"U":0.06910569105691056,"G":0.008130081300813007},
+  "color_stats": {"W":0.5502008032128514,"R":1,"B":0.10843373493975904,"U":0.0682730923694779,"G":0.008032128514056224},
   "recent_events": [
+    {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[5,18],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":9,"rank":[1,10],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -109,8 +110,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 104,
-  "match_played": 404,
-  "match_wins": 247,
-  "favorite_format": ["pioneer", 0.5673076923076923]
+  "events_count": 105,
+  "match_played": 408,
+  "match_wins": 250,
+  "favorite_format": ["pioneer", 0.5714285714285714]
 }

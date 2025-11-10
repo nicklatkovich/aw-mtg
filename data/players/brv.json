@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"R":1,"G":0.7173274596182084,"U":0.5558002936857562,"W":0.7320117474302497,"B":0.03450807635829662},
+  "color_stats": {"R":1,"G":0.723419540229885,"U":0.5438218390804598,"W":0.7162356321839081,"B":0.03376436781609195},
   "recent_events": [
+    {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":12,"rank":[1,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":"l251101","name":"Fall League 2025 | Legacy #3/6","date":"2025-11-01","format":"legacy","points":0,"rank":[5,5],"deck":{"archetype":"Izzet Delver","colors":"UR","type":null}},
     {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":9,"rank":[2,7],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
@@ -108,8 +109,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 103,
-  "match_played": 402,
-  "match_wins": 204,
-  "favorite_format": ["pioneer", 0.6116504854368932]
+  "events_count": 104,
+  "match_played": 406,
+  "match_wins": 206,
+  "favorite_format": ["pioneer", 0.6153846153846154]
 }
