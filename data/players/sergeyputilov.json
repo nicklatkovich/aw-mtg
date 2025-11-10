@@ -1,0 +1,13 @@
+{
+  "guid": "0b5e83d8-b905-447e-83ba-b23e4a67443f",
+  "id": "sergeyputilov",
+  "display_name": "Putilov Sergey",
+  "color_stats": {},
+  "recent_events": [
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":17,"rank":[2,20],"deck":{"archetype":"Mystic Forge Combo","colors":"c","type":"Combo"},"match_record":"5-1-2","game_record":"11-5-6"}
+  ],
+  "events_count": 1,
+  "match_played": 8,
+  "match_wins": 5,
+  "favorite_format": ["legacy", 1]
+}

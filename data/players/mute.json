@@ -1,0 +1,13 @@
+{
+  "guid": "a4ac47b9-d9af-45cc-b1fe-fbb7aee9562f",
+  "id": "mute",
+  "display_name": "Avaev Valery",
+  "color_stats": {"G":1},
+  "recent_events": [
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":9,"rank":[9,20],"deck":{"archetype":"Mono-Green Lands","colors":"G","type":"Combo"},"match_record":"3-2-0","game_record":"8-5-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 3,
+  "favorite_format": ["legacy", 1]
+}

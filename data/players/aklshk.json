@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"W":0.1358936484490399,"B":0.2762186115214181,"R":0.07680945347119646,"G":0.06203840472673561},
+  "color_stats": {"B":0.32053175775480064,"U":1,"W":0.1358936484490399,"R":0.07680945347119646,"G":0.06203840472673561},
   "recent_events": [
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":18,"rank":[1,20],"deck":{"archetype":"Oops! All Spells","colors":"B","type":"Combo"},"match_record":"6-2-0","game_record":"13-8-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[14,35],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-3-0","game_record":"9-8-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":0,"rank":[17,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"0-1-0","game_record":"0-2-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":6,"rank":[11,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -47,8 +48,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 42,
-  "match_played": 157,
-  "match_wins": 87,
-  "favorite_format": ["pauper", 0.5952380952380952]
+  "events_count": 43,
+  "match_played": 165,
+  "match_wins": 93,
+  "favorite_format": ["pauper", 0.5813953488372093]
 }

@@ -1,0 +1,13 @@
+{
+  "guid": "799b284e-c975-4be1-b0fd-32897ee8ab50",
+  "id": "granit",
+  "display_name": "Bogatyrev Aleksandr",
+  "color_stats": {"W":1,"G":1},
+  "recent_events": [
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":6,"rank":[11,20],"deck":{"archetype":"Selesnya Enchantments","colors":"WG","type":"Aggro"},"match_record":"2-3-0","game_record":"4-7-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 2,
+  "favorite_format": ["legacy", 1]
+}

@@ -1,4 +1,5 @@
 [
+  {"id":379115,"format":"legacy","date":"2025-11-09","name":"Big Magic Weekend | Fall 2025 | Legacy","players_count":20,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Oops! All Spells","colors":"B","type":"Combo"}}},
   {"id":379114,"format":"pioneer","date":"2025-11-09","name":"Big Magic Weekend | Fall 2025 | Pioneer","players_count":33,"winner":{"player":{"display_name":"Gaponov Nikita","id":"ixidor"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":379112,"format":"pauper","date":"2025-11-08","name":"Big Magic Weekend | Fall 2025 | Pauper","players_count":35,"winner":{"player":{"display_name":"Sarvira Mihail","id":"emera1d"},"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"}}},
   {"id":379109,"format":"standard","date":"2025-11-07","name":"Big Magic Weekend | Fall 2025 | Standard","players_count":20,"winner":{"player":{"display_name":"Zubovich Valery","id":"aspelled"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
