@@ -1136,7 +1136,7 @@ export const _2025_pioneer: Tournament[] = [
       { player: 'Alex88', deck: 'Boros Aggro', rank: 9, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
       { player: 'gerber2000', deck: 'Mono-Black Midrange', rank: 10, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
       { player: 'Azurenia', deck: 'Izzet Phoenix', rank: 11, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
-      { player: 'NickLatkovich', deck: 'Temur Creativity', rank: 12, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'NickLatkovich', deck: 'Izzet Creativity', rank: 12, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
       { player: 'Elixes', deck: 'Bogles', rank: 13, points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
     ],
     rounds: [
@@ -2110,7 +2110,7 @@ export const _2025_pioneer: Tournament[] = [
       { player: 'gerber2000', rank: 12, points: 6, mp: 4, mw: 2, deck: 'Sultai Acererak' },
       { player: 'NickLatkovich', rank: 13, points: 6, mp: 4, mw: 2, deck: 'Mono-Red Resonance' },
       { player: 'Norbi', rank: 14, points: 3, mp: 3, mw: 1, deck: 'Izzet Phoenix' },
-      { player: 'Gringon', rank: 15, points: 3, mp: 3, mw: 0, deck: 'Temur Creativity' },
+      { player: 'Gringon', rank: 15, points: 3, mp: 3, mw: 0, deck: 'Izzet Creativity' },
       { player: 'qvertion', rank: 16, points: 3, mp: 4, mw: 1, deck: 'Dimir Bounce' },
       { player: 'aspelled', rank: 17, points: 3, mp: 3, mw: 1, deck: 'Gruul Aggro' },
       { player: 'BeZinBaker', rank: 18, points: 0, mp: 3, mw: 0, deck: 'Azorius Control' },

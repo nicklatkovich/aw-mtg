@@ -2321,7 +2321,7 @@ export const _2024_pioneer: Tournament[] = [
       { player: '2752a16a-8320-4fef-b268-cbbeddb87355', rank: 1, points: 12, mp: 4, mw: 4, deck: 'Izzet Phoenix' },
       { player: '584bf7f8-7b31-4575-b43e-e636daac85ab', rank: 2, points: 9, mp: 4, mw: 3, deck: 'Rakdos Midrange' },
       { player: 'ff13634f-2035-4dc4-ae7d-31ad9a01e658', rank: 3, points: 6, mp: 4, mw: 2, deck: 'Izzet Phoenix' },
-      { player: '1340ff1d-fb31-41dc-9827-d6bde941be4a', rank: 4, points: 6, mp: 4, mw: 2, deck: 'Temur Creativity' },
+      { player: '1340ff1d-fb31-41dc-9827-d6bde941be4a', rank: 4, points: 6, mp: 4, mw: 2, deck: 'Izzet Creativity' },
       { player: '824039fa-f433-42e7-845c-7c0fd61a21c2', rank: 5, points: 6, mp: 4, mw: 2, deck: 'Boros Heroic' },
       { player: 'ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7', rank: 6, points: 3, mp: 4, mw: 1, deck: 'Izzet Phoenix' },
       { player: '1cac0dfc-55ad-42dd-9d8a-f7812cf73013', rank: 7, points: 3, mp: 3, mw: 1 },
@@ -2365,7 +2365,7 @@ export const _2024_pioneer: Tournament[] = [
       { player: '824039fa-f433-42e7-845c-7c0fd61a21c2', rank: 5, points: 6, mp: 3, mw: 1, deck: 'Boros Heroic' },
       { player: 'cd3375a9-b0bc-4bb1-bff4-7e50504b68d9', rank: 6, points: 6, mp: 4, mw: 2, deck: 'Mono-Black Discard' },
       { player: 'ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7', rank: 7, points: 3, mp: 3, mw: 0, deck: 'Izzet Phoenix' },
-      { player: '1340ff1d-fb31-41dc-9827-d6bde941be4a', rank: 8, points: 3, mp: 4, mw: 1, deck: 'Temur Creativity' },
+      { player: '1340ff1d-fb31-41dc-9827-d6bde941be4a', rank: 8, points: 3, mp: 4, mw: 1, deck: 'Izzet Creativity' },
       { player: 'a78e2bc1-d646-4338-baac-8a12ee880945', rank: 9, points: 3, mp: 3, mw: 0 },
     ],
     rounds: [

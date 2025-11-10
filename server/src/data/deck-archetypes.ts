@@ -124,6 +124,7 @@ export const ARCHETYPES = {
   'Dimir Omni-Tell': ['UB', DeckType.COMBO],
   'Dimir Affinity': 'UB',
   'Dimir Abjure': 'UB',
+  'Dimir Rogues': ['UB', DeckType.TEMPO],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -147,8 +148,8 @@ export const ARCHETYPES = {
   'Izzet Skred': 'UR',
   'Izzet Delver': 'UR',
   'Izzet Prowess': ['UR', DeckType.AGGRO],
+  'Izzet Creativity': ['UR', DeckType.COMBO],
   // URG
-  'Temur Creativity': ['URG', DeckType.COMBO],
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
   'Temur Landfall': 'URG',
