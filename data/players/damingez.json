@@ -2,8 +2,10 @@
   "guid": "5bfb24cd-0bb5-4040-b74f-c535c6a5bf4d",
   "id": "damingez",
   "display_name": "Kryshkavets Egor",
-  "color_stats": {"B":1,"R":0.6923076923076924,"U":0.8076923076923077,"G":0.3461538461538462,"W":0.15384615384615385},
+  "color_stats": {"B":1,"G":0.5172413793103448,"U":0.8275862068965516,"R":0.6206896551724137,"W":0.1379310344827586},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[27,35],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null},"match_record":"1-2-3","game_record":"7-7-0"},
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[13,20],"deck":{"archetype":"Simic Aggro","colors":"UG","type":"Aggro"},"match_record":"2-3-0","game_record":"4-7-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":3,"rank":[12,15],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":3,"rank":[14,17],"deck":{"archetype":"Simic Petitioners Combo","colors":"UG","type":"Combo"},"match_record":"1-3-0","game_record":"2-7-0"},
     {"id":362305,"name":"MTGA Vintage Pauper (07.09)","date":"2025-09-07","format":"pauper","points":3,"rank":[7,9],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -20,8 +22,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ],
-  "events_count": 15,
-  "match_played": 60,
-  "match_wins": 24,
-  "favorite_format": ["pauper", 0.4666666666666667]
+  "events_count": 17,
+  "match_played": 71,
+  "match_wins": 27,
+  "favorite_format": ["pauper", 0.47058823529411764]
 }

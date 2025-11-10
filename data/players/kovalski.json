@@ -1,0 +1,13 @@
+{
+  "guid": "6b71f721-08f8-4a57-b0ba-9e2119f41089",
+  "id": "kovalski",
+  "display_name": "Kovalevich Alexander",
+  "color_stats": {"W":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[23,35],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"2-4-0","game_record":"4-8-0"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 2,
+  "favorite_format": ["pauper", 1]
+}

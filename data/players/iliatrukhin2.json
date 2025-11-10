@@ -1,0 +1,13 @@
+{
+  "guid": "94dbf181-0e59-4d0f-8a39-dc3003663a43",
+  "id": "iliatrukhin2",
+  "display_name": "Trukhin Ilya",
+  "color_stats": {"W":1,"U":1},
+  "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":3,"rank":[19,20],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-4-0","game_record":"3-8-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "5d0104cc-d9a1-4101-8750-0b14a92a6619",
+  "id": "slobad",
+  "display_name": "Alekseev Roman",
+  "color_stats": {"R":1,"G":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[17,35],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-3-0","game_record":"6-7-0"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 1]
+}

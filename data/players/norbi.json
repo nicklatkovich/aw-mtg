@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"W":0.10280373831775699,"U":0.9999999999999998,"B":0.28971962616822433,"R":1,"G":0.18691588785046728},
+  "color_stats": {"W":0.12727272727272726,"U":0.9999999999999998,"B":0.30909090909090914,"R":1,"G":0.18181818181818182},
   "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":8,"rank":[9,20],"deck":{"archetype":"4c Control","colors":"WUBR","type":"Control"},"match_record":"2-1-2","game_record":"6-5-2"},
     {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":9,"rank":[2,8],"deck":{"archetype":"4c Control","colors":"WUBR","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":"l251101","name":"Fall League 2025 | Legacy #3/6","date":"2025-11-01","format":"legacy","points":12,"rank":[1,5],"deck":{"archetype":"Izzet Delver","colors":"UR","type":null}},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
@@ -50,8 +51,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 45,
-  "match_played": 146,
-  "match_wins": 84,
-  "favorite_format": ["pioneer", 0.6666666666666666]
+  "events_count": 46,
+  "match_played": 151,
+  "match_wins": 86,
+  "favorite_format": ["pioneer", 0.6521739130434783]
 }

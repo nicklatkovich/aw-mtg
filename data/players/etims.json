@@ -1,0 +1,13 @@
+{
+  "guid": "eca3521b-2194-4d7f-b9af-8fd61e77e421",
+  "id": "etims",
+  "display_name": "Tims Daniil",
+  "color_stats": {"B":1,"R":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":13,"rank":[6,35],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"4-2-1","game_record":"10-6-3"}
+  ],
+  "events_count": 1,
+  "match_played": 7,
+  "match_wins": 4,
+  "favorite_format": ["pauper", 1]
+}

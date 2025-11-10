@@ -1,14 +1,15 @@
 {
   "guid": "a7608b6b-8899-4d38-ad34-639500b5a069",
   "id": "jeinh",
-  "display_name": "Kirpa Sergey",
-  "color_stats": {"B":1,"U":1},
+  "display_name": "Sergey Kirpa",
+  "color_stats": {"B":1,"R":0.3333333333333333,"U":0.6666666666666666},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[25,35],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"2-4-0","game_record":"4-8-0"},
     {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":6,"rank":[6,8],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":3,"rank":[9,11],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 3,
-  "favorite_format": ["pioneer", 0.5]
+  "events_count": 3,
+  "match_played": 14,
+  "match_wins": 5,
+  "favorite_format": ["pauper", 0.6666666666666666]
 }

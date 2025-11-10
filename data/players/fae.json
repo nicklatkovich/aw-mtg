@@ -2,12 +2,13 @@
   "guid": "46c63378-a5e7-4694-91ff-eadfb7669d5d",
   "id": "fae",
   "display_name": "Kondratyuk Nikita",
-  "color_stats": {},
+  "color_stats": {"R":1},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":12,"rank":[9,35],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"4-2-0","game_record":"9-4-0"},
     {"id":96558,"date":"2024-05-23","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 2,
-  "favorite_format": ["pioneer", 1]
+  "events_count": 2,
+  "match_played": 10,
+  "match_wins": 6,
+  "favorite_format": ["pauper", 0.5]
 }

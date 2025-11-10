@@ -1,0 +1,13 @@
+{
+  "guid": "774da251-87f6-4860-a93f-aa55f29b84e8",
+  "id": "juicyeater",
+  "display_name": "Shmelev Alexander",
+  "color_stats": {"G":1},
+  "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[16,20],"deck":{"archetype":"Mono-Green Aggro","colors":"G","type":"Aggro"},"match_record":"2-3-0","game_record":"7-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 2,
+  "favorite_format": ["standard", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "91e78a5e-255c-4834-8ac7-c6fe9dc7bfb7",
+  "id": "emera1d",
+  "display_name": "Sarvira Mihail",
+  "color_stats": {"W":1,"G":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":22,"rank":[1,35],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"7-1-1","game_record":"15-6-3"}
+  ],
+  "events_count": 1,
+  "match_played": 9,
+  "match_wins": 7,
+  "favorite_format": ["pauper", 1]
+}

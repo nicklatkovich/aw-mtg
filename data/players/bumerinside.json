@@ -1,0 +1,13 @@
+{
+  "guid": "7e35f346-fa64-4761-8177-d1e224b1e915",
+  "id": "bumerinside",
+  "display_name": "Zinovyev Egor",
+  "color_stats": {"U":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":7,"rank":[21,35],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-3-1","game_record":"5-8-0"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 2,
+  "favorite_format": ["pauper", 1]
+}

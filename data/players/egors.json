@@ -2,8 +2,9 @@
   "guid": "94a41687-53a7-4651-b45c-72061e28251a",
   "id": "egors",
   "display_name": "Snytko Egor",
-  "color_stats": {"B":1,"R":1},
+  "color_stats": {"U":0.028169014084507043,"B":1,"R":1},
   "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[11,20],"deck":{"archetype":"Grixis Artifacts","colors":"UBR","type":null},"match_record":"2-3-0","game_record":"4-6-0"},
     {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":0,"rank":[8,8],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":6,"rank":[5,7],"deck":{"archetype":"Rakdos Lizards","colors":"BR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":374653,"name":"Fall League 2025 | Standard #4/12","date":"2025-10-21","format":"standard","points":3,"rank":[5,6],"deck":{"archetype":"Rakdos Lizards","colors":"BR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -29,8 +30,8 @@
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":9,"rank":[3,22],"deck":{"archetype":"Rakdos Sacrifice","colors":"BR","type":"Midrange"}},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":6,"rank":[7,17]}
   ],
-  "events_count": 24,
-  "match_played": 95,
-  "match_wins": 51,
+  "events_count": 25,
+  "match_played": 100,
+  "match_wins": 53,
   "favorite_format": ["standard", 1]
 }

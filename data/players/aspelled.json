@@ -2,8 +2,10 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"R":1,"W":0.2901716068642745,"U":0.6177847113884554,"B":0.3213728549141964,"G":0.34477379095163796},
+  "color_stats": {"R":1,"W":0.2653352353780314,"U":0.56490727532097,"B":0.2938659058487874,"G":0.31526390870185445},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[22,35],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-3-0","game_record":"6-7-0"},
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":20,"rank":[1,20],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"6-0-2","game_record":"12-2-6"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[6,18],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":9,"rank":[3,7],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[2,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -91,8 +93,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 86,
-  "match_played": 315,
-  "match_wins": 157,
-  "favorite_format": ["pioneer", 0.43023255813953487]
+  "events_count": 88,
+  "match_played": 328,
+  "match_wins": 165,
+  "favorite_format": ["pioneer", 0.42045454545454547]
 }

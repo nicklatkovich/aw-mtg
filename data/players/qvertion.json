@@ -2,8 +2,10 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"R":0.6166306695464366,"G":0.21706263498920098,"W":0.2332613390928726,"B":0.36285097192224647},
+  "color_stats": {"U":1,"R":0.6014492753623192,"G":0.21842650103519679,"W":0.22360248447204975,"B":0.34782608695652195},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":12,"rank":[10,35],"deck":{"archetype":"Mono-Blue High Tide","colors":"U","type":"Combo"},"match_record":"4-2-0","game_record":"9-4-0"},
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":14,"rank":[4,20],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"4-1-2","game_record":"8-2-6"},
     {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":6,"rank":[5,8],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":9,"rank":[1,7],"deck":{"archetype":"Temur Battlecrier","colors":"URG","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":374673,"name":"Fall League 2025 | Modern #2/6","date":"2025-10-26","format":"modern","points":6,"rank":[5,7],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -107,8 +109,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 102,
-  "match_played": 397,
-  "match_wins": 228,
-  "favorite_format": ["standard", 0.39215686274509803]
+  "events_count": 104,
+  "match_played": 410,
+  "match_wins": 236,
+  "favorite_format": ["standard", 0.3942307692307692]
 }

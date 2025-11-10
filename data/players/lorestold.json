@@ -1,0 +1,13 @@
+{
+  "guid": "7a134928-e3d9-4204-b100-deff5eba1c43",
+  "id": "lorestold",
+  "display_name": "Adigamov Veniamin",
+  "color_stats": {"U":1},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[19,35],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-3-0","game_record":"6-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 1]
+}

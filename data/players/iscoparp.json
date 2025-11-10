@@ -1,0 +1,13 @@
+{
+  "guid": "cc26ece0-58ab-4f40-acee-d05969652fa0",
+  "id": "iscoparp",
+  "display_name": "Remizov Pavel",
+  "color_stats": {"W":1,"R":1},
+  "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":7,"rank":[10,20],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-1","game_record":"7-5-1"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 2,
+  "favorite_format": ["standard", 1]
+}

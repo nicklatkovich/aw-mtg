@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.2158859470468432,"B":1,"U":0.06313645621181262,"R":0.9389002036659877,"G":0.10386965376782077},
+  "color_stats": {"B":1,"G":0.13043478260869565,"W":0.20948616600790515,"U":0.061264822134387345,"R":0.9110671936758892},
   "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":0,"rank":[34,35],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":6,"rank":[7,11],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
@@ -85,8 +86,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 80,
-  "match_played": 300,
+  "events_count": 81,
+  "match_played": 302,
   "match_wins": 163,
-  "favorite_format": ["pioneer", 0.925]
+  "favorite_format": ["pioneer", 0.9135802469135802]
 }

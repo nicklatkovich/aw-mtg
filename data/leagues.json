@@ -45,8 +45,8 @@
       {"display_name":"Belezeko Slava","id":"slava-bel","total_points":6,"event_count":1,"points":[null,null,null,null,6,null,null,null,null,null,null,null]},
       {"display_name":"Buslavsky Alexander","id":"shadowest","total_points":6,"event_count":1,"points":[null,null,null,null,null,6,null,null,null,null,null,null]},
       {"display_name":"Karalenia Aliaksandr","id":"gluck","total_points":6,"event_count":1,"points":[null,null,null,null,6,null,null,null,null,null,null,null]},
-      {"display_name":"Kirpa Sergey","id":"jeinh","total_points":6,"event_count":1,"points":[null,null,null,null,null,6,null,null,null,null,null,null]},
       {"display_name":"Kokhan Roman","id":"romankohan14","total_points":6,"event_count":1,"points":[null,null,null,6,null,null,null,null,null,null,null,null]},
+      {"display_name":"Sergey Kirpa","id":"jeinh","total_points":6,"event_count":1,"points":[null,null,null,null,null,6,null,null,null,null,null,null]},
       {"display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":6,"event_count":2,"points":[3,3,null,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Plisko Ihar","id":"4onoki","total_points":3,"event_count":1,"points":[null,null,3,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Bogdan Ilya","id":"barbossa","total_points":0,"event_count":1,"points":[null,null,null,null,null,0,null,null,null,null,null,null]},
@@ -87,8 +87,8 @@
       {"display_name":"Kryshkavets Egor","id":"damingez","total_points":6,"event_count":2,"points":[null,3,null,3,null,null,null,null,null,null,null,null]},
       {"display_name":"Sutko Artem","id":"sutko","total_points":6,"event_count":2,"points":[6,0,null,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Yushkevich Egor","id":"melamasta","total_points":6,"event_count":2,"points":[null,3,null,null,3,null,null,null,null,null,null,null]},
-      {"display_name":"Kirpa Sergey","id":"jeinh","total_points":3,"event_count":1,"points":[null,null,null,null,null,3,null,null,null,null,null,null]},
       {"display_name":"Nabeshko Daniil","id":"danilanabeshko","total_points":3,"event_count":1,"points":[null,null,null,null,null,3,null,null,null,null,null,null]},
+      {"display_name":"Sergey Kirpa","id":"jeinh","total_points":3,"event_count":1,"points":[null,null,null,null,null,3,null,null,null,null,null,null]},
       {"display_name":"Straha Miroslav","id":"straham","total_points":3,"event_count":1,"points":[null,null,3,null,null,null,null,null,null,null,null,null]}
     ]
   },

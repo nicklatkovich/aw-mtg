@@ -1,0 +1,14 @@
+{
+  "guid": "fc1cf6cb-5d0b-4e80-ac8e-40f0dea6b291",
+  "id": "ixidor",
+  "display_name": "Gaponov Nikita",
+  "color_stats": {"U":1,"B":0.6000000000000001,"W":0.4,"R":0.4},
+  "recent_events": [
+    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":13,"rank":[5,35],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"4-2-1","game_record":"10-7-3"},
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":15,"rank":[3,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"5-2-0","game_record":"10-8-0"}
+  ],
+  "events_count": 2,
+  "match_played": 14,
+  "match_wins": 9,
+  "favorite_format": ["pauper", 0.5]
+}

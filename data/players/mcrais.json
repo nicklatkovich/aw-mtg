@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"U":0.9445676274944568,"B":1,"G":0.14634146341463408,"W":0.7006651884700662,"R":0.13525498891352541},
+  "color_stats": {"W":0.7071583514099781,"U":0.945770065075922,"B":1,"G":0.1431670281995661,"R":0.13232104121475047},
   "recent_events": [
+    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[14,20],"deck":{"archetype":"Esper Oculus","colors":"WUB","type":"Midrange"},"match_record":"2-3-0","game_record":"5-7-0"},
     {"id":379103,"name":"Fall League 2025 | Standard #6/12","date":"2025-11-04","format":"standard","points":3,"rank":[7,8],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":0,"rank":[11,12],"deck":{"archetype":"Tasigur, the Golden Fang","colors":"UBG","type":null}},
     {"id":376220,"name":"Fall League 2025 | Standard #5/12","date":"2025-10-28","format":"standard","points":3,"rank":[6,7],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"1-3-0","game_record":"4-7-0"},
@@ -63,8 +64,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 58,
-  "match_played": 202,
-  "match_wins": 79,
-  "favorite_format": ["standard", 0.5172413793103449]
+  "events_count": 59,
+  "match_played": 207,
+  "match_wins": 81,
+  "favorite_format": ["standard", 0.5254237288135594]
 }
