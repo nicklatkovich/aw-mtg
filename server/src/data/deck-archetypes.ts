@@ -9,6 +9,7 @@ export const ARCHETYPES = {
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
+  'Mono-White Humans': ['W', DeckType.AGGRO],
   // WU
   'Azorius Control': ['WU', DeckType.CONTROL],
   'Azorius Spirits': ['WU', DeckType.TEMPO],

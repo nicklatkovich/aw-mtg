@@ -3,6 +3,48 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 379105,
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer #6/12',
+    date: '2025-11-06',
+    standings: [
+      { player: 'AlexKhan', rank: 1, deck: 'Azorius Control', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-4-0' },
+      { player: 'Alex88', rank: 2, deck: 'Boros Equipment', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Shadowest', rank: 3, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'BRV', rank: 4, deck: 'Gruul Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'ispinyouround', rank: 5, deck: 'Rakdos Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'Jeinh', rank: 6, deck: 'Mono-Black Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'GlebK', rank: 7, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'Barbossa', rank: 8, deck: 'Mono-White Humans', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '3-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AlexKhan', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Jeinh', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'Shadowest'], winner: 2, record: '2-1-0' },
+        { players: ['GlebK', 'Barbossa'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['AlexKhan', 'Shadowest'], winner: 1, record: '2-1-0' },
+        { players: ['Alex88', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'Barbossa'], winner: 1, record: '2-1-0' },
+        { players: ['Jeinh', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['AlexKhan', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['GlebK', 'Shadowest'], winner: 2, record: '2-1-0' },
+        { players: ['Jeinh', 'Barbossa'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Jeinh', null], winner: 1, record: 'bye' },
+        { players: ['AlexKhan', 'ispinyouround'], winner: 1, record: '1-0-0' },
+        { players: ['Alex88', 'Shadowest'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Barbossa'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 376482,
     format: Format.PIONEER,
     name: 'Fall League 2025 | Pioneer #5/12',
