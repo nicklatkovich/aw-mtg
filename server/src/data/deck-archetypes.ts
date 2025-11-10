@@ -204,6 +204,7 @@ export const ARCHETYPES = {
   'Mono-Red Madness': 'R',
   'Mono-Red Prison': 'R',
   'Mono-Red Dragons': 'R',
+  'Mono-Red Dredge': ['R', DeckType.COMBO],
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
