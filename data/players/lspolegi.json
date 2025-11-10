@@ -2,9 +2,9 @@
   "guid": "2752a16a-8320-4fef-b268-cbbeddb87355",
   "id": "lspolegi",
   "display_name": "Savchenko Oleg",
-  "color_stats": {"W":0.5714285714285715,"U":1,"R":1},
+  "color_stats": {"U":1,"B":0.375,"W":0.25,"R":0.625},
   "recent_events": [
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":9,"rank":[8,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"3-3-0","game_record":"8-7-0"},
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":9,"rank":[8,20],"deck":{"archetype":"Dimir Reanimator","colors":"UB","type":"Combo"},"match_record":"3-3-0","game_record":"8-7-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[3,20],"match_record":"3-0-0","game_record":"6-0-0"},
     {"id":329063,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-20","format":"draft","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[3,12],"match_record":"2-1-0","game_record":"5-3-0"},

@@ -4,7 +4,7 @@
   "display_name": "Komarovsky Pavel",
   "color_stats": {"U":1,"B":1},
   "recent_events": [
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":10,"rank":[6,20],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"3-2-1","game_record":"6-5-3"}
+    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":10,"rank":[6,20],"deck":{"archetype":"Dimir Reanimator","colors":"UB","type":"Combo"},"match_record":"3-2-1","game_record":"6-5-3"}
   ],
   "events_count": 1,
   "match_played": 6,
