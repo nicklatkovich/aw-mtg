@@ -134,6 +134,7 @@ export const ARCHETYPES = {
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
   'Sultai Reanimator': ['UBG', DeckType.COMBO],
   'Sultai Dragons': ['UBG', DeckType.CONTROL],
+  'Sultai Poison Storm': ['UBG', DeckType.COMBO],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],

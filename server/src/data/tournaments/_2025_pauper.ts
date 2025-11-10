@@ -3,6 +3,58 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pauper: Tournament[] = [
   {
+    id: 379104,
+    format: Format.PAUPER,
+    name: 'Fall League 2025 | Pauper #6/12',
+    date: '2025-11-05',
+    standings: [
+      { player: 'Azurenia', rank: 1, deck: 'Izzet Skred', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'Mamkalover228', rank: 2, deck: 'Jund Wildfire', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'AndreyVorobey', rank: 3, deck: 'Mono-Red Madness', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'IvaD', rank: 4, deck: 'Mono-Red Madness', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'RomanKohan14', rank: 5, deck: 'Mono-White Weenie', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'Aliaksandr', rank: 6, deck: 'Mono-Blue Terror', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Dukalis1985', rank: 7, deck: 'Orzhov Blade', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'DanilaNabeshko', rank: 8, deck: 'Azorius Gates', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-3-0' },
+      { player: 'Jeinh', rank: 9, deck: 'Mono-Blue Terror', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: '4onoki', rank: 10, deck: 'Boros Synthesizer', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'Kurt', rank: 11, deck: 'Sultai Poison Storm', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Dukalis1985', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Mamkalover228', 'DanilaNabeshko'], winner: 1, record: '1-0-0' },
+        { players: ['IvaD', 'Aliaksandr'], winner: 2, record: '2-0-0' },
+        { players: ['AndreyVorobey', 'Kurt'], winner: 1, record: '2-1-0' },
+        { players: ['Jeinh', 'Azurenia'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Kurt', null], winner: 1, record: 'bye' },
+        { players: ['Mamkalover228', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['Dukalis1985', 'Aliaksandr'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'AndreyVorobey'], winner: 1, record: '2-1-0' },
+        { players: ['IvaD', 'DanilaNabeshko'], winner: 1, record: '2-1-0' },
+        { players: ['Jeinh', '4onoki'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['DanilaNabeshko', null], winner: 1, record: 'bye' },
+        { players: ['Dukalis1985', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Mamkalover228', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['IvaD', 'Jeinh'], winner: 1, record: '2-0-0' },
+        { players: ['Kurt', 'Aliaksandr'], winner: 2, record: '2-0-0' },
+        { players: ['AndreyVorobey', '4onoki'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'RomanKohan14'], winner: 1, record: '2-1-0' },
+        { players: ['IvaD', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['Dukalis1985', 'AndreyVorobey'], winner: 2, record: '2-1-0' },
+        { players: ['Aliaksandr', 'Mamkalover228'], winner: 2, record: '2-0-0' },
+        { players: ['Kurt', 'Jeinh'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 376479,
     format: Format.PAUPER,
     name: 'Fall League 2025 | Pauper #5/12',

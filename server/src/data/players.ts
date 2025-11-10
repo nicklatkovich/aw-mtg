@@ -140,6 +140,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'bf7899ef-b66d-41f0-a257-6949f19dff34': ['Serov Daniil', { id: 'serov' }],
   '6b2579e7-b696-44dc-98d9-0b46d534dd8d': 'Karalenia Aliaksandr',
   '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3': ['Miadzvedski Pavel', { id: 'miadzvedski' }],
+  'a7608b6b-8899-4d38-ad34-639500b5a069': 'Kirpa Sergey',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -305,4 +306,5 @@ export const playersByUsername: { [username in string]?: string } = {
   NikK8: 'cd794a46-4193-4d5b-ae04-d02add6aafbf',
   Aleksandr_KoLoshk: '037e76b0-88c8-4458-94a8-d63c2f9a8155',
   Gluck: '6b2579e7-b696-44dc-98d9-0b46d534dd8d',
+  Jeinh: 'a7608b6b-8899-4d38-ad34-639500b5a069',
 };

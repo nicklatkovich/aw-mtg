@@ -66,7 +66,7 @@ for (const data of meleeStandings.data) {
   const usernameOrGuid = Team.Players[0].Username;
   if (!usernameOrGuid) throw new Error(`Unknown player: ${usernameOrGuid}`);
   if (!playersByGuid[usernameOrGuid] && !playersByUsername[usernameOrGuid]) {
-    const playerName = `${Team.Players[0].LastName} ${Team.Players[0].FirstName}`;
+    const playerName = Team.Players[0].DisplayName ?? `${Team.Players[0].LastName} ${Team.Players[0].FirstName}`;
     unknownPlayers.set(usernameOrGuid, playerName);
   }
   const mp = mpMap.get(usernameOrGuid) ?? 0;
