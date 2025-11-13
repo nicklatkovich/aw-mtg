@@ -58,7 +58,7 @@
   {"id":"miflyer","display_name":"Liatun Mikhail","events_count":15,"match_played":59,"match_wins":16,"color_stats":{"R":1,"G":0.07142857142857142},"favorite_format":["pioneer",0.8666666666666667]},
   {"id":"gringon","display_name":"Gordeychik Egor","events_count":4,"match_played":14,"match_wins":3,"color_stats":{"R":1,"G":0.5,"U":0.5},"favorite_format":["standard",0.75]},
   {"id":"shatun","display_name":"Miadzvedski Pavel","events_count":2,"match_played":11,"match_wins":6,"color_stats":{"U":1,"B":1},"favorite_format":["legacy",0.5]},
-  {"id":"alexkhan","display_name":"Khan Alex","events_count":24,"match_played":95,"match_wins":44,"color_stats":{"W":1,"U":0.43478260869565216,"G":0.6521739130434783},"favorite_format":["pioneer",1]},
+  {"id":"alexkhan","display_name":"Aflakhanov Alex","events_count":24,"match_played":95,"match_wins":44,"color_stats":{"W":1,"U":0.43478260869565216,"G":0.6521739130434783},"favorite_format":["pioneer",1]},
   {"id":"trukhanovich","display_name":"Trukhanovich Makar","events_count":1,"match_played":0,"match_wins":0,"color_stats":{},"favorite_format":["commander",1]},
   {"id":"toi","display_name":"Kuch Andrey","events_count":1,"match_played":4,"match_wins":1,"color_stats":{"U":1,"G":1},"favorite_format":["pioneer",1]},
   {"id":"omgprofunny","display_name":"Bondarchik Andrei","events_count":56,"match_played":202,"match_wins":113,"color_stats":{"U":0.8208955223880594,"B":1,"R":0.7313432835820892,"G":0.20895522388059698,"W":0.3731343283582089},"favorite_format":["pioneer",0.5535714285714286]},

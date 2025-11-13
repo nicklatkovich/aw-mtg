@@ -31,7 +31,7 @@
     "top": 6,
     "prize_fund": 136,
     "players": [
-      {"display_name":"Khan Alex","id":"alexkhan","total_points":46,"event_count":7,"points":[4,6,7,6,9,12,3,null,null,null,null,null]},
+      {"display_name":"Aflakhanov Alex","id":"alexkhan","total_points":46,"event_count":7,"points":[4,6,7,6,9,12,3,null,null,null,null,null]},
       {"display_name":"Raptunovich Aleksei","id":"alex88","total_points":43,"event_count":5,"points":[9,null,null,9,9,9,7,null,null,null,null,null]},
       {"display_name":"Paulouski Tsimafei","id":"ispinyouround","total_points":40,"event_count":7,"points":[3,6,6,9,3,6,9,null,null,null,null,null]},
       {"display_name":"Brozhat Rostislav","id":"brv","total_points":39,"event_count":6,"points":[6,6,6,9,null,6,6,null,null,null,null,null]},
