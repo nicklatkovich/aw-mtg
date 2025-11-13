@@ -70,7 +70,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '1323794b-87dc-48c1-9d90-0880bd436373': ['Basay Vasiliy', { id: 'elixes' }],
   '4ddabca1-fd14-4a09-8bfa-5f4f6aa58311': 'Liatun Mikhail',
   '16f3ca52-6de4-4ad0-9217-345bde3c0312': 'Romanenko Polina',
-  '5188dedb-3c53-4644-ac45-73b99669b87b': 'Khan Alex',
+  '5188dedb-3c53-4644-ac45-73b99669b87b': 'Aflakhanov Alex',
   'f6ec82b1-955a-4cc8-b232-8142ffac7675': 'Zapolskiy Rostislav',
   '1357114b-2042-4ce2-9ccc-49dddd4cef55': 'Seletsky Ignat',
   '3d2527d6-7631-490f-ac08-91fe745652d2': 'Maletin Alexey',
