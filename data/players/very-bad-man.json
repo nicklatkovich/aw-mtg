@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"W":0.5207253886010365,"R":0.4689119170984457,"U":0.3652849740932643,"G":0.24870466321243528},
+  "color_stats": {"W":0.5298602287166457,"B":1,"R":0.4599745870393902,"U":0.35832274459974595,"G":0.24396442185514616},
   "recent_events": [
+    {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":6,"rank":[7,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":0,"rank":[31,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":10,"rank":[12,35],"deck":{"archetype":"Mardu Synthesizer","colors":"WBR","type":null},"match_record":"3-2-1","game_record":"8-6-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":0,"rank":[20,20],"deck":{"archetype":"Orzhov Bounce","colors":"WB","type":"Midrange"},"match_record":"0-3-0","game_record":"1-6-0"},
@@ -102,8 +103,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 97,
-  "match_played": 383,
-  "match_wins": 181,
-  "favorite_format": ["pioneer", 0.7010309278350515]
+  "events_count": 98,
+  "match_played": 387,
+  "match_wins": 183,
+  "favorite_format": ["pioneer", 0.7040816326530612]
 }

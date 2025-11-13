@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.15151515151515152},
+  "color_stats": {"R":1,"G":0.17647058823529413},
   "recent_events": [
+    {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":3,"rank":[8,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":6,"rank":[23,33],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-3-0","game_record":"4-6-0"},
     {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":6,"rank":[7,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-4-0"},
@@ -48,8 +49,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 43,
-  "match_played": 159,
-  "match_wins": 98,
+  "events_count": 44,
+  "match_played": 162,
+  "match_wins": 99,
   "favorite_format": ["pioneer", 1]
 }

@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"R":1,"G":0.7348484848484848,"U":0.5213498622589532,"W":0.6866391184573003,"B":0.032369146005509636},
+  "color_stats": {"R":1,"G":0.7402159244264507,"U":0.5107962213225371,"W":0.6727395411605939,"B":0.03171390013495276},
   "recent_events": [
+    {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":6,"rank":[24,33],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-4-0","game_record":"6-10-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":3,"rank":[18,20],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"1-4-0","game_record":"4-8-0"},
     {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
@@ -111,8 +112,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 106,
-  "match_played": 417,
-  "match_wins": 209,
-  "favorite_format": ["pioneer", 0.6132075471698113]
+  "events_count": 107,
+  "match_played": 421,
+  "match_wins": 211,
+  "favorite_format": ["pioneer", 0.616822429906542]
 }
