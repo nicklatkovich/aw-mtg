@@ -36,6 +36,7 @@ export const ARCHETYPES = {
   'Esper Glintblade': 'WUB',
   'Esper Tempo': ['WUB', DeckType.TEMPO],
   'Esper Stoneblade': ['WUB', DeckType.MIDRANGE],
+  'Esper Blink': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -132,6 +133,7 @@ export const ARCHETYPES = {
   'Dimir Rogues': ['UB', DeckType.TEMPO],
   'Dimir Tempo': ['UB', DeckType.TEMPO],
   'Dimir Reanimator': ['UB', DeckType.COMBO],
+  'Dimir Necrodominance': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -156,6 +158,7 @@ export const ARCHETYPES = {
   'Izzet Delver': 'UR',
   'Izzet Prowess': ['UR', DeckType.AGGRO],
   'Izzet Creativity': ['UR', DeckType.COMBO],
+  'Izzet Affinity': 'UR',
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
@@ -170,6 +173,7 @@ export const ARCHETYPES = {
   'Simic Aggro': ['UG', DeckType.AGGRO],
   'Simic Scapeshift': ['UG', DeckType.COMBO],
   'Simic Omni-Tell': ['UG', DeckType.COMBO],
+  'Simic Ritual': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -253,6 +257,7 @@ export const ARCHETYPES = {
   'Domain Enchantments': ['WUBRG', DeckType.CONTROL],
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
+  'Domain Ritual': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',

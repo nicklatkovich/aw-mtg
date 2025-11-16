@@ -3,6 +3,54 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_modern: Tournament[] = [
   {
+    id: 383408,
+    format: Format.MODERN,
+    name: 'Fall League 2025 | Modern #3/6',
+    date: '2025-11-16',
+    standings: [
+      { player: '4onoki', rank: 1, deck: 'Boros Energy', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'Azurenia', rank: 2, deck: 'Domain Zoo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'ispinyouround', rank: 3, deck: 'Dimir Tempo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'farsmac', rank: 4, deck: 'Esper Blink', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'Norbi', rank: 5, deck: 'Jeskai Blink', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'aspelled', rank: 6, deck: 'Domain Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BRV', rank: 7, deck: 'Izzet Prowess', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-6-0' },
+      { player: 'DanilaNabeshko', rank: 8, deck: 'Azorius Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'qvertion', rank: 9, deck: 'Izzet Affinity', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 10, deck: 'Dimir Necrodominance', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Norbi', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'farsmac'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', 'DanilaNabeshko'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'Azurenia'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'DanilaNabeshko'], winner: 1, record: '2-0-0' },
+        { players: ['4onoki', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['aspelled', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'qvertion'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', '4onoki'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['farsmac', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['DanilaNabeshko', 'aspelled'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', '4onoki'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'farsmac'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'DanilaNabeshko'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'aspelled'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 374673,
     format: Format.MODERN,
     name: 'Fall League 2025 | Modern #2/6',
