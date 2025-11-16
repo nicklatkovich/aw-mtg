@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"U":0.5740223463687152,"R":1,"W":0.2597765363128492,"B":0.2877094972067039,"G":0.308659217877095},
+  "color_stats": {"U":0.5949720670391063,"G":0.3296089385474861,"R":1,"W":0.2597765363128492,"B":0.2877094972067039},
   "recent_events": [
+    {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":6,"rank":[6,10],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":6,"rank":[22,33],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-3-0","game_record":"4-7-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[22,35],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-3-0","game_record":"6-7-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":20,"rank":[1,20],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"6-0-2","game_record":"12-2-6"},
@@ -94,8 +95,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 89,
-  "match_played": 333,
-  "match_wins": 167,
-  "favorite_format": ["pioneer", 0.42696629213483145]
+  "events_count": 90,
+  "match_played": 337,
+  "match_wins": 169,
+  "favorite_format": ["pioneer", 0.4222222222222222]
 }
