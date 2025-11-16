@@ -2,9 +2,9 @@
   "guid": "b8d65678-3f77-49a6-a51d-f80ef537419d",
   "id": "farsmac",
   "display_name": "Rapanovich Yauhen",
-  "color_stats": {"W":0.33962264150943394,"U":1,"R":0.2452830188679245,"G":0.4339622641509433,"B":0.2452830188679245},
+  "color_stats": {"W":0.33962264150943394,"U":1,"B":0.33962264150943394,"G":0.4339622641509433,"R":0.1509433962264151},
   "recent_events": [
-    {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":6,"rank":[4,10],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
+    {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":6,"rank":[4,10],"deck":{"archetype":"Esper Blink","colors":"WUB","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":6,"rank":[12,20],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null},"match_record":"2-3-0","game_record":"6-7-0"},
     {"id":"l251101","name":"Fall League 2025 | Legacy #3/6","date":"2025-11-01","format":"legacy","points":6,"rank":[2,5],"deck":{"archetype":"Mono-Blue Affinity","colors":"U","type":null}},
     {"id":"l251019","name":"Fall League 2025 | Legacy #2/6","date":"2025-10-19","format":"legacy","points":12,"rank":[1,5],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null}},
