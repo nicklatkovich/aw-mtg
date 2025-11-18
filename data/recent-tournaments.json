@@ -1,4 +1,5 @@
 [
+  {"id":383623,"format":"standard","date":"2025-11-18","name":"Fall League 2025 | Standard #8/12","players_count":6,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},
   {"id":383408,"format":"modern","date":"2025-11-16","name":"Fall League 2025 | Modern #3/6","players_count":10,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"},"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"}}},
   {"id":382613,"format":"pioneer","date":"2025-11-13","name":"Fall League 2025 | Pioneer #7/12","players_count":11,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"}}},
   {"id":379115,"format":"legacy","date":"2025-11-09","name":"Big Magic Weekend | Fall 2025 | Legacy","players_count":20,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}}},

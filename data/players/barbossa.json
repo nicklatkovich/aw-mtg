@@ -4,6 +4,7 @@
   "display_name": "Bogdan Ilya",
   "color_stats": {"W":1},
   "recent_events": [
+    {"id":383623,"name":"Fall League 2025 | Standard #8/12","date":"2025-11-18","format":"standard","points":6,"rank":[2,6],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Mono-White Humans","colors":"W","type":"Aggro"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":355998,"name":"Summer League 2025 | Standard #11","date":"2025-08-26","format":"standard","points":3,"rank":[7,10],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":6,"rank":[5,14],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -22,8 +23,8 @@
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[15,22]},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":9,"rank":[4,17]}
   ],
-  "events_count": 17,
-  "match_played": 57,
-  "match_wins": 22,
-  "favorite_format": ["standard", 0.9411764705882353]
+  "events_count": 18,
+  "match_played": 61,
+  "match_wins": 24,
+  "favorite_format": ["standard", 0.9444444444444444]
 }
