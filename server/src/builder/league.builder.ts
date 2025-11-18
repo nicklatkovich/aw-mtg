@@ -8,6 +8,12 @@ import { _2025_pauper } from '@server/data/tournaments/_2025_pauper';
 import { _2025_legacy } from '@server/data/tournaments/_2025_legacy';
 import { _2025_modern } from '@server/data/tournaments/_2025_modern';
 
+const fall2025StandardEvents: (Tournament | null)[] = _2025_standard
+  .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())
+  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+  .slice(0, 11);
+fall2025StandardEvents.splice(6, 0, null);
+
 const leagueInfo: {
   format: Format | Format[];
   name: string;
@@ -15,7 +21,7 @@ const leagueInfo: {
   total_events: number;
   top: number;
   prize_pool_inc_by_player: number;
-  events: Tournament[];
+  events: (Tournament | null)[];
 }[] = [
   {
     format: Format.STANDARD,
@@ -24,10 +30,7 @@ const leagueInfo: {
     total_events: 12,
     top: 6,
     prize_pool_inc_by_player: 2,
-    events: _2025_standard
-      .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())
-      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-      .slice(0, 12),
+    events: fall2025StandardEvents,
   },
   {
     format: Format.PIONEER,
@@ -73,6 +76,7 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
     let prize_pool = 0;
     assert(league.events.length <= league.total_events);
     for (const [eventIndex, event] of league.events.entries()) {
+      if (!event) continue;
       prize_pool += league.prize_pool_inc_by_player * event.standings.length;
       for (const s of event.standings) {
         const pid = playersByUsername[s.player] ?? s.player;

@@ -3,6 +3,42 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 383623,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #8/12',
+    date: '2025-11-18',
+    standings: [
+      { player: '[OMG]Summie', rank: 1, deck: 'Jeskai Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Barbossa', rank: 2, deck: 'Mono-White Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'warded_bye', rank: 3, deck: '4c Artifacts', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Very_Bad_Man', rank: 4, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'BRV', rank: 5, deck: 'Gruul Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'McRais', rank: 6, deck: 'Golgari Insidious Roots', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['warded_bye', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['McRais', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'Barbossa'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['McRais', 'Barbossa'], winner: 2, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'warded_bye'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Barbossa', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['warded_bye', 'McRais'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['warded_bye', 'Barbossa'], winner: 2, record: '2-0-0' },
+        { players: ['McRais', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 379103,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #6/12',

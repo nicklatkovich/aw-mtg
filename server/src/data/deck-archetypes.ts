@@ -209,6 +209,7 @@ export const ARCHETYPES = {
   'Golgari Gardens': 'BG',
   'Golgari Altar Tron': 'BG',
   'Golgari Food': 'BG',
+  'Golgari Insidious Roots': ['BG', DeckType.COMBO],
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -246,6 +247,7 @@ export const ARCHETYPES = {
   Bogles: ['WUBG', DeckType.AGGRO],
   'WBRG Maverick': ['WBRG', DeckType.COMBO],
   '4c Control': ['WUBR', DeckType.CONTROL],
+  '4c Artifacts': 'WUBR',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
