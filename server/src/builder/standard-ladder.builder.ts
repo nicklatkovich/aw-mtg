@@ -10,6 +10,7 @@ const tournaments = _2025_standard;
 const majorEventWinners = new Map([
   ['ba897ea4-1d49-44ff-8cd7-c7b21e27205f', 1], // Raptunovich Aleksei
   ['80d52a7c-b225-4438-9779-52897511fd5a', 1], // Kondibor Nikita
+  ['05f46aac-a10a-4e78-a27c-ee8d8778996c', 1], // Zubovich Valery
 ]);
 
 type PlayerStats = {
