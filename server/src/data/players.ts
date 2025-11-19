@@ -189,6 +189,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'e65cad71-3b22-44d7-8017-0e553f8c7231': ['BrOwl* Artem', { id: 'darkowlai' }],
   '0a1ef3df-d4af-494f-a300-a656a61574d7': ['Malcolm/Kediss* Roman', { id: 'malcolm-kediss-roman' }],
   'eed2e7f4-3153-4500-8094-7673082d1c4a': ['Six* Slava', { id: 'six-slava' }],
+  '3f558edd-dd5d-4c9b-8f5e-dfb8533b2577': 'Exidra*',
 };
 
 export const playersByUsername: { [username in string]?: string } = {
@@ -384,4 +385,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Goyza: 'c558d196-e7e2-45fd-981f-584eba5e4c84',
   callmepicasso: 'd8f8df37-f116-41b8-8bb4-29a76010c284',
   inpie: '14afbc68-3bab-47ff-bffe-52564690677f',
+  Exidra: '3f558edd-dd5d-4c9b-8f5e-dfb8533b2577',
 };
