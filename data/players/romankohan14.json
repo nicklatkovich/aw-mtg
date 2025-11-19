@@ -4,6 +4,7 @@
   "display_name": "Kokhan Roman",
   "color_stats": {"W":0.5076481835564054,"G":0.25430210325047803,"B":0.3451242829827916,"R":1,"U":0.18738049713193114},
   "recent_events": [
+    {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":9,"rank":[3,17],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":10,"rank":[2,11],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-0-1","game_record":"7-3-1"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":10,"rank":[13,33],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-2-1","game_record":"9-6-1"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[18,35],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-3-0","game_record":"6-7-0"},
@@ -115,8 +116,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 110,
-  "match_played": 430,
-  "match_wins": 261,
-  "favorite_format": ["pioneer", 0.4636363636363636]
+  "events_count": 111,
+  "match_played": 434,
+  "match_wins": 264,
+  "favorite_format": ["pioneer", 0.4594594594594595]
 }

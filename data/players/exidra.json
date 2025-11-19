@@ -1,0 +1,13 @@
+{
+  "guid": "3f558edd-dd5d-4c9b-8f5e-dfb8533b2577",
+  "id": "exidra",
+  "display_name": "Exidra*",
+  "color_stats": {},
+  "recent_events": [
+    {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[8,17],"match_record":"2-2-0","game_record":"6-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 2,
+  "favorite_format": ["pauper", 1]
+}

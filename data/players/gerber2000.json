@@ -4,6 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"R":0.7295423023578368,"B":1,"G":0.4036061026352291,"U":0.18169209431345365,"W":0.09847434119278785},
   "recent_events": [
+    {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":0,"rank":[17,17],"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":13,"rank":[7,35],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"4-2-1","game_record":"9-7-0"},
     {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":9,"rank":[4,11],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":6,"rank":[10,18],"deck":{"archetype":"Mono-Black Sacrifice","colors":"B","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -65,8 +66,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 60,
-  "match_played": 233,
+  "events_count": 61,
+  "match_played": 237,
   "match_wins": 96,
-  "favorite_format": ["pioneer", 0.55]
+  "favorite_format": ["pioneer", 0.5409836065573771]
 }
