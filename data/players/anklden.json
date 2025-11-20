@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"W":1,"U":0.3932584269662926,"B":0.573033707865169,"R":0.5393258426966298,"G":0.7977528089887639},
+  "color_stats": {"B":0.6404494382022474,"W":1,"U":0.3932584269662926,"R":0.5393258426966298,"G":0.7977528089887639},
   "recent_events": [
+    {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":0,"rank":[9,10],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"0-2-0","game_record":"0-3-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":4,"rank":[13,17],"match_record":"1-2-1","game_record":"4-6-0"},
     {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":7,"rank":[4,11],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":14,"rank":[5,33],"deck":{"archetype":"Selesnya Angels","colors":"WG","type":"Midrange"},"match_record":"4-1-2","game_record":"10-5-4"},
@@ -89,8 +90,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 84,
-  "match_played": 339,
+  "events_count": 85,
+  "match_played": 341,
   "match_wins": 175,
-  "favorite_format": ["pioneer", 0.8571428571428571]
+  "favorite_format": ["pioneer", 0.8588235294117647]
 }
