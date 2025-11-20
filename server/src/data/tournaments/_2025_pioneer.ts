@@ -3,6 +3,51 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 383626,
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer #8/12',
+    date: '2025-11-20',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Gruul Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Izzet Creativity', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'praim', rank: 3, deck: 'Mono-Green Devotion', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'ispinyouround', rank: 4, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'GlebK', rank: 5, deck: 'Gruul Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'ykcyc', rank: 6, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Selesnya Company', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'diuzhev', rank: 8, deck: 'Jund Sacrifice', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '1-6-0' },
+      { player: 'AnklDen', rank: 9, deck: 'Mono-Black Midrange', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-3-0' },
+      { player: 'OMGProfunny', rank: 10, deck: 'Dimir Tempo', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['ispinyouround', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'ykcyc'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'NickLatkovich'], winner: 2, record: '1-0-0' },
+        { players: ['Very_Bad_Man', 'praim'], winner: 2, record: '2-1-0' },
+        { players: ['GlebK', 'OMGProfunny'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', 'diuzhev'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['praim', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['OMGProfunny', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['ykcyc', 'AnklDen'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['praim', 'ykcyc'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'diuzhev'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'praim'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'ispinyouround'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 382613,
     format: Format.PIONEER,
     name: 'Fall League 2025 | Pioneer #7/12',
