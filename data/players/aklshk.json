@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"B":0.2877492877492878,"W":0.14529914529914534,"R":0.08831908831908833,"G":0.05982905982905984},
+  "color_stats": {"W":0.1573033707865169,"U":1,"R":0.10112359550561797,"B":0.2837078651685394,"G":0.05898876404494383},
   "recent_events": [
+    {"id":383627,"name":"Fall League 2025 | Legacy #4/6","date":"2025-11-23","format":"legacy","points":0,"rank":[6,6],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[11,17],"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Dimir Necrodominance","colors":"UB","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":18,"rank":[1,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"6-2-0","game_record":"13-8-0"},
@@ -50,8 +51,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 45,
-  "match_played": 173,
+  "events_count": 46,
+  "match_played": 175,
   "match_wins": 96,
-  "favorite_format": ["pauper", 0.5777777777777777]
+  "favorite_format": ["pauper", 0.5652173913043478]
 }

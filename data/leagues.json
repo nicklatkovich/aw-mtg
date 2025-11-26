@@ -106,17 +106,17 @@
     "top": 6,
     "prize_fund": 0,
     "players": [
-      {"display_name":"Voiteh Stas","id":"norbi","total_points":46,"event_count":6,"points":[6,9,3,9,12,6,null,null,null,null,null,null]},
+      {"display_name":"Voiteh Stas","id":"norbi","total_points":57,"event_count":7,"points":[6,9,3,9,12,6,12,null,null,null,null,null]},
+      {"display_name":"Rapanovich Yauhen","id":"farsmac","total_points":46,"event_count":6,"points":[9,6,12,null,6,6,6,null,null,null,null,null]},
       {"display_name":"Plisko Ihar","id":"4onoki","total_points":44,"event_count":5,"points":[6,12,6,null,6,12,null,null,null,null,null,null]},
-      {"display_name":"Rapanovich Yauhen","id":"farsmac","total_points":40,"event_count":5,"points":[9,6,12,null,6,6,null,null,null,null,null,null]},
-      {"display_name":"Brozhat Rostislav","id":"brv","total_points":27,"event_count":5,"points":[null,6,9,9,0,3,null,null,null,null,null,null]},
+      {"display_name":"Brozhat Rostislav","id":"brv","total_points":30,"event_count":6,"points":[null,6,9,9,0,3,3,null,null,null,null,null]},
       {"display_name":"Zubovich Valery","id":"aspelled","total_points":21,"event_count":3,"points":[null,6,null,9,null,6,null,null,null,null,null,null]},
-      {"display_name":"Charniauski Mikita","id":"tanti","total_points":12,"event_count":3,"points":[6,3,null,3,null,null,null,null,null,null,null,null]},
+      {"display_name":"Paulouski Tsimafei","id":"ispinyouround","total_points":18,"event_count":2,"points":[null,null,null,null,null,9,9,null,null,null,null,null]},
+      {"display_name":"Charniauski Mikita","id":"tanti","total_points":18,"event_count":4,"points":[6,3,null,3,null,null,6,null,null,null,null,null]},
       {"display_name":"Novikov Valentine","id":"azurenia","total_points":9,"event_count":1,"points":[null,null,null,null,null,9,null,null,null,null,null,null]},
-      {"display_name":"Paulouski Tsimafei","id":"ispinyouround","total_points":9,"event_count":1,"points":[null,null,null,null,null,9,null,null,null,null,null,null]},
       {"display_name":"Martseniuk Maksim","id":"qvertion","total_points":9,"event_count":2,"points":[null,null,null,6,null,3,null,null,null,null,null,null]},
-      {"display_name":"Kolyshko Alexander","id":"aklshk","total_points":9,"event_count":3,"points":[3,3,null,null,null,3,null,null,null,null,null,null]},
       {"display_name":"Nabeshko Daniil","id":"danilanabeshko","total_points":9,"event_count":3,"points":[null,null,0,6,null,3,null,null,null,null,null,null]},
+      {"display_name":"Kolyshko Alexander","id":"aklshk","total_points":9,"event_count":4,"points":[3,3,null,null,null,3,0,null,null,null,null,null]},
       {"display_name":"Miadzvedski Pavel","id":"miadzvedski","total_points":6,"event_count":1,"points":[null,null,null,null,6,null,null,null,null,null,null,null]},
       {"display_name":"Moroz Egor","id":"eggslicker","total_points":3,"event_count":1,"points":[null,null,null,3,null,null,null,null,null,null,null,null]}
     ]
