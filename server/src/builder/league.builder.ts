@@ -11,8 +11,9 @@ import { _2025_modern } from '@server/data/tournaments/_2025_modern';
 const fall2025StandardEvents: (Tournament | null)[] = _2025_standard
   .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())
   .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-  .slice(0, 11);
+  .slice(0, 10);
 fall2025StandardEvents.splice(6, 0, null);
+fall2025StandardEvents.splice(8, 0, null);
 
 const leagueInfo: {
   format: Format | Format[];
@@ -73,6 +74,7 @@ const leagueInfo: {
 export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
   return leagueInfo.map<LeagueDto>((league) => {
     const players = new Map<string, LeaguePlayerDto>();
+    const next_events = league.total_events - league.events.length;
     let prize_pool = 0;
     assert(league.events.length <= league.total_events);
     for (const [eventIndex, event] of league.events.entries()) {
@@ -89,17 +91,15 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
           display_name: playerInfo.display_name,
           id: playerInfo.id,
           total_points: 0,
+          max_points: 0,
           event_count: (prev?.event_count ?? 0) + 1,
           points,
         });
       }
     }
     for (const p of players.values()) {
-      const top_points = [...p.points]
-        .sort((a, b) => (b ?? 0) - (a ?? 0))
-        .slice(0, 6)
-        .reduce<number>((a, b) => a + (b ?? 0), 0);
-      p.total_points = top_points + Math.max(0, p.event_count - 6) + p.points.filter((v) => v === 12).length;
+      p.total_points = calculateTotalPoints(p.points);
+      p.max_points = calculateTotalPoints([...p.points, ...Array.from({ length: next_events }, () => 12)]);
     }
     const sortedPlayers = [...players.values()].sort((a, b) => {
       if (b.total_points !== a.total_points) return b.total_points - a.total_points;
@@ -111,9 +111,19 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
       name: league.name,
       id: league.id,
       total_events: league.total_events,
+      past_events: league.events.length,
       top: league.top,
       prize_fund: prize_pool,
       players: sortedPlayers,
     };
   });
+}
+
+function calculateTotalPoints(points: (number | null)[]): number {
+  const pts = points.filter((v) => v !== null);
+  const topPoints = pts
+    .sort((a, b) => b - a)
+    .slice(0, 6)
+    .reduce((a, b) => a + b);
+  return topPoints + Math.max(0, pts.length - 6) + pts.filter((v) => v === 12).length;
 }

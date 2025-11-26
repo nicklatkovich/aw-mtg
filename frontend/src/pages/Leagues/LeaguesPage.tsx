@@ -51,6 +51,7 @@ export const LeaguesPage: React.FC = () => {
                         {i + 1}
                       </div>
                     ))}
+                    {/* <div className="cell">max</div> */}
                   </div>
                   {league.players.slice(0).map((player, index) => (
                     <div
@@ -67,6 +68,7 @@ export const LeaguesPage: React.FC = () => {
                           {p ?? ''}
                         </div>
                       ))}
+                      {/* <div className="cell">{player.max_points}</div> */}
                     </div>
                   ))}
                 </div>
