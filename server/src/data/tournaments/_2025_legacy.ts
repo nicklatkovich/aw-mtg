@@ -5,6 +5,42 @@ const MIADZVEDSKI_PAVEL = '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 383627,
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #4/6',
+    date: '2025-11-23',
+    standings: [
+      { player: 'Norbi', rank: 1, deck: 'Sultai Beanstalk', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'ispinyouround', rank: 2, deck: 'Dimir Tempo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'farsmac', rank: 3, deck: 'Mono-Blue HullDay', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Tanti', rank: 4, deck: 'Domain Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'BRV', rank: 5, deck: 'Izzet Delver', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 6, deck: 'Jeskai Control', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['Tanti', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'ispinyouround'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['farsmac', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Tanti', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Norbi', 'farsmac'], winner: 1, record: '2-1-0' },
+        { players: ['Tanti', 'ispinyouround'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tanti', null], winner: 1, record: 'bye' },
+        { players: ['Norbi', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['farsmac', 'ispinyouround'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 'l251101',
     format: Format.LEGACY,
     name: 'Fall League 2025 | Legacy #3/6',
