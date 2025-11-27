@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"U":0.05286343612334802,"B":1,"R":0.9559471365638766,"W":0.00881057268722467,"G":0.00881057268722467},
+  "color_stats": {"B":1,"R":0.9568965517241379,"U":0.05172413793103448,"W":0.008620689655172414,"G":0.008620689655172414},
   "recent_events": [
+    {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":9,"rank":[3,12],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":383627,"name":"Fall League 2025 | Legacy #4/6","date":"2025-11-23","format":"legacy","points":9,"rank":[2,6],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":9,"rank":[4,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":9,"rank":[3,10],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"7-5-0"},
@@ -78,8 +79,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 73,
-  "match_played": 292,
-  "match_wins": 151,
-  "favorite_format": ["pioneer", 0.9726027397260274]
+  "events_count": 74,
+  "match_played": 296,
+  "match_wins": 154,
+  "favorite_format": ["pioneer", 0.972972972972973]
 }

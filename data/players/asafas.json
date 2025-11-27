@@ -1,0 +1,13 @@
+{
+  "guid": "3cbba1fe-dcc1-4e8e-9ba3-6a1fb6cf2833",
+  "id": "asafas",
+  "display_name": "Nikolaenko Mikhail",
+  "color_stats": {},
+  "recent_events": [
+    {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":3,"rank":[12,12],"match_record":"1-3-0","game_record":"2-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 1]
+}
