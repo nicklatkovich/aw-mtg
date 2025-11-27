@@ -179,6 +179,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'c558d196-e7e2-45fd-981f-584eba5e4c84': 'Bitkin Anton',
   'd8f8df37-f116-41b8-8bb4-29a76010c284': 'Stratichuk Andrey',
   '14afbc68-3bab-47ff-bffe-52564690677f': 'Efimova Darya',
+  '3cbba1fe-dcc1-4e8e-9ba3-6a1fb6cf2833': 'Nikolaenko Mikhail',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -390,4 +391,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Exidra: '3f558edd-dd5d-4c9b-8f5e-dfb8533b2577',
   MihN: '4a2faa61-1984-4627-8e36-8a090d11803c',
   AmericanSoup: 'b566817b-2e01-4b9f-92e8-358590a5c873',
+  Asafas: '3cbba1fe-dcc1-4e8e-9ba3-6a1fb6cf2833',
 };
