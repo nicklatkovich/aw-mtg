@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"W":0.2659279778393352,"U":0.5775623268698062,"B":0.2936288088642659,"R":1,"G":0.31440443213296404},
   "recent_events": [
+    {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":9,"rank":[6,19],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":1,"rank":[16,17],"match_record":"0-1-1","game_record":"2-3-0"},
     {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":6,"rank":[6,10],"deck":{"archetype":"Domain Ritual","colors":"WUBRG","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":6,"rank":[22,33],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-3-0","game_record":"4-7-0"},
@@ -96,8 +97,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 91,
-  "match_played": 339,
-  "match_wins": 169,
-  "favorite_format": ["pioneer", 0.4175824175824176]
+  "events_count": 92,
+  "match_played": 343,
+  "match_wins": 172,
+  "favorite_format": ["pioneer", 0.41304347826086957]
 }

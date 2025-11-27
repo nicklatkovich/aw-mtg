@@ -4,6 +4,7 @@
   "display_name": "Shagoiko Maxim",
   "color_stats": {"W":0.5386533665835412,"G":0.2581047381546135,"U":0.3703241895261845,"B":1,"R":0.45137157107231923},
   "recent_events": [
+    {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":9,"rank":[7,19],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":3,"rank":[7,10],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":5,"rank":[12,17],"match_record":"1-1-2","game_record":"5-4-0"},
     {"id":383623,"name":"Fall League 2025 | Standard #8/12","date":"2025-11-18","format":"standard","points":6,"rank":[4,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -106,8 +107,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 101,
-  "match_played": 399,
-  "match_wins": 187,
-  "favorite_format": ["pioneer", 0.693069306930693]
+  "events_count": 102,
+  "match_played": 403,
+  "match_wins": 190,
+  "favorite_format": ["pioneer", 0.6862745098039216]
 }

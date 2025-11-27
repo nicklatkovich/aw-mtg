@@ -4,6 +4,7 @@
   "display_name": "Straha Miroslav",
   "color_stats": {"U":1,"B":1,"R":1,"W":0.6000000000000001,"G":0.6000000000000001},
   "recent_events": [
+    {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":3,"rank":[16,19],"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":3,"rank":[9,12],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":3,"rank":[18,20],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":3,"rank":[16,20],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -12,8 +13,8 @@
     {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":0,"rank":[17,17],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":3,"rank":[11,11],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-3-0","game_record":"3-6-0"}
   ],
-  "events_count": 7,
-  "match_played": 28,
-  "match_wins": 6,
+  "events_count": 8,
+  "match_played": 32,
+  "match_wins": 7,
   "favorite_format": ["pauper", 1]
 }

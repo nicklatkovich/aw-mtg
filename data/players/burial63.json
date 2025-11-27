@@ -4,6 +4,7 @@
   "display_name": "Burankou Aliaksei",
   "color_stats": {"G":1,"U":0.8387096774193549,"B":0.8387096774193549,"W":0.12903225806451613,"R":0.2903225806451613},
   "recent_events": [
+    {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":0,"rank":[19,19],"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[9,17],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":1,"rank":[33,35],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"0-3-1","game_record":"1-7-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[15,20],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-3-0","game_record":"4-7-0"},
@@ -58,8 +59,8 @@
     {"id":134250,"date":"2024-08-15","format":"pioneer","points":4,"rank":[13,17]},
     {"id":121447,"date":"2024-07-18","format":"pioneer","points":6,"rank":[10,21]}
   ],
-  "events_count": 53,
-  "match_played": 199,
+  "events_count": 54,
+  "match_played": 201,
   "match_wins": 66,
-  "favorite_format": ["standard", 0.5660377358490566]
+  "favorite_format": ["standard", 0.5555555555555556]
 }

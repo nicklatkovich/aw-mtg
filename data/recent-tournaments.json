@@ -1,4 +1,5 @@
 [
+  {"id":385539,"format":"pauper","date":"2025-11-26","name":"Fall League 2025 | Pauper #8/12","players_count":19,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"}}},
   {"id":383627,"format":"legacy","date":"2025-11-23","name":"Fall League 2025 | Legacy #4/6","players_count":6,"winner":{"player":{"display_name":"Voiteh Stas","id":"norbi"},"deck":{"archetype":"Sultai Beanstalk","colors":"UBG","type":"Control"}}},
   {"id":383626,"format":"pioneer","date":"2025-11-20","name":"Fall League 2025 | Pioneer #8/12","players_count":10,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":383625,"format":"pauper","date":"2025-11-19","name":"Fall League 2025 | Pauper #7/12","players_count":17,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"}}},
