@@ -38,6 +38,7 @@ export const LeaguesPage: React.FC = () => {
                       '64px',
                       '64px',
                       ...Array.from({ length: league.total_events }, () => '48px'),
+                      // ...Array.from({ length: league.total_events + 1 }, () => '48px'),
                     ].join(' '),
                   }}
                 >
