@@ -80,6 +80,7 @@ export const ARCHETYPES = {
   'Abzan Lifegain': 'WBG',
   'Abzan Maverick': 'WBG',
   'Abzan Pestilence': 'WBG',
+  'Abzan Birthing Ritual': ['WBG', DeckType.COMBO],
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
