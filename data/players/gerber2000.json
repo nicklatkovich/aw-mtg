@@ -2,8 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"W":0.11528150134048262,"B":1,"R":0.7184986595174264,"G":0.40348525469168933,"U":0.17560321715817703},
+  "color_stats": {"W":0.12698412698412703,"B":1,"G":0.4113756613756616,"R":0.7089947089947091,"U":0.17328042328042334},
   "recent_events": [
+    {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":12,"rank":[1,12],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":0,"rank":[18,19],"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":0,"rank":[8,10],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"0-3-0","game_record":"1-6-0"},
@@ -69,8 +70,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 64,
-  "match_played": 247,
-  "match_wins": 98,
-  "favorite_format": ["pioneer", 0.546875]
+  "events_count": 65,
+  "match_played": 251,
+  "match_wins": 102,
+  "favorite_format": ["pioneer", 0.5384615384615384]
 }

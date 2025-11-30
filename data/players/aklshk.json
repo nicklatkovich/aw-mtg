@@ -4,6 +4,7 @@
   "display_name": "Kolyshko Alexander",
   "color_stats": {"W":0.1573033707865169,"U":1,"R":0.10112359550561797,"B":0.2837078651685394,"G":0.05898876404494383},
   "recent_events": [
+    {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":0,"rank":[12,12],"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":12,"rank":[1,19],"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":383627,"name":"Fall League 2025 | Legacy #4/6","date":"2025-11-23","format":"legacy","points":0,"rank":[6,6],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[11,17],"match_record":"2-2-0","game_record":"4-6-0"},
@@ -52,8 +53,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 47,
-  "match_played": 179,
+  "events_count": 48,
+  "match_played": 182,
   "match_wins": 100,
-  "favorite_format": ["pauper", 0.574468085106383]
+  "favorite_format": ["pauper", 0.5625]
 }

@@ -1,4 +1,5 @@
 [
+  {"id":385541,"format":"modern","date":"2025-11-30","name":"Fall League 2025 | Modern #4/6","players_count":12,"winner":{"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"}}},
   {"id":385540,"format":"pioneer","date":"2025-11-27","name":"Fall League 2025 | Pioneer #9/12","players_count":12,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}}},
   {"id":385539,"format":"pauper","date":"2025-11-26","name":"Fall League 2025 | Pauper #8/12","players_count":19,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"}}},
   {"id":383627,"format":"legacy","date":"2025-11-23","name":"Fall League 2025 | Legacy #4/6","players_count":6,"winner":{"player":{"display_name":"Voiteh Stas","id":"norbi"},"deck":{"archetype":"Sultai Beanstalk","colors":"UBG","type":"Control"}}},

@@ -4,6 +4,7 @@
   "display_name": "Nabeshko Daniil",
   "color_stats": {"W":0.5185185185185186,"U":1,"R":0.5555555555555557,"G":0.14814814814814817},
   "recent_events": [
+    {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":4,"rank":[9,12],"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":3,"rank":[8,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":3,"rank":[8,11],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-3-0"},
     {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":12,"rank":[4,12],"deck":{"archetype":"Rograkh & Thrasios","colors":"URG","type":null}},
@@ -17,8 +18,8 @@
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[5,5],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":9,"rank":[1,7]}
   ],
-  "events_count": 12,
-  "match_played": 44,
-  "match_wins": 28,
-  "favorite_format": ["pauper", 0.3333333333333333]
+  "events_count": 13,
+  "match_played": 48,
+  "match_wins": 29,
+  "favorite_format": ["modern", 0.38461538461538464]
 }

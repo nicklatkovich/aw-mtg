@@ -4,6 +4,7 @@
   "display_name": "Plisko Ihar",
   "color_stats": {"W":1,"R":0.9877600979192166,"B":0.5226438188494491,"G":0.7184822521419829,"U":0.22276621787025705},
   "recent_events": [
+    {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[12,19],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":10,"rank":[1,17],"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":383408,"name":"Fall League 2025 | Modern #3/6","date":"2025-11-16","format":"modern","points":12,"rank":[1,10],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-3-0"},
@@ -62,8 +63,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":7,"rank":[6,16]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[7,12]}
   ],
-  "events_count": 57,
-  "match_played": 209,
-  "match_wins": 100,
-  "favorite_format": ["pauper", 0.42105263157894735]
+  "events_count": 58,
+  "match_played": 213,
+  "match_wins": 103,
+  "favorite_format": ["pauper", 0.41379310344827586]
 }
