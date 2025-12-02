@@ -22,7 +22,8 @@
       {"display_name":"Zapolskiy Rostislav","id":"rvstykey","total_points":6,"max_points":45,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Burankou Aliaksei","id":"burial63","total_points":2,"max_points":41,"event_count":1,"points":[2,null,null,null,null,null,null,null,null,null,null,null]},
       {"display_name":"Novikov Valentine","id":"azurenia","total_points":0,"max_points":39,"event_count":1,"points":[null,null,null,null,0,null,null,null,null,null,null,null]}
-    ]
+    ],
+    "event_ids": [368882, 370840, 372561, 374653, 376220, 379103, null, 383623, null]
   },
   {
     "format": "pioneer",
@@ -58,7 +59,8 @@
       {"display_name":"Bogdan Ilya","id":"barbossa","total_points":0,"max_points":39,"event_count":1,"points":[null,null,null,null,null,0,null,null,null,null,null,null]},
       {"display_name":"Bondarchik Andrei","id":"omgprofunny","total_points":0,"max_points":39,"event_count":1,"points":[null,null,null,null,null,null,null,0,null,null,null,null]},
       {"display_name":"Egorov Ivan","id":"egorov","total_points":0,"max_points":39,"event_count":1,"points":[null,0,null,null,null,null,null,null,null,null,null,null]}
-    ]
+    ],
+    "event_ids": [369531, 370846, 372564, 374661, 376482, 379105, 382613, 383626, 385540]
   },
   {
     "format": "pauper",
@@ -101,7 +103,8 @@
       {"display_name":"AmericanSoup*","id":"americansoup","total_points":3,"max_points":55,"event_count":1,"points":[null,null,null,null,null,null,null,3,null,null,null,null]},
       {"display_name":"Nabeshko Daniil","id":"danilanabeshko","total_points":3,"max_points":55,"event_count":1,"points":[null,null,null,null,null,3,null,null,null,null,null,null]},
       {"display_name":"Sergey Kirpa","id":"jeinh","total_points":3,"max_points":55,"event_count":1,"points":[null,null,null,null,null,3,null,null,null,null,null,null]}
-    ]
+    ],
+    "event_ids": [369139, 370843, 372563, 374660, 376479, 379104, 383625, 385539]
   },
   {
     "format": ["modern","legacy"],
@@ -125,6 +128,7 @@
       {"display_name":"Moroz Egor","id":"eggslicker","total_points":9,"max_points":61,"event_count":2,"points":[null,null,null,3,null,null,null,6,null,null,null,null]},
       {"display_name":"Kolyshko Alexander","id":"aklshk","total_points":9,"max_points":61,"event_count":5,"points":[3,3,null,null,null,3,0,0,null,null,null,null]},
       {"display_name":"Miadzvedski Pavel","id":"miadzvedski","total_points":6,"max_points":58,"event_count":1,"points":[null,null,null,null,6,null,null,null,null,null,null,null]}
-    ]
+    ],
+    "event_ids": ["l251005", 370849, "l251019", 374673, "l251101", 383408, 383627, 385541]
   }
 ]
