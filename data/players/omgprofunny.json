@@ -4,6 +4,7 @@
   "display_name": "Bondarchik Andrei",
   "color_stats": {"U":0.8285714285714284,"B":1,"R":0.6999999999999997,"G":0.19999999999999996,"W":0.35714285714285715},
   "recent_events": [
+    {"id":387467,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-02","format":"standard","points":9,"rank":[2,6],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-2-0","game_record":"0-4-0"},
@@ -62,8 +63,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 57,
-  "match_played": 204,
-  "match_wins": 113,
-  "favorite_format": ["pioneer", 0.5614035087719298]
+  "events_count": 58,
+  "match_played": 208,
+  "match_wins": 116,
+  "favorite_format": ["pioneer", 0.5517241379310345]
 }
