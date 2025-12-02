@@ -83,8 +83,27 @@ h2 {
         justify-content: left;
       }
     }
-    &:nth-last-child(2n + 1):not(:first-child) .cell {
-      background-color: $color-bg-2;
+    &:nth-last-child(2n):not(:first-child) {
+      & .cell {
+        background-color: $color-bg-1;
+      }
+      &.red-row .cell {
+        background-color: $color-bg-red-1;
+      }
+      &.green-row .cell {
+        background-color: $color-bg-green-1;
+      }
+    }
+    &:nth-last-child(2n + 1):not(:first-child) {
+      & .cell {
+        background-color: $color-bg-2;
+      }
+      &.red-row .cell {
+        background-color: $color-bg-red-2;
+      }
+      &.green-row .cell {
+        background-color: $color-bg-green-2;
+      }
     }
     & > a:hover {
       &:has(a:hover) .cell {

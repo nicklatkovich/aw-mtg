@@ -17,5 +17,6 @@ export type LeagueDto = {
   past_events: number;
   top: number;
   prize_fund: number;
+  event_ids: (string | number | null)[];
   players: LeaguePlayerDto[];
 };

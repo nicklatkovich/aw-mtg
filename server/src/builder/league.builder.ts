@@ -106,7 +106,7 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
       if (b.event_count !== a.event_count) return a.event_count - b.event_count;
       return a.display_name.localeCompare(b.display_name);
     });
-    return {
+    const result: LeagueDto = {
       format: league.format,
       name: league.name,
       id: league.id,
@@ -115,7 +115,9 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
       top: league.top,
       prize_fund: prize_pool,
       players: sortedPlayers,
+      event_ids: league.events.map((e) => e?.id ?? null),
     };
+    return result;
   });
 }
 

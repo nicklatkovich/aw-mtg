@@ -92,7 +92,10 @@ ${leagues
     "prize_fund": ${l.prize_fund},
     "players": [
       ${l.players.map((p) => JSON.stringify(p)).join(',\n      ')}
-    ]
+    ],
+    "event_ids": [${l.event_ids
+      .map((id) => (id === null ? 'null' : typeof id === 'string' ? `"${id}"` : id))
+      .join(', ')}]
   }`,
   )
   .join(',\n')}\n]\n`,
