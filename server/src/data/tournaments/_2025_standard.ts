@@ -3,6 +3,42 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 387467,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #10/12',
+    date: '2025-12-02',
+    standings: [
+      { player: 'McRais', rank: 1, deck: 'Golgari Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'OMGProfunny', rank: 2, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'BRV', rank: 3, deck: 'Gruul Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: '[OMG]Summie', rank: 4, deck: 'Jeskai Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Barbossa', rank: 5, deck: 'Mono-White Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'Asafas', rank: 6, deck: 'Dimir Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'Barbossa'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'OMGProfunny'], winner: 2, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'Asafas'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['OMGProfunny', 'Asafas'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', '[OMG]Summie'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'Barbossa'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', 'OMGProfunny'], winner: 2, record: '2-0-0' },
+        { players: ['Asafas', 'Barbossa'], winner: 2, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'McRais'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['OMGProfunny', 'Barbossa'], winner: 1, record: '2-0-0' },
+        { players: ['McRais', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'Asafas'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 383623,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #8/12',
