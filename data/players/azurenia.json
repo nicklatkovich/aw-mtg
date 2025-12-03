@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"W":0.22330097087378628,"U":0.8543689320388348,"B":0.9892125134843581,"R":0.9460625674217905,"G":1},
+  "color_stats": {"U":0.8867313915857603,"R":0.9784250269687161,"W":0.22330097087378628,"B":0.9892125134843581,"G":1},
   "recent_events": [
+    {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":10,"rank":[2,16],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":3,"rank":[11,12],"match_record":"1-3-0","game_record":"5-6-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[11,19],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[7,17],"match_record":"2-2-0","game_record":"5-6-0"},
@@ -80,8 +81,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 75,
-  "match_played": 278,
-  "match_wins": 155,
-  "favorite_format": ["standard", 0.4]
+  "events_count": 76,
+  "match_played": 282,
+  "match_wins": 158,
+  "favorite_format": ["standard", 0.39473684210526316]
 }

@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.23224568138195775,"B":1,"G":0.126679462571977,"U":0.059500959692898266,"R":0.8848368522072936},
+  "color_stats": {"W":0.2537313432835821,"B":1,"G":0.12313432835820896,"U":0.05783582089552238,"R":0.8600746268656716},
   "recent_events": [
+    {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[9,16],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":2,"rank":[15,17],"match_record":"0-2-2","game_record":"3-6-0"},
     {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":10,"rank":[1,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-0-1","game_record":"7-2-1"},
@@ -89,8 +90,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 84,
-  "match_played": 314,
-  "match_wins": 168,
-  "favorite_format": ["pioneer", 0.8928571428571429]
+  "events_count": 85,
+  "match_played": 318,
+  "match_wins": 170,
+  "favorite_format": ["pioneer", 0.8823529411764706]
 }
