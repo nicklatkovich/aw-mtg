@@ -12,6 +12,7 @@ export const ARCHETYPES = {
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
   'Mono-White Humans': ['W', DeckType.AGGRO],
+  'Mono-White Heroic': ['W', DeckType.AGGRO],
   // WU
   'Azorius Control': ['WU', DeckType.CONTROL],
   'Azorius Spirits': ['WU', DeckType.TEMPO],
@@ -97,6 +98,7 @@ export const ARCHETYPES = {
   'Boros Weenie': ['WR', DeckType.AGGRO],
   'Boros Resonance': ['WR', DeckType.AGGRO],
   'Boros Mice': ['WR', DeckType.AGGRO],
+  'Boros Moxite': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -250,6 +252,7 @@ export const ARCHETYPES = {
   'WBRG Maverick': ['WBRG', DeckType.COMBO],
   '4c Control': ['WUBR', DeckType.CONTROL],
   '4c Artifacts': 'WUBR',
+  '4c Elves': 'WUBG',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
@@ -262,6 +265,7 @@ export const ARCHETYPES = {
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
   'Domain Ritual': 'WUBRG',
+  'Flicker Tron': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',
