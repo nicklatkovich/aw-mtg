@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"U":1,"R":0.5283975659229209,"W":0.761663286004057,"B":0.4574036511156186,"G":0.7210953346855985},
+  "color_stats": {"W":0.7920892494929006,"B":0.4878296146044624,"U":1,"R":0.5283975659229209,"G":0.7210953346855985},
   "recent_events": [
+    {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":9,"rank":[2,10],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[15,33],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"},"match_record":"3-3-0","game_record":"7-6-0"},
@@ -94,8 +95,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 89,
-  "match_played": 364,
-  "match_wins": 182,
-  "favorite_format": ["pioneer", 0.7078651685393258]
+  "events_count": 90,
+  "match_played": 367,
+  "match_wins": 183,
+  "favorite_format": ["pioneer", 0.7111111111111111]
 }

@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.7630331753554502,"U":1,"B":0.5497630331753555,"G":0.4075829383886256,"R":0.6919431279620853},
+  "color_stats": {"W":0.7787610619469028,"U":1,"B":0.5132743362831859,"G":0.3805309734513274,"R":0.6460176991150443},
   "recent_events": [
+    {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[2,18],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":9,"rank":[3,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -48,8 +49,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 43,
-  "match_played": 147,
-  "match_wins": 89,
-  "favorite_format": ["pioneer", 0.627906976744186]
+  "events_count": 44,
+  "match_played": 151,
+  "match_wins": 91,
+  "favorite_format": ["pioneer", 0.6363636363636364]
 }

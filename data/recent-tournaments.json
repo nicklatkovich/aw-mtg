@@ -1,4 +1,5 @@
 [
+  {"id":388066,"format":"pioneer","date":"2025-12-04","name":"Fall League 2025 | Pioneer #10/12","players_count":11,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":387829,"format":"pauper","date":"2025-12-03","name":"Fall League 2025 | Pauper #9/12","players_count":16,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},
   {"id":387467,"format":"standard","date":"2025-12-02","name":"Fall League 2025 | Standard #10/12","players_count":6,"winner":{"player":{"display_name":"Ihnatsik Yauheni","id":"mcrais"},"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}}},
   {"id":385541,"format":"modern","date":"2025-11-30","name":"Fall League 2025 | Modern #4/6","players_count":12,"winner":{"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"}}},
