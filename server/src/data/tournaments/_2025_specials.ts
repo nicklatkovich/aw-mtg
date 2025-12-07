@@ -3,6 +3,32 @@ import { Tournament } from '../data.types';
 
 export const _2025_specials: Tournament[] = [
   {
+    id: 388935,
+    format: Format.PIONEER,
+    name: 'MTGA Pioneer (07.12.25)',
+    date: '2025-12-07',
+    standings: [
+      { player: 'Roman_B', rank: 1, deck: 'Quintorius Combo', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'OMGProfunny', rank: 2, deck: 'Orzhov Monument', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'NickLatkovich', rank: 3, deck: 'Azorius Control', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'AmericanSoup', rank: 4, deck: 'Gruul Landfall', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['OMGProfunny', 'Roman_B'], winner: 1, record: '2-1-0' },
+        { players: ['AmericanSoup', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['OMGProfunny', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['Roman_B', 'AmericanSoup'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Roman_B'], winner: 2, record: '2-0-0' },
+        { players: ['OMGProfunny', 'AmericanSoup'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 379115,
     format: Format.LEGACY,
     name: 'Big Magic Weekend | Fall 2025 | Legacy',
@@ -520,7 +546,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 370371,
     format: Format.PIONEER,
-    name: 'MTGA Pioneer (05.10)',
+    name: 'MTGA Pioneer (05.10.25)',
     date: '2025-10-05',
     standings: [
       { player: 'Tamplier007333', rank: 1, deck: 'Gruul Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
@@ -567,7 +593,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 362305,
     format: Format.PAUPER,
-    name: 'MTGA Vintage Pauper (07.09)',
+    name: 'MTGA Vintage Pauper (07.09.25)',
     date: '2025-09-07',
     standings: [
       { player: 'qvertion', rank: 1, deck: 'Mono-Red Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },

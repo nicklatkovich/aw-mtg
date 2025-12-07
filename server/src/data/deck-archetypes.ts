@@ -235,6 +235,7 @@ export const ARCHETYPES = {
   'Gruul Ponza': 'RG',
   'Gruul Vehicles': 'RG',
   'Gruul Creative Technique': ['RG', DeckType.COMBO],
+  'Gruul Landfall': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
