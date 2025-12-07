@@ -21,7 +21,7 @@
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":9,"rank":[3,11],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":3,"rank":[15,17],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":6,"rank":[2,5]},
-    {"id":370371,"name":"MTGA Pioneer (05.10)","date":"2025-10-05","format":"pioneer","points":3,"rank":[9,10],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"1-2-0","game_record":"2-4-0"},
+    {"id":370371,"name":"MTGA Pioneer (05.10.25)","date":"2025-10-05","format":"pioneer","points":3,"rank":[9,10],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[2,20],"match_record":"3-0-0","game_record":"6-2-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[7,17],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":0,"rank":[11,12],"match_record":"0-3-0","game_record":"2-6-0"},
