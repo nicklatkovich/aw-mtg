@@ -5,6 +5,42 @@ const MIADZVEDSKI_PAVEL = '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 388073,
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #5/6',
+    date: '2025-12-07',
+    standings: [
+      { player: 'Tanti', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'farsmac', rank: 3, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BRV', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'ispinyouround', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: '4onoki', rank: 6, points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '2-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['ispinyouround', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Tanti'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'farsmac'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['Tanti', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['4onoki', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', '4onoki'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'farsmac'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', 'farsmac'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', '4onoki'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 383627,
     format: Format.LEGACY,
     name: 'Fall League 2025 | Legacy #4/6',
