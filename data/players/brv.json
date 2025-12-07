@@ -4,6 +4,7 @@
   "display_name": "Brozhat Rostislav",
   "color_stats": {"R":1,"G":0.7369976359338061,"U":0.4828605200945626,"W":0.5892434988179669,"B":0.027777777777777773},
   "recent_events": [
+    {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":6,"rank":[4,6],"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[7,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":387467,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-02","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"7-4-0"},
@@ -120,8 +121,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 115,
-  "match_played": 453,
-  "match_wins": 228,
-  "favorite_format": ["pioneer", 0.6]
+  "events_count": 116,
+  "match_played": 457,
+  "match_wins": 230,
+  "favorite_format": ["pioneer", 0.5948275862068966]
 }

@@ -1,4 +1,5 @@
 [
+  {"id":388073,"format":"legacy","date":"2025-12-07","name":"Fall League 2025 | Legacy #5/6","players_count":6,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"}}},
   {"id":388935,"format":"pioneer","date":"2025-12-07","name":"MTGA Pioneer (07.12.25)","players_count":4,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"},"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}},
   {"id":388066,"format":"pioneer","date":"2025-12-04","name":"Fall League 2025 | Pioneer #10/12","players_count":11,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}}},
   {"id":387829,"format":"pauper","date":"2025-12-03","name":"Fall League 2025 | Pauper #9/12","players_count":16,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}}},
