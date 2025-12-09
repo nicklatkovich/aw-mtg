@@ -4,10 +4,11 @@
   "display_name": "Trukhin Ilya",
   "color_stats": {"W":1,"U":1},
   "recent_events": [
+    {"id":389475,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-09","format":"standard","points":4,"rank":[9,9],"deck":{"archetype":"Azorius Artifacts","colors":"WU","type":"Midrange"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":3,"rank":[19,20],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-4-0","game_record":"3-8-0"}
   ],
-  "events_count": 1,
-  "match_played": 5,
-  "match_wins": 1,
+  "events_count": 2,
+  "match_played": 9,
+  "match_wins": 2,
   "favorite_format": ["standard", 1]
 }

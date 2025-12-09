@@ -2,8 +2,9 @@
   "guid": "d3f6dfd4-2da2-45fc-bad4-fb638074a99c",
   "id": "summie",
   "display_name": "Bandarchyk Anton",
-  "color_stats": {"W":1,"U":0.6029411764705881,"R":0.2794117647058823,"B":0.676470588235294,"G":0.08823529411764705},
+  "color_stats": {"W":1,"U":0.6142857142857142,"R":0.3,"B":0.657142857142857,"G":0.0857142857142857},
   "recent_events": [
+    {"id":389475,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-09","format":"standard","points":9,"rank":[2,9],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":387467,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-02","format":"standard","points":6,"rank":[4,6],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":383623,"name":"Fall League 2025 | Standard #8/12","date":"2025-11-18","format":"standard","points":9,"rank":[1,6],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[17,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-3-0","game_record":"5-8-0"},
@@ -39,8 +40,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":6,"rank":[10,16]},
     {"id":126622,"date":"2024-08-01","format":"pioneer","points":6,"rank":[6,13]}
   ],
-  "events_count": 34,
-  "match_played": 134,
-  "match_wins": 67,
-  "favorite_format": ["standard", 0.9117647058823529]
+  "events_count": 35,
+  "match_played": 138,
+  "match_wins": 70,
+  "favorite_format": ["standard", 0.9142857142857143]
 }

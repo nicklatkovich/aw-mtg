@@ -1,0 +1,13 @@
+{
+  "guid": "430c1b56-1c88-448a-93ff-794395dc4084",
+  "id": "mimakasya",
+  "display_name": "Basharimov Mikhail",
+  "color_stats": {"R":1},
+  "recent_events": [
+    {"id":389475,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-09","format":"standard","points":6,"rank":[5,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 2,
+  "favorite_format": ["standard", 1]
+}
