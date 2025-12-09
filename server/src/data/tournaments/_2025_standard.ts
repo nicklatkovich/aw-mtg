@@ -3,6 +3,53 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 389475,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #11/12',
+    date: '2025-12-09',
+    standings: [
+      { player: 'warded_bye', rank: 1, deck: 'Grixis Artifacts', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: '[OMG]Summie', rank: 2, deck: 'Jeskai Control', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'qvertion', rank: 3, deck: 'Dimir Bounce', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Azurenia', rank: 4, deck: 'Izzet Looting', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Mimakasya', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'McRais', rank: 6, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 7, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Asafas', rank: 8, deck: 'Izzet Lessons', points: 4, mp: 3, mw: 0, match_record: '1-2-1', game_record: '3-5-0' },
+      { player: 'Iliatrukhin2', rank: 9, deck: 'Azorius Artifacts', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Asafas', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', '[OMG]Summie'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'Iliatrukhin2'], winner: 2, record: '2-0-0' },
+        { players: ['Mimakasya', 'warded_bye'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['Asafas', 'Iliatrukhin2'], winner: 0, record: '1-1-0' },
+        { players: ['warded_bye', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['Mimakasya', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['warded_bye', 'Asafas'], winner: 1, record: '2-0-0' },
+        { players: ['Iliatrukhin2', '[OMG]Summie'], winner: 2, record: '2-0-0' },
+        { players: ['Azurenia', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Mimakasya'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Azurenia', null], winner: 1, record: 'bye' },
+        { players: ['warded_bye', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['Asafas', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Iliatrukhin2', 'Mimakasya'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 387467,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #10/12',
