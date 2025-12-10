@@ -11,9 +11,10 @@ import { _2025_modern } from '@server/data/tournaments/_2025_modern';
 const fall2025StandardEvents: (Tournament | null)[] = _2025_standard
   .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())
   .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-  .slice(0, 10);
-fall2025StandardEvents.splice(6, 0, null);
-fall2025StandardEvents.splice(8, 0, null);
+  .slice(0, 12);
+//   .slice(0, 10);
+// fall2025StandardEvents.splice(6, 0, null);
+// fall2025StandardEvents.splice(8, 0, null);
 
 const leagueInfo: {
   format: Format | Format[];

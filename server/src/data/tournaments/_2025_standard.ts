@@ -5,7 +5,7 @@ export const _2025_standard: Tournament[] = [
   {
     id: 389475,
     format: Format.STANDARD,
-    name: 'Fall League 2025 | Standard #11/12',
+    name: 'Fall League 2025 | Standard #9/12',
     date: '2025-12-09',
     standings: [
       { player: 'warded_bye', rank: 1, deck: 'Grixis Artifacts', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -52,7 +52,7 @@ export const _2025_standard: Tournament[] = [
   {
     id: 387467,
     format: Format.STANDARD,
-    name: 'Fall League 2025 | Standard #10/12',
+    name: 'Fall League 2025 | Standard #8/12',
     date: '2025-12-02',
     standings: [
       { player: 'McRais', rank: 1, deck: 'Golgari Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
@@ -88,7 +88,7 @@ export const _2025_standard: Tournament[] = [
   {
     id: 383623,
     format: Format.STANDARD,
-    name: 'Fall League 2025 | Standard #8/12',
+    name: 'Fall League 2025 | Standard #7/12',
     date: '2025-11-18',
     standings: [
       { player: '[OMG]Summie', rank: 1, deck: 'Jeskai Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
