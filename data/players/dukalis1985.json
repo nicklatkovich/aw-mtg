@@ -4,6 +4,7 @@
   "display_name": "Smoktunovich Kirill",
   "color_stats": {"W":0.2537313432835821,"B":1,"G":0.12313432835820896,"U":0.05783582089552238,"R":0.8600746268656716},
   "recent_events": [
+    {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":9,"rank":[5,13],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[9,16],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":2,"rank":[15,17],"match_record":"0-2-2","game_record":"3-6-0"},
@@ -90,8 +91,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 85,
-  "match_played": 318,
-  "match_wins": 170,
-  "favorite_format": ["pioneer", 0.8823529411764706]
+  "events_count": 86,
+  "match_played": 322,
+  "match_wins": 173,
+  "favorite_format": ["pioneer", 0.872093023255814]
 }
