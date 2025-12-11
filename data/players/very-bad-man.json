@@ -2,9 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.5486935866983376,"B":1,"U":0.3646080760095012,"R":0.4418052256532068,"G":0.24584323040380054},
+  "color_stats": {"W":0.5665083135391926,"R":0.4596199524940619,"B":1,"U":0.3646080760095012,"G":0.24584323040380054},
   "recent_events": [
-    {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":3,"rank":[7,8],"match_record":"1-3-0","game_record":"2-6-0"},
+    {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[9,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[10,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":6,"rank":[6,12],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"5-6-0"},
