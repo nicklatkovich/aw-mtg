@@ -4,6 +4,7 @@
   "display_name": "Bondarchik Andrei",
   "color_stats": {"W":0.36842105263157887,"B":1,"U":0.8026315789473684,"R":0.6447368421052628,"G":0.1842105263157894},
   "recent_events": [
+    {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":9,"rank":[3,8],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":388935,"name":"MTGA Pioneer (07.12.25)","date":"2025-12-07","format":"pioneer","points":6,"rank":[2,4],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":387467,"name":"Fall League 2025 | Standard #8/12","date":"2025-12-02","format":"standard","points":9,"rank":[2,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"0-2-0","game_record":"1-4-0"},
@@ -64,8 +65,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 59,
-  "match_played": 211,
-  "match_wins": 118,
-  "favorite_format": ["pioneer", 0.559322033898305]
+  "events_count": 60,
+  "match_played": 215,
+  "match_wins": 121,
+  "favorite_format": ["pioneer", 0.5666666666666667]
 }

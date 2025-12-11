@@ -4,6 +4,7 @@
   "display_name": "Shagoiko Maxim",
   "color_stats": {"W":0.5486935866983376,"B":1,"U":0.3646080760095012,"R":0.4418052256532068,"G":0.24584323040380054},
   "recent_events": [
+    {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":3,"rank":[7,8],"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[9,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[10,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":6,"rank":[6,12],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"5-6-0"},
@@ -110,8 +111,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 105,
-  "match_played": 415,
-  "match_wins": 195,
-  "favorite_format": ["pioneer", 0.6857142857142857]
+  "events_count": 106,
+  "match_played": 419,
+  "match_wins": 196,
+  "favorite_format": ["pioneer", 0.6886792452830188]
 }

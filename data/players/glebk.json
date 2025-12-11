@@ -4,6 +4,7 @@
   "display_name": "Krapivnitsky Gleb",
   "color_stats": {"R":1,"G":0.24324324324324326},
   "recent_events": [
+    {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":0,"rank":[8,8],"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":9,"rank":[3,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":383626,"name":"Fall League 2025 | Pioneer #8/12","date":"2025-11-20","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
@@ -52,8 +53,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 47,
-  "match_played": 173,
+  "events_count": 48,
+  "match_played": 176,
   "match_wins": 105,
   "favorite_format": ["pioneer", 1]
 }

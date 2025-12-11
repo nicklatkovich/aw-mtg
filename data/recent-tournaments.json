@@ -1,4 +1,5 @@
 [
+  {"id":389957,"format":"pioneer","date":"2025-12-11","name":"Fall League 2025 | Pioneer #11/12","players_count":8,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"}}},
   {"id":389691,"format":"pauper","date":"2025-12-10","name":"Fall League 2025 | Pauper #10/12","players_count":13,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"}}},
   {"id":389475,"format":"standard","date":"2025-12-09","name":"Fall League 2025 | Standard #9/12","players_count":9,"winner":{"player":{"display_name":"Snytko Egor","id":"egors"},"deck":{"archetype":"Grixis Artifacts","colors":"UBR","type":null}}},
   {"id":388073,"format":"legacy","date":"2025-12-07","name":"Fall League 2025 | Legacy #5/6","players_count":6,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"}}},
