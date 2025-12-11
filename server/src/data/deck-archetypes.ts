@@ -54,6 +54,8 @@ export const ARCHETYPES = {
   'Bant Bogles': ['WUG', DeckType.AGGRO],
   'Cephalid Breakfast': ['WUG', DeckType.COMBO],
   'Bant Nadu': 'WUG',
+  'Bant Company': ['WUG', DeckType.MIDRANGE],
+  'Bant Spirits': ['WUG', DeckType.TEMPO],
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],

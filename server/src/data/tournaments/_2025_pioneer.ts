@@ -3,6 +3,48 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pioneer: Tournament[] = [
   {
+    id: 389957,
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer #11/12',
+    date: '2025-12-11',
+    standings: [
+      { player: 'RomanKohan14', rank: 1, deck: 'Selesnya Company', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-2-1' },
+      { player: 'BRV', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'OMGProfunny', rank: 3, deck: 'Orzhov Monument', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'AlexKhan', rank: 4, deck: 'Bant Spirits', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'ispinyouround', rank: 5, deck: 'Rakdos Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'AnklDen', rank: 6, deck: 'Selesnya Angels', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-5-1' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Boros Convoke', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: 'Tamplier007333', rank: 8, deck: 'Gruul Aggro', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '1-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AnklDen', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['AlexKhan', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Tamplier007333', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'OMGProfunny'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['RomanKohan14', 'AnklDen'], winner: 0, record: '1-1-1' },
+        { players: ['ispinyouround', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['OMGProfunny', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['AlexKhan', 'Tamplier007333'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['AlexKhan', 'OMGProfunny'], winner: 2, record: '2-1-0' },
+        { players: ['Tamplier007333', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['AlexKhan', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'RomanKohan14'], winner: 2, record: '2-0-0' },
+        { players: ['OMGProfunny', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 388066,
     format: Format.PIONEER,
     name: 'Fall League 2025 | Pioneer #10/12',
