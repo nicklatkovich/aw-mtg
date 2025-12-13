@@ -37,8 +37,7 @@ export default function PlayerPage() {
                 <div className="cell">Game Record</div>
               </div>
               {data.recent_events.map((t) => (
-                // FIXME: key
-                <Link style={{ display: 'contents' }} key={t.date} to={`/event/${t.id}`}>
+                <Link style={{ display: 'contents' }} key={t.id} to={`/event/${t.id}`}>
                   <TruncatableGridCell left title={t.name}>
                     <span>{t.name ?? `Event #${t.id}`}</span>
                   </TruncatableGridCell>

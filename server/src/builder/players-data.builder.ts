@@ -48,9 +48,7 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
             mw += win ? 1 : 0;
           }
         }
-        // FIXME: use format from standings (in case of trios tournament)
-        // const format = s.format ?? t.format;
-        const format = t.format;
+        const format = s.format ?? t.format;
         formatStats.set(format, {
           events: (formatStats.get(format)?.events ?? 0) + 1,
           lastPlayed: new Date(t.date),
