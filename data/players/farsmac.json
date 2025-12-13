@@ -4,7 +4,7 @@
   "display_name": "Rapanovich Yauhen",
   "color_stats": {"W":0.3031358885017421,"U":1,"B":0.3031358885017421,"G":0.3728222996515679,"R":0.11149825783972125},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,24],"deck":{"archetype":"Kethis Combo","colors":"WUBG","type":"Combo"}},
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Kethis Combo","colors":"WUBG","type":"Combo"}},
     {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":6,"rank":[3,6],"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":4,"rank":[8,12],"match_record":"1-2-1","game_record":"5-6-0"},
     {"id":383627,"name":"Fall League 2025 | Legacy #4/6","date":"2025-11-23","format":"legacy","points":6,"rank":[3,6],"deck":{"archetype":"Mono-Blue HullDay","colors":"U","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -18,7 +18,7 @@
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[12,20],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":"l250810","name":"Summer League 2025 | Legacy #4","date":"2025-08-10","format":"legacy","points":6,"rank":[3,5],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":342699,"name":"Summer League 2025 | Legacy #3","date":"2025-07-27","format":"legacy","points":9,"rank":[3,8],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,24],"deck":{"archetype":"Colorless Cloudpost","colors":"c","type":"Combo"}},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,8],"deck":{"archetype":"Colorless Cloudpost","colors":"c","type":"Combo"}},
     {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":6,"rank":[3,5],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":324254,"name":"Summer League 2025 | Legacy #1","date":"2025-06-15","format":"legacy","points":6,"rank":[5,7],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[2,12],"match_record":"2-1-0","game_record":"4-2-0"},

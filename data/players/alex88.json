@@ -4,7 +4,7 @@
   "display_name": "Raptunovich Aleksei",
   "color_stats": {"W":0.6212121212121212,"R":1,"B":0.10227272727272728,"U":0.06439393939393939,"G":0.007575757575757575},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[7,24],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}},
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":9,"rank":[3,13],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":9,"rank":[2,12],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -44,7 +44,7 @@
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":9,"rank":[3,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[12,25],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[7,17],"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":12,"rank":[1,24],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":12,"rank":[1,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":9,"rank":[2,22],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":12,"rank":[1,14],"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},

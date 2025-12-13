@@ -4,7 +4,7 @@
   "display_name": "Krapivnitsky Gleb",
   "color_stats": {"R":1,"G":0.2682926829268293},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,24],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}},
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":9,"rank":[3,11],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":385540,"name":"Fall League 2025 | Pioneer #9/12","date":"2025-11-27","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"},
@@ -25,7 +25,7 @@
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":6,"rank":[5,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":347017,"name":"Summer League 2025 | Pioneer #9","date":"2025-07-31","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":3,"rank":[12,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"2-4-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[8,24],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":6,"rank":[9,22],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":6,"rank":[7,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":3,"rank":[9,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"3-5-0"},

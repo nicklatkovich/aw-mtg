@@ -4,7 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"U":0.5800524934383204,"R":1,"G":0.31758530183727046,"W":0.26509186351706043,"B":0.2782152230971129},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,24],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"}},
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":6,"rank":[6,13],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":0,"rank":[16,16],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"5-4-0"},
@@ -40,7 +40,7 @@
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":6,"rank":[9,20],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":342694,"name":"Summer League 2025 | Standard #8","date":"2025-07-22","format":"standard","points":9,"rank":[5,15],"deck":{"archetype":"Izzet Vivi","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[10,17],"deck":{"archetype":"Jeskai Convoke","colors":"WUR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,24],"deck":{"archetype":"Jeskai Oculus","colors":"WUR","type":"Midrange"}},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,8],"deck":{"archetype":"Jeskai Oculus","colors":"WUR","type":"Midrange"}},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":10,"rank":[2,18],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"3-0-1","game_record":"7-2-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":9,"rank":[2,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":9,"rank":[3,13],"deck":{"archetype":"Jeskai Oculus","colors":"WUR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-5-0"},

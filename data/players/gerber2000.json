@@ -4,7 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"W":0.13659793814432997,"B":1,"G":0.42654639175257764,"U":0.18814432989690727,"R":0.7615979381443302},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,24],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"}},
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"}},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[11,11],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":7,"rank":[6,16],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":12,"rank":[1,12],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"},"match_record":"4-0-0","game_record":"8-3-0"},
@@ -38,7 +38,7 @@
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[17,20],"deck":{"archetype":"Jund Dredge","colors":"BRG","type":"Combo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":6,"rank":[9,15],"deck":{"archetype":"Mono-Green Devotion","colors":"G","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":7,"rank":[8,25],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-1-1","game_record":"6-4-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":3,"rank":[6,24],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"}},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"}},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":3,"rank":[17,22],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":9,"rank":[6,18],"deck":{"archetype":"Mono-Red Synthesizer","colors":"R","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":335225,"name":"Summer League 2025 | Modern #3","date":"2025-07-06","format":"modern","points":0,"rank":[6,6],"match_record":"0-4-0","game_record":"1-7-0"},
