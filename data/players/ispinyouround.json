@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":0.9586776859504132,"U":0.049586776859504134,"W":0.008264462809917356,"G":0.008264462809917356},
+  "color_stats": {"B":1,"R":0.9595141700404858,"U":0.048582995951417005,"W":0.008097165991902834,"G":0.008097165991902834},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[6,24],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":6,"rank":[5,6],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
@@ -83,8 +84,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 78,
-  "match_played": 312,
-  "match_wins": 163,
-  "favorite_format": ["pioneer", 0.9487179487179487]
+  "events_count": 79,
+  "match_played": 315,
+  "match_wins": 165,
+  "favorite_format": ["pioneer", 0.9367088607594937]
 }

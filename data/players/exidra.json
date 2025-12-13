@@ -2,13 +2,14 @@
   "guid": "3f558edd-dd5d-4c9b-8f5e-dfb8533b2577",
   "id": "exidra",
   "display_name": "Kandratsenia Ivan",
-  "color_stats": {},
+  "color_stats": {"R":1},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[6,24],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null}},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":9,"rank":[3,19],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":6,"rank":[8,17],"match_record":"2-2-0","game_record":"6-4-0"}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 5,
-  "favorite_format": ["pauper", 1]
+  "events_count": 3,
+  "match_played": 11,
+  "match_wins": 6,
+  "favorite_format": ["pauper", 0.6666666666666666]
 }

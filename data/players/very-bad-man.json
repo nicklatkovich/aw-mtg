@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.5665083135391926,"R":0.4596199524940619,"B":1,"U":0.3646080760095012,"G":0.24584323040380054},
+  "color_stats": {"B":1,"R":0.4782110091743121,"W":0.5470183486238535,"U":0.35206422018348627,"G":0.2373853211009175},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[1,24],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[9,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[10,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
@@ -46,6 +47,7 @@
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":3,"rank":[12,14],"deck":{"archetype":"Mono-Green Landfall","colors":"G","type":"Aggro"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":4,"rank":[11,15],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":9,"rank":[4,17],"deck":{"archetype":"Azorius Convoke","colors":"WU","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":3,"rank":[5,24],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":1,"rank":[21,22],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"0-3-1","game_record":"2-7-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":6,"rank":[9,14],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":3,"rank":[13,13],"deck":{"archetype":"Orzhov Bounce","colors":"WB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -111,8 +113,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 106,
-  "match_played": 419,
-  "match_wins": 196,
-  "favorite_format": ["pioneer", 0.6886792452830188]
+  "events_count": 108,
+  "match_played": 426,
+  "match_wins": 198,
+  "favorite_format": ["pioneer", 0.6759259259259259]
 }

@@ -2,7 +2,7 @@
   "guid": "584bf7f8-7b31-4575-b43e-e636daac85ab",
   "id": "omgprofunny",
   "display_name": "Bondarchik Andrei",
-  "color_stats": {"W":0.3924050632911391,"B":1,"U":0.7721518987341771,"R":0.6202531645569617,"G":0.17721518987341767},
+  "color_stats": {"W":0.37804878048780477,"B":1,"U":0.7804878048780487,"R":0.5975609756097557,"G":0.1707317073170731},
   "recent_events": [
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":9,"rank":[3,8],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":388935,"name":"MTGA Pioneer (07.12.25)","date":"2025-12-07","format":"pioneer","points":6,"rank":[2,4],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-1-0","game_record":"5-3-0"},
@@ -11,6 +11,7 @@
     {"id":372561,"name":"Fall League 2025 | Standard #3/12","date":"2025-10-14","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":346466,"name":"Summer League 2025 | Standard #8","date":"2025-07-29","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":3,"rank":[13,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-2-0","game_record":"2-4-0"},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":3,"rank":[5,24],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":7,"rank":[5,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":334010,"name":"Summer League 2025 | Standard #5","date":"2025-07-01","format":"standard","points":12,"rank":[1,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":330421,"name":"Summer League 2025 | Standard #4","date":"2025-06-24","format":"standard","points":9,"rank":[4,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -65,8 +66,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 60,
-  "match_played": 215,
-  "match_wins": 121,
-  "favorite_format": ["pioneer", 0.5666666666666667]
+  "events_count": 61,
+  "match_played": 218,
+  "match_wins": 123,
+  "favorite_format": ["pioneer", 0.5573770491803278]
 }

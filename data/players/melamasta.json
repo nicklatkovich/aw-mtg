@@ -2,14 +2,16 @@
   "guid": "adeba5e9-a5e4-4c9e-85c9-a09f10acc4af",
   "id": "melamasta",
   "display_name": "Yushkevich Egor",
-  "color_stats": {"R":1,"G":0.6666666666666666,"U":0.5555555555555556,"B":0.4444444444444444},
+  "color_stats": {"U":0.625,"R":1,"G":0.625,"B":0.37499999999999994},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[4,24],"deck":{"archetype":"Izzet Storm","colors":"UR","type":"Combo"}},
     {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":0,"rank":[18,20],"deck":{"archetype":"Gruul Creative Technique","colors":"RG","type":"Combo"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[26,35],"deck":{"archetype":"Mono-Red Dredge","colors":"R","type":"Combo"},"match_record":"2-3-0","game_record":"5-7-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":3,"rank":[14,18],"deck":{"archetype":"Simic Petitioners Combo","colors":"UG","type":"Combo"},"match_record":"1-3-0","game_record":"2-7-0"},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":3,"rank":[13,17],"deck":{"archetype":"Mono-Black Devotion","colors":"B","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":0,"rank":[13,14],"deck":{"archetype":"Mono-Green Infect","colors":"G","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":3,"rank":[18,25],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"3-4-0"},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[3,24],"deck":{"archetype":"Mississippi River","colors":"URG","type":"Combo"}},
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":3,"rank":[16,19],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":0,"rank":[17,18],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":324254,"name":"Summer League 2025 | Legacy #1","date":"2025-06-15","format":"legacy","points":3,"rank":[6,7],"match_record":"1-3-0","game_record":"2-7-0"},
@@ -22,8 +24,8 @@
     {"id":189282,"date":"2024-11-14","format":"pioneer","points":0,"rank":[17,18]},
     {"id":184873,"date":"2024-11-07","format":"pioneer","points":3,"rank":[13,15]}
   ],
-  "events_count": 17,
-  "match_played": 64,
-  "match_wins": 15,
-  "favorite_format": ["pauper", 0.5294117647058824]
+  "events_count": 19,
+  "match_played": 73,
+  "match_wins": 19,
+  "favorite_format": ["pauper", 0.47368421052631576]
 }

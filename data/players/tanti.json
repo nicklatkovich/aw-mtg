@@ -2,7 +2,7 @@
   "guid": "a52d83e2-0c2f-4fe0-bc03-1d03a54a4170",
   "id": "tanti",
   "display_name": "Charniauski Mikita",
-  "color_stats": {"W":0.4927536231884057,"U":1,"B":0.8550724637681157,"R":0.6376811594202897,"G":0.4927536231884057},
+  "color_stats": {"W":0.5333333333333333,"U":1,"B":0.8666666666666666,"R":0.6666666666666666,"G":0.5333333333333333},
   "recent_events": [
     {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":9,"rank":[1,6],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"6-5-0"},
@@ -13,14 +13,15 @@
     {"id":"l251005","name":"Fall League 2025 | Legacy #1/6","date":"2025-10-05","format":"legacy","points":6,"rank":[4,5]},
     {"id":"l250921","name":"Daily | Legacy (21.09)","date":"2025-09-21","format":"legacy","points":6,"rank":[2,4],"deck":{"archetype":"Bant Nadu","colors":"WUG","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":342699,"name":"Summer League 2025 | Legacy #3","date":"2025-07-27","format":"legacy","points":6,"rank":[4,8],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"4-6-0"},
+    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":12,"rank":[1,24],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"}},
     {"id":335225,"name":"Summer League 2025 | Modern #3","date":"2025-07-06","format":"modern","points":6,"rank":[3,6],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":9,"rank":[2,5],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":12,"rank":[1,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 14,
-  "match_played": 47,
-  "match_wins": 28,
-  "favorite_format": ["legacy", 0.5714285714285714]
+  "events_count": 15,
+  "match_played": 51,
+  "match_wins": 30,
+  "favorite_format": ["legacy", 0.5333333333333333]
 }

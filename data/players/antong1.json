@@ -2,8 +2,9 @@
   "guid": "7a325eaf-159d-4806-9b32-8b19c4ae0de0",
   "id": "antong1",
   "display_name": "Glushkov Anton",
-  "color_stats": {"R":1,"U":0.4,"G":0.2},
+  "color_stats": {"U":0.8,"R":1,"G":0.2},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,24],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"}},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[8,19],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":1,"rank":[17,20],"match_record":"0-2-1","game_record":"2-5-1"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":6,"rank":[4,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-1-0","game_record":"4-4-0"},
@@ -13,8 +14,8 @@
     {"id":324258,"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[2,7],"deck":{"archetype":"Gruul Madness","colors":"RG","type":null},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-5-0"}
   ],
-  "events_count": 8,
-  "match_played": 28,
-  "match_wins": 17,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 9,
+  "match_played": 31,
+  "match_wins": 18,
+  "favorite_format": ["pauper", 0.4444444444444444]
 }

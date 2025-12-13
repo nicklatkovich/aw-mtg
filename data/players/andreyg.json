@@ -2,8 +2,9 @@
   "guid": "2a5bc626-8498-41f6-a461-f20544245280",
   "id": "andreyg",
   "display_name": "Guretsky Andrey",
-  "color_stats": {"B":1,"R":0.39130434782608703,"W":0.39130434782608703,"G":0.08695652173913045,"U":0.3478260869565218},
+  "color_stats": {"W":0.4347826086956523,"U":0.39130434782608703,"R":0.4347826086956523,"B":1,"G":0.08695652173913045},
   "recent_events": [
+    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,24],"deck":{"archetype":"Jeskai Prowess","colors":"WUR","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":9,"rank":[2,13],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":3,"rank":[14,17],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":372563,"name":"Fall League 2025 | Pauper #3/12","date":"2025-10-15","format":"pauper","points":3,"rank":[10,12],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -24,8 +25,8 @@
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":0,"rank":[14,14],"deck":{"archetype":"Mardu Gates","colors":"WBR","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":3,"rank":[13,15],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-3-0","game_record":"4-6-0"}
   ],
-  "events_count": 19,
-  "match_played": 73,
-  "match_wins": 26,
-  "favorite_format": ["pauper", 1]
+  "events_count": 20,
+  "match_played": 76,
+  "match_wins": 28,
+  "favorite_format": ["pauper", 0.95]
 }
