@@ -13,6 +13,8 @@ export type Match = (
   | { pod: number; players: string[]; winner: number }
 ) & {
   record?: string;
+  teamWinner?: number; // for team events, which team won the match
+  notFinished?: boolean;
 };
 
 export type Standing = {
@@ -28,6 +30,7 @@ export type Standing = {
   omw?: number;
   tgw?: number;
   ogw?: number;
+  format?: Format; // only for trios
 };
 
 export type Tournament = {

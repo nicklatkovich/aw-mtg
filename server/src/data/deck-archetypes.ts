@@ -8,6 +8,7 @@ export const ARCHETYPES = {
   'Colorless Tron': 'c',
   'Mystic Forge Combo': ['c', DeckType.COMBO],
   Eldrazi: ['c', DeckType.MIDRANGE],
+  'Colorless Cloudpost': ['c', DeckType.COMBO],
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
   'Mono-White Weenie': ['W', DeckType.AGGRO],
@@ -28,6 +29,7 @@ export const ARCHETYPES = {
   'Azorius Lotus Field': ['WU', DeckType.CONTROL],
   'Azorius Stoneblade': 'WU',
   'Azorius Cats': 'WU',
+  'Azorius Dreadnought': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -47,6 +49,8 @@ export const ARCHETYPES = {
   'Jeskai Convoke': ['WUR', DeckType.AGGRO],
   'Jeskai Gates': 'WUR',
   'Jeskai Blink': 'WUR',
+  'Jeskai Prowess': ['WUR', DeckType.AGGRO],
+  'Jeskai Energy': ['WUR', DeckType.AGGRO],
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -124,6 +128,8 @@ export const ARCHETYPES = {
   'Mono-Blue Affinity': 'U',
   'Mono-Blue Painter': ['U', DeckType.COMBO],
   'Mono-Blue HullDay': ['U', DeckType.COMBO],
+  'Mono-Blue Oracle': ['U', DeckType.COMBO],
+  'Mono-Blue Omni-Tell': ['U', DeckType.COMBO],
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -167,11 +173,13 @@ export const ARCHETYPES = {
   'Izzet Affinity': 'UR',
   'Izzet Looting': 'UR',
   'Izzet Lessons': 'UR',
+  'Izzet Storm': ['UR', DeckType.COMBO],
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
   'Temur Landfall': 'URG',
   'Temur Battlecrier': ['URG', DeckType.COMBO],
+  'Mississippi River': ['URG', DeckType.COMBO],
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
@@ -182,6 +190,7 @@ export const ARCHETYPES = {
   'Simic Scapeshift': ['UG', DeckType.COMBO],
   'Simic Omni-Tell': ['UG', DeckType.COMBO],
   'Simic Ritual': 'UG',
+  'Simic Birthing Ritual': ['UG', DeckType.COMBO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -258,6 +267,7 @@ export const ARCHETYPES = {
   '4c Control': ['WUBR', DeckType.CONTROL],
   '4c Artifacts': 'WUBR',
   '4c Elves': 'WUBG',
+  'Kethis Combo': ['WUBG', DeckType.COMBO],
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],

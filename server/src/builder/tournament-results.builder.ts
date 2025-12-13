@@ -24,6 +24,7 @@ export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Reco
           deck: toDeckDTO(standings.deck) ?? undefined,
           match_record: standings.match_record,
           game_record: standings.game_record,
+          format: standings.format,
           rounds: tournament.rounds?.map<MatchPlayerResultDTO | null>((round) => {
             const match = round.find((m) => m.players.some((p) => p && (playersByUsername[p] ?? p) === player_guid));
             if (!match || (match.players[1] === null && match.winner === 2)) return null;
@@ -31,6 +32,7 @@ export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Reco
             const selfInd = match.players.findIndex((p) => (playersByUsername[p] ?? p) === player_guid);
             assert(selfInd >= 0);
             const win = match.winner === selfInd + 1;
+            const teamWin = match.teamWinner === undefined ? undefined : match.teamWinner === selfInd + 1;
             const res = match.winner === 0 ? 0 : win ? 1 : -1;
             if (typeof match.pod === 'number') return { pod: match.pod, res };
             const op = match.players[1 - selfInd];
@@ -39,8 +41,8 @@ export function buildTournamentResults(playersMap: Map<string, PlayerDTO>): Reco
             assert(typeof vs === 'number');
             let record;
             if (match.record) record = win ? match.record : flipRecord(match.record);
-            else record = res === 1 ? 'win' : res === 0 ? 'draw' : 'lose';
-            return { vs, record, res };
+            else record = res === 1 ? 'win' : res === 0 ? (match.notFinished ? '-' : 'draw') : 'lose';
+            return { vs, record, res, teamWin: teamWin, notFinished: match.notFinished };
           }),
         };
       }),

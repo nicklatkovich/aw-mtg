@@ -6,6 +6,8 @@ export type MatchPlayerResultDTO =
   | (({ vs: number; pod?: undefined } | { pod: number }) & {
       record?: string;
       res: 1 | -1 | 0; // 1=win; -1=lose; 0=draw
+      teamWin?: boolean;
+      notFinished?: boolean;
     });
 
 export type TournamentResultDTO = {
@@ -21,5 +23,6 @@ export type TournamentResultDTO = {
     match_record?: string;
     game_record?: string;
     rounds?: Array<null | MatchPlayerResultDTO>;
+    format?: Format; // only for trios
   }>;
 };

@@ -1,4 +1,4 @@
-import { TournamentResultDTO } from '@dtos';
+import { Format, TournamentResultDTO } from '@dtos';
 import { useParams, Link } from 'react-router-dom';
 import { WithJsonData } from '@frontend/components/WithJsonDataComponent';
 import DeckComponent from '@frontend/components/Deck/DeckComponent';
@@ -42,18 +42,20 @@ const TournamentPage: React.FC = () => {
                     'auto',
                     'auto',
                     'auto',
+                    ...(data.format === Format.TRIOS ? ['auto'] : []),
                     ...(displayDecks ? ['auto'] : []),
                     ...(displayMatchRecord ? ['auto'] : []),
                     ...(displayGameRecord ? ['auto'] : []),
                     ...Array.from({ length: rounds }, () => 'minmax(0, 1fr)'),
                   ].join(' '),
                 }}
-                className="grid-table"
+                className={`grid-table ${data.format === Format.TRIOS ? 'trios-format' : ''}`}
               >
                 <div style={{ display: 'contents' }}>
                   <div className="cell">Rank</div>
                   <div className="cell">Player</div>
                   <div className="cell">Points</div>
+                  {data.format === Format.TRIOS ? <div className="cell">Format</div> : null}
                   {displayDecks ? <div className="cell">Deck</div> : null}
                   {displayMatchRecord ? <div className="cell">Match Record</div> : null}
                   {displayGameRecord ? <div className="cell">Game Record</div> : null}
@@ -70,6 +72,9 @@ const TournamentPage: React.FC = () => {
                       <Link to={`/player/${s.player.id}`}>{s.player.display_name}</Link>
                     </div>
                     <div className="cell">{s.points}</div>
+                    {data.format === Format.TRIOS ? (
+                      <div className="cell">{s.format ? <FormatComponent value={s.format} /> : '?'}</div>
+                    ) : null}
                     {displayDecks ? (
                       <div className="cell left">
                         <DeckComponent deck={s.deck} />
@@ -82,10 +87,14 @@ const TournamentPage: React.FC = () => {
                       const r = s.rounds?.[i];
                       if (!r) return <div className={className}>-</div>;
                       if (r === 'bye') return <div className={`${className} round--bye`}>bye</div>;
-                      if (r.res === -1) className += ' round--lose';
+                      if (r.notFinished) className += ' round--not-finished';
+                      else if (r.res === -1) className += ' round--lose';
                       else if (r.res === 0) className += ' round--draw';
                       else if (r.res === 1) className += ' round--win';
-                      const record = r.record ?? (r.res === -1 ? 'lose' : r.res === 0 ? 'draw' : 'win');
+                      if (r.teamWin === true) className += ' round--team-win';
+                      else if (r.teamWin === false) className += ' round--team-lose';
+                      const record =
+                        r.record ?? (r.res === -1 ? 'lose' : r.res === 0 ? (r.notFinished ? '-' : 'draw') : 'win');
                       return (
                         <div key={i.toString(10)} className={className}>
                           {r.pod === undefined ? r.vs : String.fromCharCode(64 + r.pod)}: {record}

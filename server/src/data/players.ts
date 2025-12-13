@@ -232,6 +232,7 @@ export const playersByUsername: { [username in string]?: string } = {
   Fondue: 'd3f2887b-80ab-4720-b635-dc0d37b4b8fd',
   BuRial63: '00c53649-c5aa-4bed-a147-35396f52ec60',
   '[OMG]Summie': 'd3f6dfd4-2da2-45fc-bad4-fb638074a99c',
+  OMGSummie: 'd3f6dfd4-2da2-45fc-bad4-fb638074a99c',
   farsmac: 'b8d65678-3f77-49a6-a51d-f80ef537419d',
   '4onoki': 'a7892ae0-6591-4760-a40d-9444a1f58812',
   Denski: 'f1d37087-88a2-4e31-9cce-47cc932146e2',

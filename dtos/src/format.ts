@@ -8,4 +8,5 @@ export enum Format {
   DRAFT = 'draft',
   SEALED = 'sealed',
   COMMANDER = 'commander',
+  TRIOS = 'trios',
 }

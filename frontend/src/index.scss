@@ -86,6 +86,12 @@ h2 {
     &:nth-last-child(2n):not(:first-child) {
       & .cell {
         background-color: $color-bg-1;
+        &.round--team-win {
+          background-color: $color-bg-green-1;
+        }
+        &.round--team-lose {
+          background-color: $color-bg-red-1;
+        }
       }
       &.red-row .cell {
         background-color: $color-bg-red-1;
@@ -97,6 +103,12 @@ h2 {
     &:nth-last-child(2n + 1):not(:first-child) {
       & .cell {
         background-color: $color-bg-2;
+        &.round--team-win {
+          background-color: $color-bg-green-2;
+        }
+        &.round--team-lose {
+          background-color: $color-bg-red-2;
+        }
       }
       &.red-row .cell {
         background-color: $color-bg-red-2;
@@ -111,6 +123,22 @@ h2 {
       }
       &:not(:has(a:hover)) .cell {
         background-color: $color-bg-3;
+      }
+    }
+  }
+
+  &.trios-format {
+    & > * {
+      &:nth-child(3n+4) > .cell {
+        border-bottom: solid $color-active-border 2px;
+      }
+      & > .cell {
+        &.round--team-win {
+          background-color: $color-bg-green-1;
+        }
+        &.round--team-lose {
+          background-color: $color-bg-red-1;
+        }
       }
     }
   }
@@ -197,6 +225,10 @@ table {
 
 .format--commander {
   color: $color-var-8;
+}
+
+.format--trios {
+  color: $color-var-1;
 }
 
 .round--win {
