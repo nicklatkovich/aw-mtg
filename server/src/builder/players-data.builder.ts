@@ -61,7 +61,7 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
           date: t.date,
           format: t.format,
           points: s.points,
-          rank: [s.rank, t.standings.length],
+          rank: [s.rank, t.format === Format.TRIOS ? t.standings.length / 3 : t.standings.length],
           deck: toDeckDTO(s.deck) ?? undefined,
           match_record: s.match_record,
           game_record: s.game_record,
