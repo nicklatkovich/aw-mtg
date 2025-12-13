@@ -95,9 +95,9 @@ export const _2025_specials: Tournament[] = [
         { players: ['IvaD', 'Melamasta'], winner: 1, teamWinner: 1, record: '2-1-0' },
       ],
       [
-        { players: ['NickLatkovich', 'Dukalis1985'], winner: 2, teamWinner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'Dukalis1985'], winner: 0, teamWinner: 2, record: '1-1-0', notFinished: true },
         { players: ['AnklDen', 'GlebK'], winner: 2, teamWinner: 2, record: '2-0-0' },
-        { players: ['BRV', 'IvaD'], winner: 0, teamWinner: 2, record: '1-1-0', notFinished: true },
+        { players: ['BRV', 'IvaD'], winner: 2, teamWinner: 2, record: '2-0-0' },
       ],
       [
         { players: ['Azurenia', 'Dukalis1985'], winner: 1, teamWinner: 1, record: '2-1-0' },
