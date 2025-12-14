@@ -4,6 +4,7 @@
   "display_name": "Paulouski Tsimafei",
   "color_stats": {"B":1,"R":0.9595141700404858,"U":0.048582995951417005,"W":0.008097165991902834,"G":0.008097165991902834},
   "recent_events": [
+    {"id":390834,"name":"Fall League 2025 | Modern #5/6","date":"2025-12-14","format":"modern","points":3,"rank":[4,6],"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":6,"rank":[5,6],"match_record":"2-2-0","game_record":"5-4-0"},
@@ -84,8 +85,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 79,
-  "match_played": 315,
-  "match_wins": 165,
-  "favorite_format": ["pioneer", 0.9493670886075949]
+  "events_count": 80,
+  "match_played": 319,
+  "match_wins": 166,
+  "favorite_format": ["pioneer", 0.9375]
 }
