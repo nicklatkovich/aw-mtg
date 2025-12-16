@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"B":1,"R":0.13370998116760827,"G":0.2278719397363465,"W":0.642184557438795,"U":0.8210922787193979},
+  "color_stats": {"B":1,"G":0.2490842490842491,"R":0.13003663003663002,"W":0.6245421245421248,"U":0.798534798534799},
   "recent_events": [
+    {"id":391020,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-16","format":"standard","points":6,"rank":[6,8],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Jund Altar Tron","colors":"BRG","type":null}},
     {"id":389475,"name":"Fall League 2025 | Standard #9/12","date":"2025-12-09","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":387467,"name":"Fall League 2025 | Standard #8/12","date":"2025-12-02","format":"standard","points":9,"rank":[1,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-5-0"},
@@ -69,8 +70,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 64,
-  "match_played": 228,
-  "match_wins": 88,
-  "favorite_format": ["standard", 0.53125]
+  "events_count": 65,
+  "match_played": 232,
+  "match_wins": 90,
+  "favorite_format": ["standard", 0.5384615384615384]
 }

@@ -2,8 +2,9 @@
   "guid": "584bf7f8-7b31-4575-b43e-e636daac85ab",
   "id": "omgprofunny",
   "display_name": "Bondarchik Andrei",
-  "color_stats": {"W":0.37804878048780477,"B":1,"U":0.7804878048780487,"R":0.5975609756097557,"G":0.1707317073170731},
+  "color_stats": {"U":0.7857142857142856,"B":1,"G":0.1904761904761904,"W":0.3690476190476189,"R":0.583333333333333},
   "recent_events": [
+    {"id":391020,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-16","format":"standard","points":7,"rank":[4,8],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":9,"rank":[3,8],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":388935,"name":"MTGA Pioneer (07.12.25)","date":"2025-12-07","format":"pioneer","points":6,"rank":[2,4],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":387467,"name":"Fall League 2025 | Standard #8/12","date":"2025-12-02","format":"standard","points":9,"rank":[2,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
@@ -66,8 +67,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 61,
-  "match_played": 218,
-  "match_wins": 123,
-  "favorite_format": ["pioneer", 0.5573770491803278]
+  "events_count": 62,
+  "match_played": 222,
+  "match_wins": 125,
+  "favorite_format": ["pioneer", 0.5483870967741935]
 }
