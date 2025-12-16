@@ -3,6 +3,48 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_standard: Tournament[] = [
   {
+    id: 391020,
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard #10/12',
+    date: '2025-12-16',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Boros Resonance', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'qvertion', rank: 2, deck: 'Izzet Looting', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: '[OMG]Summie', rank: 3, deck: 'Jeskai Control', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-0' },
+      { player: 'OMGProfunny', rank: 4, deck: 'Sultai Reanimator', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-3-0' },
+      { player: 'Barbossa', rank: 5, deck: 'Mono-White Control', points: 7, mp: 3, mw: 1, match_record: '2-1-1', game_record: '5-3-0' },
+      { player: 'McRais', rank: 6, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Izzet Lessons', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '2-7-0' },
+      { player: 'Asafas', rank: 8, deck: 'Izzet Lessons', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['McRais', 'Asafas'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'OMGProfunny'], winner: 0, record: '1-1-0' },
+        { players: ['Barbossa', '[OMG]Summie'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['BRV', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['OMGProfunny', '[OMG]Summie'], winner: 2, record: '2-1-0' },
+        { players: ['Barbossa', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'Asafas'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', '[OMG]Summie'], winner: 1, record: '2-1-0' },
+        { players: ['Barbossa', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['OMGProfunny', 'Asafas'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Barbossa', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'OMGProfunny'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 389475,
     format: Format.STANDARD,
     name: 'Fall League 2025 | Standard #9/12',
