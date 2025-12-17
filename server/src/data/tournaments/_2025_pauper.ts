@@ -3,6 +3,58 @@ import { Tournament } from '@server/data/data.types';
 
 export const _2025_pauper: Tournament[] = [
   {
+    id: 391023,
+    format: Format.PAUPER,
+    name: 'Fall League 2025 | Pauper #11/12',
+    date: '2025-12-17',
+    standings: [
+      { player: 'RomanKohan14', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'HeartlessHero', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'Dukalis1985', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'qvertion', rank: 4, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 5, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Alex88', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'aspelled', rank: 7, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'Aliaksandr', rank: 8, points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'diuzhev', rank: 9, points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Azurenia', rank: 10, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: '4onoki', rank: 11, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Aleksandr_KoLoshk', null], winner: 1, record: 'bye' },
+        { players: ['Aliaksandr', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['aspelled', '4onoki'], winner: 1, record: '2-1-0' },
+        { players: ['HeartlessHero', 'Alex88'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'Dukalis1985'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Azurenia'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Aliaksandr', null], winner: 1, record: 'bye' },
+        { players: ['Dukalis1985', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['HeartlessHero', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['RomanKohan14', 'Azurenia'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'Alex88'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['diuzhev', null], winner: 1, record: 'bye' },
+        { players: ['HeartlessHero', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['Dukalis1985', 'RomanKohan14'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'Aliaksandr'], winner: 1, record: '2-1-0' },
+        { players: ['Alex88', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['HeartlessHero', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Alex88', 'Dukalis1985'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['aspelled', 'Azurenia'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 389691,
     format: Format.PAUPER,
     name: 'Fall League 2025 | Pauper #10/12',
