@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"U":0.5800524934383204,"R":1,"G":0.31758530183727046,"W":0.26509186351706043,"B":0.2782152230971129},
   "recent_events": [
+    {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":6,"rank":[7,11],"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":390834,"name":"Fall League 2025 | Modern #5/6","date":"2025-12-14","format":"modern","points":9,"rank":[3,6],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":6,"rank":[6,13],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -103,8 +104,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 98,
-  "match_played": 364,
-  "match_wins": 182,
-  "favorite_format": ["pioneer", 0.3979591836734694]
+  "events_count": 99,
+  "match_played": 368,
+  "match_wins": 184,
+  "favorite_format": ["pioneer", 0.3939393939393939]
 }

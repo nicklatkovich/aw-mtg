@@ -4,6 +4,7 @@
   "display_name": "Raptunovich Aleksei",
   "color_stats": {"W":0.6212121212121212,"R":1,"B":0.10227272727272728,"U":0.06439393939393939,"G":0.007575757575757575},
   "recent_events": [
+    {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":6,"rank":[6,11],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":9,"rank":[3,13],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -120,8 +121,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 115,
-  "match_played": 451,
-  "match_wins": 277,
-  "favorite_format": ["pioneer", 0.5565217391304348]
+  "events_count": 116,
+  "match_played": 455,
+  "match_wins": 279,
+  "favorite_format": ["pioneer", 0.5517241379310345]
 }
