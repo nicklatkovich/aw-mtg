@@ -86,7 +86,8 @@ h2 {
     &:nth-last-child(2n):not(:first-child) {
       & .cell {
         background-color: $color-bg-1;
-        &.round--team-win {
+        &.round--team-win,
+        &.green-cell {
           background-color: $color-bg-green-1;
         }
         &.round--team-lose {
@@ -103,7 +104,8 @@ h2 {
     &:nth-last-child(2n + 1):not(:first-child) {
       & .cell {
         background-color: $color-bg-2;
-        &.round--team-win {
+        &.round--team-win,
+        &.green-cell {
           background-color: $color-bg-green-2;
         }
         &.round--team-lose {

@@ -88,6 +88,7 @@ ${leagues
     "name": "${l.name}",
     "id": "${l.id}",
     "total_events": ${l.total_events},
+    "past_events": ${l.past_events},
     "top": ${l.top},
     "prize_fund": ${l.prize_fund},
     "players": [

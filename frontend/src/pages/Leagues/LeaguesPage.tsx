@@ -19,8 +19,9 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
   const finalistPointsThreshold = maxPointsSorted[league.top] ?? calcNewPlayerMaxPoints(league);
   const minMaxPointsToMakeTop = league.players[league.top - 1]?.total_points ?? 0;
   const displayMaxPoints =
-    (league.players[0].total_points ?? 0) > finalistPointsThreshold ||
-    league.players.some((p) => p.max_points < minMaxPointsToMakeTop);
+    ((league.players[0].total_points ?? 0) > finalistPointsThreshold ||
+      league.players.some((p) => p.max_points < minMaxPointsToMakeTop)) &&
+    league.past_events < league.total_events;
 
   return (
     <div className="league-details">
@@ -55,7 +56,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             key={player.id}
             className={[
               index + 1 === league.top ? 'last-top' : '',
-              player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
+              displayMaxPoints && player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
               player.total_points > finalistPointsThreshold ? 'green-row' : '',
             ].join(' ')}
           >
