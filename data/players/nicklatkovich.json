@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"G":0.716542750929368,"W":0.7537174721189591,"U":1,"B":0.4470260223048327,"R":0.4842007434944238},
+  "color_stats": {"W":0.7582116788321169,"U":1,"G":0.7217153284671532,"B":0.4388686131386861,"R":0.47536496350364965},
   "recent_events": [
+    {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":9,"rank":[1,8],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Walls Combo","colors":"G","type":"Combo"}},
     {"id":388935,"name":"MTGA Pioneer (07.12.25)","date":"2025-12-07","format":"pioneer","points":6,"rank":[3,4],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-2-0","game_record":"2-4-0"},
@@ -98,8 +99,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 93,
-  "match_played": 378,
-  "match_wins": 189,
-  "favorite_format": ["pioneer", 0.6989247311827957]
+  "events_count": 94,
+  "match_played": 382,
+  "match_wins": 192,
+  "favorite_format": ["pioneer", 0.7021276595744681]
 }
