@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"R":0.5039458850056371,"U":0.36302142051860203,"W":0.5377677564825256,"G":0.23337091319052994},
+  "color_stats": {"U":0.3701226309921962,"B":1,"G":0.24191750278706806,"R":0.4983277591973245,"W":0.5317725752508363},
   "recent_events": [
+    {"id":392340,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-23","format":"standard","points":1,"rank":[5,6],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"0-3-1","game_record":"3-7-0"},
     {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":391020,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-16","format":"standard","points":1,"rank":[7,8],"deck":{"archetype":"Izzet Lessons","colors":"UR","type":null},"match_record":"0-3-1","game_record":"2-7-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[1,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"}},
@@ -115,8 +116,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 110,
-  "match_played": 434,
+  "events_count": 111,
+  "match_played": 438,
   "match_wins": 200,
-  "favorite_format": ["pioneer", 0.6909090909090909]
+  "favorite_format": ["pioneer", 0.6846846846846847]
 }
