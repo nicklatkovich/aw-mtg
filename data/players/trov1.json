@@ -4,6 +4,7 @@
   "display_name": "Trofimov Valera",
   "color_stats": {"W":0.7975708502024293,"U":1,"B":0.493927125506073,"G":0.3724696356275304,"R":0.6153846153846155},
   "recent_events": [
+    {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":12,"rank":[1,25],"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null}},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[2,18],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -51,8 +52,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 46,
-  "match_played": 158,
-  "match_wins": 94,
-  "favorite_format": ["pioneer", 0.6304347826086957]
+  "events_count": 47,
+  "match_played": 162,
+  "match_wins": 98,
+  "favorite_format": ["pioneer", 0.6170212765957447]
 }

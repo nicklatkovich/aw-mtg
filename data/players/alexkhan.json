@@ -4,6 +4,7 @@
   "display_name": "Aflakhanov Alex",
   "color_stats": {"W":1,"G":0.625,"U":0.47500000000000003},
   "recent_events": [
+    {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[9,25],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Bant Spirits","colors":"WUG","type":"Tempo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[4,11],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -33,8 +34,8 @@
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
-  "events_count": 28,
-  "match_played": 111,
-  "match_wins": 52,
-  "favorite_format": ["pioneer", 1]
+  "events_count": 29,
+  "match_played": 115,
+  "match_wins": 54,
+  "favorite_format": ["pioneer", 0.9655172413793104]
 }

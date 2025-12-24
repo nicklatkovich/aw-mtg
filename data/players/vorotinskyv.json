@@ -4,6 +4,7 @@
   "display_name": "Vorotinsky Vitaliy",
   "color_stats": {"R":1,"U":0.006430868167202572,"B":0.01607717041800643,"G":0.07717041800643087,"W":0.01929260450160772},
   "recent_events": [
+    {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":0,"rank":[25,25],"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":369531,"name":"Fall League 2025 | Pioneer #1/12","date":"2025-10-02","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -105,8 +106,8 @@
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}},
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}}
   ],
-  "events_count": 100,
-  "match_played": 360,
+  "events_count": 101,
+  "match_played": 363,
   "match_wins": 208,
-  "favorite_format": ["pioneer", 0.78]
+  "favorite_format": ["pioneer", 0.7722772277227723]
 }

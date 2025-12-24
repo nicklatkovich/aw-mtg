@@ -4,6 +4,7 @@
   "display_name": "Belousov Timophey",
   "color_stats": {"U":1,"B":0.25,"R":0.43749999999999994,"G":0.1875,"W":0.375},
   "recent_events": [
+    {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":4,"rank":[19,25],"match_record":"1-2-1","game_record":"4-6-0"},
     {"id":367113,"name":"Daily | Pauper (24.09)","date":"2025-09-24","format":"pauper","points":9,"rank":[2,14],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[11,20],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":362553,"name":"Daily | Pauper (10.09)","date":"2025-09-10","format":"pauper","points":6,"rank":[6,13],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -12,8 +13,8 @@
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Mono-White Weenie","colors":"W","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-6-0"}
   ],
-  "events_count": 7,
-  "match_played": 27,
-  "match_wins": 14,
-  "favorite_format": ["pauper", 0.8571428571428571]
+  "events_count": 8,
+  "match_played": 31,
+  "match_wins": 15,
+  "favorite_format": ["pauper", 0.875]
 }
