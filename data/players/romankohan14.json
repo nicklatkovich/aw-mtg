@@ -2,8 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"W":0.5650095602294455,"G":0.2829827915869981,"B":0.3594646271510516,"R":1,"U":0.20172084130019116},
+  "color_stats": {"U":0.2160611854684512,"B":0.3738049713193117,"W":0.5650095602294455,"G":0.2829827915869981,"R":1},
   "recent_events": [
+    {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":15,"rank":[1,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"5-1-0","game_record":"10-3-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":12,"rank":[1,11],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null}},
     {"id":389957,"name":"Fall League 2025 | Pioneer #11/12","date":"2025-12-11","format":"pioneer","points":10,"rank":[1,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-0-1","game_record":"7-2-1"},
@@ -123,8 +124,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 118,
-  "match_played": 460,
-  "match_wins": 283,
-  "favorite_format": ["pioneer", 0.4491525423728814]
+  "events_count": 119,
+  "match_played": 466,
+  "match_wins": 288,
+  "favorite_format": ["pioneer", 0.44537815126050423]
 }

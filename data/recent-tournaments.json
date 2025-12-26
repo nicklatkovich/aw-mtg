@@ -1,4 +1,5 @@
 [
+  {"id":392657,"format":"standard","date":"2025-12-26","name":"Fall League 2025 | Standard #12/12","players_count":14,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":392341,"format":"pauper","date":"2025-12-24","name":"Fall League 2025 | Pauper #12/12","players_count":25,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"}}},
   {"id":392340,"format":"standard","date":"2025-12-23","name":"Fall League 2025 | Standard #11/12","players_count":6,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Boros Resonance","colors":"WR","type":"Aggro"}}},
   {"id":391026,"format":"pioneer","date":"2025-12-18","name":"Fall League 2025 | Pioneer #12/12","players_count":8,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"}}},

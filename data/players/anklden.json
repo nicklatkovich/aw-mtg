@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"W":1,"U":0.40239043824701237,"B":0.5916334661354583,"R":0.5318725099601596,"G":0.8207171314741034},
+  "color_stats": {"U":0.4322709163346618,"B":0.6215139442231077,"W":1,"R":0.5318725099601596,"G":0.8207171314741034},
   "recent_events": [
+    {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[6,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[15,25],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Selesnya Angels","colors":"WG","type":"Midrange"}},
@@ -97,8 +98,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 92,
-  "match_played": 369,
-  "match_wins": 184,
-  "favorite_format": ["pioneer", 0.8586956521739131]
+  "events_count": 93,
+  "match_played": 373,
+  "match_wins": 186,
+  "favorite_format": ["pioneer", 0.8494623655913979]
 }
