@@ -87,7 +87,7 @@ export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
         assert(playerInfo, `Player not found: ${s.player} (${pid})`);
         const prev = players.get(pid);
         const points = prev?.points ?? Array.from({ length: league.total_events }, () => null);
-        points[eventIndex] = s.points;
+        points[eventIndex] = s.leaguePoints ?? s.points;
         players.set(pid, {
           display_name: playerInfo.display_name,
           id: playerInfo.id,

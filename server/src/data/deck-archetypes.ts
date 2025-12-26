@@ -73,12 +73,14 @@ export const ARCHETYPES = {
   'Orzhov Enchantments': 'WB',
   'Orzhov Sacrifice': 'WB',
   'Orzhov Stompy': ['WB', DeckType.AGGRO],
+  'Orzhov Discard': ['WB', DeckType.MIDRANGE],
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
   'Mardu Gates': 'WBR',
   'Mardu Energy': ['WBR', DeckType.AGGRO],
   'Mardu Synthesizer': 'WBR',
+  'Mardu Midrange': ['WBR', DeckType.MIDRANGE],
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],

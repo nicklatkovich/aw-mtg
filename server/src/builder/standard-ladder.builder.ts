@@ -5,7 +5,7 @@ import { playersByUsername } from '@server/data/players';
 import { getDeckArchetypeStrict, getDeckColor, getPlayerNameByGuid } from '@server/data/data.utils';
 import { PlayerDTO, StandardLadderDto, StandardLadderItemDto } from '@dtos';
 
-const tournaments = _2025_standard;
+const tournaments = _2025_standard.filter((t) => t.id !== 392657);
 
 const majorEventWinners = new Map([
   ['ba897ea4-1d49-44ff-8cd7-c7b21e27205f', 1], // Raptunovich Aleksei

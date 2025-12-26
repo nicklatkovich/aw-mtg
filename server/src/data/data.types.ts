@@ -27,6 +27,7 @@ export type Standing = {
   match_record?: string;
   game_record?: string;
   ignoreResults?: boolean; // true if this result should be ignored for ladder
+  leaguePoints?: number; // only for leagues
   omw?: number;
   tgw?: number;
   ogw?: number;
