@@ -4,6 +4,8 @@
   "display_name": "Charniauski Mikita",
   "color_stats": {"W":0.5333333333333333,"U":1,"B":0.8666666666666666,"R":0.6666666666666666,"G":0.5333333333333333},
   "recent_events": [
+    {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":6,"rank":[7,12],"match_record":"2-2-0","game_record":"4-4-0"},
+    {"id":391032,"name":"Fall League 2025 | Legacy #6/6","date":"2025-12-21","format":"legacy","points":10,"rank":[1,8],"match_record":"3-0-1","game_record":"6-2-0"},
     {"id":388073,"name":"Fall League 2025 | Legacy #5/6","date":"2025-12-07","format":"legacy","points":9,"rank":[1,6],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":383627,"name":"Fall League 2025 | Legacy #4/6","date":"2025-11-23","format":"legacy","points":6,"rank":[4,6],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -20,8 +22,8 @@
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 15,
-  "match_played": 51,
-  "match_wins": 30,
-  "favorite_format": ["legacy", 0.6]
+  "events_count": 17,
+  "match_played": 59,
+  "match_wins": 35,
+  "favorite_format": ["legacy", 0.5882352941176471]
 }

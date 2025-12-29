@@ -4,6 +4,7 @@
   "display_name": "Romanenko Polina",
   "color_stats": {"U":1,"B":0.057971014492753624,"R":0.057971014492753624,"G":0.057971014492753624,"W":0.02173913043478261},
   "recent_events": [
+    {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":0,"rank":[12,12],"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":3,"rank":[17,20],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[13,20],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[11,25],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -16,8 +17,8 @@
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":258802,"name":"League Pioneer | Season 5 (6/12)","date":"2025-03-06","format":"pioneer","points":1,"rank":[14,16],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}
   ],
-  "events_count": 11,
-  "match_played": 42,
+  "events_count": 12,
+  "match_played": 46,
   "match_wins": 14,
-  "favorite_format": ["pauper", 0.8181818181818182]
+  "favorite_format": ["pauper", 0.75]
 }
