@@ -5,6 +5,47 @@ const MIADZVEDSKI_PAVEL = '9f9b2c96-9ad4-4b9e-b044-07fab265e6e3';
 
 export const _2025_legacy: Tournament[] = [
   {
+    id: 391032,
+    format: Format.LEGACY,
+    name: 'Fall League 2025 | Legacy #6/6',
+    date: '2025-12-21',
+    standings: [
+      { player: 'Tanti', rank: 1, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '6-2-0' },
+      { player: 'ispinyouround', rank: 2, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 3, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BRV', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: '4onoki', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'Norbi', rank: 6, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'andrei', rank: 7, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'farsmac', rank: 8, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '1-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Tanti', 'farsmac'], winner: 1, record: '1-0-0' },
+        { players: ['Norbi', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['andrei', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', '4onoki'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Aleksandr_KoLoshk', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['4onoki', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['andrei', 'farsmac'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'Tanti'], winner: 0, record: '1-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['andrei', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['4onoki', 'farsmac'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['Tanti', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', '4onoki'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 388073,
     format: Format.LEGACY,
     name: 'Fall League 2025 | Legacy #5/6',
