@@ -162,6 +162,7 @@ export const ARCHETYPES = {
   'Sultai Reanimator': ['UBG', DeckType.COMBO],
   'Sultai Dragons': ['UBG', DeckType.CONTROL],
   'Sultai Poison Storm': ['UBG', DeckType.COMBO],
+  'Sultai Control': ['UBG', DeckType.CONTROL],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],

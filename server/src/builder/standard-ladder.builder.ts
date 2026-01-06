@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { _2025_standard } from '@server/data/tournaments/_2025_standard';
+import { _2025_standard } from '@server/data/tournaments/archive/_2025_standard';
 import { DeckArchetype } from '@server/data/data.types';
 import { playersByUsername } from '@server/data/players';
 import { getDeckArchetypeStrict, getDeckColor, getPlayerNameByGuid } from '@server/data/data.utils';

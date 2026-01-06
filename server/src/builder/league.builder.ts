@@ -2,7 +2,7 @@ import assert from 'assert';
 import { Format, LeagueDto, LeaguePlayerDto, PlayerDTO } from '@dtos';
 import { Tournament } from '@server/data/data.types';
 import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
-import { _2025_standard } from '@server/data/tournaments/_2025_standard';
+import { _2025_standard } from '@server/data/tournaments/archive/_2025_standard';
 import { playersByUsername } from '@server/data/players';
 import { _2025_pauper } from '@server/data/tournaments/_2025_pauper';
 import { _2025_legacy } from '@server/data/tournaments/_2025_legacy';

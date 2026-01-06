@@ -7,12 +7,12 @@ import { _2025_pioneer } from './tournaments/_2025_pioneer';
 import { _2025_premodern } from './tournaments/_2025_premodern';
 import { _2025_sealed } from './tournaments/_2025_sealed';
 import { _2025_specials } from './tournaments/_2025_specials';
-import { _2025_standard } from './tournaments/_2025_standard';
+import { _2026_standard } from './tournaments/_2026_standard';
 import { archiveTournaments } from './tournaments/archive';
 
 export const allTournaments = [
   ...archiveTournaments,
-  ..._2025_standard,
+  ..._2026_standard,
   ..._2025_pioneer,
   ..._2025_pauper,
   ..._2025_modern,

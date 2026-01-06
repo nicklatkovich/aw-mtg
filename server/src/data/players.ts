@@ -393,4 +393,5 @@ export const playersByUsername: { [username in string]?: string } = {
   AmericanSoup: '799b284e-c975-4be1-b0fd-32897ee8ab50',
   Asafas: '3cbba1fe-dcc1-4e8e-9ba3-6a1fb6cf2833',
   Mimakasya: '430c1b56-1c88-448a-93ff-794395dc4084',
+  profunny: '584bf7f8-7b31-4575-b43e-e636daac85ab',
 };

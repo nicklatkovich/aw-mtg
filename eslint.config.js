@@ -52,5 +52,5 @@ export default tseslint.config(
       // ],
     },
   },
-  { files: ['**/data/tournaments/*.ts'], rules: { 'prettier/prettier': ['error', { ...prettierConfig, printWidth: 9999 }] } },
+  { files: ['**/data/tournaments/**/*.ts'], rules: { 'prettier/prettier': ['error', { ...prettierConfig, printWidth: 9999 }] } },
 );
