@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"W":0.618055555555556,"B":1,"G":0.2621527777777779,"R":0.12326388888888892,"U":0.7569444444444452},
+  "color_stats": {"B":1,"G":0.2808798646362099,"W":0.6023688663282576,"R":0.12013536379018615,"U":0.7377326565143831},
   "recent_events": [
+    {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":3,"rank":[5,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[9,14],"deck":{"archetype":"Orzhov Discard","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":392340,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-23","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":391020,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-16","format":"standard","points":6,"rank":[6,8],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -72,8 +73,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 67,
-  "match_played": 240,
-  "match_wins": 94,
-  "favorite_format": ["standard", 0.5522388059701493]
+  "events_count": 68,
+  "match_played": 243,
+  "match_wins": 95,
+  "favorite_format": ["standard", 0.5588235294117647]
 }

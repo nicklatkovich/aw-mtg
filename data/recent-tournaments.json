@@ -1,4 +1,5 @@
 [
+  {"id":394842,"format":"standard","date":"2026-01-06","name":"Daily | Standard (06.01.26)","players_count":6,"winner":{"player":{"display_name":"Bandarchyk Anton","id":"summie"},"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"}}},
   {"id":393039,"format":"modern","date":"2025-12-28","name":"Fall League 2025 | Modern #6/6","players_count":12,"winner":{"player":{"display_name":"Plisko Ihar","id":"4onoki"}}},
   {"id":392657,"format":"standard","date":"2025-12-26","name":"Fall League 2025 | Standard #12/12","players_count":14,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":392341,"format":"pauper","date":"2025-12-24","name":"Fall League 2025 | Pauper #12/12","players_count":25,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"}}},

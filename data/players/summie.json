@@ -2,8 +2,9 @@
   "guid": "d3f6dfd4-2da2-45fc-bad4-fb638074a99c",
   "id": "summie",
   "display_name": "Bandarchyk Anton",
-  "color_stats": {"W":1,"B":0.654255319148936,"R":0.3484042553191489,"U":0.6143617021276595,"G":0.09574468085106382},
+  "color_stats": {"U":0.6409574468085105,"B":0.680851063829787,"G":0.12234042553191486,"W":1,"R":0.3484042553191489},
   "recent_events": [
+    {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":9,"rank":[1,6],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"3-0-0","game_record":"5-0-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[7,14],"deck":{"archetype":"Mardu Midrange","colors":"WBR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":391020,"name":"Fall League 2025 | Standard #10/12","date":"2025-12-16","format":"standard","points":7,"rank":[3,8],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-1-1","game_record":"6-4-0"},
     {"id":389475,"name":"Fall League 2025 | Standard #9/12","date":"2025-12-09","format":"standard","points":9,"rank":[2,9],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -43,8 +44,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":6,"rank":[10,16]},
     {"id":126622,"date":"2024-08-01","format":"pioneer","points":6,"rank":[6,13]}
   ],
-  "events_count": 38,
-  "match_played": 149,
-  "match_wins": 75,
-  "favorite_format": ["standard", 0.8947368421052632]
+  "events_count": 39,
+  "match_played": 152,
+  "match_wins": 78,
+  "favorite_format": ["standard", 0.8974358974358975]
 }
