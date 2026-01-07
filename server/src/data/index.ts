@@ -2,11 +2,11 @@ import { _2025_commander } from './tournaments/_2025_commander';
 import { _2025_draft } from './tournaments/_2025_draft';
 import { _2025_legacy } from './tournaments/_2025_legacy';
 import { _2025_modern } from './tournaments/_2025_modern';
-import { _2025_pauper } from './tournaments/_2025_pauper';
 import { _2025_pioneer } from './tournaments/_2025_pioneer';
 import { _2025_premodern } from './tournaments/_2025_premodern';
 import { _2025_sealed } from './tournaments/_2025_sealed';
 import { _2025_specials } from './tournaments/_2025_specials';
+import { _2026_pauper } from './tournaments/_2026_pauper';
 import { _2026_standard } from './tournaments/_2026_standard';
 import { archiveTournaments } from './tournaments/archive';
 
@@ -14,7 +14,7 @@ export const allTournaments = [
   ...archiveTournaments,
   ..._2026_standard,
   ..._2025_pioneer,
-  ..._2025_pauper,
+  ..._2026_pauper,
   ..._2025_modern,
   ..._2025_legacy,
   ..._2025_premodern,

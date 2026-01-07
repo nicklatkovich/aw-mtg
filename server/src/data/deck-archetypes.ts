@@ -11,7 +11,7 @@ export const ARCHETYPES = {
   'Colorless Cloudpost': ['c', DeckType.COMBO],
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
-  'Mono-White Weenie': ['W', DeckType.AGGRO],
+  'Mono-White Aggro': ['W', DeckType.AGGRO],
   'Mono-White Humans': ['W', DeckType.AGGRO],
   'Mono-White Heroic': ['W', DeckType.AGGRO],
   // WU
@@ -156,6 +156,7 @@ export const ARCHETYPES = {
   'Grixis Cycle Storm': ['UBR', DeckType.COMBO],
   'Grixis Hidetsugu Combo': ['UBR', DeckType.COMBO],
   'Grixis Artifacts': 'UBR',
+  'Grixis Terror': ['UBR', DeckType.TEMPO],
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -186,7 +187,7 @@ export const ARCHETYPES = {
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
-  'Simic Petitioners Combo': ['UG', DeckType.COMBO],
+  'Simic Petitioners Mill': ['UG', DeckType.COMBO],
   'Simic Madness': 'UG',
   'Simic Elves': 'UG',
   'Simic Aggro': ['UG', DeckType.AGGRO],
@@ -214,6 +215,7 @@ export const ARCHETYPES = {
   'Rakdos Transmogrify': ['BR', DeckType.COMBO],
   'Rakdos Madness Burn': 'BR',
   'Rakdos Reanimator': ['BR', DeckType.COMBO],
+  'Rakdos Persist Combo': ['BR', DeckType.COMBO],
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],

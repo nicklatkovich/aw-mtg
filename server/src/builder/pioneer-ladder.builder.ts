@@ -23,6 +23,13 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
     { points: number; events: number; mp: number; mw: number; _4_0s: number; decks: PlayerDecks }
   >();
   for (const t of tournaments) {
+    // const winner = t.standings[0]!.player;
+    // const winnerPid = playersByUsername[winner] ?? winner;
+    // if ((result.get(winnerPid)?.points ?? 0) >= 250) {
+    //   console.log(`Winner: ${playersMap.get(winnerPid)?.display_name}`);
+    //   console.log(`Tournament: ${t.name} (${t.date})`);
+    // }
+
     for (const s of t.standings) {
       const pid = playersByUsername[s.player] ?? s.player;
       const prevRes = result.get(pid);
