@@ -4,7 +4,7 @@
   "display_name": "Yushkevich Egor",
   "color_stats": {"U":0.71875,"G":0.71875,"R":1,"B":0.37499999999999994},
   "recent_events": [
-    {"id":395139,"name":"Event 395139","date":"2026-01-07","format":"pauper","points":1,"rank":[7,7],"deck":{"archetype":"Simic Petitioners Mill","colors":"UG","type":"Combo"},"match_record":"0-2-1","game_record":"1-5-0"},
+    {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":1,"rank":[7,7],"deck":{"archetype":"Simic Petitioners Mill","colors":"UG","type":"Combo"},"match_record":"0-2-1","game_record":"1-5-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Izzet Storm","colors":"UR","type":"Combo"}},
     {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":0,"rank":[18,20],"deck":{"archetype":"Gruul Creative Technique","colors":"RG","type":"Combo"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":6,"rank":[26,35],"deck":{"archetype":"Mono-Red Dredge","colors":"R","type":"Combo"},"match_record":"2-3-0","game_record":"5-7-0"},

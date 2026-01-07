@@ -4,7 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"B":1,"R":0.7661188369152974,"W":0.13400758533501902,"G":0.4184576485461444,"U":0.18457648546144126},
   "recent_events": [
-    {"id":395139,"name":"Event 395139","date":"2026-01-07","format":"pauper","points":6,"rank":[2,7],"deck":{"archetype":"Rakdos Persist Combo","colors":"BR","type":"Combo"},"match_record":"2-1-0","game_record":"4-3-0"},
+    {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":6,"rank":[2,7],"deck":{"archetype":"Rakdos Persist Combo","colors":"BR","type":"Combo"},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":3,"rank":[10,12],"match_record":"1-3-0","game_record":"2-7-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":3,"rank":[20,25],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":3,"rank":[9,11],"match_record":"1-2-0","game_record":"2-4-0"},

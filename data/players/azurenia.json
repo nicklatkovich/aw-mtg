@@ -4,7 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"U":0.9459193706981319,"B":0.9508357915437564,"R":1,"W":0.20353982300884954,"G":0.9115044247787615},
   "recent_events": [
-    {"id":395139,"name":"Event 395139","date":"2026-01-07","format":"pauper","points":6,"rank":[4,7],"deck":{"archetype":"Grixis Terror","colors":"UBR","type":"Tempo"},"match_record":"2-1-0","game_record":"5-2-0"},
+    {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":6,"rank":[4,7],"deck":{"archetype":"Grixis Terror","colors":"UBR","type":"Tempo"},"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[8,14],"deck":{"archetype":"Izzet Looting","colors":"UR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":9,"rank":[7,25],"match_record":"3-1-0","game_record":"7-3-0"},
