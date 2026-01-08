@@ -1,0 +1,13 @@
+{
+  "guid": "b5786a16-feda-4ed5-a341-91c35f0226db",
+  "id": "elishaa",
+  "display_name": "Shametko Liza",
+  "color_stats": {"U":1,"R":1},
+  "recent_events": [
+    {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 0,
+  "favorite_format": ["pioneer", 1]
+}

@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"B":0.43339100346020754,"R":0.46799307958477515,"G":0.7275086505190312,"U":1,"W":0.7448096885813148},
+  "color_stats": {"W":0.7474315068493151,"U":1,"B":0.4392123287671232,"R":0.4734589041095891,"G":0.7303082191780823},
   "recent_events": [
+    {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":9,"rank":[2,9],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":9,"rank":[1,7],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"3-0-0","game_record":"6-1-0"},
     {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":4,"rank":[3,6],"deck":{"archetype":"Simic Artifacts","colors":"UG","type":"Aggro"},"match_record":"1-1-1","game_record":"3-3-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":12,"rank":[2,14],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"4-2-0","game_record":"8-6-0"},
@@ -102,8 +103,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 97,
-  "match_played": 394,
-  "match_wins": 200,
-  "favorite_format": ["pioneer", 0.6804123711340206]
+  "events_count": 98,
+  "match_played": 398,
+  "match_wins": 203,
+  "favorite_format": ["pioneer", 0.6836734693877551]
 }
