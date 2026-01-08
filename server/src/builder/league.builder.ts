@@ -1,7 +1,7 @@
 import assert from 'assert';
 import { Format, LeagueDto, LeaguePlayerDto, PlayerDTO } from '@dtos';
 import { Tournament } from '@server/data/data.types';
-import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
+import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
 import { _2025_standard } from '@server/data/tournaments/archive/_2025_standard';
 import { playersByUsername } from '@server/data/players';
 import { _2025_pauper } from '@server/data/tournaments/archive/_2025_pauper';
@@ -25,52 +25,52 @@ const leagueInfo: {
   prize_pool_inc_by_player: number;
   events: (Tournament | null)[];
 }[] = [
-    {
-      format: Format.STANDARD,
-      name: 'Fall League 2025 | Standard',
-      id: 'fall-league-2025-standard',
-      total_events: 12,
-      top: 6,
-      prize_pool_inc_by_player: 2,
-      events: fall2025StandardEvents,
-    },
-    {
-      format: Format.PIONEER,
-      name: 'Fall League 2025 | Pioneer',
-      id: 'fall-league-2025-pioneer',
-      total_events: 12,
-      top: 6,
-      prize_pool_inc_by_player: 2,
-      events: _2025_pioneer
-        .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-02').getTime())
-        .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-        .slice(0, 12),
-    },
-    {
-      format: Format.PAUPER,
-      name: 'Fall League 2025 | Pauper',
-      id: 'fall-league-2025-pauper',
-      total_events: 12,
-      top: 6,
-      prize_pool_inc_by_player: 2,
-      events: _2025_pauper
-        .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-01').getTime())
-        .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-        .slice(0, 12),
-    },
-    {
-      format: [Format.MODERN, Format.LEGACY],
-      name: 'Fall League 2025 | Eternal',
-      id: 'fall-league-2025-eternal',
-      total_events: 12,
-      top: 6,
-      prize_pool_inc_by_player: 0,
-      events: [..._2025_modern, ..._2025_legacy]
-        .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-05').getTime())
-        .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-        .slice(0, 12),
-    },
-  ];
+  {
+    format: Format.STANDARD,
+    name: 'Fall League 2025 | Standard',
+    id: 'fall-league-2025-standard',
+    total_events: 12,
+    top: 6,
+    prize_pool_inc_by_player: 2,
+    events: fall2025StandardEvents,
+  },
+  {
+    format: Format.PIONEER,
+    name: 'Fall League 2025 | Pioneer',
+    id: 'fall-league-2025-pioneer',
+    total_events: 12,
+    top: 6,
+    prize_pool_inc_by_player: 2,
+    events: _2025_pioneer
+      .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-02').getTime())
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+      .slice(0, 12),
+  },
+  {
+    format: Format.PAUPER,
+    name: 'Fall League 2025 | Pauper',
+    id: 'fall-league-2025-pauper',
+    total_events: 12,
+    top: 6,
+    prize_pool_inc_by_player: 2,
+    events: _2025_pauper
+      .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-01').getTime())
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+      .slice(0, 12),
+  },
+  {
+    format: [Format.MODERN, Format.LEGACY],
+    name: 'Fall League 2025 | Eternal',
+    id: 'fall-league-2025-eternal',
+    total_events: 12,
+    top: 6,
+    prize_pool_inc_by_player: 0,
+    events: [..._2025_modern, ..._2025_legacy]
+      .filter((t) => new Date(t.date).getTime() >= new Date('2025-10-05').getTime())
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+      .slice(0, 12),
+  },
+];
 
 export function buildLeague(playersMap: Map<string, PlayerDTO>): LeagueDto[] {
   return leagueInfo.map<LeagueDto>((league) => {

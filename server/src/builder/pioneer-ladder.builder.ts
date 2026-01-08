@@ -3,7 +3,7 @@ import { PioneerLadderInfoDto, PioneerLadderItemDto, PlayerDTO } from '@dtos';
 import { DeckArchetype } from '@server/data/data.types';
 import { getDeckArchetypeStrict, toDeckDTO } from '@server/data/data.utils';
 import { playersByUsername } from '@server/data/players';
-import { _2025_pioneer } from '@server/data/tournaments/_2025_pioneer';
+import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
 
 const tournaments = _2025_pioneer
   .filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime())
