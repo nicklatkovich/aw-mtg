@@ -2,14 +2,15 @@
   "guid": "11201119-6296-4f7b-bf08-c97364f1e99a",
   "id": "bomj",
   "display_name": "Bondarev Evgeniy",
-  "color_stats": {},
+  "color_stats": {"B":1},
   "recent_events": [
+    {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":0,"rank":[8,8],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[1,20],"match_record":"3-0-0","game_record":"6-1-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 3,
-  "match_played": 10,
+  "events_count": 4,
+  "match_played": 12,
   "match_wins": 7,
-  "favorite_format": ["draft", 1]
+  "favorite_format": ["draft", 0.75]
 }

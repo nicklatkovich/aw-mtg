@@ -2,8 +2,9 @@
   "guid": "a7892ae0-6591-4760-a40d-9444a1f58812",
   "id": "4onoki",
   "display_name": "Plisko Ihar",
-  "color_stats": {"W":1,"U":0.2329873125720877,"R":0.9884659746251442,"B":0.4925028835063437,"G":0.677047289504037},
+  "color_stats": {"B":0.5271049596309111,"G":0.7116493656286044,"W":1,"U":0.2329873125720877,"R":0.9884659746251442},
   "recent_events": [
+    {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":3,"rank":[6,8],"deck":{"archetype":"Golgari Rock","colors":"BG","type":"Midrange"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":12,"rank":[1,12],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[14,25],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":391032,"name":"Fall League 2025 | Legacy #6/6","date":"2025-12-21","format":"legacy","points":6,"rank":[5,8],"match_record":"2-2-0","game_record":"6-6-0"},
@@ -71,8 +72,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":7,"rank":[6,16]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[7,12]}
   ],
-  "events_count": 66,
-  "match_played": 243,
-  "match_wins": 114,
-  "favorite_format": ["pauper", 0.42424242424242425]
+  "events_count": 67,
+  "match_played": 246,
+  "match_wins": 115,
+  "favorite_format": ["pauper", 0.417910447761194]
 }

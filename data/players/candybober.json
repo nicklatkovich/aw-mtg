@@ -2,8 +2,9 @@
   "guid": "8d609944-655a-49d0-8d85-f98cf7bf46d1",
   "id": "candybober",
   "display_name": "Skamarokh Danila",
-  "color_stats": {"W":0.4202898550724638,"U":0.34782608695652173,"B":0.4202898550724638,"R":1,"G":0.4202898550724638},
+  "color_stats": {"B":0.5652173913043478,"G":0.5652173913043479,"W":0.4202898550724638,"U":0.34782608695652173,"R":1},
   "recent_events": [
+    {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":6,"rank":[4,8],"deck":{"archetype":"Golgari Reanimator","colors":"BG","type":"Combo"},"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[12,25],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":9,"rank":[3,16],"deck":{"archetype":"Mono-White Heroic","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":3,"rank":[32,35],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -15,8 +16,8 @@
     {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[8,17],"deck":{"archetype":"Mono-Green Infect","colors":"G","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":315101,"name":"Daily | Pauper (28.05)","date":"2025-05-28","format":"pauper","points":3,"rank":[12,14],"deck":{"archetype":"Tron","colors":"WBRG","type":null},"match_record":"1-3-0","game_record":"4-7-0"}
   ],
-  "events_count": 10,
-  "match_played": 40,
-  "match_wins": 17,
-  "favorite_format": ["pauper", 0.9]
+  "events_count": 11,
+  "match_played": 43,
+  "match_wins": 19,
+  "favorite_format": ["pauper", 0.8181818181818182]
 }
