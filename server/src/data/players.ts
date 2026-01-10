@@ -396,4 +396,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Mimakasya: '430c1b56-1c88-448a-93ff-794395dc4084',
   profunny: '584bf7f8-7b31-4575-b43e-e636daac85ab',
   Elishaa: 'b5786a16-feda-4ed5-a341-91c35f0226db',
+  AndP13: 'd47a3fe6-81fe-4a3d-aab7-fff5d78656a7',
 };

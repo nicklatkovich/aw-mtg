@@ -74,6 +74,7 @@ export const ARCHETYPES = {
   'Orzhov Sacrifice': 'WB',
   'Orzhov Stompy': ['WB', DeckType.AGGRO],
   'Orzhov Discard': ['WB', DeckType.MIDRANGE],
+  'Orzhov Infestation': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -119,6 +120,7 @@ export const ARCHETYPES = {
   'Selesnya Angels': ['WG', DeckType.MIDRANGE],
   'Selesnya Counters': 'WG',
   'Selesnya Depths': ['WG', DeckType.COMBO],
+  'Selesnya Clerics': ['WG', DeckType.COMBO],
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],
@@ -132,6 +134,8 @@ export const ARCHETYPES = {
   'Mono-Blue HullDay': ['U', DeckType.COMBO],
   'Mono-Blue Oracle': ['U', DeckType.COMBO],
   'Mono-Blue Omni-Tell': ['U', DeckType.COMBO],
+  'Mono-Blue Tide Control': ['U', DeckType.CONTROL],
+  'Mono-Blue Stasis': ['U', DeckType.CONTROL],
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -232,6 +236,8 @@ export const ARCHETYPES = {
   'Golgari Altar Tron': 'BG',
   'Golgari Food': 'BG',
   'Golgari Insidious Roots': ['BG', DeckType.COMBO],
+  'Golgari Reanimator': ['BG', DeckType.COMBO],
+  'Golgari Rock': ['BG', DeckType.MIDRANGE],
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -254,6 +260,7 @@ export const ARCHETYPES = {
   'Gruul Vehicles': 'RG',
   'Gruul Creative Technique': ['RG', DeckType.COMBO],
   'Gruul Landfall': 'RG',
+  'Gruul Elves': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
