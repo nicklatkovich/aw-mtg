@@ -199,6 +199,7 @@ export const ARCHETYPES = {
   'Simic Omni-Tell': ['UG', DeckType.COMBO],
   'Simic Ritual': 'UG',
   'Simic Birthing Ritual': ['UG', DeckType.COMBO],
+  'Simic Terror': ['UG', DeckType.TEMPO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
