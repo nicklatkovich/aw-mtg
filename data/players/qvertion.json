@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"U":1,"B":0.35119887165021163,"R":0.6450399623883403,"W":0.22425952045133982,"G":0.2054536906440996},
+  "color_stats": {"U":1,"B":0.35724266418258027,"G":0.21285514671634825,"R":0.6390312063344198,"W":0.22217047042384708},
   "recent_events": [
+    {"id":396543,"name":"Daily | Standard (13.01.26)","date":"2026-01-13","format":"standard","points":3,"rank":[4,6],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":3,"rank":[4,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[5,14],"deck":{"archetype":"Izzet Lessons","colors":"UR","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -125,8 +126,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 120,
-  "match_played": 471,
-  "match_wins": 273,
-  "favorite_format": ["standard", 0.38333333333333336]
+  "events_count": 121,
+  "match_played": 474,
+  "match_wins": 274,
+  "favorite_format": ["standard", 0.3884297520661157]
 }
