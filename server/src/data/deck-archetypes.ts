@@ -168,6 +168,8 @@ export const ARCHETYPES = {
   'Sultai Dragons': ['UBG', DeckType.CONTROL],
   'Sultai Poison Storm': ['UBG', DeckType.COMBO],
   'Sultai Control': ['UBG', DeckType.CONTROL],
+  'Sultai Spy Combo': ['UBG', DeckType.COMBO],
+  'Sultai Energy': 'UBG',
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -239,6 +241,7 @@ export const ARCHETYPES = {
   'Golgari Insidious Roots': ['BG', DeckType.COMBO],
   'Golgari Reanimator': ['BG', DeckType.COMBO],
   'Golgari Rock': ['BG', DeckType.MIDRANGE],
+  'Golgari Turbo Fog': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -281,6 +284,7 @@ export const ARCHETYPES = {
   '4c Artifacts': 'WUBR',
   '4c Elves': 'WUBG',
   'Kethis Combo': ['WUBG', DeckType.COMBO],
+  '4c Energy': 'WURG',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],

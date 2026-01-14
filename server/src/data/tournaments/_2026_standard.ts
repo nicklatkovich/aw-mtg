@@ -2,7 +2,7 @@ import { Format } from '@dtos';
 import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
-   {
+  {
     id: 396543,
     format: Format.STANDARD,
     name: 'Daily | Standard (13.01.26)',
