@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.2948717948717949,"G":0.14835164835164838,"U":0.07509157509157509,"B":1,"R":0.8443223443223443},
+  "color_stats": {"W":0.30755395683453235,"U":0.09172661870503598,"B":1,"G":0.1456834532374101,"R":0.8291366906474821},
   "recent_events": [
+    {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"5-3-0"},
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":3,"rank":[5,8],"deck":{"archetype":"Selesnya Clerics","colors":"WG","type":"Combo"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[11,25],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":9,"rank":[3,11],"match_record":"3-1-0","game_record":"6-2-0"},
@@ -95,8 +96,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 90,
-  "match_played": 339,
-  "match_wins": 182,
-  "favorite_format": ["pioneer", 0.8333333333333334]
+  "events_count": 91,
+  "match_played": 343,
+  "match_wins": 185,
+  "favorite_format": ["pioneer", 0.8241758241758241]
 }

@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"W":0.6212121212121212,"R":1,"B":0.10227272727272728,"U":0.06439393939393939,"G":0.007575757575757575},
+  "color_stats": {"W":0.6439393939393939,"R":1,"B":0.10227272727272728,"U":0.06439393939393939,"G":0.007575757575757575},
   "recent_events": [
+    {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":4,"rank":[14,18],"deck":{"archetype":"Mono-White Heroic","colors":"W","type":"Aggro"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":9,"rank":[8,25],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":6,"rank":[6,11],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"}},
@@ -122,8 +123,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 117,
-  "match_played": 459,
-  "match_wins": 282,
-  "favorite_format": ["pioneer", 0.5470085470085471]
+  "events_count": 118,
+  "match_played": 463,
+  "match_wins": 283,
+  "favorite_format": ["pioneer", 0.5423728813559322]
 }

@@ -2,12 +2,13 @@
   "guid": "642e0fd1-d7f7-4598-9b43-d7ba2a7c102b",
   "id": "graphdyko",
   "display_name": "Dyko Pavel",
-  "color_stats": {"U":1},
+  "color_stats": {"B":0.5,"G":0.5,"U":1},
   "recent_events": [
+    {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":6,"rank":[9,18],"deck":{"archetype":"Golgari Turbo Fog","colors":"BG","type":null},"match_record":"2-2-0","game_record":"4-3-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-5-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 3,
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 5,
   "favorite_format": ["pauper", 1]
 }

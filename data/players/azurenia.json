@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"U":0.9754178957718784,"G":0.9410029498525078,"B":0.9508357915437564,"R":1,"W":0.20353982300884954},
+  "color_stats": {"U":0.9950835791543757,"B":0.9705014749262542,"G":0.9606686332350053,"R":1,"W":0.20353982300884954},
   "recent_events": [
+    {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":6,"rank":[10,18],"deck":{"archetype":"Sultai Energy","colors":"UBG","type":null},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":396543,"name":"Daily | Standard (13.01.26)","date":"2026-01-13","format":"standard","points":3,"rank":[5,6],"deck":{"archetype":"Simic Terror","colors":"UG","type":"Tempo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":6,"rank":[4,7],"deck":{"archetype":"Grixis Terror","colors":"UBR","type":"Tempo"},"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"7-4-0"},
@@ -92,8 +93,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 87,
-  "match_played": 322,
-  "match_wins": 179,
-  "favorite_format": ["standard", 0.39080459770114945]
+  "events_count": 88,
+  "match_played": 326,
+  "match_wins": 181,
+  "favorite_format": ["standard", 0.38636363636363635]
 }

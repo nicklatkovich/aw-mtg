@@ -2,8 +2,9 @@
   "guid": "259361a8-d433-409f-932b-c0b1afcca9c9",
   "id": "praim",
   "display_name": "Motovilov Andrey",
-  "color_stats": {"G":1,"W":0.4,"U":0.4},
+  "color_stats": {"G":1,"W":0.3333333333333333,"U":0.3333333333333333},
   "recent_events": [
+    {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":3,"rank":[16,18],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":3,"rank":[22,25],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":9,"rank":[3,8],"deck":{"archetype":"Mono-Green Devotion","colors":"G","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Mono-Green Devotion","colors":"G","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -15,8 +16,8 @@
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":4,"rank":[16,22],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-2-1","game_record":"5-6-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":4,"rank":[10,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"}
   ],
-  "events_count": 10,
-  "match_played": 40,
-  "match_wins": 16,
-  "favorite_format": ["pioneer", 0.9]
+  "events_count": 11,
+  "match_played": 44,
+  "match_wins": 17,
+  "favorite_format": ["pioneer", 0.8181818181818182]
 }
