@@ -3,6 +3,32 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 397115,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (15.01.26)',
+    date: '2026-01-15',
+    standings: [
+      { player: 'MiFlyer', rank: 1, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'Tamplier007333', rank: 2, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'NickLatkovich', rank: 3, deck: 'Bant Lotus Field', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Bubuntailo', rank: 4, deck: 'Mono-Black Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['NickLatkovich', 'MiFlyer'], winner: 2, record: '2-0-0' },
+        { players: ['Bubuntailo', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['MiFlyer', 'Tamplier007333'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Bubuntailo'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['MiFlyer', 'Bubuntailo'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 395512,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (08.01.26)',
