@@ -1,0 +1,13 @@
+{
+  "guid": "54af729b-814c-427f-b82c-731f03a6cb53",
+  "id": "bubuntailo",
+  "display_name": "Black Kirill",
+  "color_stats": {"B":1},
+  "recent_events": [
+    {"id":397115,"name":"Daily | Pioneer (15.01.26)","date":"2026-01-15","format":"pioneer","points":3,"rank":[4,4],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 1]
+}

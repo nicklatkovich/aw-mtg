@@ -1,4 +1,5 @@
 [
+  {"id":397115,"format":"pioneer","date":"2026-01-15","name":"Daily | Pioneer (15.01.26)","players_count":4,"winner":{"player":{"display_name":"Liatun Mikhail","id":"miflyer"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":396856,"format":"pauper","date":"2026-01-14","name":"Daily | Pauper (14.01.26)","players_count":18,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":396543,"format":"standard","date":"2026-01-13","name":"Daily | Standard (13.01.26)","players_count":6,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"}}},
   {"id":395983,"format":"premodern","date":"2026-01-10","name":"Daily | Premodern (10.01.26)","players_count":8,"winner":{"player":{"display_name":"Priezzhev Andrei","id":"andrei"},"deck":{"archetype":"Gruul Elves","colors":"RG","type":null}}},
