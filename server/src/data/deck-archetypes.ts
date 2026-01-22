@@ -75,6 +75,7 @@ export const ARCHETYPES = {
   'Orzhov Stompy': ['WB', DeckType.AGGRO],
   'Orzhov Discard': ['WB', DeckType.MIDRANGE],
   'Orzhov Infestation': 'WB',
+  'Orzhov Midrange': ['WB', DeckType.MIDRANGE],
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],

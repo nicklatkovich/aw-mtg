@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 398594,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (22.01.26)',
+    date: '2026-01-22',
+    standings: [
+      { player: 'ispinyouround', rank: 1, deck: 'Rakdos Midrange', points: 7, mp: 3, mw: 2, match_record: '2-0-1', game_record: '5-3-1' },
+      { player: 'K1ppy', rank: 2, deck: 'Selesnya Company', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Akel', rank: 3, deck: 'Jund Sacrifice', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Tamplier007333', rank: 4, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'AnklDen', rank: 5, deck: 'Niv to Light', points: 4, mp: 3, mw: 1, match_record: '1-1-1', game_record: '3-3-1' },
+      { player: 'NickLatkovich', rank: 6, deck: 'Orzhov Monument', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
+      { player: 'Elishaa', rank: 7, deck: 'Izzet Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'Very_Bad_Man', rank: 8, deck: 'Orzhov Midrange', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['K1ppy', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['Tamplier007333', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['ispinyouround', 'AnklDen'], winner: 0, record: '1-1-1' },
+        { players: ['Elishaa', 'Akel'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['K1ppy', 'Akel'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'Elishaa'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['K1ppy', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['Akel', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['Tamplier007333', 'Elishaa'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 397115,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (15.01.26)',
