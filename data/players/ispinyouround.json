@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":0.9610894941634242,"U":0.04669260700389105,"W":0.007782101167315176,"G":0.007782101167315176},
+  "color_stats": {"B":1,"R":0.9618320610687023,"U":0.04580152671755725,"W":0.0076335877862595426,"G":0.0076335877862595426},
   "recent_events": [
+    {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":7,"rank":[1,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-0-1","game_record":"5-3-1"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":9,"rank":[1,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":6,"rank":[5,12],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":391032,"name":"Fall League 2025 | Legacy #6/6","date":"2025-12-21","format":"legacy","points":10,"rank":[2,8],"match_record":"3-0-1","game_record":"7-3-0"},
@@ -89,8 +90,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 84,
-  "match_played": 335,
-  "match_wins": 175,
-  "favorite_format": ["pioneer", 0.9166666666666666]
+  "events_count": 85,
+  "match_played": 338,
+  "match_wins": 177,
+  "favorite_format": ["pioneer", 0.9176470588235294]
 }

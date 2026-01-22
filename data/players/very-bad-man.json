@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"U":0.3701226309921962,"B":1,"G":0.24191750278706806,"R":0.4983277591973245,"W":0.5317725752508363},
+  "color_stats": {"W":0.5394736842105264,"B":1,"U":0.3640350877192982,"G":0.23793859649122812,"R":0.49013157894736853},
   "recent_events": [
+    {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[16,25],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":392340,"name":"Fall League 2025 | Standard #11/12","date":"2025-12-23","format":"standard","points":1,"rank":[5,6],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"0-3-1","game_record":"3-7-0"},
     {"id":391026,"name":"Fall League 2025 | Pioneer #12/12","date":"2025-12-18","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -117,8 +118,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 112,
-  "match_played": 442,
+  "events_count": 113,
+  "match_played": 445,
   "match_wins": 202,
-  "favorite_format": ["pioneer", 0.6785714285714286]
+  "favorite_format": ["pioneer", 0.6814159292035398]
 }
