@@ -3,6 +3,52 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 399909,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (27.01.26)',
+    date: '2026-01-27',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Simic Artifacts', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-2-0' },
+      { player: 'profunny', rank: 2, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'BRV', rank: 3, deck: 'Boros Aggro', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: '[OMG]Summie', rank: 4, deck: 'Sultai Control', points: 7, mp: 3, mw: 1, match_record: '2-1-1', game_record: '5-3-0' },
+      { player: 'Barbossa', rank: 5, deck: 'Mono-White Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'RomanKohan14', rank: 6, deck: 'Dimir Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Alex88', rank: 7, deck: 'Jeskai Bounce', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Very_Bad_Man', rank: 8, deck: 'Dimir Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'ykcyc', rank: 9, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '5-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['[OMG]Summie', null], winner: 1, record: 'bye' },
+        { players: ['ykcyc', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'RomanKohan14'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Barbossa'], winner: 2, record: '2-1-0' },
+        { players: ['profunny', 'Alex88'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['[OMG]Summie', 'Alex88'], winner: 2, record: '2-0-0' },
+        { players: ['Barbossa', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['profunny', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'ykcyc'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ykcyc', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'Barbossa'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'profunny'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Alex88'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', '[OMG]Summie'], winner: 0, record: '1-1-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['profunny', 'Barbossa'], winner: 1, record: '2-1-0' },
+        { players: ['ykcyc', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 396543,
     format: Format.STANDARD,
     name: 'Daily | Standard (13.01.26)',

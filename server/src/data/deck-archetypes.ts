@@ -51,6 +51,7 @@ export const ARCHETYPES = {
   'Jeskai Blink': 'WUR',
   'Jeskai Prowess': ['WUR', DeckType.AGGRO],
   'Jeskai Energy': ['WUR', DeckType.AGGRO],
+  'Jeskai Bounce': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
