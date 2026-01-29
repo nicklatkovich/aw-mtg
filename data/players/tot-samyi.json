@@ -4,9 +4,9 @@
   "display_name": "Fedulov Rinat",
   "color_stats": {"W":0.6666666666666666,"U":0.6666666666666666,"B":0.6666666666666666,"G":1},
   "recent_events": [
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":13,"rank":[4,20],"deck":{"archetype":"Esper Stoneblade","colors":"WUB","type":"Midrange"},"match_record":"4-2-1","game_record":"10-5-3"},
-    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[15,35],"deck":{"archetype":"Walls Combo","colors":"G","type":"Combo"},"match_record":"3-3-0","game_record":"8-8-0"},
-    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[12,20],"deck":{"archetype":"Esper Tempo","colors":"WUB","type":"Tempo"},"match_record":"2-3-0","game_record":"4-7-0"},
+    {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":13,"rank":[4,20],"deck":{"archetype":"Esper Stoneblade","colors":"WUB","type":"Midrange"},"match_record":"4-2-1","game_record":"10-5-3"},
+    {"id":379112,"name":"★★★ Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":9,"rank":[15,35],"deck":{"archetype":"Walls Combo","colors":"G","type":"Combo"},"match_record":"3-3-0","game_record":"8-8-0"},
+    {"id":379109,"name":"★★★ Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":6,"rank":[12,20],"deck":{"archetype":"Esper Tempo","colors":"WUB","type":"Tempo"},"match_record":"2-3-0","game_record":"4-7-0"},
     {"id":177981,"date":"2024-10-31","format":"pioneer","points":10,"rank":[2,14]}
   ],
   "events_count": 4,

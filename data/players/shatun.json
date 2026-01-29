@@ -5,7 +5,7 @@
   "color_stats": {"U":1,"B":1},
   "recent_events": [
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":12,"rank":[2,25],"match_record":"4-0-0","game_record":"8-1-0"},
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":13,"rank":[3,20],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"4-2-1","game_record":"8-6-3"},
+    {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":13,"rank":[3,20],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"4-2-1","game_record":"8-6-3"},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":6,"rank":[5,12]}
   ],
   "events_count": 3,

@@ -2,19 +2,20 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.30755395683453235,"U":0.09172661870503598,"B":1,"G":0.1456834532374101,"R":0.8291366906474821},
+  "color_stats": {"W":0.3197879858657244,"U":0.107773851590106,"B":1,"G":0.14310954063604242,"R":0.8144876325088338},
   "recent_events": [
+    {"id":396568,"name":"★★★ Fall League 2025 | Pauper Finals","date":"2026-01-17","format":"pauper","points":3,"rank":[5,6],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"1-4-0","game_record":"5-9-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"5-3-0"},
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":3,"rank":[5,8],"deck":{"archetype":"Selesnya Clerics","colors":"WG","type":"Combo"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[11,25],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":9,"rank":[3,11],"match_record":"3-1-0","game_record":"6-2-0"},
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null}},
+    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":9,"rank":[5,13],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":6,"rank":[9,16],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":383625,"name":"Fall League 2025 | Pauper #7/12","date":"2025-11-19","format":"pauper","points":2,"rank":[15,17],"match_record":"0-2-2","game_record":"3-6-0"},
     {"id":382613,"name":"Fall League 2025 | Pioneer #7/12","date":"2025-11-13","format":"pioneer","points":10,"rank":[1,11],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-0-1","game_record":"7-2-1"},
-    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":0,"rank":[34,35],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
+    {"id":379112,"name":"★★★ Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":0,"rank":[34,35],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":379104,"name":"Fall League 2025 | Pauper #6/12","date":"2025-11-05","format":"pauper","points":6,"rank":[7,11],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374660,"name":"Fall League 2025 | Pauper #4/12","date":"2025-10-22","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"4-0-0","game_record":"8-1-0"},
@@ -96,8 +97,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 91,
-  "match_played": 343,
-  "match_wins": 185,
-  "favorite_format": ["pioneer", 0.8241758241758241]
+  "events_count": 92,
+  "match_played": 348,
+  "match_wins": 186,
+  "favorite_format": ["pioneer", 0.8152173913043478]
 }

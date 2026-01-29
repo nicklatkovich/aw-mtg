@@ -4,8 +4,8 @@
   "display_name": "Erlanger Alex",
   "color_stats": {"W":0.6000000000000001,"B":1,"U":0.4,"G":0.4},
   "recent_events": [
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":10,"rank":[7,20],"deck":{"archetype":"Orzhov Stompy","colors":"WB","type":"Aggro"},"match_record":"3-2-1","game_record":"8-6-3"},
-    {"id":379109,"name":"Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":10,"rank":[5,20],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"3-2-1","game_record":"8-5-3"}
+    {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":10,"rank":[7,20],"deck":{"archetype":"Orzhov Stompy","colors":"WB","type":"Aggro"},"match_record":"3-2-1","game_record":"8-6-3"},
+    {"id":379109,"name":"★★★ Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":10,"rank":[5,20],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"3-2-1","game_record":"8-5-3"}
   ],
   "events_count": 2,
   "match_played": 12,

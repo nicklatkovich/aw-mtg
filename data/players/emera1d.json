@@ -4,8 +4,8 @@
   "display_name": "Sarvira Mihail",
   "color_stats": {"B":1,"W":0.5,"G":0.5},
   "recent_events": [
-    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[17,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-3-0","game_record":"7-7-0"},
-    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":22,"rank":[1,35],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"7-1-1","game_record":"15-6-3"}
+    {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[17,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-3-0","game_record":"7-7-0"},
+    {"id":379112,"name":"★★★ Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":22,"rank":[1,35],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"7-1-1","game_record":"15-6-3"}
   ],
   "events_count": 2,
   "match_played": 15,

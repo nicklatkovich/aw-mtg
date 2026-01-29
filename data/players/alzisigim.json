@@ -4,8 +4,8 @@
   "display_name": "Smolakov Andrew",
   "color_stats": {"W":0.16666666666666669,"U":0.16666666666666669,"B":0.16666666666666669,"R":1,"G":0.16666666666666669},
   "recent_events": [
-    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":10,"rank":[12,33],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-2-1","game_record":"8-8-1"},
-    {"id":379112,"name":"Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":3,"rank":[31,35],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"}
+    {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":10,"rank":[12,33],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-2-1","game_record":"8-8-1"},
+    {"id":379112,"name":"★★★ Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":3,"rank":[31,35],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"}
   ],
   "events_count": 2,
   "match_played": 10,

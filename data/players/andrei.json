@@ -7,7 +7,7 @@
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":9,"rank":[1,8],"deck":{"archetype":"Gruul Elves","colors":"RG","type":null},"match_record":"3-0-0","game_record":"6-1-0"},
     {"id":391032,"name":"Fall League 2025 | Legacy #6/6","date":"2025-12-21","format":"legacy","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":1,"rank":[15,16],"deck":{"archetype":"Flicker Tron","colors":"WUBRG","type":null},"match_record":"0-2-1","game_record":"2-5-0"},
-    {"id":379115,"name":"Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":0,"rank":[20,20],"deck":{"archetype":"Dimir Reanimator","colors":"UB","type":"Combo"},"match_record":"0-3-0","game_record":"1-6-0"},
+    {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":0,"rank":[20,20],"deck":{"archetype":"Dimir Reanimator","colors":"UB","type":"Combo"},"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":3,"rank":[13,20],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"1-1-0","game_record":"3-3-0"},
     {"id":324254,"name":"Summer League 2025 | Legacy #1","date":"2025-06-15","format":"legacy","points":3,"rank":[7,7],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":323688,"name":"Summer League 2025 | Standard #2","date":"2025-06-10","format":"standard","points":3,"rank":[13,13],"deck":{"archetype":"Azorius Omniscience","colors":"WU","type":"Combo"},"match_record":"1-2-0","game_record":"3-4-0"},

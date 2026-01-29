@@ -4,7 +4,7 @@
   "display_name": "Glushkov Anton",
   "color_stats": {"U":0.8,"R":1,"G":0.2},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"}},
+    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"}},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[8,19],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":1,"rank":[17,20],"match_record":"0-2-1","game_record":"2-5-1"},
     {"id":365355,"name":"Daily | Pauper (17.09)","date":"2025-09-17","format":"pauper","points":6,"rank":[4,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-1-0","game_record":"4-4-0"},

@@ -27,7 +27,7 @@
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":7,"rank":[5,15],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-1-1","game_record":"4-3-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[7,25],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":340482,"name":"Summer League 2025 | Standard #7","date":"2025-07-15","format":"standard","points":6,"rank":[8,17],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Mono-Red Prison","colors":"R","type":null}},
+    {"id":"trios250713","name":"★ Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Mono-Red Prison","colors":"R","type":null}},
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":9,"rank":[4,22],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"l250629","name":"Summer League 2025 | Legacy #2","date":"2025-06-29","format":"legacy","points":12,"rank":[1,5],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":330422,"name":"Summer League 2025 | Pioneer #4","date":"2025-06-26","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},

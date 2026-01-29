@@ -5,7 +5,7 @@
   "color_stats": {"B":1,"R":0.5454545454545454,"U":0.45454545454545453},
   "recent_events": [
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
-    {"id":379114,"name":"Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":0,"rank":[33,33],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"0-4-0","game_record":"4-8-0"},
+    {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":0,"rank":[33,33],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"0-4-0","game_record":"4-8-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10.25)","date":"2025-10-05","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},

@@ -4,7 +4,7 @@
   "display_name": "Sutko Artem",
   "color_stats": {"B":1,"R":0.32203389830508466,"G":0.9717514124293785,"W":0.29378531073446323,"U":0.4632768361581921},
   "recent_events": [
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}},
+    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}},
     {"id":370843,"name":"Fall League 2025 | Pauper #2/12","date":"2025-10-08","format":"pauper","points":0,"rank":[17,17],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":369139,"name":"Fall League 2025 | Pauper #1/12","date":"2025-10-01","format":"pauper","points":6,"rank":[4,10],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -16,7 +16,7 @@
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":9,"rank":[5,20],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":347002,"name":"Summer League 2025 | Pauper #9","date":"2025-07-30","format":"pauper","points":3,"rank":[14,19],"deck":{"archetype":"Jund Altar Tron","colors":"BRG","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":9,"rank":[6,25],"deck":{"archetype":"Jund Altar Tron","colors":"BRG","type":null},"match_record":"3-1-0","game_record":"6-2-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Mono-Blue Omni-Tell","colors":"U","type":"Combo"}},
+    {"id":"trios250713","name":"★ Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Mono-Blue Omni-Tell","colors":"U","type":"Combo"}},
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":6,"rank":[9,18],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":3,"rank":[7,12],"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[9,16],"deck":{"archetype":"Elf Tribal","colors":null,"type":null}},

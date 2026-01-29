@@ -5,7 +5,7 @@
   "color_stats": {"W":0.7975708502024293,"U":1,"B":0.493927125506073,"G":0.3724696356275304,"R":0.6153846153846155},
   "recent_events": [
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":12,"rank":[1,25],"match_record":"4-0-0","game_record":"8-3-0"},
-    {"id":"trios251213","name":"Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null}},
+    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null}},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":376479,"name":"Fall League 2025 | Pauper #5/12","date":"2025-10-29","format":"pauper","points":9,"rank":[2,18],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":374661,"name":"Fall League 2025 | Pioneer #4/12","date":"2025-10-23","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-2-0","game_record":"1-4-0"},
@@ -22,7 +22,7 @@
     {"id":349155,"name":"Summer League 2025 | Pioneer #10","date":"2025-08-07","format":"pioneer","points":9,"rank":[3,14],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":10,"rank":[2,20],"deck":{"archetype":"Jeskai Gates","colors":"WUR","type":null},"match_record":"3-0-1","game_record":"7-1-0"},
     {"id":341304,"name":"Summer League 2025 | Pioneer #7","date":"2025-07-17","format":"pioneer","points":12,"rank":[1,15],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
-    {"id":"trios250713","name":"Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,8],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}},
+    {"id":"trios250713","name":"★ Special Event: Trios (13.07.25)","date":"2025-07-13","format":"trios","points":9,"rank":[2,8],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}},
     {"id":335217,"name":"Summer League 2025 | Draft #4 (FIN)","date":"2025-07-04","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":331797,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-27","format":"draft","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"0-4-0"},
