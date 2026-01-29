@@ -3,6 +3,37 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 400202,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (29.01.26)',
+    date: '2026-01-29',
+    standings: [
+      { player: 'K1ppy', rank: 1, deck: 'Niv to Light', points: 7, mp: 3, mw: 2, match_record: '2-0-1', game_record: '4-1-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'Tamplier007333', rank: 3, deck: 'Mono-Red Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'AnklDen', rank: 4, deck: 'Niv to Light', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'ispinyouround', rank: 5, deck: 'Rakdos Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Elishaa', rank: 6, deck: 'Izzet Aggro', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '1-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AnklDen', 'Tamplier007333'], winner: 1, record: '2-1-0' },
+        { players: ['K1ppy', 'Elishaa'], winner: 0, record: '1-1-0' },
+        { players: ['ispinyouround', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['Elishaa', 'Tamplier007333'], winner: 2, record: '2-0-0' },
+        { players: ['K1ppy', 'ispinyouround'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+        { players: ['K1ppy', 'AnklDen'], winner: 1, record: '1-0-0' },
+        { players: ['Elishaa', 'ispinyouround'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 398594,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (22.01.26)',
