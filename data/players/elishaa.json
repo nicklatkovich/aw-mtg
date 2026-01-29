@@ -4,11 +4,12 @@
   "display_name": "Shametko Liza",
   "color_stats": {"U":1,"R":1},
   "recent_events": [
+    {"id":400202,"name":"Event 400202","date":"2026-01-29","format":"pioneer","points":1,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-2-1","game_record":"1-5-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"}
   ],
-  "events_count": 2,
-  "match_played": 7,
+  "events_count": 3,
+  "match_played": 10,
   "match_wins": 1,
   "favorite_format": ["pioneer", 1]
 }

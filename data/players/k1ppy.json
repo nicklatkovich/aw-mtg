@@ -2,8 +2,9 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"W":0.22118380062305304,"G":0.4392523364485981,"R":1,"U":0.08099688473520252,"B":0.09657320872274147},
+  "color_stats": {"W":0.22600619195046442,"U":0.086687306501548,"B":0.10216718266253873,"R":1,"G":0.4427244582043343},
   "recent_events": [
+    {"id":400202,"name":"Event 400202","date":"2026-01-29","format":"pioneer","points":7,"rank":[1,6],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-0-1","game_record":"4-1-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":6,"rank":[2,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":9,"rank":[5,25],"match_record":"3-1-0","game_record":"7-3-0"},
@@ -97,8 +98,8 @@
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[10,12]},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":3,"rank":[12,12]}
   ],
-  "events_count": 92,
-  "match_played": 364,
-  "match_wins": 210,
-  "favorite_format": ["pioneer", 0.5869565217391305]
+  "events_count": 93,
+  "match_played": 367,
+  "match_wins": 212,
+  "favorite_format": ["pioneer", 0.5913978494623656]
 }

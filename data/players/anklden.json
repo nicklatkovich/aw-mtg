@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"W":1,"U":0.43897637795275635,"B":0.6259842519685042,"R":0.5669291338582679,"G":0.8523622047244093},
+  "color_stats": {"W":1,"U":0.44552529182879425,"B":0.6303501945525294,"R":0.5719844357976656,"G":0.8540856031128403},
   "recent_events": [
+    {"id":400202,"name":"Event 400202","date":"2026-01-29","format":"pioneer","points":3,"rank":[4,6],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":4,"rank":[5,8],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"1-1-1","game_record":"3-3-1"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":6,"rank":[7,9],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[6,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -100,8 +101,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 95,
-  "match_played": 380,
-  "match_wins": 189,
-  "favorite_format": ["pioneer", 0.8526315789473684]
+  "events_count": 96,
+  "match_played": 383,
+  "match_wins": 190,
+  "favorite_format": ["pioneer", 0.8541666666666666]
 }

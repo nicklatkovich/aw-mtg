@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"W":0.5882066276803118,"R":1,"U":0.4273879142300195,"G":0.651559454191033,"B":0.022904483430799216},
+  "color_stats": {"U":0.4356388088376561,"R":1,"W":0.5797310278578289,"G":0.6421709894332371,"B":0.022574447646493752},
   "recent_events": [
+    {"id":400202,"name":"Event 400202","date":"2026-01-29","format":"pioneer","points":6,"rank":[2,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":396569,"name":"★★★ Fall League 2025 | Pioneer Finals","date":"2026-01-18","format":"pioneer","points":15,"rank":[3,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"5-4-0","game_record":"12-12-0"},
     {"id":396565,"name":"★★★ Fall League 2025 | Standard Finals","date":"2026-01-15","format":"standard","points":6,"rank":[4,6],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-3-0","game_record":"7-7-0"},
@@ -136,8 +137,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 131,
-  "match_played": 522,
-  "match_wins": 270,
-  "favorite_format": ["pioneer", 0.549618320610687]
+  "events_count": 132,
+  "match_played": 525,
+  "match_wins": 272,
+  "favorite_format": ["pioneer", 0.553030303030303]
 }

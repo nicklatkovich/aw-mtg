@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":0.9625468164794008,"U":0.0449438202247191,"W":0.007490636704119851,"G":0.007490636704119851},
+  "color_stats": {"B":1,"R":0.9632352941176471,"U":0.04411764705882353,"W":0.007352941176470589,"G":0.007352941176470589},
   "recent_events": [
+    {"id":400202,"name":"Event 400202","date":"2026-01-29","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":7,"rank":[1,8],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-0-1","game_record":"5-3-1"},
     {"id":396569,"name":"★★★ Fall League 2025 | Pioneer Finals","date":"2026-01-18","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"1-4-0","game_record":"6-8-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":9,"rank":[1,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -91,8 +92,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 86,
-  "match_played": 343,
-  "match_wins": 178,
-  "favorite_format": ["pioneer", 0.9186046511627907]
+  "events_count": 87,
+  "match_played": 346,
+  "match_wins": 179,
+  "favorite_format": ["pioneer", 0.9195402298850575]
 }
