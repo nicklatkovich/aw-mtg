@@ -1,11 +1,11 @@
 import { Format } from '@dtos';
-import { Tournament } from '../data.types';
+import { Tournament } from '@server/data/data.types';
 
 export const _2025_specials: Tournament[] = [
   {
     id: 'trios251213',
     format: Format.TRIOS,
-    name: 'Special Event: Trios (13.12.25)',
+    name: '\u2605 Special Event: Trios (13.12.25)',
     date: '2025-12-13',
     standings: [
       // 3. Holy Trinity (biba&boba)
@@ -135,7 +135,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 379115,
     format: Format.LEGACY,
-    name: 'Big Magic Weekend | Fall 2025 | Legacy',
+    name: '\u2605\u2605\u2605 Big Magic Weekend | Fall 2025 | Legacy',
     date: '2025-11-09',
     standings: [
       { player: 'Aleksandr_KoLoshk', rank: 1, deck: 'Jeskai Control', points: 18, mp: 8, mw: 6, match_record: '6-2-0', game_record: '13-8-0' },
@@ -230,7 +230,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 379114,
     format: Format.PIONEER,
-    name: 'Big Magic Weekend | Fall 2025 | Pioneer',
+    name: '\u2605\u2605\u2605 Big Magic Weekend | Fall 2025 | Pioneer',
     date: '2025-11-09',
     standings: [
       { player: 'Ixidor', rank: 1, deck: 'Azorius Control', points: 22, mp: 9, mw: 7, match_record: '7-1-1', game_record: '14-3-3' },
@@ -384,7 +384,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 379112,
     format: Format.PAUPER,
-    name: 'Big Magic Weekend | Fall 2025 | Pauper',
+    name: '\u2605\u2605\u2605 Big Magic Weekend | Fall 2025 | Pauper',
     date: '2025-11-08',
     standings: [
       { player: 'Emera1d', rank: 1, deck: 'Selesnya Bogles', points: 22, mp: 9, mw: 7, match_record: '7-1-1', game_record: '15-6-3' },
@@ -549,7 +549,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 379109,
     format: Format.STANDARD,
-    name: 'Big Magic Weekend | Fall 2025 | Standard',
+    name: '\u2605\u2605\u2605 Big Magic Weekend | Fall 2025 | Standard',
     date: '2025-11-07',
     standings: [
       { player: 'aspelled', rank: 1, deck: 'Mono-Red Aggro', points: 20, mp: 8, mw: 6, match_record: '6-0-2', game_record: '12-2-6' },
@@ -740,7 +740,7 @@ export const _2025_specials: Tournament[] = [
   {
     id: 'trios250713',
     format: Format.TRIOS,
-    name: 'Special Event: Trios (13.07.25)',
+    name: '\u2605 Special Event: Trios (13.07.25)',
     date: '2025-07-13',
     standings: [
       // 7 - 5

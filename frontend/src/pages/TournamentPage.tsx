@@ -60,8 +60,8 @@ const TournamentPage: React.FC = () => {
                   {displayMatchRecord ? <div className="cell">Match Record</div> : null}
                   {displayGameRecord ? <div className="cell">Game Record</div> : null}
                   {Array.from({ length: rounds }).map((_, i) => (
-                    <div key={i.toString(10)} className={`cell ${rounds > 5 ? 'small-font' : ''}`}>
-                      Round #{i + 1}
+                    <div key={i.toString(10)} className={`cell ${rounds > 5 && rounds < 10 ? 'small-font' : ''}`}>
+                      {rounds > 9 ? 'R' : 'Round '}#{i + 1}
                     </div>
                   ))}
                 </div>

@@ -186,6 +186,7 @@ export const ARCHETYPES = {
   'Izzet Looting': 'UR',
   'Izzet Lessons': 'UR',
   'Izzet Storm': ['UR', DeckType.COMBO],
+  'Izzet Monarch': ['UR', DeckType.TEMPO],
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
