@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"U":1,"G":0.7285932721712541,"W":0.7056574923547403,"B":0.43042813455657497,"R":0.438073394495413},
+  "color_stats": {"W":0.7100903614457834,"U":1,"G":0.7326807228915666,"B":0.4239457831325302,"R":0.43147590361445803},
   "recent_events": [
+    {"id":401511,"name":"Daily | Standard (03.02.26)","date":"2026-02-03","format":"standard","points":9,"rank":[2,5],"deck":{"archetype":"Bant Airbending","colors":"WUG","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":10,"rank":[1,9],"deck":{"archetype":"Simic Artifacts","colors":"UG","type":"Aggro"},"match_record":"3-0-1","game_record":"7-2-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":3,"rank":[6,8],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":397115,"name":"Daily | Pioneer (15.01.26)","date":"2026-01-15","format":"pioneer","points":3,"rank":[3,4],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"1-2-0","game_record":"3-4-0"},
@@ -109,8 +110,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 104,
-  "match_played": 418,
-  "match_wins": 212,
-  "favorite_format": ["pioneer", 0.6634615384615384]
+  "events_count": 105,
+  "match_played": 422,
+  "match_wins": 215,
+  "favorite_format": ["pioneer", 0.6571428571428571]
 }
