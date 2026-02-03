@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 401511,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (03.02.26)',
+    date: '2026-02-03',
+    standings: [
+      { player: 'qvertion', rank: 1, deck: 'Dimir Doomsday', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Bant Airbending', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Barbossa', rank: 3, deck: 'Mono-White Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'BRV', rank: 4, deck: 'Boros Aggro', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'DamK6', rank: 5, deck: 'Izzet Lessons', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['DamK6', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Barbossa', 'qvertion'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'DamK6'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Barbossa'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['DamK6', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'Barbossa'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'BRV'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['Barbossa', 'DamK6'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 399909,
     format: Format.STANDARD,
     name: 'Daily | Standard (27.01.26)',

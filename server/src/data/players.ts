@@ -185,6 +185,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '430c1b56-1c88-448a-93ff-794395dc4084': 'Basharimov Mikhail',
   'b5786a16-feda-4ed5-a341-91c35f0226db': 'Shametko Liza',
   '54af729b-814c-427f-b82c-731f03a6cb53': 'Black Kirill',
+  '134f7b31-820a-43b7-bbc9-70e5a3b6ded6': 'Krykun Damian',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -400,4 +401,5 @@ export const playersByUsername: { [username in string]?: string } = {
   AndP13: 'd47a3fe6-81fe-4a3d-aab7-fff5d78656a7',
   Bubuntailo: '54af729b-814c-427f-b82c-731f03a6cb53',
   Kiryl_Smaktunovich: '1cac0dfc-55ad-42dd-9d8a-f7812cf73013',
+  DamK6: '134f7b31-820a-43b7-bbc9-70e5a3b6ded6',
 };
