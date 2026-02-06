@@ -2,8 +2,9 @@
   "guid": "8b7d7228-3991-438e-a90b-e35f88973292",
   "id": "alexei5",
   "display_name": "Abramenkov Alexei",
-  "color_stats": {"U":1,"W":0.47761194029850745,"G":0.1044776119402985,"B":0.029850746268656716,"R":0.029850746268656716},
+  "color_stats": {"U":1,"W":0.4155844155844156,"G":0.0909090909090909,"B":0.025974025974025976,"R":0.025974025974025976},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":0,"rank":[19,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":3,"rank":[15,20],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":328097,"name":"Summer League 2025 | Pauper #3","date":"2025-06-18","format":"pauper","points":9,"rank":[5,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":320629,"name":"Summer League 2025 | Pauper #1","date":"2025-06-04","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -17,8 +18,8 @@
     {"id":270568,"name":"League Standard | Season 11 (8/12)","date":"2025-03-18","format":"standard","points":6,"rank":[9,17],"deck":{"archetype":"Azorius Enchantments","colors":"WU","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":96558,"date":"2024-05-23","format":"pioneer","points":3,"rank":[11,12]}
   ],
-  "events_count": 12,
-  "match_played": 44,
+  "events_count": 13,
+  "match_played": 48,
   "match_wins": 15,
-  "favorite_format": ["standard", 0.5]
+  "favorite_format": ["standard", 0.46153846153846156]
 }

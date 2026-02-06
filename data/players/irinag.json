@@ -4,14 +4,15 @@
   "display_name": "Gornovskaya Irina",
   "color_stats": {"R":1,"G":1},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":4,"rank":[13,19],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":356404,"name":"Summer League 2025 | Pauper #11","date":"2025-08-27","format":"pauper","points":6,"rank":[6,16],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":9,"rank":[6,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"3-1-0","game_record":"5-3-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":340835,"name":"Summer League 2025 | Pauper #7","date":"2025-07-16","format":"pauper","points":6,"rank":[14,25],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":3,"rank":[18,22]}
   ],
-  "events_count": 5,
-  "match_played": 20,
-  "match_wins": 10,
-  "favorite_format": ["pauper", 0.8]
+  "events_count": 6,
+  "match_played": 24,
+  "match_wins": 11,
+  "favorite_format": ["pauper", 0.8333333333333334]
 }

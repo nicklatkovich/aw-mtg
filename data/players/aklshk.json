@@ -2,8 +2,11 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"G":0.06850961538461539,"W":0.15264423076923078,"R":0.08653846153846152,"B":0.24278846153846156},
+  "color_stats": {"U":1,"G":0.06390134529147982,"W":0.1423766816143498,"R":0.08071748878923767,"B":0.22645739910313906},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":4,"rank":[14,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":9,"rank":[2,19],"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":6,"rank":[8,17],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":396568,"name":"★★★ Fall League 2025 | Pauper Finals","date":"2026-01-17","format":"pauper","points":12,"rank":[2,6],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"4-1-0","game_record":"9-3-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":12,"rank":[1,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"2-5-0"},
@@ -65,8 +68,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 60,
-  "match_played": 227,
-  "match_wins": 126,
-  "favorite_format": ["pauper", 0.55]
+  "events_count": 63,
+  "match_played": 239,
+  "match_wins": 132,
+  "favorite_format": ["pauper", 0.5714285714285714]
 }

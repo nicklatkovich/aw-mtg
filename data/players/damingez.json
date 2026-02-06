@@ -2,8 +2,10 @@
   "guid": "5bfb24cd-0bb5-4040-b74f-c535c6a5bf4d",
   "id": "damingez",
   "display_name": "Kryshkavets Egor",
-  "color_stats": {"U":0.4482758620689656,"B":1,"G":0.3448275862068965,"R":0.3103448275862069,"W":0.06896551724137931},
+  "color_stats": {"G":0.4482758620689655,"U":0.4482758620689656,"B":1,"R":0.3103448275862069,"W":0.06896551724137931},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[5,19],"deck":{"archetype":"Mono-Green Infect","colors":"G","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":7,"rank":[7,19],"match_record":"2-1-1","game_record":"5-3-0"},
     {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":6,"rank":[2,6],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}},
     {"id":388066,"name":"Fall League 2025 | Pioneer #10/12","date":"2025-12-04","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -29,8 +31,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ],
-  "events_count": 24,
-  "match_played": 103,
-  "match_wins": 46,
-  "favorite_format": ["pauper", 0.375]
+  "events_count": 26,
+  "match_played": 111,
+  "match_wins": 51,
+  "favorite_format": ["pauper", 0.4230769230769231]
 }

@@ -2,8 +2,11 @@
   "guid": "00c53649-c5aa-4bed-a147-35396f52ec60",
   "id": "burial63",
   "display_name": "Burankou Aliaksei",
-  "color_stats": {"W":0.15151515151515152,"U":0.8181818181818182,"G":1,"B":0.7878787878787878,"R":0.2727272727272727},
+  "color_stats": {"G":1,"W":0.13513513513513514,"U":0.7297297297297297,"B":0.7027027027027027,"R":0.24324324324324326},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":6,"rank":[7,19],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":0,"rank":[18,19],"match_record":"0-4-0","game_record":"1-8-0"},
+    {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":0,"rank":[16,17],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":1,"rank":[18,18],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"0-3-1","game_record":"1-7-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":1,"rank":[23,25],"match_record":"0-3-1","game_record":"2-7-0"},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":0,"rank":[12,13],"match_record":"0-1-0","game_record":"0-2-0"},
@@ -63,8 +66,8 @@
     {"id":134250,"date":"2024-08-15","format":"pioneer","points":4,"rank":[13,17]},
     {"id":121447,"date":"2024-07-18","format":"pioneer","points":6,"rank":[10,21]}
   ],
-  "events_count": 58,
-  "match_played": 214,
-  "match_wins": 69,
-  "favorite_format": ["standard", 0.5172413793103449]
+  "events_count": 61,
+  "match_played": 226,
+  "match_wins": 71,
+  "favorite_format": ["standard", 0.4918032786885246]
 }

@@ -4,6 +4,7 @@
   "display_name": "Draghin Alexander",
   "color_stats": {"U":1,"R":0.18421052631578946,"B":0.18421052631578946},
   "recent_events": [
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":3,"rank":[13,19],"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":1,"rank":[17,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"0-2-1","game_record":"1-5-0"},
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":6,"rank":[2,8],"deck":{"archetype":"Mono-Blue Tide Control","colors":"U","type":"Control"},"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":6,"rank":[3,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-1-0","game_record":"5-3-0"},
@@ -39,8 +40,8 @@
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":4,"rank":[8,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-2"}
   ],
-  "events_count": 34,
-  "match_played": 116,
-  "match_wins": 46,
-  "favorite_format": ["pauper", 0.8529411764705882]
+  "events_count": 35,
+  "match_played": 119,
+  "match_wins": 47,
+  "favorite_format": ["pauper", 0.8571428571428571]
 }

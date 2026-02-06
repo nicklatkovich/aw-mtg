@@ -2,8 +2,11 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"W":0.3197879858657244,"U":0.107773851590106,"B":1,"G":0.14310954063604242,"R":0.8144876325088338},
+  "color_stats": {"R":0.8263888888888888,"G":0.16666666666666669,"W":0.3315972222222222,"U":0.1232638888888889,"B":1},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":3,"rank":[18,19],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"1-2-0","game_record":"4-5-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":0,"rank":[19,19],"match_record":"0-2-0","game_record":"1-4-0"},
+    {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":0,"rank":[17,17],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":396568,"name":"★★★ Fall League 2025 | Pauper Finals","date":"2026-01-17","format":"pauper","points":3,"rank":[5,6],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"1-4-0","game_record":"5-9-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":9,"rank":[4,18],"deck":{"archetype":"Esper Affinity","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"5-3-0"},
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":3,"rank":[5,8],"deck":{"archetype":"Selesnya Clerics","colors":"WG","type":"Combo"},"match_record":"1-2-0","game_record":"3-5-0"},
@@ -97,8 +100,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 92,
-  "match_played": 348,
-  "match_wins": 186,
-  "favorite_format": ["pioneer", 0.8152173913043478]
+  "events_count": 95,
+  "match_played": 355,
+  "match_wins": 187,
+  "favorite_format": ["pioneer", 0.7894736842105263]
 }

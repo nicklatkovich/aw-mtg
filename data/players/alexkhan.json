@@ -2,8 +2,11 @@
   "guid": "5188dedb-3c53-4644-ac45-73b99669b87b",
   "id": "alexkhan",
   "display_name": "Aflakhanov Alex",
-  "color_stats": {"W":1,"G":0.6511627906976744,"U":0.5116279069767442},
+  "color_stats": {"U":0.6046511627906976,"B":0.023255813953488372,"R":0.023255813953488372,"W":1,"G":0.6511627906976744},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":6,"rank":[9,19],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":12,"rank":[1,19],"match_record":"4-0-0","game_record":"8-3-0"},
+    {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":6,"rank":[9,17],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":396569,"name":"★★★ Fall League 2025 | Pioneer Finals","date":"2026-01-18","format":"pioneer","points":21,"rank":[1,6],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"7-2-0","game_record":"16-6-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":5,"rank":[11,18],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-1-2","game_record":"4-4-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -37,8 +40,8 @@
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
-  "events_count": 32,
-  "match_played": 132,
-  "match_wins": 65,
-  "favorite_format": ["pioneer", 0.9375]
+  "events_count": 35,
+  "match_played": 144,
+  "match_wins": 73,
+  "favorite_format": ["pioneer", 0.8571428571428571]
 }

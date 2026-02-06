@@ -2,9 +2,12 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"U":0.23040152963671123,"B":0.3881453154875717,"W":0.6223709369024857,"G":0.2829827915869981,"R":1},
+  "color_stats": {"W":0.632899628252788,"R":1,"U":0.2239776951672862,"B":0.37732342007434944,"G":0.275092936802974},
   "recent_events": [
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[6,19],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"3-1-0","game_record":"6-3-0"},
+    {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":3,"rank":[14,19],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":6,"rank":[6,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
+    {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":10,"rank":[2,17],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"3-0-1","game_record":"7-2-1"},
     {"id":396568,"name":"★★★ Fall League 2025 | Pauper Finals","date":"2026-01-17","format":"pauper","points":15,"rank":[1,6],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"5-0-0","game_record":"10-1-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":4,"rank":[12,18],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"1-2-1","game_record":"5-5-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":15,"rank":[1,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"5-1-0","game_record":"10-3-0"},
@@ -127,8 +130,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 122,
-  "match_played": 479,
-  "match_wins": 296,
-  "favorite_format": ["pioneer", 0.4344262295081967]
+  "events_count": 125,
+  "match_played": 490,
+  "match_wins": 303,
+  "favorite_format": ["pioneer", 0.424]
 }
