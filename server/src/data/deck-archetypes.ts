@@ -54,6 +54,8 @@ export const ARCHETYPES = {
   'Jeskai Energy': ['WUR', DeckType.AGGRO],
   'Jeskai Bounce': 'WUR',
   'Jeskai Ephemerate': 'WUR',
+  'Jeksai Hammer': 'WUR',
+  'Jeskai Splinter Twin': ['WUR', DeckType.COMBO],
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -282,7 +284,7 @@ export const ARCHETYPES = {
   'Mono-Green Aggro': ['G', DeckType.AGGRO],
   'Mono-Green Lands': ['G', DeckType.COMBO],
   // 4c
-  Dredge: ['WBRG', DeckType.COMBO],
+  Dredge: ['WUBRG', DeckType.COMBO],
   Tron: 'WBRG',
   Caves: ['WBRG', DeckType.CONTROL],
   Bogles: ['WUBG', DeckType.AGGRO],

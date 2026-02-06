@@ -3,8 +3,8 @@ import { archiveTournaments } from './tournaments/archive';
 import { _2025_commander } from './tournaments/_2025_commander';
 import { _2025_draft } from './tournaments/_2025_draft';
 import { _2025_legacy } from './tournaments/_2025_legacy';
-import { _2025_modern } from './tournaments/_2025_modern';
 import { _2025_sealed } from './tournaments/_2025_sealed';
+import { _2026_modern } from './tournaments/_2026_modern';
 import { _2026_pauper } from './tournaments/_2026_pauper';
 import { _2026_pioneer } from './tournaments/_2026_pioneer';
 import { _2026_premodern } from './tournaments/_2026_premodern';
@@ -16,8 +16,8 @@ export const allTournaments = [
   ..._2025_commander,
   ..._2025_draft,
   ..._2025_legacy,
-  ..._2025_modern,
   ..._2025_sealed,
+  ..._2026_modern,
   ..._2026_pauper,
   ..._2026_pioneer,
   ..._2026_premodern,

@@ -15,7 +15,7 @@ export const _2025_sealed: Tournament[] = [
       { rank: 5, player: 'BasharimovS', points: 7 },
       { rank: 6, player: 'Torongil', points: 6 },
       { rank: 7, player: 'qvertion', points: 4 },
-      { rank: 8, player: '9376b10f-6905-4c26-a2b0-b82f57bb03ab' /* Zhigar */, points: 3 },
+      { rank: 8, player: '5db075fb-48e5-48c9-b675-32b86f0312f7' /* Zhigar */, points: 3 },
       { rank: 9, player: 'NikitaP', points: 0 },
       { rank: 10, player: '6924b43a-3d96-48c4-ba76-d9618bc920ea' /* Gulenkov Egor */, points: 0 },
     ],

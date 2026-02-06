@@ -6,7 +6,7 @@ import { _2025_standard } from '@server/data/tournaments/archive/_2025_standard'
 import { playersByUsername } from '@server/data/players';
 import { _2025_pauper } from '@server/data/tournaments/archive/_2025_pauper';
 import { _2025_legacy } from '@server/data/tournaments/_2025_legacy';
-import { _2025_modern } from '@server/data/tournaments/_2025_modern';
+import { _2025_modern } from '@server/data/tournaments/archive/_2025_modern';
 
 const fall2025StandardEvents: (Tournament | null)[] = _2025_standard
   .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())

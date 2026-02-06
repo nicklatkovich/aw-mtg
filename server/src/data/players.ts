@@ -107,7 +107,6 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'b1084213-5f4d-46dc-8d7f-569b3aca266c': 'Prudnikovich Vladislav',
   '259361a8-d433-409f-932b-c0b1afcca9c9': 'Motovilov Andrey',
   '8d9259b5-6373-4dc7-8282-d1847d935e42': 'Moiseenko Pavel',
-  '9376b10f-6905-4c26-a2b0-b82f57bb03ab': ['Zhigar', { id: 'zhigar' }],
   'abbff07f-ef92-498f-8cc8-ca3b61169ad9': ['Polevikov Aleksandr', { id: 'polevikov' }],
   'e6d28df5-a35e-434f-87f0-4be11c9b9079': ['Pichushkin Andrey', { id: 'pichushkin' }],
   '53a0b738-a093-484e-8905-e9b5e7f98a3d': ['Trukhanovich Makar', { id: 'trukhanovich' }],
@@ -187,10 +186,10 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '54af729b-814c-427f-b82c-731f03a6cb53': 'Black Kirill',
   '134f7b31-820a-43b7-bbc9-70e5a3b6ded6': 'Krykun Damian',
   '5b07af89-d9b1-4fe7-ac84-547c5af00eec': 'Melnikov Boris',
+  '5db075fb-48e5-48c9-b675-32b86f0312f7': 'Zhigar Sergey',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
-  '5db075fb-48e5-48c9-b675-32b86f0312f7': 'HeartlessHero*',
   'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2*',
   '5c23490e-78e6-4e77-9f7b-95ae2dbb23d5': 'xcavi*',
   'e65cad71-3b22-44d7-8017-0e553f8c7231': ['BrOwl* Artem', { id: 'darkowlai' }],
