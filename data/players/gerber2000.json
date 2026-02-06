@@ -2,10 +2,11 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"G":0.42928039702233284,"R":0.863523573200993,"W":0.13151364764267998,"U":0.18114143920595538},
+  "color_stats": {"B":1,"G":0.4362745098039219,"R":0.8529411764705886,"W":0.14215686274509814,"U":0.17892156862745104},
   "recent_events": [
     {"id":"p260205","name":"Daily | Pioneer (05.02.26)","date":"2026-02-05","format":"pioneer","points":3,"rank":[4,4],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"1-2-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":401337,"name":"Daily | Modern (01.02.26)","date":"2026-02-01","format":"modern","points":6,"rank":[6,10],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":3,"rank":[16,19],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":9,"rank":[5,17],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":396856,"name":"Daily | Pauper (14.01.26)","date":"2026-01-14","format":"pauper","points":9,"rank":[2,18],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-2-0"},
@@ -84,8 +85,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 79,
-  "match_played": 301,
-  "match_wins": 127,
-  "favorite_format": ["pioneer", 0.4810126582278481]
+  "events_count": 80,
+  "match_played": 305,
+  "match_wins": 129,
+  "favorite_format": ["pioneer", 0.475]
 }

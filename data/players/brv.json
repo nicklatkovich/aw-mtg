@@ -2,10 +2,11 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.43744164332399627,"R":1,"W":0.5774976657329598,"G":0.6241830065359476,"B":0.02194211017740429},
+  "color_stats": {"U":0.44521178637200737,"R":1,"W":0.5695211786372008,"G":0.615561694290976,"B":0.021639042357274395},
   "recent_events": [
     {"id":"p260205","name":"Daily | Pioneer (05.02.26)","date":"2026-02-05","format":"pioneer","points":6,"rank":[2,4],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-1-0"},
     {"id":401511,"name":"Daily | Standard (03.02.26)","date":"2026-02-03","format":"standard","points":6,"rank":[4,5],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":401337,"name":"Daily | Modern (01.02.26)","date":"2026-02-01","format":"modern","points":9,"rank":[2,10],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":400202,"name":"Daily | Pioneer (29.01.26)","date":"2026-01-29","format":"pioneer","points":6,"rank":[2,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":9,"rank":[3,9],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":396569,"name":"★★★ Fall League 2025 | Pioneer Finals","date":"2026-01-18","format":"pioneer","points":15,"rank":[3,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"5-4-0","game_record":"12-12-0"},
@@ -139,8 +140,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 134,
-  "match_played": 529,
-  "match_wins": 274,
-  "favorite_format": ["pioneer", 0.5522388059701493]
+  "events_count": 135,
+  "match_played": 533,
+  "match_wins": 277,
+  "favorite_format": ["pioneer", 0.5481481481481482]
 }

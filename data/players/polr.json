@@ -2,8 +2,9 @@
   "guid": "16f3ca52-6de4-4ad0-9217-345bde3c0312",
   "id": "polr",
   "display_name": "Romanenko Polina",
-  "color_stats": {"R":0.16666666666666666,"U":1,"B":0.057971014492753624,"G":0.057971014492753624,"W":0.02173913043478261},
+  "color_stats": {"W":0.04255319148936171,"U":1,"B":0.07801418439716314,"R":0.1843971631205674,"G":0.07801418439716314},
   "recent_events": [
+    {"id":401337,"name":"Daily | Modern (01.02.26)","date":"2026-02-01","format":"modern","points":3,"rank":[9,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":3,"rank":[6,7],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":0,"rank":[12,12],"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":3,"rank":[17,20],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-3-0","game_record":"3-7-0"},
@@ -18,8 +19,8 @@
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":258802,"name":"League Pioneer | Season 5 (6/12)","date":"2025-03-06","format":"pioneer","points":1,"rank":[14,16],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}
   ],
-  "events_count": 13,
-  "match_played": 49,
-  "match_wins": 15,
-  "favorite_format": ["pauper", 0.7692307692307693]
+  "events_count": 14,
+  "match_played": 53,
+  "match_wins": 16,
+  "favorite_format": ["pauper", 0.7142857142857143]
 }
