@@ -30,6 +30,7 @@ export const ARCHETYPES = {
   'Azorius Stoneblade': 'WU',
   'Azorius Cats': 'WU',
   'Azorius Dreadnought': 'WU',
+  'Azorius Heroic': ['WU', DeckType.AGGRO],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -52,6 +53,7 @@ export const ARCHETYPES = {
   'Jeskai Prowess': ['WUR', DeckType.AGGRO],
   'Jeskai Energy': ['WUR', DeckType.AGGRO],
   'Jeskai Bounce': 'WUR',
+  'Jeskai Ephemerate': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -232,6 +234,7 @@ export const ARCHETYPES = {
   'Jund Dredge': ['BRG', DeckType.COMBO],
   'Jund Wildfire': ['BRG', DeckType.CONTROL],
   'Jund Altar Tron': 'BRG',
+  'Jund Spy Combo': ['BRG', DeckType.COMBO],
   // BG
   'Golgari Obliterator': ['BG', DeckType.MIDRANGE],
   'Golgari Aggro': ['BG', DeckType.AGGRO],

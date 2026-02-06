@@ -3,6 +3,18 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 'p260205',
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (05.02.26)',
+    date: '2026-02-05',
+    standings: [
+      { player: 'ispinyouround', rank: 1, deck: 'Rakdos Midrange', points: 6, mp: 3, mw: 2, match_record: '2-1-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0' },
+      { player: 'Tamplier007333', rank: 3, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0' },
+      { player: 'gerber2000', rank: 4, deck: 'Golgari Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0' },
+    ],
+  },
+  {
     id: 400202,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (29.01.26)',
