@@ -1,0 +1,10 @@
+{
+  "totalEvents": 1,
+  "table": [
+    {"rank":1,"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"points":6,"events":1,"mp":3,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"percentage":1}},
+    {"rank":2,"player":{"display_name":"Brozhat Rostislav","id":"brv"},"points":6,"events":1,"mp":3,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"percentage":1}},
+    {"rank":3,"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"points":3,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"percentage":1}},
+    {"rank":4,"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"points":3,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"percentage":1}}
+  ],
+  "finished": false
+}
