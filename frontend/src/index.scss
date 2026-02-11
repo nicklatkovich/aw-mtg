@@ -302,3 +302,9 @@ table {
     }
   }
 }
+
+.archive-page {
+  & > ul > li {
+    text-align: left;
+  }
+}

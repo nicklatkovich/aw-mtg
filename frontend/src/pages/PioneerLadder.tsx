@@ -3,11 +3,11 @@ import DeckComponent from '@frontend/components/Deck/DeckComponent';
 import { WithJsonData } from '@frontend/components/WithJsonDataComponent';
 import { Link } from 'react-router-dom';
 
-export const PioneerLadder2025: React.FC = () => (
-  <WithJsonData<PioneerLadderInfoDto> url={`${import.meta.env.BASE_URL}data/pioneer-ladder.json`}>
+export const PioneerLadder: React.FC<{ name: string; link: string }> = (props) => (
+  <WithJsonData<PioneerLadderInfoDto> url={`${import.meta.env.BASE_URL}data/${props.link}.json`}>
     {(data) => (
       <>
-        <h1>Pioneer Ladder 2025</h1>
+        <h1>{props.name}</h1>
         <div>
           Events: <span className="number">{data.totalEvents}</span>
         </div>
@@ -32,8 +32,8 @@ export const PioneerLadder2025: React.FC = () => (
           </div>
           {data.table.slice(0).map((row, i) => (
             <div style={{ display: 'contents' }}>
-              <div className={`cell ${i < 3 ? 'red-highlight' : ''}`}>{row.rank}</div>
-              <div className={`cell ${i < 3 ? 'red-highlight' : ''}`}>
+              <div className={`cell ${data.finished && i < 3 ? 'red-highlight' : ''}`}>{row.rank}</div>
+              <div className={`cell ${data.finished && i < 3 ? 'red-highlight' : ''}`}>
                 <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
               </div>
               <div className={`cell ${row.points >= 200 ? 'red-highlight' : ''}`}>{row.points}</div>

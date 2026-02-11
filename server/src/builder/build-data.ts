@@ -7,10 +7,30 @@ import { buildPioneerLadder } from './pioneer-ladder.builder';
 import { buildPlayersList } from './players-list.builder';
 import { buildStandardLadder } from './standard-ladder.builder';
 import { buildLeague } from './league.builder';
+import { PlayerDTO } from '@dtos';
+import { Tournament } from '@server/data/data.types';
+import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
+import { _2026_pioneer } from '@server/data/tournaments/_2026_pioneer';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
 const PLAYERS_PATH = path.resolve(CONTENT_PATH, 'players/');
+
+async function buildAndSavePioneerLadder(
+  ladderName: string,
+  playersMap: Map<string, PlayerDTO>,
+  tournaments: Tournament[],
+  winner?: string,
+) {
+  const ladder = buildPioneerLadder(playersMap, tournaments, winner);
+  await writeFile(
+    path.resolve(CONTENT_PATH, `${ladderName}.json`),
+    `{
+  "totalEvents": ${ladder.totalEvents},
+  "table": [\n    ${ladder.table.map((r) => JSON.stringify(r)).join(',\n    ')}\n  ],
+  "finished": ${ladder.finished}\n}\n`,
+  );
+}
 
 export async function buildData() {
   await rm(CONTENT_PATH, { recursive: true, force: true });
@@ -59,12 +79,17 @@ export async function buildData() {
     `[\n  ${playersList.map((item) => JSON.stringify(item)).join(',\n  ')}\n]\n`,
   );
 
-  const pioneerLadder = buildPioneerLadder(playersMap);
-  await writeFile(
-    path.resolve(CONTENT_PATH, 'pioneer-ladder.json'),
-    `{
-  "totalEvents": ${pioneerLadder.totalEvents},
-  "table": [\n    ${pioneerLadder.table.map((r) => JSON.stringify(r)).join(',\n    ')}\n  ]\n}\n`,
+  await buildAndSavePioneerLadder(
+    'pioneer-ladder-2025',
+    playersMap,
+    _2025_pioneer.filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime()),
+    '824039fa-f433-42e7-845c-7c0fd61a21c2', // Vorotinsky Vitaliy
+  );
+
+  await buildAndSavePioneerLadder(
+    'pioneer-ladder-2026',
+    playersMap,
+    _2026_pioneer.filter((t) => new Date(t.date).getTime() > new Date('2026-02-04').getTime()),
   );
 
   const standardLadder = buildStandardLadder(playersMap);

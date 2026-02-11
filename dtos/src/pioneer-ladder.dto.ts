@@ -14,4 +14,5 @@ export interface PioneerLadderItemDto {
 export interface PioneerLadderInfoDto {
   totalEvents: number;
   table: PioneerLadderItemDto[];
+  finished?: boolean;
 }

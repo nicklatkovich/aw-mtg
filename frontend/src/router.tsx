@@ -1,14 +1,14 @@
 import { createHashRouter, Navigate, RouterProvider } from 'react-router-dom';
 import App from './App';
-import RecentEventsPage from './pages/RecentEventsPage';
-import SummerLeague2025 from './pages/SummerLeague2025';
+import { ArchivePage } from './pages/ArchivePage';
+import { LeaguesPage } from './pages/LeaguesPage';
 import NotFound from './pages/NotFound';
-import TournamentPage from './pages/TournamentPage';
+import { PioneerLadder } from './pages/PioneerLadder';
 import PlayerPage from './pages/PlayerPage';
-import { PioneerLadder2025 } from './pages/PioneerLadder';
 import PlayersListPage from './pages/PlayersListPage';
+import RecentEventsPage from './pages/RecentEventsPage';
 import { StandardLadder2025 } from './pages/StandardLadder';
-import { LeaguesPage } from './pages/Leagues/LeaguesPage';
+import TournamentPage from './pages/TournamentPage';
 
 const router = createHashRouter([
   {
@@ -17,14 +17,21 @@ const router = createHashRouter([
     children: [
       { path: '/', element: <Navigate to={'/recent-events'} /> },
       { path: '/recent-events', index: true, element: <RecentEventsPage /> },
-      { path: '/pioneer-ladder', element: <PioneerLadder2025 /> },
-      { path: '/standard-ladder', element: <StandardLadder2025 /> },
-      { path: '/summer-league-2025', element: <SummerLeague2025 /> },
+      {
+        path: '/pioneer-ladder-2025',
+        element: <PioneerLadder name="Pioneer Ladder 2025" link="pioneer-ladder-2025" />,
+      },
+      {
+        path: '/pioneer-ladder-2026',
+        element: <PioneerLadder name="Pioneer Ladder 2026" link="pioneer-ladder-2026" />,
+      },
+      { path: '/standard-ladder-2025', element: <StandardLadder2025 /> },
       { path: '/players', element: <PlayersListPage /> },
       { path: '/event/:id', element: <TournamentPage /> },
       { path: '/player/:id', element: <PlayerPage /> },
       { path: '/leagues', element: <LeaguesPage /> },
       { path: '/leagues/:id', element: <LeaguesPage /> },
+      { path: '/archive', element: <ArchivePage /> },
       { path: '/*', element: <NotFound /> },
     ],
   },

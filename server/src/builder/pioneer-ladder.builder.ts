@@ -1,23 +1,21 @@
 import assert from 'assert';
 import { PioneerLadderInfoDto, PioneerLadderItemDto, PlayerDTO } from '@dtos';
-import { DeckArchetype } from '@server/data/data.types';
+import { DeckArchetype, Tournament } from '@server/data/data.types';
 import { getDeckArchetypeStrict, toDeckDTO } from '@server/data/data.utils';
 import { playersByUsername } from '@server/data/players';
-import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
-
-const tournaments = _2025_pioneer
-  .filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime())
-  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-
-const winner = '824039fa-f433-42e7-845c-7c0fd61a21c2'; // Vorotinsky Vitaliy
-const winnerDefeats = new Map<string, number>();
 
 type PlayerDecks = Map<
   DeckArchetype,
   { events: number; lastTimestamp: number; mp: number; mw: number; archetype: DeckArchetype }
 >;
 
-export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerLadderInfoDto {
+export function buildPioneerLadder(
+  playersMap: Map<string, PlayerDTO>,
+  tournaments: Tournament[],
+  winner?: string,
+): PioneerLadderInfoDto {
+  tournaments = [...tournaments].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  const winnerDefeats = new Map<string, number>();
   const result = new Map<
     string,
     { points: number; events: number; mp: number; mw: number; _4_0s: number; decks: PlayerDecks }
@@ -112,5 +110,5 @@ export function buildPioneerLadder(playersMap: Map<string, PlayerDTO>): PioneerL
   // for (const [pid, count] of [...winnerDefeats.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10)) {
   //   console.log(`- ${playersMap.get(pid)?.display_name ?? pid}: ${count}`);
   // }
-  return { totalEvents: tournaments.length, table };
+  return { totalEvents: tournaments.length, table, finished: !!winner };
 }
