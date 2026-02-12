@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.44521178637200737,"R":1,"W":0.5695211786372008,"G":0.615561694290976,"B":0.021639042357274395},
+  "color_stats": {"U":0.45277020890099906,"R":1,"W":0.5617620345140781,"G":0.6071752951861943,"B":0.021344232515894637},
   "recent_events": [
+    {"id":403540,"name":"Daily | Pioneer (12.02.26)","date":"2026-02-12","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":"p260205","name":"Daily | Pioneer (05.02.26)","date":"2026-02-05","format":"pioneer","points":6,"rank":[2,4],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-1-0"},
     {"id":401511,"name":"Daily | Standard (03.02.26)","date":"2026-02-03","format":"standard","points":6,"rank":[4,5],"deck":{"archetype":"Boros Aggro","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":401337,"name":"Daily | Modern (01.02.26)","date":"2026-02-01","format":"modern","points":9,"rank":[2,10],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -140,8 +141,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 135,
-  "match_played": 533,
-  "match_wins": 277,
-  "favorite_format": ["pioneer", 0.5481481481481482]
+  "events_count": 136,
+  "match_played": 537,
+  "match_wins": 281,
+  "favorite_format": ["pioneer", 0.5514705882352942]
 }

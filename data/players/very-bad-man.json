@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"U":0.3782654127481714,"B":1,"W":0.529780564263323,"G":0.2267502612330199,"R":0.4670846394984327},
+  "color_stats": {"W":0.5454545454545455,"G":0.24242424242424246,"U":0.3782654127481714,"B":1,"R":0.4670846394984327},
   "recent_events": [
+    {"id":403540,"name":"Daily | Pioneer (12.02.26)","date":"2026-02-12","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":3,"rank":[8,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":0,"rank":[8,8],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":396569,"name":"★★★ Fall League 2025 | Pioneer Finals","date":"2026-01-18","format":"pioneer","points":18,"rank":[2,6],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"6-3-0","game_record":"12-9-0"},
@@ -121,8 +122,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 116,
-  "match_played": 465,
-  "match_wins": 214,
-  "favorite_format": ["pioneer", 0.6724137931034483]
+  "events_count": 117,
+  "match_played": 469,
+  "match_wins": 217,
+  "favorite_format": ["pioneer", 0.6752136752136753]
 }
