@@ -4,6 +4,7 @@
   "display_name": "Kolyshko Alexander",
   "color_stats": {"U":1,"W":0.1518847006651885,"R":0.09090909090909093,"G":0.0631929046563193,"B":0.2239467849223947},
   "recent_events": [
+    {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":3,"rank":[15,20],"match_record":"1-3-0","game_record":"5-6-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":4,"rank":[14,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":401337,"name":"Daily | Modern (01.02.26)","date":"2026-02-01","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Jeskai Splinter Twin","colors":"WUR","type":"Combo"},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":9,"rank":[2,19],"match_record":"3-1-0","game_record":"6-4-0"},
@@ -69,8 +70,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 64,
-  "match_played": 243,
-  "match_wins": 133,
-  "favorite_format": ["pauper", 0.5625]
+  "events_count": 65,
+  "match_played": 247,
+  "match_wins": 134,
+  "favorite_format": ["pauper", 0.5692307692307692]
 }
