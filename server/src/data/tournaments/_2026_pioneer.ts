@@ -3,6 +3,52 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 403540,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (12.02.26)',
+    date: '2026-02-12',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Orzhov Monument', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'GlebK', rank: 3, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Very_Bad_Man', rank: 4, deck: 'Selesnya Company', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'AnklDen', rank: 5, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Dalotus', rank: 6, deck: 'Quintorius Combo', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'ispinyouround', rank: 7, deck: 'Rakdos Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'diuzhev', rank: 8, deck: 'Orzhov Monument', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'MiFlyer', rank: 9, deck: 'Gruul Aggro', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AnklDen', null], winner: 1, record: 'bye' },
+        { players: ['ispinyouround', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['Dalotus', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'diuzhev'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'MiFlyer'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Dalotus', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'MiFlyer'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'diuzhev'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'MiFlyer'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'Dalotus'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['Dalotus', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 1, record: '2-1-0' },
+        { players: ['diuzhev', 'AnklDen'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 'p260205',
     format: Format.PIONEER,
     name: 'Daily | Pioneer (05.02.26)',
