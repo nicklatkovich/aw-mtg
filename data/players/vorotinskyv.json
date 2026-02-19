@@ -2,8 +2,9 @@
   "guid": "824039fa-f433-42e7-845c-7c0fd61a21c2",
   "id": "vorotinskyv",
   "display_name": "Vorotinsky Vitaliy",
-  "color_stats": {"R":1,"U":0.006430868167202572,"B":0.01607717041800643,"G":0.07717041800643087,"W":0.01929260450160772},
+  "color_stats": {"R":1,"U":0.006309148264984227,"B":0.015772870662460567,"G":0.07570977917981073,"W":0.01892744479495268},
   "recent_events": [
+    {"id":405312,"name":"Spring League 2026 | Pioneer #1/12","date":"2026-02-19","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":0,"rank":[25,25],"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":370846,"name":"Fall League 2025 | Pioneer #2/12","date":"2025-10-09","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
@@ -106,8 +107,8 @@
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}},
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}}
   ],
-  "events_count": 101,
-  "match_played": 363,
-  "match_wins": 208,
-  "favorite_format": ["pioneer", 0.7722772277227723]
+  "events_count": 102,
+  "match_played": 367,
+  "match_wins": 211,
+  "favorite_format": ["pioneer", 0.7745098039215687]
 }
