@@ -3,6 +3,48 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 405312,
+    format: Format.PIONEER,
+    name: 'Spring League 2026 | Pioneer #1/12',
+    date: '2026-02-19',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'vorotinskyV', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'NickLatkovich', rank: 3, deck: 'Quintorius Combo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'TroV1', rank: 4, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Very_Bad_Man', rank: 5, deck: 'Selesnya Company', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'AnklDen', rank: 6, deck: 'Selesnya Angels', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'diuzhev', rank: 7, deck: 'Orzhov Monument', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'GlebK', rank: 8, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['TroV1', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'diuzhev'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['vorotinskyV', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'NickLatkovich'], winner: 2, record: '1-0-0' },
+        { players: ['GlebK', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['TroV1', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['diuzhev', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'AnklDen'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['GlebK', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'AnklDen'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 403540,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (12.02.26)',
