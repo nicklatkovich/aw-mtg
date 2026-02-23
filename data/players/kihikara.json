@@ -1,0 +1,13 @@
+{
+  "guid": "9e856e66-33b9-4a88-b703-8f2bb34a19d1",
+  "id": "kihikara",
+  "display_name": "Maskaev Evgeny",
+  "color_stats": {},
+  "recent_events": [
+    {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":9,"rank":[4,18],"match_record":"3-1-0","game_record":"7-3-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 3,
+  "favorite_format": ["modern", 1]
+}

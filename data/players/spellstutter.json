@@ -4,6 +4,7 @@
   "display_name": "Belousov Timophey",
   "color_stats": {"U":1,"B":0.25,"R":0.43749999999999994,"G":0.1875,"W":0.375},
   "recent_events": [
+    {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":6,"rank":[9,18],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":4,"rank":[13,20],"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":393039,"name":"Fall League 2025 | Modern #6/6","date":"2025-12-28","format":"modern","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":4,"rank":[19,25],"match_record":"1-2-1","game_record":"4-6-0"},
@@ -15,8 +16,8 @@
     {"id":351531,"name":"Summer League 2025 | Pauper #10","date":"2025-08-13","format":"pauper","points":6,"rank":[11,20],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":6,"rank":[7,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"4-6-0"}
   ],
-  "events_count": 10,
-  "match_played": 39,
-  "match_wins": 18,
-  "favorite_format": ["pauper", 0.8]
+  "events_count": 11,
+  "match_played": 43,
+  "match_wins": 20,
+  "favorite_format": ["pauper", 0.7272727272727273]
 }

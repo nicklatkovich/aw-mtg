@@ -4,10 +4,11 @@
   "display_name": "Krykun Damian",
   "color_stats": {"U":1,"R":1},
   "recent_events": [
+    {"id":405306,"name":"Spring League 2026 | Standard #1/12","date":"2026-02-17","format":"standard","points":4,"rank":[4,6],"match_record":"1-2-1","game_record":"3-6-0"},
     {"id":401511,"name":"Daily | Standard (03.02.26)","date":"2026-02-03","format":"standard","points":3,"rank":[5,5],"deck":{"archetype":"Izzet Lessons","colors":"UR","type":null},"match_record":"1-3-0","game_record":"4-6-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 1,
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 2,
   "favorite_format": ["standard", 1]
 }

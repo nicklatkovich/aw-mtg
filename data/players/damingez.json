@@ -4,6 +4,7 @@
   "display_name": "Kryshkavets Egor",
   "color_stats": {"G":0.4482758620689655,"U":0.4482758620689656,"B":1,"R":0.3103448275862069,"W":0.06896551724137931},
   "recent_events": [
+    {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":1,"rank":[13,14],"match_record":"0-3-1","game_record":"4-7-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":9,"rank":[6,20],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[5,19],"deck":{"archetype":"Mono-Green Infect","colors":"G","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":7,"rank":[7,19],"match_record":"2-1-1","game_record":"5-3-0"},
@@ -32,8 +33,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ],
-  "events_count": 27,
-  "match_played": 115,
+  "events_count": 28,
+  "match_played": 119,
   "match_wins": 54,
-  "favorite_format": ["pauper", 0.4444444444444444]
+  "favorite_format": ["pauper", 0.4642857142857143]
 }

@@ -4,6 +4,7 @@
   "display_name": "Ihnatsik Yauheni",
   "color_stats": {"U":0.7504025764895339,"B":1,"G":0.2834138486312401,"W":0.6054750402576496,"R":0.11433172302737524},
   "recent_events": [
+    {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":9,"rank":[2,18],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":396565,"name":"★★★ Fall League 2025 | Standard Finals","date":"2026-01-15","format":"standard","points":9,"rank":[3,6],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"3-3-0","game_record":"7-9-0"},
     {"id":396543,"name":"Daily | Standard (13.01.26)","date":"2026-01-13","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Esper Oculus","colors":"WUB","type":"Midrange"},"match_record":"2-1-0","game_record":"4-4-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"1-2-0","game_record":"4-4-0"},
@@ -76,8 +77,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 71,
-  "match_played": 255,
-  "match_wins": 101,
-  "favorite_format": ["standard", 0.5633802816901409]
+  "events_count": 72,
+  "match_played": 259,
+  "match_wins": 104,
+  "favorite_format": ["standard", 0.5555555555555556]
 }

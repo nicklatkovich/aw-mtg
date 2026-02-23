@@ -4,6 +4,8 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"B":0.3011435832274461,"R":1,"G":0.39644218551461263,"U":0.5997458703939013,"W":0.2566709021601017},
   "recent_events": [
+    {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":3,"rank":[14,18],"match_record":"1-3-0","game_record":"4-7-0"},
+    {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":6,"rank":[8,14],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":0,"rank":[20,20],"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":12,"rank":[1,19],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"4-0-0","game_record":"7-3-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":9,"rank":[5,19],"match_record":"3-1-0","game_record":"6-4-0"},
@@ -113,8 +115,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 108,
-  "match_played": 404,
-  "match_wins": 207,
-  "favorite_format": ["pioneer", 0.3611111111111111]
+  "events_count": 110,
+  "match_played": 412,
+  "match_wins": 210,
+  "favorite_format": ["pioneer", 0.35454545454545455]
 }

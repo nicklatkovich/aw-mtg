@@ -1,8 +1,8 @@
 [
   {
     "format": "standard",
-    "name": "Fall League 2025 | Standard",
-    "id": "fall-league-2025-standard",
+    "display_name": "Standard",
+    "table_id": "standard",
     "total_events": 12,
     "past_events": 12,
     "top": 6,
@@ -35,8 +35,8 @@
   },
   {
     "format": "pioneer",
-    "name": "Fall League 2025 | Pioneer",
-    "id": "fall-league-2025-pioneer",
+    "display_name": "Pioneer",
+    "table_id": "pioneer",
     "total_events": 12,
     "past_events": 12,
     "top": 6,
@@ -73,8 +73,8 @@
   },
   {
     "format": "pauper",
-    "name": "Fall League 2025 | Pauper",
-    "id": "fall-league-2025-pauper",
+    "display_name": "Pauper",
+    "table_id": "pauper",
     "total_events": 12,
     "past_events": 12,
     "top": 6,
@@ -127,8 +127,8 @@
   },
   {
     "format": ["modern","legacy"],
-    "name": "Fall League 2025 | Eternal",
-    "id": "fall-league-2025-eternal",
+    "display_name": "Eternal",
+    "table_id": "eternal",
     "total_events": 12,
     "past_events": 12,
     "top": 6,

@@ -4,6 +4,7 @@
   "display_name": "Burankou Aliaksei",
   "color_stats": {"G":1,"W":0.13513513513513514,"U":0.7297297297297297,"B":0.7027027027027027,"R":0.24324324324324326},
   "recent_events": [
+    {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":6,"rank":[7,14],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":0,"rank":[19,20],"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":6,"rank":[7,19],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":0,"rank":[18,19],"match_record":"0-4-0","game_record":"1-8-0"},
@@ -67,8 +68,8 @@
     {"id":134250,"date":"2024-08-15","format":"pioneer","points":4,"rank":[13,17]},
     {"id":121447,"date":"2024-07-18","format":"pioneer","points":6,"rank":[10,21]}
   ],
-  "events_count": 62,
-  "match_played": 229,
-  "match_wins": 71,
-  "favorite_format": ["pauper", 0.4838709677419355]
+  "events_count": 63,
+  "match_played": 233,
+  "match_wins": 73,
+  "favorite_format": ["pauper", 0.49206349206349204]
 }

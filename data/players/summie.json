@@ -4,6 +4,7 @@
   "display_name": "Bandarchyk Anton",
   "color_stats": {"U":0.6941489361702127,"B":0.7340425531914893,"G":0.17553191489361702,"W":1,"R":0.3484042553191489},
   "recent_events": [
+    {"id":405306,"name":"Spring League 2026 | Standard #1/12","date":"2026-02-17","format":"standard","points":4,"rank":[3,6],"match_record":"1-2-1","game_record":"3-4-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":7,"rank":[4,9],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"2-1-1","game_record":"5-3-0"},
     {"id":396565,"name":"★★★ Fall League 2025 | Standard Finals","date":"2026-01-15","format":"standard","points":6,"rank":[5,6],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"2-3-0","game_record":"7-8-0"},
     {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":9,"rank":[1,6],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"3-0-0","game_record":"5-0-0"},
@@ -46,8 +47,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":6,"rank":[10,16]},
     {"id":126622,"date":"2024-08-01","format":"pioneer","points":6,"rank":[6,13]}
   ],
-  "events_count": 41,
-  "match_played": 161,
-  "match_wins": 82,
-  "favorite_format": ["standard", 0.9024390243902439]
+  "events_count": 42,
+  "match_played": 165,
+  "match_wins": 83,
+  "favorite_format": ["standard", 0.9047619047619048]
 }
