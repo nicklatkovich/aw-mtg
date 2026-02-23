@@ -3,8 +3,8 @@ import styles from './Header.module.scss';
 
 const navLinks: { to: string; label: string }[] = [
   { to: '/recent-events', label: 'Recent Events' },
-  { to: '/pioneer-ladder-2026', label: 'Pioneer Ladder' },
-  { to: '/leagues', label: 'Leagues' },
+  { to: '/pioneer-ladder-2026', label: 'Pioneer Ladder 2026' },
+  { to: '/spring-league-2026', label: 'Spring League 2026' },
   { to: '/players', label: 'Players List' },
   { to: '/archive', label: 'Archive' },
 ];
@@ -20,7 +20,7 @@ export default function Header() {
               key={link.to}
               to={link.to}
               className={
-                (link.to === '/leagues' && location.pathname.startsWith('/leagues')) || location.pathname === link.to
+                `${location.pathname}/`.startsWith(`${link.to}/`)
                   ? `${styles.header__link} ${styles.active}`
                   : styles.header__link
               }

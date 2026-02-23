@@ -10,6 +10,11 @@ import RecentEventsPage from './pages/RecentEventsPage';
 import { StandardLadder2025 } from './pages/StandardLadder';
 import TournamentPage from './pages/TournamentPage';
 
+const leagues: { pageId: string; filename: string; displayName: string }[] = [
+  { pageId: 'fall-league-2025', filename: '2025-2', displayName: 'Fall League 2025' },
+  { pageId: 'spring-league-2026', filename: '2026-1', displayName: 'Spring League 2026' },
+];
+
 const router = createHashRouter([
   {
     path: '/',
@@ -29,10 +34,20 @@ const router = createHashRouter([
       { path: '/players', element: <PlayersListPage /> },
       { path: '/event/:id', element: <TournamentPage /> },
       { path: '/player/:id', element: <PlayerPage /> },
-      { path: '/leagues', element: <LeaguesPage /> },
-      { path: '/leagues/:id', element: <LeaguesPage /> },
+      ...leagues.flatMap(({ pageId, filename, displayName }) => [
+        { path: `/${pageId}`, element: <LeaguesPage pageId={pageId} filename={filename} displayName={displayName} /> },
+        {
+          path: `/${pageId}/:id`,
+          element: <LeaguesPage pageId={pageId} filename={filename} displayName={displayName} />,
+        },
+      ]),
       { path: '/archive', element: <ArchivePage /> },
       { path: '/*', element: <NotFound /> },
+      // legacy redirects
+      { path: '/leagues/fall-league-2025-standard', element: <Navigate to="/fall-league-2025/standard" /> },
+      { path: '/leagues/fall-league-2025-pioneer', element: <Navigate to="/fall-league-2025/pioneer" /> },
+      { path: '/leagues/fall-league-2025-pauper', element: <Navigate to="/fall-league-2025/pauper" /> },
+      { path: '/leagues/fall-league-2025-eternal', element: <Navigate to="/fall-league-2025/eternal" /> },
     ],
   },
 ]);

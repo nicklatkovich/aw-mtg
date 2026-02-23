@@ -25,7 +25,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
 
   return (
     <div className="league-details">
-      <h1>{league.name}</h1>
+      {/* <h1>{league.display_name}</h1> */}
       <div
         className="grid-table"
         style={{
@@ -77,29 +77,33 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
   );
 };
 
-export const LeaguesPage: React.FC = () => {
+export const LeaguesPage: React.FC<{ pageId: string; filename: string; displayName: string }> = (props) => {
   const navigate = useNavigate();
-  const { id } = useParams<{ id?: string }>();
+
+  const params = useParams<{ id?: string }>();
 
   return (
-    <WithJsonData<LeagueDto[]> url={`${import.meta.env.BASE_URL}data/leagues.json`}>
+    <WithJsonData<LeagueDto[]> url={`${import.meta.env.BASE_URL}data/leagues/${props.filename}.json`}>
       {(data) => {
-        const league = data.find((l) => l.id === id);
+        const league = data.find((l) => l.table_id === params.id);
 
         return (
           <div className="league-page">
-            <h1>Leagues</h1>
             <div className="leagues-list">
               {data.map((l) => (
                 <div
-                  key={l.id}
-                  className={l.id === league?.id ? 'selected' : ''}
-                  onClick={() => navigate(`/leagues/${l.id}`)}
+                  key={l.table_id}
+                  className={l.table_id === league?.table_id ? 'selected' : ''}
+                  onClick={() => navigate(`/${props.pageId}/${l.table_id}`)}
                 >
-                  {l.name}
+                  {props.displayName} | {l.display_name}
                 </div>
               ))}
             </div>
+            <h1>
+              {props.displayName}
+              {league ? ` | ${league.display_name}` : ''}
+            </h1>
             {league && <LeagueComponent league={league} />}
           </div>
         );

@@ -187,6 +187,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '134f7b31-820a-43b7-bbc9-70e5a3b6ded6': 'Krykun Damian',
   '5b07af89-d9b1-4fe7-ac84-547c5af00eec': 'Melnikov Boris',
   '5db075fb-48e5-48c9-b675-32b86f0312f7': 'Zhigar Sergey',
+  '9e856e66-33b9-4a88-b703-8f2bb34a19d1': 'Maskaev Evgeny',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -403,4 +404,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Kiryl_Smaktunovich: '1cac0dfc-55ad-42dd-9d8a-f7812cf73013',
   DamK6: '134f7b31-820a-43b7-bbc9-70e5a3b6ded6',
   Pivovarishe: '5b07af89-d9b1-4fe7-ac84-547c5af00eec',
+  Kihikara: '9e856e66-33b9-4a88-b703-8f2bb34a19d1',
 };

@@ -11,8 +11,8 @@ export type LeaguePlayerDto = {
 
 export type LeagueDto = {
   format: Format | Format[];
-  name: string;
-  id: string;
+  display_name: string;
+  table_id: string;
   total_events: number;
   past_events: number;
   top: number;

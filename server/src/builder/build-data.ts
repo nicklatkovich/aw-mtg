@@ -1,16 +1,20 @@
-import { mkdir, writeFile, rm } from 'fs/promises';
+import { mkdir, rm, writeFile } from 'fs/promises';
 import path from 'path';
-import { buildRecentTournamentsData } from './recent-tournaments.builder';
-import { buildTournamentResults } from './tournament-results.builder';
-import { buildPlayersData } from './players-data.builder';
-import { buildPioneerLadder } from './pioneer-ladder.builder';
-import { buildPlayersList } from './players-list.builder';
-import { buildStandardLadder } from './standard-ladder.builder';
-import { buildLeague } from './league.builder';
+
 import { PlayerDTO } from '@dtos';
 import { Tournament } from '@server/data/data.types';
-import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
 import { _2026_pioneer } from '@server/data/tournaments/_2026_pioneer';
+import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
+import { buildLeague } from './league.builder';
+import { fall2025League } from './leagues/2025-2-fall.league';
+import { LeagueInfo } from './leagues/league.types';
+import { buildPioneerLadder } from './pioneer-ladder.builder';
+import { buildPlayersData } from './players-data.builder';
+import { buildPlayersList } from './players-list.builder';
+import { buildRecentTournamentsData } from './recent-tournaments.builder';
+import { buildStandardLadder } from './standard-ladder.builder';
+import { buildTournamentResults } from './tournament-results.builder';
+import { spring2026League } from './leagues/2026-1-sprint.league';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -102,16 +106,22 @@ export async function buildData() {
   ]\n}\n`,
   );
 
-  const leagues = buildLeague(playersMap);
-  await writeFile(
-    path.resolve(CONTENT_PATH, 'leagues.json'),
-    `[
-${leagues
+  await mkdir(path.resolve(CONTENT_PATH, 'leagues'));
+  const leagues: { filename: string; info: LeagueInfo[] }[] = [
+    { filename: '2025-2', info: fall2025League },
+    { filename: '2026-1', info: spring2026League },
+  ];
+  for (const { filename, info } of leagues) {
+    const leagueDto = buildLeague(info, playersMap);
+    await writeFile(
+      path.resolve(CONTENT_PATH, `leagues/${filename}.json`),
+      `[
+${leagueDto
   .map(
     (l) => `  {
     "format": ${JSON.stringify(l.format)},
-    "name": "${l.name}",
-    "id": "${l.id}",
+    "display_name": "${l.display_name}",
+    "table_id": "${l.table_id}",
     "total_events": ${l.total_events},
     "past_events": ${l.past_events},
     "top": ${l.top},
@@ -125,7 +135,8 @@ ${leagues
   }`,
   )
   .join(',\n')}\n]\n`,
-  );
+    );
+  }
 }
 
 if (require.main === module) {
