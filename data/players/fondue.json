@@ -4,11 +4,12 @@
   "display_name": "Fando Evgeniy",
   "color_stats": {},
   "recent_events": [
+    {"id":407488,"name":"Spring League 2026 | Standard #2/12","date":"2026-02-24","format":"standard","points":3,"rank":[5,5],"match_record":"1-1-0","game_record":"2-2-0"},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":1,"rank":[16,16]},
     {"id":80096,"date":"2024-04-18","format":"pioneer","points":0,"rank":[10,10]}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 0,
-  "favorite_format": ["pioneer", 1]
+  "events_count": 3,
+  "match_played": 10,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 0.6666666666666666]
 }

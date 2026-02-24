@@ -4,6 +4,7 @@
   "display_name": "Moiseenko Pavel",
   "color_stats": {"U":0.23404255319148937,"B":0.29787234042553196,"R":1,"G":0.3191489361702128,"W":0.06382978723404256},
   "recent_events": [
+    {"id":407488,"name":"Spring League 2026 | Standard #2/12","date":"2026-02-24","format":"standard","points":6,"rank":[4,5],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":6,"rank":[12,19],"deck":{"archetype":"Dimir Affinity","colors":"UB","type":null},"match_record":"2-2-0","game_record":"4-3-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":3,"rank":[9,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"5-6-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"1-8-0"},
@@ -21,8 +22,8 @@
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":0,"rank":[18,18],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"0-4-0","game_record":"0-8-0"}
   ],
-  "events_count": 16,
-  "match_played": 61,
-  "match_wins": 13,
-  "favorite_format": ["pauper", 0.4375]
+  "events_count": 17,
+  "match_played": 65,
+  "match_wins": 15,
+  "favorite_format": ["pauper", 0.4117647058823529]
 }

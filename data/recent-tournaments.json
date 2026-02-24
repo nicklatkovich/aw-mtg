@@ -1,4 +1,5 @@
 [
+  {"id":407488,"format":"standard","date":"2026-02-24","name":"Spring League 2026 | Standard #2/12","players_count":5,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"}}},
   {"id":405315,"format":"modern","date":"2026-02-22","name":"Spring League 2026 | Modern #1/12","players_count":18,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"}}},
   {"id":405312,"format":"pioneer","date":"2026-02-19","name":"Spring League 2026 | Pioneer #1/12","players_count":8,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}}},
   {"id":405308,"format":"pauper","date":"2026-02-18","name":"Spring League 2026 | Pauper #1/12","players_count":14,"winner":{"player":{"display_name":"Ivanov Andrey","id":"andreyvorobey"}}},
