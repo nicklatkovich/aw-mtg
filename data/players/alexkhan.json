@@ -4,6 +4,7 @@
   "display_name": "Aflakhanov Alex",
   "color_stats": {"U":0.6046511627906976,"B":0.023255813953488372,"R":0.023255813953488372,"W":1,"G":0.6511627906976744},
   "recent_events": [
+    {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":6,"rank":[14,21],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":4,"rank":[10,14],"match_record":"1-2-1","game_record":"4-6-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":6,"rank":[8,20],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":6,"rank":[9,19],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -42,8 +43,8 @@
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
-  "events_count": 37,
-  "match_played": 152,
-  "match_wins": 76,
-  "favorite_format": ["pioneer", 0.8108108108108109]
+  "events_count": 38,
+  "match_played": 156,
+  "match_wins": 78,
+  "favorite_format": ["pioneer", 0.7894736842105263]
 }

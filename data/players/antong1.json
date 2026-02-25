@@ -4,6 +4,7 @@
   "display_name": "Glushkov Anton",
   "color_stats": {"U":0.8,"R":1,"G":0.2},
   "recent_events": [
+    {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":9,"rank":[7,21],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":6,"rank":[9,14],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Blue Tempo","colors":"U","type":"Tempo"}},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":6,"rank":[8,19],"match_record":"2-2-0","game_record":"5-4-0"},
@@ -15,8 +16,8 @@
     {"id":324258,"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[2,7],"deck":{"archetype":"Gruul Madness","colors":"RG","type":null},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-5-0"}
   ],
-  "events_count": 10,
-  "match_played": 35,
-  "match_wins": 20,
-  "favorite_format": ["pauper", 0.6]
+  "events_count": 11,
+  "match_played": 39,
+  "match_wins": 23,
+  "favorite_format": ["pauper", 0.6363636363636364]
 }
