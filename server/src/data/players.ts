@@ -407,4 +407,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Kihikara: '9e856e66-33b9-4a88-b703-8f2bb34a19d1',
   gvasalia: '134f7b31-820a-43b7-bbc9-70e5a3b6ded6',
   EugF: 'd3f2887b-80ab-4720-b635-dc0d37b4b8fd',
+  Nikeeeeeen: 'cd794a46-4193-4d5b-ae04-d02add6aafbf',
 };
