@@ -31,6 +31,7 @@ export const ARCHETYPES = {
   'Azorius Cats': 'WU',
   'Azorius Dreadnought': 'WU',
   'Azorius Heroic': ['WU', DeckType.AGGRO],
+  'Azorius Tempo': ['WU', DeckType.TEMPO],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
