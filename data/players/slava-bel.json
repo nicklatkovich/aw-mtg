@@ -2,8 +2,9 @@
   "guid": "d35155ca-808a-4885-b99b-1178c4e2302d",
   "id": "slava-bel",
   "display_name": "Belezeko Slava",
-  "color_stats": {"B":1,"R":0.5454545454545454,"U":0.45454545454545453},
+  "color_stats": {"U":0.5,"B":1,"R":0.5},
   "recent_events": [
+    {"id":407525,"name":"Spring League 2026 | Pioneer #2/12","date":"2026-02-26","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":0,"rank":[33,33],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"0-4-0","game_record":"4-8-0"},
     {"id":376482,"name":"Fall League 2025 | Pioneer #5/12","date":"2025-10-30","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -17,8 +18,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":6,"rank":[8,16],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":6,"rank":[9,17]}
   ],
-  "events_count": 12,
-  "match_played": 47,
-  "match_wins": 25,
-  "favorite_format": ["pioneer", 0.5]
+  "events_count": 13,
+  "match_played": 51,
+  "match_wins": 26,
+  "favorite_format": ["pioneer", 0.5384615384615384]
 }

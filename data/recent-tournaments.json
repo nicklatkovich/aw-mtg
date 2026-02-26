@@ -1,4 +1,5 @@
 [
+  {"id":407525,"format":"pioneer","date":"2026-02-26","name":"Spring League 2026 | Pioneer #2/12","players_count":9,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":407490,"format":"pauper","date":"2026-02-25","name":"Spring League 2026 | Pauper #2/12","players_count":21,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"}}},
   {"id":407488,"format":"standard","date":"2026-02-24","name":"Spring League 2026 | Standard #2/12","players_count":5,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"}}},
   {"id":405315,"format":"modern","date":"2026-02-22","name":"Spring League 2026 | Modern #1/12","players_count":18,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"}}},

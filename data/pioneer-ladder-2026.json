@@ -1,17 +1,19 @@
 {
-  "totalEvents": 3,
+  "totalEvents": 4,
   "table": [
-    {"rank":1,"player":{"display_name":"Brozhat Rostislav","id":"brv"},"points":30,"events":3,"mp":11,"mw":10,"_4_0s":2,"favorite_deck":{"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"percentage":1}},
-    {"rank":2,"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"points":15,"events":2,"mp":8,"mw":5,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"},"percentage":0.5}},
-    {"rank":3,"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"points":15,"events":2,"mp":8,"mw":5,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"percentage":1}},
-    {"rank":4,"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"points":15,"events":3,"mp":10,"mw":4,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"percentage":1}},
-    {"rank":5,"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"points":9,"events":1,"mp":4,"mw":3,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"percentage":1}},
-    {"rank":6,"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"points":9,"events":2,"mp":6,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"percentage":1}},
-    {"rank":7,"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"points":9,"events":2,"mp":7,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Selesnya Angels","colors":"WG","type":"Midrange"},"percentage":0.5}},
-    {"rank":8,"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"points":9,"events":3,"mp":10,"mw":3,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"percentage":0.6666666666666666}},
-    {"rank":9,"player":{"display_name":"Trofimov Valera","id":"trov1"},"points":6,"events":1,"mp":4,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"percentage":1}},
+    {"rank":1,"player":{"display_name":"Brozhat Rostislav","id":"brv"},"points":36,"events":4,"mp":14,"mw":11,"_4_0s":2,"favorite_deck":{"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"percentage":1}},
+    {"rank":2,"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"points":24,"events":4,"mp":13,"mw":6,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"percentage":1}},
+    {"rank":3,"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"points":21,"events":3,"mp":12,"mw":7,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"percentage":0.6666666666666666}},
+    {"rank":4,"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"points":21,"events":3,"mp":12,"mw":7,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"percentage":1}},
+    {"rank":5,"player":{"display_name":"Trofimov Valera","id":"trov1"},"points":18,"events":2,"mp":8,"mw":6,"_4_0s":1,"favorite_deck":{"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"percentage":1}},
+    {"rank":6,"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"points":18,"events":2,"mp":8,"mw":6,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"percentage":1}},
+    {"rank":7,"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"points":15,"events":3,"mp":11,"mw":4,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"percentage":0.6666666666666666}},
+    {"rank":8,"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"points":9,"events":2,"mp":6,"mw":2,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"percentage":1}},
+    {"rank":9,"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"points":9,"events":3,"mp":10,"mw":3,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"percentage":0.6666666666666666}},
     {"rank":10,"player":{"display_name":"Avdeenko Dmitry","id":"dalotus"},"points":6,"events":1,"mp":3,"mw":1,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"},"percentage":1}},
-    {"rank":11,"player":{"display_name":"Liatun Mikhail","id":"miflyer"},"points":0,"events":1,"mp":3,"mw":0,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"percentage":1}}
+    {"rank":11,"player":{"display_name":"Belezeko Slava","id":"slava-bel"},"points":3,"events":1,"mp":3,"mw":0,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"percentage":1}},
+    {"rank":12,"player":{"display_name":"Bandarchyk Anton","id":"summie"},"points":3,"events":1,"mp":3,"mw":0,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Azorius Tempo","colors":"WU","type":"Tempo"},"percentage":1}},
+    {"rank":13,"player":{"display_name":"Liatun Mikhail","id":"miflyer"},"points":0,"events":1,"mp":3,"mw":0,"_4_0s":0,"favorite_deck":{"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"percentage":1}}
   ],
   "finished": false
 }
