@@ -160,6 +160,7 @@ export const ARCHETYPES = {
   'Dimir Tempo': ['UB', DeckType.TEMPO],
   'Dimir Reanimator': ['UB', DeckType.COMBO],
   'Dimir Necrodominance': 'UB',
+  'Dimir Mill': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -275,6 +276,7 @@ export const ARCHETYPES = {
   'Gruul Creative Technique': ['RG', DeckType.COMBO],
   'Gruul Landfall': 'RG',
   'Gruul Elves': 'RG',
+  'Gruul Eldrazi': 'RG',
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
