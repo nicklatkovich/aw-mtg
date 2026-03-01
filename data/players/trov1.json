@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.8194945848375458,"U":1,"B":0.44043321299639027,"G":0.3321299638989172,"R":0.5487364620938633},
+  "color_stats": {"U":1,"B":0.46917808219178125,"W":0.7773972602739734,"G":0.3150684931506852,"R":0.52054794520548},
   "recent_events": [
+    {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":6,"rank":[8,14],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":407525,"name":"Spring League 2026 | Pioneer #2/12","date":"2026-02-26","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":405312,"name":"Spring League 2026 | Pioneer #1/12","date":"2026-02-19","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":12,"rank":[1,25],"match_record":"4-0-0","game_record":"8-3-0"},
@@ -54,8 +55,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 49,
-  "match_played": 170,
-  "match_wins": 104,
-  "favorite_format": ["pioneer", 0.6326530612244898]
+  "events_count": 50,
+  "match_played": 174,
+  "match_wins": 106,
+  "favorite_format": ["pioneer", 0.62]
 }

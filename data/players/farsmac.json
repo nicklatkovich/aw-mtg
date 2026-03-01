@@ -4,6 +4,7 @@
   "display_name": "Rapanovich Yauhen",
   "color_stats": {"W":0.3031358885017421,"U":1,"B":0.3031358885017421,"G":0.3728222996515679,"R":0.11149825783972125},
   "recent_events": [
+    {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":3,"rank":[11,14],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":6,"rank":[13,18],"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":391032,"name":"Fall League 2025 | Legacy #6/6","date":"2025-12-21","format":"legacy","points":0,"rank":[8,8],"match_record":"0-3-0","game_record":"1-5-0"},
     {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Kethis Combo","colors":"WUBG","type":"Combo"}},
@@ -29,8 +30,8 @@
     {"id":233771,"date":"2025-01-23","format":"pioneer","points":7,"rank":[5,15]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 24,
-  "match_played": 79,
-  "match_wins": 37,
-  "favorite_format": ["legacy", 0.5416666666666666]
+  "events_count": 25,
+  "match_played": 83,
+  "match_wins": 38,
+  "favorite_format": ["legacy", 0.52]
 }

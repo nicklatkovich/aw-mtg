@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"B":0.3011435832274461,"R":1,"G":0.39644218551461263,"U":0.5997458703939013,"W":0.2566709021601017},
+  "color_stats": {"R":1,"G":0.40773067331670837,"B":0.29551122194513724,"U":0.5885286783042397,"W":0.25187032418952626},
   "recent_events": [
+    {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":3,"rank":[10,14],"deck":{"archetype":"Gruul Eldrazi","colors":"RG","type":null},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":3,"rank":[16,21],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":3,"rank":[14,18],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":6,"rank":[8,14],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -116,8 +117,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 111,
-  "match_played": 416,
-  "match_wins": 211,
-  "favorite_format": ["pioneer", 0.35135135135135137]
+  "events_count": 112,
+  "match_played": 419,
+  "match_wins": 212,
+  "favorite_format": ["pioneer", 0.3482142857142857]
 }

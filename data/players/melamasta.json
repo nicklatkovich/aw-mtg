@@ -2,8 +2,9 @@
   "guid": "adeba5e9-a5e4-4c9e-85c9-a09f10acc4af",
   "id": "melamasta",
   "display_name": "Yushkevich Egor",
-  "color_stats": {"U":0.71875,"G":0.71875,"R":1,"B":0.37499999999999994},
+  "color_stats": {"U":0.7428571428571429,"R":1,"G":0.6571428571428571,"B":0.3428571428571428},
   "recent_events": [
+    {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":6,"rank":[7,14],"deck":{"archetype":"Izzet Storm","colors":"UR","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":0,"rank":[18,18],"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":395139,"name":"Daily | Pauper (07.01.26)","date":"2026-01-07","format":"pauper","points":1,"rank":[7,7],"deck":{"archetype":"Simic Petitioners Mill","colors":"UG","type":"Combo"},"match_record":"0-2-1","game_record":"1-5-0"},
     {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Izzet Storm","colors":"UR","type":"Combo"}},
@@ -26,8 +27,8 @@
     {"id":189282,"date":"2024-11-14","format":"pioneer","points":0,"rank":[17,18]},
     {"id":184873,"date":"2024-11-07","format":"pioneer","points":3,"rank":[13,15]}
   ],
-  "events_count": 21,
-  "match_played": 80,
-  "match_wins": 19,
-  "favorite_format": ["pauper", 0.47619047619047616]
+  "events_count": 22,
+  "match_played": 84,
+  "match_wins": 21,
+  "favorite_format": ["pauper", 0.45454545454545453]
 }
