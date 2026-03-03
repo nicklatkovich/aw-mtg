@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 408605,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #3/12',
+    date: '2026-03-03',
+    standings: [
+      { player: 'BRV', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'Barbossa', rank: 2, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-1' },
+      { player: 'Very_Bad_Man', rank: 3, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-3-1' },
+      { player: 'ykcyc', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: '[OMG]Summie', rank: 5, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-5-0' },
+      { player: 'EugF', rank: 6, points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '1-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['[OMG]Summie', 'EugF'], winner: 1, record: '2-0-0' },
+        { players: ['ykcyc', 'Barbossa'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'ykcyc'], winner: 2, record: '2-0-0' },
+        { players: ['Barbossa', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['EugF', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', '[OMG]Summie'], winner: 1, record: '2-1-0' },
+        { players: ['ykcyc', 'EugF'], winner: 1, record: '2-0-0' },
+        { players: ['Barbossa', 'Very_Bad_Man'], winner: 0, record: '1-1-1' },
+      ],
+      [
+        { players: ['BRV', 'ykcyc'], winner: 1, record: '2-0-0' },
+        { players: ['Barbossa', 'EugF'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', '[OMG]Summie'], winner: 1, record: '1-0-0' },
+      ],
+    ],
+  },
+  {
     id: 407488,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #2/12',
