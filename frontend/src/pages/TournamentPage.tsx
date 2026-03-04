@@ -17,7 +17,8 @@ const TournamentPage: React.FC = () => {
           const rounds = Math.max(...data.standings.map((s) => s.rounds?.length ?? 0));
           const displayMatchRecord = data.standings.some((s) => s.match_record);
           const displayGameRecord = data.standings.some((s) => s.game_record);
-          const displayDecks = data.standings.some((s) => s.deck);
+          const displayDecks = data.standings.slice(1).some((s) => s.deck);
+          const winnerDeck = data.standings[0]?.deck;
           return (
             <>
               {data.name ? <h1>{data.name}</h1> : null}
@@ -31,9 +32,16 @@ const TournamentPage: React.FC = () => {
                 Players: <span className="number">{data.standings.length}</span>
               </div>
               {melee ? (
-                <a href={melee} target="_blank" rel="noopener noreferrer">
-                  {melee}
-                </a>
+                <div>
+                  <a href={melee} target="_blank" rel="noopener noreferrer">
+                    {melee}
+                  </a>
+                </div>
+              ) : null}
+              {!displayDecks && winnerDeck ? (
+                <div style={{ marginTop: '16px' }}>
+                  Winner deck: <DeckComponent deck={winnerDeck} />
+                </div>
               ) : null}
               <div
                 style={{
