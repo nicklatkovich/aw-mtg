@@ -188,6 +188,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '5b07af89-d9b1-4fe7-ac84-547c5af00eec': 'Melnikov Boris',
   '5db075fb-48e5-48c9-b675-32b86f0312f7': 'Zhigar Sergey',
   '9e856e66-33b9-4a88-b703-8f2bb34a19d1': 'Maskaev Evgeny',
+  '65f5879f-9a38-46b2-bea5-10009d4ec9dd': 'Lutseicovich Gleb',
+  '517d7517-ff60-439e-93f5-ff83fb8daade': 'Don Maksim',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -408,4 +410,6 @@ export const playersByUsername: { [username in string]?: string } = {
   gvasalia: '134f7b31-820a-43b7-bbc9-70e5a3b6ded6',
   EugF: 'd3f2887b-80ab-4720-b635-dc0d37b4b8fd',
   Nikeeeeeen: 'cd794a46-4193-4d5b-ae04-d02add6aafbf',
+  L1nden: '65f5879f-9a38-46b2-bea5-10009d4ec9dd',
+  Kalimali: '517d7517-ff60-439e-93f5-ff83fb8daade',
 };
