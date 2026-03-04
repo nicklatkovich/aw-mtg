@@ -4,6 +4,7 @@
   "display_name": "Kolyshko Alexander",
   "color_stats": {"W":0.15748898678414103,"U":1,"B":0.22907488986784144,"R":0.09691629955947138,"G":0.06938325991189427},
   "recent_events": [
+    {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":6,"rank":[12,19],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":3,"rank":[12,14],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":6,"rank":[10,21],"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":3,"rank":[17,18],"match_record":"1-3-0","game_record":"3-6-0"},
@@ -74,8 +75,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 69,
-  "match_played": 263,
-  "match_wins": 140,
-  "favorite_format": ["pauper", 0.5652173913043478]
+  "events_count": 70,
+  "match_played": 267,
+  "match_wins": 142,
+  "favorite_format": ["pauper", 0.5714285714285714]
 }

@@ -4,6 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"W":0.22390722569134705,"U":0.9643175735950048,"B":0.8974130240856385,"R":1,"G":0.875111507582516},
   "recent_events": [
+    {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":0,"rank":[19,19],"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":9,"rank":[5,14],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":9,"rank":[6,21],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":6,"rank":[8,18],"match_record":"2-2-0","game_record":"5-6-0"},
@@ -102,8 +103,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 97,
-  "match_played": 363,
+  "events_count": 98,
+  "match_played": 367,
   "match_wins": 200,
-  "favorite_format": ["pauper", 0.4020618556701031]
+  "favorite_format": ["pauper", 0.40816326530612246]
 }
