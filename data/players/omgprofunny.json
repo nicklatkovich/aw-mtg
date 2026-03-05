@@ -2,9 +2,9 @@
   "guid": "584bf7f8-7b31-4575-b43e-e636daac85ab",
   "id": "omgprofunny",
   "display_name": "Bondarchik Andrei",
-  "color_stats": {"U":0.8064516129032259,"B":1,"G":0.17204301075268813,"W":0.3333333333333332,"R":0.5268817204301073},
+  "color_stats": {"U":0.8125,"B":1,"G":0.16666666666666657,"W":0.32291666666666646,"R":0.5104166666666663},
   "recent_events": [
-    {"id":405306,"name":"Spring League 2026 | Standard #1/12","date":"2026-02-17","format":"standard","points":12,"rank":[1,6],"match_record":"4-0-0","game_record":"8-2-0"},
+    {"id":405306,"name":"Spring League 2026 | Standard #1/12","date":"2026-02-17","format":"standard","points":12,"rank":[1,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":399909,"name":"Daily | Standard (27.01.26)","date":"2026-01-27","format":"standard","points":9,"rank":[2,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":394842,"name":"Daily | Standard (06.01.26)","date":"2026-01-06","format":"standard","points":1,"rank":[6,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-1-1","game_record":"2-3-0"},
     {"id":392657,"name":"Fall League 2025 | Standard #12/12","date":"2025-12-26","format":"standard","points":6,"rank":[10,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},

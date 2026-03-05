@@ -21,7 +21,7 @@
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":9,"rank":[3,25],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":391023,"name":"Fall League 2025 | Pauper #11/12","date":"2025-12-17","format":"pauper","points":6,"rank":[7,11],"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":390834,"name":"Fall League 2025 | Modern #5/6","date":"2025-12-14","format":"modern","points":9,"rank":[3,6],"match_record":"3-1-0","game_record":"7-3-0"},
-    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Izzet Prowess","colors":"UR","type":"Aggro"}},
+    {"id":"trios251213","name":"★ Special Event: Trios (13.12.25)","date":"2025-12-13","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":389691,"name":"Fall League 2025 | Pauper #10/12","date":"2025-12-10","format":"pauper","points":6,"rank":[6,13],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":387829,"name":"Fall League 2025 | Pauper #9/12","date":"2025-12-03","format":"pauper","points":0,"rank":[16,16],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":385541,"name":"Fall League 2025 | Modern #4/6","date":"2025-11-30","format":"modern","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"5-4-0"},
