@@ -187,7 +187,6 @@ export const ARCHETYPES = {
   'Izzet Vivi': ['UR', DeckType.TEMPO],
   'Izzet Skred': 'UR',
   'Izzet Delver': 'UR',
-  'Izzet Prowess': ['UR', DeckType.AGGRO],
   'Izzet Creativity': ['UR', DeckType.COMBO],
   'Izzet Affinity': 'UR',
   'Izzet Looting': 'UR',

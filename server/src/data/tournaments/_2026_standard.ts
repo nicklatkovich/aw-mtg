@@ -8,7 +8,7 @@ export const _2026_standard: Tournament[] = [
     name: 'Spring League 2026 | Standard #3/12',
     date: '2026-03-03',
     standings: [
-      { player: 'BRV', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'BRV', rank: 1, deck: 'Izzet Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
       { player: 'Barbossa', rank: 2, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-1' },
       { player: 'Very_Bad_Man', rank: 3, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-3-1' },
       { player: 'ykcyc', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
@@ -44,7 +44,7 @@ export const _2026_standard: Tournament[] = [
     name: 'Spring League 2026 | Standard #2/12',
     date: '2026-02-24',
     standings: [
-      { player: 'Very_Bad_Man', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
       { player: 'gvasalia', rank: 2, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'BRV', rank: 3, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
       { player: 'ykcyc', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
@@ -77,7 +77,7 @@ export const _2026_standard: Tournament[] = [
     name: 'Spring League 2026 | Standard #1/12',
     date: '2026-02-17',
     standings: [
-      { player: 'profunny', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'profunny', rank: 1, deck: 'Dimir Midrange', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
       { player: 'qvertion', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '5-3-0' },
       { player: '[OMG]Summie', rank: 3, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-4-0' },
       { player: 'DamK6', rank: 4, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-6-0' },

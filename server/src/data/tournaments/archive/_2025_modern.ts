@@ -157,7 +157,7 @@ export const _2025_modern: Tournament[] = [
       { player: 'farsmac', rank: 4, deck: 'Esper Blink', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
       { player: 'Norbi', rank: 5, deck: 'Jeskai Blink', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
       { player: 'aspelled', rank: 6, deck: 'Domain Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
-      { player: 'BRV', rank: 7, deck: 'Izzet Prowess', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-6-0' },
+      { player: 'BRV', rank: 7, deck: 'Izzet Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-6-0' },
       { player: 'DanilaNabeshko', rank: 8, deck: 'Azorius Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
       { player: 'qvertion', rank: 9, deck: 'Izzet Affinity', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
       { player: 'Aleksandr_KoLoshk', rank: 10, deck: 'Dimir Necrodominance', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
@@ -200,7 +200,7 @@ export const _2025_modern: Tournament[] = [
     date: '2025-10-26',
     standings: [
       { player: 'Norbi', rank: 1, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
-      { player: 'BRV', rank: 2, deck: 'Izzet Prowess', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
       { player: 'aspelled', rank: 3, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
       { player: 'DanilaNabeshko', rank: 4, deck: 'Azorius Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
       { player: 'qvertion', rank: 5, deck: 'Boros Energy', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },

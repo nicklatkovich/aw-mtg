@@ -67,7 +67,7 @@ export const _2026_modern: Tournament[] = [
     name: 'Spring League 2026 | Modern #1/12',
     date: '2026-02-22',
     standings: [
-      { player: 'BRV', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'BRV', rank: 1, deck: 'Izzet Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
       { player: 'McRais', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
       { player: 'qvertion', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
       { player: 'Kihikara', rank: 4, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
@@ -140,9 +140,9 @@ export const _2026_modern: Tournament[] = [
     date: '2026-02-01',
     standings: [
       { player: 'Norbi', rank: 1, deck: 'Jeskai Blink', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
-      { player: 'BRV', rank: 2, deck: 'Izzet Prowess', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
       { player: 'Tanti', rank: 3, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
-      { player: 'Asafas', rank: 4, deck: 'Izzet Prowess', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Asafas', rank: 4, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
       { player: 'AmericanSoup', rank: 5, deck: 'Jeksai Hammer', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
       { player: 'diuzhev', rank: 6, deck: 'Abzan Birthing Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
       { player: 'HeartlessHero', rank: 7, deck: 'Dredge', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-6-0' },

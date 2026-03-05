@@ -17,7 +17,7 @@ export const _2025_specials: Tournament[] = [
       { player: 'Dukalis1985', rank: 2, points: 12, format: Format.PAUPER, deck: 'Esper Affinity' },
       { player: 'GlebK', rank: 2, points: 12, format: Format.PIONEER, deck: 'Gruul Aggro' },
       // 1. Domain Omni-bogles
-      { player: 'BRV', rank: 3, points: 6, format: Format.MODERN, deck: 'Izzet Prowess' },
+      { player: 'BRV', rank: 3, points: 6, format: Format.MODERN, deck: 'Izzet Aggro' },
       { player: 'NickLatkovich', rank: 3, points: 6, format: Format.PAUPER, deck: 'Walls Combo' },
       { player: 'AnklDen', rank: 3, points: 6, format: Format.PIONEER, deck: 'Selesnya Angels' },
       // 5. Tyrizm.gov.na
@@ -39,7 +39,7 @@ export const _2025_specials: Tournament[] = [
       // 2. Stooped Dogs (omw: 58.33%)
       { player: 'farsmac', rank: 8, points: 0, format: Format.MODERN, deck: 'Kethis Combo' },
       { player: 'TroV1', rank: 8, points: 0, format: Format.PAUPER, deck: 'Azorius Gates' },
-      { player: 'aspelled', rank: 8, points: 0, format: Format.PIONEER, deck: 'Izzet Prowess' },
+      { player: 'aspelled', rank: 8, points: 0, format: Format.PIONEER, deck: 'Izzet Aggro' },
     ],
     rounds: [
       [
