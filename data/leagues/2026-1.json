@@ -60,22 +60,25 @@
     "display_name": "Pioneer",
     "table_id": "pioneer",
     "total_events": 12,
-    "past_events": 2,
+    "past_events": 3,
     "top": 6,
-    "prize_fund": 34,
+    "prize_fund": 54,
     "players": [
-      {"display_name":"Brozhat Rostislav","id":"brv","total_points":19,"max_points":89,"event_count":2,"points":[12,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Trofimov Valera","id":"trov1","total_points":19,"max_points":89,"event_count":2,"points":[6,12,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv","total_points":18,"max_points":88,"event_count":2,"points":[9,9,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Krapivnitsky Gleb","id":"glebk","total_points":12,"max_points":88,"event_count":2,"points":[3,9,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":12,"max_points":88,"event_count":2,"points":[6,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Shagoiko Maxim","id":"very-bad-man","total_points":12,"max_points":88,"event_count":2,"points":[6,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Chuyanau Dzianis","id":"anklden","total_points":9,"max_points":88,"event_count":2,"points":[3,6,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Bandarchyk Anton","id":"summie","total_points":3,"max_points":87,"event_count":1,"points":[null,3,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Belezeko Slava","id":"slava-bel","total_points":3,"max_points":87,"event_count":1,"points":[null,3,null,null,null,null,null,null,null,null,null,null]},
-      {"display_name":"Duzhev Ivan","id":"gerber2000","total_points":3,"max_points":87,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]}
+      {"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv","total_points":27,"max_points":87,"event_count":3,"points":[9,9,9,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":25,"max_points":88,"event_count":3,"points":[6,6,12,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Trofimov Valera","id":"trov1","total_points":25,"max_points":88,"event_count":3,"points":[6,12,6,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Brozhat Rostislav","id":"brv","total_points":22,"max_points":88,"event_count":3,"points":[12,6,3,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Krapivnitsky Gleb","id":"glebk","total_points":18,"max_points":87,"event_count":3,"points":[3,9,6,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Chuyanau Dzianis","id":"anklden","total_points":16,"max_points":87,"event_count":3,"points":[3,6,7,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Shagoiko Maxim","id":"very-bad-man","total_points":15,"max_points":87,"event_count":3,"points":[6,6,3,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Paulouski Tsimafei","id":"ispinyouround","total_points":7,"max_points":85,"event_count":1,"points":[null,null,7,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Bandarchyk Anton","id":"summie","total_points":3,"max_points":85,"event_count":1,"points":[null,3,null,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Belezeko Slava","id":"slava-bel","total_points":3,"max_points":85,"event_count":1,"points":[null,3,null,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Duzhev Ivan","id":"gerber2000","total_points":3,"max_points":85,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Ihnatsik Yauheni","id":"mcrais","total_points":0,"max_points":85,"event_count":1,"points":[null,null,0,null,null,null,null,null,null,null,null,null]},
+      {"display_name":"Zubovich Valery","id":"aspelled","total_points":0,"max_points":85,"event_count":1,"points":[null,null,0,null,null,null,null,null,null,null,null,null]}
     ],
-    "event_ids": [405312, 407525]
+    "event_ids": [405312, 407525, 408619]
   },
   {
     "format": "modern",
