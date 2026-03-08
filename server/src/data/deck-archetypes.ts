@@ -42,6 +42,7 @@ export const ARCHETYPES = {
   'Esper Tempo': ['WUB', DeckType.TEMPO],
   'Esper Stoneblade': ['WUB', DeckType.MIDRANGE],
   'Esper Blink': 'WUB',
+  'Esper Goryo': 'WUB',
   // WUR
   'Jeskai Fires': ['WUR', DeckType.COMBO],
   'Jeskai Oculus': ['WUR', DeckType.MIDRANGE],
@@ -144,6 +145,7 @@ export const ARCHETYPES = {
   'Mono-Blue Omni-Tell': ['U', DeckType.COMBO],
   'Mono-Blue Tide Control': ['U', DeckType.CONTROL],
   'Mono-Blue Stasis': ['U', DeckType.CONTROL],
+  'Mono-Blue Grinding Emry': ['U', DeckType.COMBO],
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -211,6 +213,7 @@ export const ARCHETYPES = {
   'Simic Ritual': 'UG',
   'Simic Birthing Ritual': ['UG', DeckType.COMBO],
   'Simic Terror': ['UG', DeckType.TEMPO],
+  'Simic Neoform': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -252,6 +255,7 @@ export const ARCHETYPES = {
   'Golgari Reanimator': ['BG', DeckType.COMBO],
   'Golgari Rock': ['BG', DeckType.MIDRANGE],
   'Golgari Turbo Fog': 'BG',
+  'Golgari Yawgmoth': ['BG', DeckType.COMBO],
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
