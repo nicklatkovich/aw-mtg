@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 408607,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #4/12',
+    date: '2026-03-10',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'ykcyc', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: '[OMG]Summie', rank: 3, deck: 'Bant Rhythm', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'McRais', rank: 4, deck: 'Esper Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 5, deck: 'Izzet Aggro', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'jor1k', rank: 6, deck: { name: 'Selesnya', colors: 'WG' }, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['[OMG]Summie', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['McRais', 'jor1k'], winner: 1, record: '2-0-0' },
+        { players: ['ykcyc', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'ykcyc'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'jor1k'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['McRais', '[OMG]Summie'], winner: 2, record: '2-1-0' },
+        { players: ['ykcyc', 'jor1k'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', '[OMG]Summie'], winner: 1, record: '2-0-0' },
+        { players: ['McRais', 'ykcyc'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 408605,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #3/12',

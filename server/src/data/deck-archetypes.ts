@@ -68,6 +68,7 @@ export const ARCHETYPES = {
   'Bant Company': ['WUG', DeckType.MIDRANGE],
   'Bant Spirits': ['WUG', DeckType.TEMPO],
   'Bant Airbending': ['WUG', DeckType.COMBO],
+  'Bant Rhythm': 'WUG',
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
