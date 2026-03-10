@@ -1,0 +1,13 @@
+{
+  "guid": "b42b01e2-8dc8-4144-803a-040c498165ad",
+  "id": "jor1k",
+  "display_name": "Leshik Maksim",
+  "color_stats": {"W":1,"G":1},
+  "recent_events": [
+    {"id":408607,"name":"Spring League 2026 | Standard #4/12","date":"2026-03-10","format":"standard","points":0,"rank":[6,6],"deck":{"archetype":"Selesnya","colors":"WG","type":null},"match_record":"0-3-0","game_record":"0-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 0,
+  "favorite_format": ["standard", 1]
+}
