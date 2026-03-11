@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"W":0.2705735660847881,"B":0.3142144638403991,"R":1,"G":0.40773067331670837,"U":0.5885286783042397},
   "recent_events": [
+    {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":408619,"name":"Spring League 2026 | Pioneer #3/12","date":"2026-03-05","format":"pioneer","points":0,"rank":[9,10],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":6,"rank":[8,19],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":3,"rank":[10,14],"deck":{"archetype":"Gruul Eldrazi","colors":"RG","type":null},"match_record":"1-2-0","game_record":"3-5-0"},
@@ -119,8 +120,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 114,
-  "match_played": 425,
-  "match_wins": 214,
-  "favorite_format": ["pioneer", 0.3508771929824561]
+  "events_count": 115,
+  "match_played": 429,
+  "match_wins": 216,
+  "favorite_format": ["pioneer", 0.34782608695652173]
 }

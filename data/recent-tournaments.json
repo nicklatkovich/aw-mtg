@@ -1,4 +1,5 @@
 [
+  {"id":408618,"format":"pauper","date":"2026-03-11","name":"Spring League 2026 | Pauper #4/12","players_count":19,"winner":{"player":{"display_name":"Kandratsenia Ivan","id":"exidra"}}},
   {"id":408607,"format":"standard","date":"2026-03-10","name":"Spring League 2026 | Standard #4/12","players_count":6,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":408612,"format":"modern","date":"2026-03-08","name":"Spring League 2026 | Modern #3/12","players_count":12,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Grinding Emry","colors":"U","type":"Combo"}}},
   {"id":408619,"format":"pioneer","date":"2026-03-05","name":"Spring League 2026 | Pioneer #3/12","players_count":10,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"}}},
