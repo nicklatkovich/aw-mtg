@@ -8,7 +8,7 @@ export const _2026_pauper: Tournament[] = [
     name: 'Spring League 2026 | Pauper #4/12',
     date: '2026-03-11',
     standings: [
-      { player: 'Exidra', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'Exidra', rank: 1, deck: 'Mono-Red Burn', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
       { player: 'qvertion', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
       { player: 'Kiryl_Smaktunovich', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
       { player: 'AlexKhan', rank: 4, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '5-2-0' },
