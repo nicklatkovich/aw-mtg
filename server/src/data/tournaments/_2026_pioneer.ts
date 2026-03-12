@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 408624,
+    format: Format.PIONEER,
+    name: 'Spring League 2026 | Pioneer #4/12',
+    date: '2026-03-12',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Simic Scapeshift', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-1' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'vorotinskyV', rank: 3, deck: 'Mono-Red Aggro', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-1' },
+      { player: 'ispinyouround', rank: 4, deck: 'Rakdos Midrange', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Very_Bad_Man', rank: 5, deck: 'Izzet Phoenix', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'GlebK', rank: 6, deck: 'Mono-Red Aggro', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '2-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'vorotinskyV'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'ispinyouround'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'vorotinskyV'], winner: 0, record: '1-1-1' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 408619,
     format: Format.PIONEER,
     name: 'Spring League 2026 | Pioneer #3/12',
