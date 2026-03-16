@@ -202,6 +202,7 @@ export const ARCHETYPES = {
   'Temur Landfall': 'URG',
   'Temur Battlecrier': ['URG', DeckType.COMBO],
   'Mississippi River': ['URG', DeckType.COMBO],
+  'Temur Grinding Emry': 'URG',
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
