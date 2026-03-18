@@ -258,6 +258,7 @@ export const ARCHETYPES = {
   'Golgari Rock': ['BG', DeckType.MIDRANGE],
   'Golgari Turbo Fog': 'BG',
   'Golgari Yawgmoth': ['BG', DeckType.COMBO],
+  'Golgari Elves': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],

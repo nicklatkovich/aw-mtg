@@ -3,6 +3,46 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 414406,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #5/12',
+    date: '2026-03-17',
+    standings: [
+      { player: 'Barbossa', rank: 1, deck: 'Mono-White Control', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'BRV', rank: 2, deck: 'Temur Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Very_Bad_Man', rank: 3, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '5-4-0' },
+      { player: 'McRais', rank: 4, deck: 'Golgari Elves', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: '[OMG]Summie', rank: 5, deck: 'Bant Rhythm', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BregoXX', rank: 6, deck: 'Esper Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-5-0' },
+      { player: 'diuzhev', rank: 7, deck: 'Dimir Midrange', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Barbossa', null], winner: 1, record: 'bye' },
+        { players: ['BregoXX', 'Very_Bad_Man'], winner: 2, record: '1-0-0' },
+        { players: ['McRais', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', '[OMG]Summie'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BregoXX', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Barbossa'], winner: 2, record: '2-1-0' },
+        { players: ['diuzhev', '[OMG]Summie'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['diuzhev', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'Barbossa'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['BregoXX', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Barbossa', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['[OMG]Summie', 'BregoXX'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 408607,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #4/12',
