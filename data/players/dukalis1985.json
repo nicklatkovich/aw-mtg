@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"R":0.8263888888888888,"G":0.16666666666666669,"W":0.3315972222222222,"U":0.1232638888888889,"B":1},
+  "color_stats": {"U":0.13822525597269628,"B":1,"R":0.8293515358361775,"G":0.16382252559726965,"W":0.32593856655290104},
   "recent_events": [
+    {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":4,"rank":[12,19],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-1-1","game_record":"3-3-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":9,"rank":[3,19],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":9,"rank":[4,19],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":9,"rank":[5,21],"match_record":"3-1-0","game_record":"7-2-0"},
@@ -105,8 +106,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 100,
-  "match_played": 373,
-  "match_wins": 199,
-  "favorite_format": ["pioneer", 0.75]
+  "events_count": 101,
+  "match_played": 376,
+  "match_wins": 200,
+  "favorite_format": ["pioneer", 0.7425742574257426]
 }

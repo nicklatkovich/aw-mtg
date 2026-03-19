@@ -1,4 +1,5 @@
 [
+  {"id":414646,"format":"pauper","date":"2026-03-18","name":"Spring League 2026 | Pauper #5/12","players_count":19,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"}}},
   {"id":414406,"format":"standard","date":"2026-03-17","name":"Spring League 2026 | Standard #5/12","players_count":7,"winner":{"player":{"display_name":"Bogdan Ilya","id":"barbossa"},"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"}}},
   {"id":408613,"format":"modern","date":"2026-03-15","name":"Spring League 2026 | Modern #4/12","players_count":13,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"}}},
   {"id":408624,"format":"pioneer","date":"2026-03-12","name":"Spring League 2026 | Pioneer #4/12","players_count":6,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"}}},

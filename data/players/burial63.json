@@ -2,8 +2,9 @@
   "guid": "00c53649-c5aa-4bed-a147-35396f52ec60",
   "id": "burial63",
   "display_name": "Burankou Aliaksei",
-  "color_stats": {"G":1,"W":0.13513513513513514,"U":0.7297297297297297,"B":0.7027027027027027,"R":0.24324324324324326},
+  "color_stats": {"U":0.7837837837837838,"G":1,"W":0.13513513513513514,"B":0.7027027027027027,"R":0.24324324324324326},
   "recent_events": [
+    {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-1-0","game_record":"3-2-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":4,"rank":[15,19],"match_record":"1-2-1","game_record":"4-5-0"},
     {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":6,"rank":[13,19],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":407490,"name":"Spring League 2026 | Pauper #2/12","date":"2026-02-25","format":"pauper","points":6,"rank":[8,21],"match_record":"2-2-0","game_record":"5-6-0"},
@@ -71,8 +72,8 @@
     {"id":134250,"date":"2024-08-15","format":"pioneer","points":4,"rank":[13,17]},
     {"id":121447,"date":"2024-07-18","format":"pioneer","points":6,"rank":[10,21]}
   ],
-  "events_count": 66,
-  "match_played": 245,
-  "match_wins": 78,
-  "favorite_format": ["pauper", 0.5151515151515151]
+  "events_count": 67,
+  "match_played": 247,
+  "match_wins": 79,
+  "favorite_format": ["pauper", 0.5223880597014925]
 }
