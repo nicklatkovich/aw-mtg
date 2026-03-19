@@ -121,6 +121,7 @@ export const ARCHETYPES = {
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
+  'Naya Gates': 'WRG',
   // WG
   'Selesnya Company': 'WG',
   'Selesnya Cage': 'WG',
@@ -203,6 +204,8 @@ export const ARCHETYPES = {
   'Temur Battlecrier': ['URG', DeckType.COMBO],
   'Mississippi River': ['URG', DeckType.COMBO],
   'Temur Grinding Emry': 'URG',
+  'Temur Skred': 'URG',
+  'Temur Devoted Druid': ['URG', DeckType.COMBO],
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
