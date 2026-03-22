@@ -219,6 +219,7 @@ export const ARCHETYPES = {
   'Simic Birthing Ritual': ['UG', DeckType.COMBO],
   'Simic Terror': ['UG', DeckType.TEMPO],
   'Simic Neoform': 'UG',
+  'Simic Grinding Emry': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -246,6 +247,7 @@ export const ARCHETYPES = {
   'Jund Wildfire': ['BRG', DeckType.CONTROL],
   'Jund Altar Tron': 'BRG',
   'Jund Spy Combo': ['BRG', DeckType.COMBO],
+  'Jund Cosmogoyf': ['BRG', DeckType.COMBO],
   // BG
   'Golgari Obliterator': ['BG', DeckType.MIDRANGE],
   'Golgari Aggro': ['BG', DeckType.AGGRO],
