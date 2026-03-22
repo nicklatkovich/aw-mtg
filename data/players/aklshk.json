@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"W":0.1432865731462926,"B":0.20841683366733463,"R":0.08817635270541081,"G":0.06312625250501},
+  "color_stats": {"U":1,"G":0.07699901283316879,"W":0.14116485686080948,"B":0.20533070088845012,"R":0.08687068114511351},
   "recent_events": [
+    {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":12,"rank":[1,14],"deck":{"archetype":"Simic Grinding Emry","colors":"UG","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":9,"rank":[4,19],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":6,"rank":[8,13],"deck":{"archetype":"Mono-Blue Grinding Emry","colors":"U","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":9,"rank":[6,19],"match_record":"3-1-0","game_record":"7-3-0"},
@@ -79,8 +80,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 74,
-  "match_played": 283,
-  "match_wins": 154,
-  "favorite_format": ["pauper", 0.5675675675675675]
+  "events_count": 75,
+  "match_played": 287,
+  "match_wins": 158,
+  "favorite_format": ["pauper", 0.56]
 }

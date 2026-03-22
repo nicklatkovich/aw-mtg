@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"W":0.28571428571428575,"U":0.6120689655172417,"R":1,"G":0.41502463054187205,"B":0.3103448275862069},
+  "color_stats": {"W":0.29866989117291415,"R":1,"U":0.6009673518742445,"G":0.4074969770253931,"B":0.3047158403869408},
   "recent_events": [
+    {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":9,"rank":[3,14],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[6,19],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":0,"rank":[13,13],"deck":{"archetype":"Temur Grinding Emry","colors":"URG","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -122,8 +123,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 117,
-  "match_played": 435,
-  "match_wins": 218,
-  "favorite_format": ["pioneer", 0.3418803418803419]
+  "events_count": 118,
+  "match_played": 439,
+  "match_wins": 221,
+  "favorite_format": ["pioneer", 0.3389830508474576]
 }

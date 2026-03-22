@@ -1,4 +1,5 @@
 [
+  {"id":414944,"format":"modern","date":"2026-03-22","name":"Spring League 2026 | Modern #5/12","players_count":14,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Simic Grinding Emry","colors":"UG","type":null}}},
   {"id":414934,"format":"pioneer","date":"2026-03-19","name":"Spring League 2026 | Pioneer #5/12","players_count":11,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":414646,"format":"pauper","date":"2026-03-18","name":"Spring League 2026 | Pauper #5/12","players_count":19,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"}}},
   {"id":414406,"format":"standard","date":"2026-03-17","name":"Spring League 2026 | Standard #5/12","players_count":7,"winner":{"player":{"display_name":"Bogdan Ilya","id":"barbossa"},"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"}}},
