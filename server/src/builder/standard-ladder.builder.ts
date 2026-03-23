@@ -45,6 +45,7 @@ export function buildStandardLadder(playersMap: Map<string, PlayerDTO>): Standar
     const evenPlayers = standings.length % 2 === 0;
     const updatedPids = new Set<string>();
     for (const { player, rank, deck, mp: tMP, mw: tMW } of standings) {
+      assert(typeof player === 'string', `Ladder is not supported for unknown players`);
       const pid = playersByUsername[player];
       assert(pid);
       const prev = stats.get(pid) ?? null;

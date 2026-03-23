@@ -17,7 +17,7 @@ export type TournamentResultDTO = {
   name?: string;
   standings: Array<{
     rank: number;
-    player: { display_name: string; id: string };
+    player: { display_name: string; id?: string };
     points: number;
     deck?: DeckDTO;
     match_record?: string;

@@ -32,6 +32,7 @@ export const ARCHETYPES = {
   'Azorius Dreadnought': 'WU',
   'Azorius Heroic': ['WU', DeckType.AGGRO],
   'Azorius Tempo': ['WU', DeckType.TEMPO],
+  'Azorius Merfolks': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -85,6 +86,8 @@ export const ARCHETYPES = {
   'Orzhov Discard': ['WB', DeckType.MIDRANGE],
   'Orzhov Infestation': 'WB',
   'Orzhov Midrange': ['WB', DeckType.MIDRANGE],
+  'Orzhov Doom': 'WB',
+  'Orzhov Humans': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -92,6 +95,7 @@ export const ARCHETYPES = {
   'Mardu Energy': ['WBR', DeckType.AGGRO],
   'Mardu Synthesizer': 'WBR',
   'Mardu Midrange': ['WBR', DeckType.MIDRANGE],
+  'Mardu Cycling': 'WBR',
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
@@ -148,6 +152,7 @@ export const ARCHETYPES = {
   'Mono-Blue Tide Control': ['U', DeckType.CONTROL],
   'Mono-Blue Stasis': ['U', DeckType.CONTROL],
   'Mono-Blue Grinding Emry': ['U', DeckType.COMBO],
+  'Mono-Blue Rona Combo': 'U',
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],
@@ -174,6 +179,7 @@ export const ARCHETYPES = {
   'Grixis Hidetsugu Combo': ['UBR', DeckType.COMBO],
   'Grixis Artifacts': 'UBR',
   'Grixis Terror': ['UBR', DeckType.TEMPO],
+  'Grixis Aggro': 'UBR',
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -183,6 +189,7 @@ export const ARCHETYPES = {
   'Sultai Control': ['UBG', DeckType.CONTROL],
   'Sultai Spy Combo': ['UBG', DeckType.COMBO],
   'Sultai Energy': 'UBG',
+  'Sultai Scapeshift': ['UBG', DeckType.COMBO],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -220,6 +227,7 @@ export const ARCHETYPES = {
   'Simic Terror': ['UG', DeckType.TEMPO],
   'Simic Neoform': 'UG',
   'Simic Grinding Emry': 'UG',
+  'Simic Merfolks': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
@@ -264,6 +272,7 @@ export const ARCHETYPES = {
   'Golgari Turbo Fog': 'BG',
   'Golgari Yawgmoth': ['BG', DeckType.COMBO],
   'Golgari Elves': 'BG',
+  'Golgari Sacrifice': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],

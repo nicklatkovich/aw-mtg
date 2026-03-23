@@ -29,7 +29,9 @@ export function buildPlayersData(): Map<string, PlayerDTO> {
     let mw = 0;
     const recent_events = allTournaments
       .map<PlayerTournamentDTO | null>((t) => {
-        const s = t.standings.find((s) => (playersByUsername[s.player] ?? s.player) === guid);
+        const s = t.standings.find(
+          (s) => ((typeof s.player === 'string' && playersByUsername[s.player]) ?? s.player) === guid,
+        );
         if (!s) return null;
         const colors = [...(getDeckColor(s.deck)?.toUpperCase() ?? '')].filter((c) => 'WUBRG'.includes(c));
         if (colors.length > 0) {

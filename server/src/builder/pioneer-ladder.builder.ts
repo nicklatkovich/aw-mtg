@@ -29,6 +29,7 @@ export function buildPioneerLadder(
     // }
 
     for (const s of t.standings) {
+      assert(typeof s.player === 'string', `Ladder is not supported for unknown players`);
       const pid = playersByUsername[s.player] ?? s.player;
       const prevRes = result.get(pid);
       const decks: PlayerDecks = prevRes?.decks ?? new Map();

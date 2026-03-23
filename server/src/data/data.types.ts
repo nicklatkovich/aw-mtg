@@ -19,7 +19,7 @@ export type Match = (
 
 export type Standing = {
   rank: number;
-  player: string; // guid or melee username
+  player: string | { display_name: string; id?: string }; // string is guid or melee username
   points: number;
   mp?: number;
   mw?: number;
@@ -35,6 +35,7 @@ export type Standing = {
 };
 
 export type Tournament = {
+  hidden?: boolean;
   id: number | string; // number = melee tournament id
   name?: string;
   format: Format;

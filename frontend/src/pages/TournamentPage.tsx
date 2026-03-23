@@ -77,7 +77,11 @@ const TournamentPage: React.FC = () => {
                   <div key={s.rank} style={{ display: 'contents' }}>
                     <div className="cell">{s.rank}</div>
                     <div className="cell left">
-                      <Link to={`/player/${s.player.id}`}>{s.player.display_name}</Link>
+                      {s.player.id ? (
+                        <Link to={`/player/${s.player.id}`}>{s.player.display_name}</Link>
+                      ) : (
+                        s.player.display_name
+                      )}
                     </div>
                     <div className="cell">{s.points}</div>
                     {data.format === Format.TRIOS ? (

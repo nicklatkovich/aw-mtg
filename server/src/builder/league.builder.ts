@@ -13,6 +13,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
       if (!event) continue;
       prize_pool += league.prize_pool_inc_by_player * event.standings.length;
       for (const s of event.standings) {
+        assert(typeof s.player === 'string', `League is not supported for unknown players`);
         const pid = playersByUsername[s.player] ?? s.player;
         const playerInfo = playersMap.get(pid);
         assert(playerInfo, `Player not found: ${s.player} (${pid})`);

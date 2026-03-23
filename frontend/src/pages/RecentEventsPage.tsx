@@ -38,7 +38,11 @@ export default function RecentEventsPage() {
                     </div>
                     <div className="cell">{row.players_count}</div>
                     <div className="cell">
-                      <Link to={`/player/${row.winner.player.id}`}>{row.winner.player.display_name}</Link>
+                      {row.winner.player.id ? (
+                        <Link to={`/player/${row.winner.player.id}`}>{row.winner.player.display_name}</Link>
+                      ) : (
+                        row.winner.player.display_name
+                      )}
                     </div>
                     <div className="cell left">
                       <DeckComponent deck={row.winner.deck} />
