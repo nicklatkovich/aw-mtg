@@ -3,6 +3,48 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 416279,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #6/12',
+    date: '2026-03-24',
+    standings: [
+      { player: 'profunny', rank: 1, deck: 'Dimir Midrange', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: '[OMG]Summie', rank: 2, deck: 'Bant Rhythm', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'IvaD', rank: 3, deck: 'Mono-Green Landfall', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '3-4-0' },
+      { player: 'Very_Bad_Man', rank: 4, deck: 'Mono-Green Landfall', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'ykcyc', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'BRV', rank: 6, deck: 'Temur Aggro', points: 4, mp: 3, mw: 0, match_record: '1-2-1', game_record: '4-5-0' },
+      { player: 'McRais', rank: 7, deck: 'Esper Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'jor1k', rank: 8, deck: 'Golgari Elves', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['IvaD', 'jor1k'], winner: 1, record: '1-0-0' },
+        { players: ['[OMG]Summie', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['ykcyc', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['McRais', 'profunny'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', 'profunny'], winner: 2, record: '2-0-0' },
+        { players: ['IvaD', '[OMG]Summie'], winner: 2, record: '2-0-0' },
+        { players: ['jor1k', 'BRV'], winner: 0, record: '1-1-0' },
+        { players: ['McRais', 'ykcyc'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['[OMG]Summie', 'profunny'], winner: 2, record: '2-1-0' },
+        { players: ['ykcyc', 'jor1k'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'IvaD'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'McRais'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['profunny', 'IvaD'], winner: 1, record: '2-0-0' },
+        { players: ['[OMG]Summie', 'ykcyc'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'McRais'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 414406,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #5/12',
