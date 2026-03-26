@@ -191,6 +191,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '65f5879f-9a38-46b2-bea5-10009d4ec9dd': 'Lutseicovich Gleb',
   '517d7517-ff60-439e-93f5-ff83fb8daade': 'Don Maksim',
   'b42b01e2-8dc8-4144-803a-040c498165ad': 'Leshik Maksim',
+  '5dd75bcd-d459-4f0b-ae92-38eefe2e172a': 'Lopatin Maxim',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -414,4 +415,5 @@ export const playersByUsername: { [username in string]?: string } = {
   L1nden: '65f5879f-9a38-46b2-bea5-10009d4ec9dd',
   Kalimali: '517d7517-ff60-439e-93f5-ff83fb8daade',
   jor1k: 'b42b01e2-8dc8-4144-803a-040c498165ad',
+  mnihc: '5dd75bcd-d459-4f0b-ae92-38eefe2e172a',
 };
