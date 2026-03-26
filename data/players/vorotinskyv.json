@@ -2,8 +2,9 @@
   "guid": "824039fa-f433-42e7-845c-7c0fd61a21c2",
   "id": "vorotinskyv",
   "display_name": "Vorotinsky Vitaliy",
-  "color_stats": {"R":1,"U":0.005763688760806917,"B":0.01440922190201729,"G":0.069164265129683,"W":0.01729106628242075},
+  "color_stats": {"R":1,"U":0.0056657223796034,"B":0.014164305949008499,"G":0.0679886685552408,"W":0.0169971671388102},
   "recent_events": [
+    {"id":416904,"name":"Event 416904","date":"2026-03-26","format":"pioneer","points":6,"rank":[9,13],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":3,"rank":[12,16],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":414934,"name":"Spring League 2026 | Pioneer #5/12","date":"2026-03-19","format":"pioneer","points":9,"rank":[1,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":408624,"name":"Spring League 2026 | Pioneer #4/12","date":"2026-03-12","format":"pioneer","points":7,"rank":[3,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-1-1","game_record":"6-4-1"},
@@ -112,8 +113,8 @@
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}},
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Boros Heroic","colors":"WR","type":"Aggro"}}
   ],
-  "events_count": 107,
-  "match_played": 387,
-  "match_wins": 223,
-  "favorite_format": ["pioneer", 0.7757009345794392]
+  "events_count": 108,
+  "match_played": 391,
+  "match_wins": 225,
+  "favorite_format": ["pioneer", 0.7777777777777778]
 }

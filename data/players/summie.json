@@ -2,8 +2,9 @@
   "guid": "d3f6dfd4-2da2-45fc-bad4-fb638074a99c",
   "id": "summie",
   "display_name": "Bandarchyk Anton",
-  "color_stats": {"W":1,"U":0.7268408551068882,"G":0.22802850356294532,"B":0.6555819477434678,"R":0.31116389548693585},
+  "color_stats": {"W":1,"U":0.7362385321100918,"G":0.22018348623853212,"B":0.6330275229357798,"R":0.30045871559633036},
   "recent_events": [
+    {"id":416904,"name":"Event 416904","date":"2026-03-26","format":"pioneer","points":0,"rank":[13,13],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":9,"rank":[2,8],"deck":{"archetype":"Bant Rhythm","colors":"WUG","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":414406,"name":"Spring League 2026 | Standard #5/12","date":"2026-03-17","format":"standard","points":6,"rank":[5,7],"deck":{"archetype":"Bant Rhythm","colors":"WUG","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":408607,"name":"Spring League 2026 | Standard #4/12","date":"2026-03-10","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Bant Rhythm","colors":"WUG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
@@ -52,8 +53,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":6,"rank":[10,16]},
     {"id":126622,"date":"2024-08-01","format":"pioneer","points":6,"rank":[6,13]}
   ],
-  "events_count": 47,
-  "match_played": 185,
+  "events_count": 48,
+  "match_played": 189,
   "match_wins": 92,
-  "favorite_format": ["standard", 0.8936170212765957]
+  "favorite_format": ["standard", 0.875]
 }
