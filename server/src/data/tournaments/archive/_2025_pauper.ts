@@ -223,8 +223,8 @@ export const _2025_pauper: Tournament[] = [
       { player: 'Aleksandr_KoLoshk', rank: 11, deck: 'Mono-Blue Terror', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
       { player: 'AmericanSoup', rank: 12, deck: 'Mono-Black Sacrifice', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
       { player: '4onoki', rank: 13, deck: 'Boros Moxite', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'andrei', rank: 15, deck: 'Ephemerate Tron', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '2-5-0' },
       { player: 'Asafas', rank: 14, deck: 'Mono-Blue Terror', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
-      { player: 'andrei', rank: 15, deck: 'Flicker Tron', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '2-5-0' },
       { player: 'aspelled', rank: 16, deck: 'Gruul Ramp', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
     ],
     rounds: [

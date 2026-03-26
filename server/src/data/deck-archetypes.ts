@@ -170,6 +170,7 @@ export const ARCHETYPES = {
   'Dimir Reanimator': ['UB', DeckType.COMBO],
   'Dimir Necrodominance': 'UB',
   'Dimir Mill': 'UB',
+  'Dimir Terror': ['UB', DeckType.CONTROL],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -329,7 +330,6 @@ export const ARCHETYPES = {
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
   'Domain Ritual': 'WUBRG',
-  'Flicker Tron': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',
