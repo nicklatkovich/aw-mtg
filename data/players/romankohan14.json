@@ -2,8 +2,9 @@
   "guid": "c1da6ed3-4f79-496a-8f49-e6566eddd816",
   "id": "romankohan14",
   "display_name": "Kokhan Roman",
-  "color_stats": {"W":0.6362799263351747,"R":1,"G":0.2817679558011049,"U":0.221915285451197,"B":0.3738489871086556},
+  "color_stats": {"B":0.3823796548592189,"R":1,"W":0.6276112624886465,"G":0.27792915531335144,"U":0.2188919164396003},
   "recent_events": [
+    {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":6,"rank":[7,16],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[7,19],"deck":{"archetype":"Naya Gates","colors":"WRG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":6,"rank":[12,19],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":9,"rank":[3,19],"match_record":"3-1-0","game_record":"6-2-0"},
@@ -136,8 +137,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 131,
-  "match_played": 514,
-  "match_wins": 315,
-  "favorite_format": ["pioneer", 0.40458015267175573]
+  "events_count": 132,
+  "match_played": 518,
+  "match_wins": 317,
+  "favorite_format": ["pioneer", 0.4015151515151515]
 }

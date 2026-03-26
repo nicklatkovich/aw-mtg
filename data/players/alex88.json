@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"W":0.6764705882352942,"U":0.08088235294117647,"R":1,"B":0.11029411764705883,"G":0.007352941176470589},
+  "color_stats": {"U":0.08759124087591241,"B":0.11678832116788321,"R":1,"W":0.6715328467153284,"G":0.0072992700729927005},
   "recent_events": [
+    {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":12,"rank":[1,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":9,"rank":[3,19],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":6,"rank":[11,19],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":408615,"name":"Spring League 2026 | Pauper #3/12","date":"2026-03-04","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -134,8 +135,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 129,
-  "match_played": 508,
-  "match_wins": 308,
-  "favorite_format": ["pioneer", 0.5038759689922481]
+  "events_count": 130,
+  "match_played": 512,
+  "match_wins": 312,
+  "favorite_format": ["pioneer", 0.5]
 }
