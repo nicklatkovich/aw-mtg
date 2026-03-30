@@ -1,5 +1,5 @@
 [
-  {"id":416909,"format":"pioneer","date":"2026-03-29","name":"Spring League 2026 | Modern #6/12","players_count":12,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"}}},
+  {"id":416909,"format":"modern","date":"2026-03-29","name":"Spring League 2026 | Modern #6/12","players_count":12,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"}}},
   {"id":416904,"format":"pioneer","date":"2026-03-26","name":"Spring League 2026 | Pioneer #6/12","players_count":13,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"}}},
   {"id":416591,"format":"pauper","date":"2026-03-25","name":"Spring League 2026 | Pauper #6/12","players_count":16,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null}}},
   {"id":416279,"format":"standard","date":"2026-03-24","name":"Spring League 2026 | Standard #6/12","players_count":8,"winner":{"player":{"display_name":"Bondarchik Andrei","id":"omgprofunny"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},

@@ -4,7 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"B":1,"G":0.5327604726100973,"U":0.2158968850698175,"R":0.7905477980665958,"W":0.16756176154672406},
   "recent_events": [
-    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"pioneer","points":6,"rank":[9,12],"deck":{"archetype":"Golgari Yawgmoth","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
+    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":6,"rank":[9,12],"deck":{"archetype":"Golgari Yawgmoth","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":6,"rank":[7,13],"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":9,"rank":[2,16],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":6,"rank":[3,8],"deck":{"archetype":"Mono-Green Landfall","colors":"G","type":"Aggro"},"match_record":"2-2-0","game_record":"3-4-0"},
@@ -107,5 +107,5 @@
   "events_count": 99,
   "match_played": 379,
   "match_wins": 164,
-  "favorite_format": ["pioneer", 0.43434343434343436]
+  "favorite_format": ["pioneer", 0.42424242424242425]
 }

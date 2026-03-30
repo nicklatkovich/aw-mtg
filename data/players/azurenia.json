@@ -4,7 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"W":0.2802709568162575,"U":1,"B":0.9364944961896703,"R":0.9830651989839122,"G":0.864521591871296},
   "recent_events": [
-    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"pioneer","points":7,"rank":[3,12],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"2-1-1","game_record":"5-4-1"},
+    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":7,"rank":[3,12],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"2-1-1","game_record":"5-4-1"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":0,"rank":[14,14],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[11,19],"deck":{"archetype":"Temur Skred","colors":"URG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},

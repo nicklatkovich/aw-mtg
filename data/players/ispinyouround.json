@@ -4,7 +4,7 @@
   "display_name": "Paulouski Tsimafei",
   "color_stats": {"U":0.11314984709480122,"B":1,"R":0.892966360856269,"W":0.0061162079510703364,"G":0.0061162079510703364},
   "recent_events": [
-    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"4-0-0","game_record":"8-1-0"},
+    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":12,"rank":[1,12],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":6,"rank":[8,13],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":6,"rank":[8,14],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":414934,"name":"Spring League 2026 | Pioneer #5/12","date":"2026-03-19","format":"pioneer","points":9,"rank":[5,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -107,5 +107,5 @@
   "events_count": 99,
   "match_played": 389,
   "match_wins": 203,
-  "favorite_format": ["pioneer", 0.8787878787878788]
+  "favorite_format": ["pioneer", 0.8686868686868687]
 }
