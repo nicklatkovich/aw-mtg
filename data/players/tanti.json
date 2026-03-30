@@ -2,8 +2,9 @@
   "guid": "a52d83e2-0c2f-4fe0-bc03-1d03a54a4170",
   "id": "tanti",
   "display_name": "Charniauski Mikita",
-  "color_stats": {"W":0.7200000000000001,"U":1,"R":0.8,"B":0.5199999999999999,"G":0.31999999999999995},
+  "color_stats": {"W":0.7407407407407407,"U":1,"R":0.8148148148148148,"B":0.48148148148148134,"G":0.2962962962962962},
   "recent_events": [
+    {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":9,"rank":[2,14],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":0,"rank":[12,13],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"0-2-0","game_record":"2-4-0"},
     {"id":408612,"name":"Spring League 2026 | Modern #3/12","date":"2026-03-08","format":"modern","points":9,"rank":[4,12],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
@@ -28,8 +29,8 @@
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 23,
-  "match_played": 81,
+  "events_count": 24,
+  "match_played": 83,
   "match_wins": 49,
-  "favorite_format": ["modern", 0.5652173913043478]
+  "favorite_format": ["modern", 0.5416666666666666]
 }
