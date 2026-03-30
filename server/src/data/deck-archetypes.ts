@@ -298,6 +298,7 @@ export const ARCHETYPES = {
   'Gruul Landfall': 'RG',
   'Gruul Elves': 'RG',
   'Gruul Eldrazi': 'RG',
+  'Gruul Belcher Storm': ['RG', DeckType.COMBO],
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
@@ -318,6 +319,7 @@ export const ARCHETYPES = {
   '4c Elves': 'WUBG',
   'Kethis Combo': ['WUBG', DeckType.COMBO],
   '4c Energy': 'WURG',
+  'Living End': 'WUBG',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
