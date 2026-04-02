@@ -171,6 +171,7 @@ export const ARCHETYPES = {
   'Dimir Necrodominance': 'UB',
   'Dimir Mill': 'UB',
   'Dimir Terror': ['UB', DeckType.CONTROL],
+  'Dimir Madness': ['UB', DeckType.CONTROL],
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -206,6 +207,7 @@ export const ARCHETYPES = {
   'Izzet Storm': ['UR', DeckType.COMBO],
   'Izzet Monarch': ['UR', DeckType.TEMPO],
   'Izzet Spellementals': ['UR', DeckType.TEMPO],
+  'Izzet Terror': 'UR',
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
@@ -248,7 +250,7 @@ export const ARCHETYPES = {
   'Rakdos Aggro': ['BR', DeckType.AGGRO],
   'Rakdos Lizards': ['BR', DeckType.AGGRO],
   'Rakdos Transmogrify': ['BR', DeckType.COMBO],
-  'Rakdos Madness Burn': 'BR',
+  'Rakdos Madness': 'BR',
   'Rakdos Reanimator': ['BR', DeckType.COMBO],
   'Rakdos Persist Combo': ['BR', DeckType.COMBO],
   // BRG

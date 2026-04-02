@@ -134,7 +134,7 @@ export const _2026_specials: Tournament[] = [
       { player: 'Azurenia', rank: 3, deck: 'Izzet Monarch', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '5-7-0' },
       { player: 'aspelled', rank: 4, deck: 'Dimir Control', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '4-8-0' },
       { player: 'Kiryl_Smaktunovich', rank: 5, deck: 'Esper Affinity', points: 3, mp: 5, mw: 1, match_record: '1-4-0', game_record: '5-9-0' },
-      { player: 'Alex88', rank: 6, deck: 'Rakdos Madness Burn', points: 3, mp: 5, mw: 1, match_record: '1-4-0', game_record: '3-8-0' },
+      { player: 'Alex88', rank: 6, deck: 'Rakdos Madness', points: 3, mp: 5, mw: 1, match_record: '1-4-0', game_record: '3-8-0' },
     ],
     rounds: [
       [
