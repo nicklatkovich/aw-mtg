@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"W":0.2802709568162575,"U":1,"B":0.9364944961896703,"R":0.9830651989839122,"G":0.864521591871296},
+  "color_stats": {"B":0.9534292972057581,"R":1,"G":0.8814563928873838,"W":0.28027095681625747,"U":0.9999999999999998},
   "recent_events": [
+    {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":4,"rank":[13,18],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"1-2-1","game_record":"5-5-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":7,"rank":[3,12],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"2-1-1","game_record":"5-4-1"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":9,"rank":[4,16],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":0,"rank":[14,14],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
@@ -17,7 +18,7 @@
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":6,"rank":[8,18],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":405308,"name":"Spring League 2026 | Pauper #1/12","date":"2026-02-18","format":"pauper","points":3,"rank":[12,14],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":403538,"name":"Daily | Pauper (11.02.26)","date":"2026-02-11","format":"pauper","points":7,"rank":[7,20],"match_record":"2-1-1","game_record":"6-5-0"},
-    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[2,19],"deck":{"archetype":"Rakdos Madness Burn","colors":"BR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":401512,"name":"Daily | Pauper (04.02.26)","date":"2026-02-04","format":"pauper","points":9,"rank":[2,19],"deck":{"archetype":"Rakdos Madness","colors":"BR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":400201,"name":"Daily | Pauper (28.01.26)","date":"2026-01-28","format":"pauper","points":6,"rank":[11,19],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":398362,"name":"Daily | Pauper (21.01.26)","date":"2026-01-21","format":"pauper","points":3,"rank":[14,17],"deck":{"archetype":"Jeskai Ephemerate","colors":"WUR","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":396568,"name":"★★★ Fall League 2025 | Pauper Finals","date":"2026-01-17","format":"pauper","points":6,"rank":[3,6],"deck":{"archetype":"Izzet Monarch","colors":"UR","type":"Tempo"},"match_record":"2-3-0","game_record":"5-7-0"},
@@ -110,8 +111,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 105,
-  "match_played": 395,
-  "match_wins": 215,
-  "favorite_format": ["pauper", 0.4095238095238095]
+  "events_count": 106,
+  "match_played": 399,
+  "match_wins": 216,
+  "favorite_format": ["pauper", 0.41509433962264153]
 }

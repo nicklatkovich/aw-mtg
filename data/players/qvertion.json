@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"B":0.4322753687974965,"G":0.2802860974519444,"W":0.24005364327223946,"R":0.6490835940992395,"U":1},
+  "color_stats": {"G":0.30710773357174775,"B":0.4322753687974965,"W":0.24005364327223946,"R":0.6490835940992395,"U":1},
   "recent_events": [
+    {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":9,"rank":[5,18],"deck":{"archetype":"Walls Combo","colors":"G","type":"Combo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":9,"rank":[3,16],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":12,"rank":[1,19],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":6,"rank":[6,13],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -143,8 +144,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 138,
-  "match_played": 544,
-  "match_wins": 324,
-  "favorite_format": ["standard", 0.36231884057971014]
+  "events_count": 139,
+  "match_played": 548,
+  "match_wins": 327,
+  "favorite_format": ["standard", 0.3597122302158273]
 }

@@ -2,8 +2,9 @@
   "guid": "a7892ae0-6591-4760-a40d-9444a1f58812",
   "id": "4onoki",
   "display_name": "Plisko Ihar",
-  "color_stats": {"U":0.2374616171954964,"R":1,"G":0.7236438075742067,"W":0.9181166837256908,"B":0.4984646878198565},
+  "color_stats": {"W":0.9205561072492551,"R":1,"U":0.23038728897715988,"G":0.7020854021847069,"B":0.48361469712015864},
   "recent_events": [
+    {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":6,"rank":[9,18],"deck":{"archetype":"Boros Moxite","colors":"WR","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":7,"rank":[6,16],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"2-1-1","game_record":"5-3-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[8,19],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":1,"rank":[19,19],"match_record":"0-3-1","game_record":"3-7-0"},
@@ -83,8 +84,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":7,"rank":[6,16]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[7,12]}
   ],
-  "events_count": 78,
-  "match_played": 290,
-  "match_wins": 132,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 79,
+  "match_played": 294,
+  "match_wins": 134,
+  "favorite_format": ["pauper", 0.5063291139240507]
 }
