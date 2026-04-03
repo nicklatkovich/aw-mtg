@@ -3,6 +3,58 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 418042,
+    format: Format.PIONEER,
+    name: 'Spring League 2026 | Pioneer #7/12',
+    date: '2026-04-02',
+    standings: [
+      { player: 'AnklDen', rank: 1, deck: 'Mono-Black Midrange', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'VT', rank: 2, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'vorotinskyV', rank: 3, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Alex88', rank: 4, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'mnihc', rank: 5, deck: 'Selesnya Angels', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'GlebK', rank: 6, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Esper Bounce', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'ispinyouround', rank: 8, deck: 'Rakdos Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'BRV', rank: 9, deck: 'Izzet Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Professor013', rank: 10, deck: 'Azorius Lotus Field', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'NickLatkovich', rank: 11, deck: 'Izzet Creativity', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'mnihc'], winner: 1, record: '2-0-0' },
+        { players: ['Alex88', 'VT'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['Professor013', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'VT'], winner: 2, record: '2-0-0' },
+        { players: ['Professor013', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'mnihc'], winner: 2, record: '2-0-0' },
+        { players: ['Alex88', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['VT', 'ispinyouround'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'vorotinskyV'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['GlebK', 'Professor013'], winner: 1, record: '2-0-0' },
+        { players: ['mnihc', 'Alex88'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['mnihc', null], winner: 1, record: 'bye' },
+        { players: ['VT', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'Alex88'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 416904,
     format: Format.PIONEER,
     name: 'Spring League 2026 | Pioneer #6/12',
