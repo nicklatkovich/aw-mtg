@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.5743639921722112,"U":0.4324853228962819,"B":1,"G":0.30039138943248533,"R":0.45205479452054803},
+  "color_stats": {"W":0.5784883720930233,"U":0.4379844961240312,"B":1,"G":0.2974806201550388,"R":0.4476744186046513},
   "recent_events": [
+    {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":6,"rank":[7,11],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":12,"rank":[1,13],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":6,"rank":[4,8],"deck":{"archetype":"Mono-Green Landfall","colors":"G","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":414934,"name":"Spring League 2026 | Pioneer #5/12","date":"2026-03-19","format":"pioneer","points":9,"rank":[4,11],"deck":{"archetype":"Esper Bounce","colors":"WUB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -135,8 +136,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 130,
-  "match_played": 521,
-  "match_wins": 245,
-  "favorite_format": ["pioneer", 0.6538461538461539]
+  "events_count": 131,
+  "match_played": 525,
+  "match_wins": 247,
+  "favorite_format": ["pioneer", 0.6564885496183206]
 }
