@@ -50,28 +50,44 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
           ))}
           {displayMaxPoints && <div className="cell">max</div>}
         </div>
-        {league.players.slice(0).map((player, index) => (
-          <div
-            style={{ display: 'contents' }}
-            key={player.id}
-            className={[
-              index + 1 === league.top ? 'last-top' : '',
-              displayMaxPoints && player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
-              player.total_points > finalistPointsThreshold ? 'green-row' : '',
-            ].join(' ')}
-          >
-            <div className="cell">{index + 1}</div>
-            <div className="cell">{player.display_name}</div>
-            <div className="cell">{player.event_count}</div>
-            <div className={`cell total-points`}>{player.total_points}</div>
-            {player.points.map((p, i) => (
-              <div className="cell" key={i}>
-                {p ?? ''}
-              </div>
-            ))}
-            {displayMaxPoints && <div className="cell">{player.max_points}</div>}
-          </div>
-        ))}
+        {league.players.slice(0).map((player, index) => {
+          const points = [...player.points.entries()].filter((e): e is [index: number, value: number] => e[1] !== null);
+          points.sort((a, b) => b[1] - a[1] || a[0] - b[0]);
+          let eventToImprove = points[5];
+          for (let i = 4; i >= 0; i -= 1) {
+            if (points[i]?.[1] === eventToImprove?.[1]) eventToImprove = points[i];
+            else break;
+          }
+          const nonSignificantEventIndices = new Set(points.slice(6).map((e) => e[0]));
+          return (
+            <div
+              style={{ display: 'contents' }}
+              key={player.id}
+              className={[
+                index + 1 === league.top ? 'last-top' : '',
+                displayMaxPoints && player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
+                player.total_points > finalistPointsThreshold ? 'green-row' : '',
+              ].join(' ')}
+            >
+              <div className="cell">{index + 1}</div>
+              <div className="cell">{player.display_name}</div>
+              <div className="cell">{player.event_count}</div>
+              <div className={`cell total-points`}>{player.total_points}</div>
+              {player.points.map((p, i) => {
+                const nonSignificant = nonSignificantEventIndices.has(i);
+                const toImprove = p !== 0 && i === eventToImprove?.[0];
+                const className =
+                  p === 12 ? '_4-0' : toImprove ? 'to-improve' : nonSignificant ? 'non-significant' : '';
+                return (
+                  <div className={`cell event-points ${className}`} key={i}>
+                    {p ?? ''}
+                  </div>
+                );
+              })}
+              {displayMaxPoints && <div className="cell">{player.max_points}</div>}
+            </div>
+          );
+        })}
       </div>
     </div>
   );

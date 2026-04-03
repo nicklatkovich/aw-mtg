@@ -48,6 +48,19 @@
           &:nth-child(4) {
             border-right: solid 2px $color-active-border;
           }
+
+          &.event-points {
+            &._4-0 {
+              color: $color-string;
+            }
+            &.to-improve {
+              text-decoration: underline;
+              // color: $color-fg-ltred;
+            }
+            &.non-significant {
+              color: $color-fg-gray;
+            }
+          }
         }
 
         &.last-top>.cell:first-child {
