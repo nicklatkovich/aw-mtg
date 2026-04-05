@@ -14,7 +14,7 @@ export const _2026_modern: Tournament[] = [
       { player: 'Aleksandr_KoLoshk', rank: 4, deck: 'Azorius Grinding Emry', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
       { player: 'ispinyouround', rank: 5, deck: 'Dimir Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
       { player: 'AnklDen', rank: 6, deck: 'Dimir Mill', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
-      { player: 'Kihikara', rank: 7, deck: 'Simic Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Kihikara', rank: 7, deck: 'Sultai Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
       { player: 'DanilaNabeshko', rank: 8, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
       { player: 'Azurenia', rank: 9, deck: 'Esper Goryo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
       { player: 'Bomj', rank: 10, deck: 'Rakdos Burn', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },

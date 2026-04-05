@@ -193,6 +193,7 @@ export const ARCHETYPES = {
   'Sultai Spy Combo': ['UBG', DeckType.COMBO],
   'Sultai Energy': 'UBG',
   'Sultai Scapeshift': ['UBG', DeckType.COMBO],
+  'Sultai Ritual': 'UBG',
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -228,7 +229,6 @@ export const ARCHETYPES = {
   'Simic Scapeshift': ['UG', DeckType.COMBO],
   'Simic Omni-Tell': ['UG', DeckType.COMBO],
   'Simic Ritual': 'UG',
-  'Simic Birthing Ritual': ['UG', DeckType.COMBO],
   'Simic Terror': ['UG', DeckType.TEMPO],
   'Simic Neoform': 'UG',
   'Simic Grinding Emry': 'UG',

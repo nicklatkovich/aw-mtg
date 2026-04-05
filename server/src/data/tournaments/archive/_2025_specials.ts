@@ -29,7 +29,7 @@ export const _2025_specials: Tournament[] = [
       { player: 'AntonG1', rank: 5, points: 3, format: Format.PAUPER, deck: 'Mono-Blue Tempo' },
       { player: 'Sutko', rank: 5, points: 3, format: Format.PIONEER, deck: 'Mono-Black Midrange' },
       // 8. The Solution
-      { player: 'aklshk', rank: 6, points: 3, format: Format.MODERN, deck: 'Simic Birthing Ritual' },
+      { player: 'aklshk', rank: 6, points: 3, format: Format.MODERN, deck: 'Simic Ritual' },
       { player: 'Exidra', rank: 6, points: 3, format: Format.PAUPER, deck: 'Mono-Red Madness' },
       { player: 'ispinyouround', rank: 6, points: 3, format: Format.PIONEER, deck: 'Rakdos Midrange' },
       // 6. Ne nashli 4go dlya edh (omw: 66.67%)
