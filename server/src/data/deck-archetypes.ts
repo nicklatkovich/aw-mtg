@@ -33,6 +33,7 @@ export const ARCHETYPES = {
   'Azorius Heroic': ['WU', DeckType.AGGRO],
   'Azorius Tempo': ['WU', DeckType.TEMPO],
   'Azorius Merfolks': 'WU',
+  'Azorius Grinding Emry': ['WU', DeckType.COMBO],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -253,6 +254,8 @@ export const ARCHETYPES = {
   'Rakdos Madness': 'BR',
   'Rakdos Reanimator': ['BR', DeckType.COMBO],
   'Rakdos Persist Combo': ['BR', DeckType.COMBO],
+  'Rakdos Burn': 'BR',
+  'Rakdos Hollow One': 'BR',
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
@@ -302,6 +305,7 @@ export const ARCHETYPES = {
   'Gruul Elves': 'RG',
   'Gruul Eldrazi': 'RG',
   'Gruul Belcher Storm': ['RG', DeckType.COMBO],
+  'Gruul Storm': ['RG', DeckType.COMBO],
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
