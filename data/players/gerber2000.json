@@ -2,8 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"R":0.7938689217758993,"G":0.5243128964059202,"U":0.2124735729386893,"W":0.16490486257928128},
+  "color_stats": {"B":1,"G":0.5317377731529661,"R":0.7814776274713847,"U":0.2091571279916754,"W":0.162330905306972},
   "recent_events": [
+    {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":9,"rank":[2,16],"deck":{"archetype":"Golgari Yawgmoth","colors":"BG","type":"Combo"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":6,"rank":[10,18],"deck":{"archetype":"Rakdos Persist Combo","colors":"BR","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":6,"rank":[9,12],"deck":{"archetype":"Golgari Yawgmoth","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":6,"rank":[7,13],"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -105,8 +106,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 100,
-  "match_played": 383,
-  "match_wins": 166,
-  "favorite_format": ["pioneer", 0.42]
+  "events_count": 101,
+  "match_played": 387,
+  "match_wins": 169,
+  "favorite_format": ["pioneer", 0.4158415841584158]
 }

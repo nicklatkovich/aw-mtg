@@ -2,8 +2,9 @@
   "guid": "5a1a3197-1193-4637-a2ad-01fe86d05a4e",
   "id": "danilanabeshko",
   "display_name": "Nabeshko Daniil",
-  "color_stats": {"W":0.6306818181818182,"U":1,"B":0.034090909090909095,"R":0.5738636363636365,"G":0.3181818181818182},
+  "color_stats": {"W":0.6596858638743456,"U":1,"B":0.03141361256544503,"R":0.5287958115183247,"G":0.29319371727748694},
   "recent_events": [
+    {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":6,"rank":[8,16],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":6,"rank":[5,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":0,"rank":[16,16],"deck":{"archetype":"Ephemerate Tron","colors":"WUBRG","type":null},"match_record":"0-4-0","game_record":"4-8-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":3,"rank":[13,14],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
@@ -24,8 +25,8 @@
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[5,5],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":9,"rank":[1,7]}
   ],
-  "events_count": 19,
-  "match_played": 72,
-  "match_wins": 35,
-  "favorite_format": ["modern", 0.5263157894736842]
+  "events_count": 20,
+  "match_played": 76,
+  "match_wins": 37,
+  "favorite_format": ["modern", 0.55]
 }
