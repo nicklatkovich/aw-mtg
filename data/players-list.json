@@ -126,7 +126,7 @@
   {"id":"alexeykorzhov","display_name":"Korzhov Alexey","events_count":1,"match_played":4,"match_wins":2,"color_stats":{"U":1,"B":1},"favorite_format":["pauper",1]},
   {"id":"akel","display_name":"Akulenko Slava","events_count":42,"match_played":166,"match_wins":86,"color_stats":{"B":0.8972602739726028,"R":1,"G":0.8972602739726026,"W":0.0410958904109589,"U":0.24657534246575338},"favorite_format":["pioneer",0.9523809523809523]},
   {"id":"shadowest","display_name":"Buslavsky Alexander","events_count":15,"match_played":55,"match_wins":23,"color_stats":{"R":1,"B":0.45454545454545453,"G":0.18181818181818182},"favorite_format":["draft",0.3333333333333333]},
-  {"id":"kihikara","display_name":"Maskaev Evgeny","events_count":6,"match_played":24,"match_wins":12,"color_stats":{"U":1,"G":1,"W":0.1111111111111111,"B":0.1111111111111111},"favorite_format":["modern",1]},
+  {"id":"kihikara","display_name":"Maskaev Evgeny","events_count":6,"match_played":24,"match_wins":12,"color_stats":{"U":1,"B":0.28,"G":1,"W":0.12000000000000002},"favorite_format":["modern",1]},
   {"id":"miadzvedski","display_name":"Miadzvedski Pavel","events_count":1,"match_played":0,"match_wins":0,"color_stats":{"U":1,"B":1,"R":1},"favorite_format":["legacy",1]},
   {"id":"vooolodya","display_name":"Senin Vladimir","events_count":1,"match_played":6,"match_wins":2,"color_stats":{"U":1,"B":1},"favorite_format":["pioneer",1]},
   {"id":"roman012345","display_name":"Muhtasarov Roman","events_count":1,"match_played":4,"match_wins":2,"color_stats":{"U":1,"B":1,"R":1},"favorite_format":["pauper",1]},
