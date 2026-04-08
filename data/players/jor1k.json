@@ -2,14 +2,15 @@
   "guid": "b42b01e2-8dc8-4144-803a-040c498165ad",
   "id": "jor1k",
   "display_name": "Leshik Maksim",
-  "color_stats": {"B":0.6666666666666666,"G":1,"W":0.3333333333333333},
+  "color_stats": {"W":0.6666666666666666,"R":0.3333333333333333,"B":0.6666666666666666,"G":1},
   "recent_events": [
+    {"id":420048,"name":"Spring League 2026 | Standard #8/12","date":"2026-04-07","format":"standard","points":4,"rank":[3,4],"deck":{"archetype":"Boros Burn","colors":"WR","type":"Aggro"},"match_record":"1-1-1","game_record":"3-4-0"},
     {"id":418040,"name":"Spring League 2026 | Standard #7/12","date":"2026-03-31","format":"standard","points":0,"rank":[2,2],"deck":{"archetype":"Golgari Elves","colors":"BG","type":null},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":1,"rank":[8,8],"deck":{"archetype":"Golgari Elves","colors":"BG","type":null},"match_record":"0-2-1","game_record":"1-4-0"},
     {"id":408607,"name":"Spring League 2026 | Standard #4/12","date":"2026-03-10","format":"standard","points":0,"rank":[6,6],"deck":{"archetype":"Selesnya","colors":"WG","type":null},"match_record":"0-3-0","game_record":"0-6-0"}
   ],
-  "events_count": 3,
-  "match_played": 10,
-  "match_wins": 0,
+  "events_count": 4,
+  "match_played": 13,
+  "match_wins": 1,
   "favorite_format": ["standard", 1]
 }
