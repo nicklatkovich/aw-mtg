@@ -3,6 +3,36 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 420048,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #8/12',
+    date: '2026-04-07',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'profunny', rank: 2, deck: 'Dimir Midrange', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-0' },
+      { player: 'jor1k', rank: 3, deck: 'Boros Burn', points: 4, mp: 3, mw: 1, match_record: '1-1-1', game_record: '3-4-0' },
+      { player: 'Very_Bad_Man', rank: 4, deck: 'Mono-Green Landfall', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Very_Bad_Man', 'jor1k'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'profunny'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['jor1k', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['profunny', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['jor1k', 'profunny'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'profunny'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 418040,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #7/12',
