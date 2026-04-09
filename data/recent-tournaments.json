@@ -1,4 +1,6 @@
 [
+  {"id":420644,"format":"pioneer","date":"2026-04-09","name":"Spring League 2026 | Pioneer #8/12","players_count":8,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}}},
+  {"id":420142,"format":"pauper","date":"2026-04-08","name":"Spring League 2026 | Pauper #8/12","players_count":15,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":420048,"format":"standard","date":"2026-04-07","name":"Spring League 2026 | Standard #8/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":418044,"format":"modern","date":"2026-04-05","name":"Spring League 2026 | Modern #6/12","players_count":16,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"}}},
   {"id":418042,"format":"pioneer","date":"2026-04-02","name":"Spring League 2026 | Pioneer #7/12","players_count":11,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"}}},

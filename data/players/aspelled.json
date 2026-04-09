@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"G":0.4437726723095527,"W":0.29866989117291415,"R":1,"U":0.6009673518742445,"B":0.3047158403869408},
+  "color_stats": {"U":0.6191051995163244,"B":0.3228536880290206,"G":0.4437726723095527,"W":0.29866989117291415,"R":1},
   "recent_events": [
+    {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":3,"rank":[11,15],"deck":{"archetype":"Dimir Terror","colors":"UB","type":"Control"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":6,"rank":[8,16],"deck":{"archetype":"Mono-Green Elves","colors":"G","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":9,"rank":[3,14],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[6,19],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -124,8 +125,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 119,
-  "match_played": 443,
-  "match_wins": 223,
-  "favorite_format": ["pioneer", 0.33613445378151263]
+  "events_count": 120,
+  "match_played": 446,
+  "match_wins": 224,
+  "favorite_format": ["pioneer", 0.3333333333333333]
 }

@@ -2,8 +2,9 @@
   "guid": "259361a8-d433-409f-932b-c0b1afcca9c9",
   "id": "praim",
   "display_name": "Motovilov Andrey",
-  "color_stats": {"U":0.38095238095238093,"B":0.16666666666666666,"R":0.3095238095238095,"G":1,"W":0.2857142857142857},
+  "color_stats": {"U":0.42857142857142855,"B":0.21428571428571427,"R":0.35714285714285715,"G":1,"W":0.2857142857142857},
   "recent_events": [
+    {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":9,"rank":[5,15],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":7,"rank":[6,18],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":7,"rank":[5,16],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":6,"rank":[9,19],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-6-0"},
@@ -26,8 +27,8 @@
     {"id":337409,"name":"Summer League 2025 | Pioneer #6","date":"2025-07-10","format":"pioneer","points":4,"rank":[16,22],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-2-1","game_record":"5-6-0"},
     {"id":335125,"name":"Summer League 2025 | Pioneer #5","date":"2025-07-03","format":"pioneer","points":4,"rank":[10,14],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"}
   ],
-  "events_count": 21,
-  "match_played": 84,
-  "match_wins": 36,
-  "favorite_format": ["pauper", 0.5714285714285714]
+  "events_count": 22,
+  "match_played": 88,
+  "match_wins": 39,
+  "favorite_format": ["pauper", 0.5909090909090909]
 }

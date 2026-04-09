@@ -2,8 +2,9 @@
   "guid": "ba897ea4-1d49-44ff-8cd7-c7b21e27205f",
   "id": "alex88",
   "display_name": "Raptunovich Aleksei",
-  "color_stats": {"R":1,"B":0.11805555555555554,"G":0.013888888888888888,"U":0.08333333333333333,"W":0.6388888888888888},
+  "color_stats": {"R":1,"B":0.11564625850340135,"G":0.013605442176870748,"U":0.08163265306122448,"W":0.6258503401360543},
   "recent_events": [
+    {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":6,"rank":[9,15],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":9,"rank":[4,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":6,"rank":[12,18],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":9,"rank":[4,13],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -138,8 +139,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 133,
-  "match_played": 524,
-  "match_wins": 320,
-  "favorite_format": ["pioneer", 0.5037593984962406]
+  "events_count": 134,
+  "match_played": 528,
+  "match_wins": 322,
+  "favorite_format": ["pioneer", 0.5]
 }
