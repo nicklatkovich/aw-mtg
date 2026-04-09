@@ -280,6 +280,7 @@ export const ARCHETYPES = {
   'Golgari Yawgmoth': ['BG', DeckType.COMBO],
   'Golgari Elves': 'BG',
   'Golgari Sacrifice': 'BG',
+  'Golgari Pestilence': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
