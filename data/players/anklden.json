@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"B":0.8479427549194989,"U":0.5438282647584974,"R":0.6064400715563508,"G":0.9194991055456171,"W":1},
+  "color_stats": {"U":0.5706618962432917,"B":0.8747763864042932,"R":0.6064400715563508,"G":0.9194991055456171,"W":1},
   "recent_events": [
+    {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":6,"rank":[8,15],"deck":{"archetype":"Dimir Mill","colors":"UB","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":420644,"name":"Spring League 2026 | Pioneer #8/12","date":"2026-04-09","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":6,"rank":[6,16],"deck":{"archetype":"Dimir Mill","colors":"UB","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
@@ -115,8 +116,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 110,
-  "match_played": 439,
-  "match_wins": 222,
-  "favorite_format": ["pioneer", 0.8181818181818182]
+  "events_count": 111,
+  "match_played": 443,
+  "match_wins": 224,
+  "favorite_format": ["pioneer", 0.8108108108108109]
 }
