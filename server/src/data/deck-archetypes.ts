@@ -123,6 +123,7 @@ export const ARCHETYPES = {
   'Boros Resonance': ['WR', DeckType.AGGRO],
   'Boros Mice': ['WR', DeckType.AGGRO],
   'Boros Moxite': 'WR',
+  'Boros Wildfire': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -194,6 +195,7 @@ export const ARCHETYPES = {
   'Sultai Energy': 'UBG',
   'Sultai Scapeshift': ['UBG', DeckType.COMBO],
   'Sultai Ritual': 'UBG',
+  'Sultai Living End': 'UBG',
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -210,6 +212,7 @@ export const ARCHETYPES = {
   'Izzet Monarch': ['UR', DeckType.TEMPO],
   'Izzet Spellementals': ['UR', DeckType.TEMPO],
   'Izzet Terror': 'UR',
+  'Izzet Erayo': 'UR',
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
@@ -327,7 +330,7 @@ export const ARCHETYPES = {
   '4c Elves': 'WUBG',
   'Kethis Combo': ['WUBG', DeckType.COMBO],
   '4c Energy': 'WURG',
-  'Living End': 'WUBG',
+  '4c Living End': 'WUBG',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
