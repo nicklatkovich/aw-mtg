@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.23529411764705882},
+  "color_stats": {"R":1,"G":0.22857142857142856},
   "recent_events": [
+    {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":420644,"name":"Spring League 2026 | Pioneer #8/12","date":"2026-04-09","format":"pioneer","points":6,"rank":[5,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":416904,"name":"Spring League 2026 | Pioneer #6/12","date":"2026-03-26","format":"pioneer","points":6,"rank":[5,13],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
@@ -71,8 +72,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 66,
-  "match_played": 237,
-  "match_wins": 138,
+  "events_count": 67,
+  "match_played": 241,
+  "match_wins": 142,
   "favorite_format": ["pioneer", 1]
 }

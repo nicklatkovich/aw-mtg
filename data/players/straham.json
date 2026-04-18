@@ -4,6 +4,7 @@
   "display_name": "Straha Miroslav",
   "color_stats": {"U":1,"B":1,"R":0.7692307692307692,"W":0.46153846153846156,"G":0.46153846153846156},
   "recent_events": [
+    {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":3,"rank":[11,13],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":3,"rank":[16,18],"deck":{"archetype":"Dimir Madness","colors":"UB","type":"Control"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":392341,"name":"Fall League 2025 | Pauper #12/12","date":"2025-12-24","format":"pauper","points":6,"rank":[13,25],"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":385539,"name":"Fall League 2025 | Pauper #8/12","date":"2025-11-26","format":"pauper","points":3,"rank":[16,19],"match_record":"1-3-0","game_record":"2-6-0"},
@@ -15,8 +16,8 @@
     {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":0,"rank":[17,17],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":311876,"name":"Daily | Pauper (21.05)","date":"2025-05-21","format":"pauper","points":3,"rank":[11,11],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-3-0","game_record":"3-6-0"}
   ],
-  "events_count": 10,
-  "match_played": 40,
-  "match_wins": 10,
+  "events_count": 11,
+  "match_played": 44,
+  "match_wins": 11,
   "favorite_format": ["pauper", 1]
 }

@@ -2,8 +2,10 @@
   "guid": "a7892ae0-6591-4760-a40d-9444a1f58812",
   "id": "4onoki",
   "display_name": "Plisko Ihar",
-  "color_stats": {"W":0.9228543876567019,"R":1,"U":0.22372227579556414,"G":0.6817743490838958,"B":0.4696239151398262},
+  "color_stats": {"W":0.9517839922854389,"G":0.7107039537126324,"R":1,"U":0.22372227579556414,"B":0.4696239151398262},
   "recent_events": [
+    {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":3,"rank":[13,13],"match_record":"1-2-0","game_record":"3-5-0"},
+    {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":9,"rank":[1,5],"deck":{"archetype":"Selesnya Ouroboroid","colors":"WG","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":7,"rank":[6,15],"deck":{"archetype":"Boros Synthesizer","colors":"WR","type":null},"match_record":"2-1-1","game_record":"5-5-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":6,"rank":[9,18],"deck":{"archetype":"Boros Moxite","colors":"WR","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":416591,"name":"Spring League 2026 | Pauper #6/12","date":"2026-03-25","format":"pauper","points":7,"rank":[6,16],"deck":{"archetype":"Izzet Skred","colors":"UR","type":null},"match_record":"2-1-1","game_record":"5-3-0"},
@@ -85,8 +87,8 @@
     {"id":232522,"name":"Daily | Standard (21.01)","date":"2025-01-21","format":"standard","points":7,"rank":[6,16]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[7,12]}
   ],
-  "events_count": 80,
-  "match_played": 298,
-  "match_wins": 136,
-  "favorite_format": ["pauper", 0.5125]
+  "events_count": 82,
+  "match_played": 305,
+  "match_wins": 140,
+  "favorite_format": ["pauper", 0.5121951219512195]
 }
