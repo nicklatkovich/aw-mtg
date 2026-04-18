@@ -138,6 +138,7 @@ export const ARCHETYPES = {
   'Selesnya Counters': 'WG',
   'Selesnya Depths': ['WG', DeckType.COMBO],
   'Selesnya Clerics': ['WG', DeckType.COMBO],
+  'Selesnya Ouroboroid': 'WG',
   // U
   'Mono-Blue Tempo': ['U', DeckType.TEMPO],
   'Mono-Blue Petitioners Combo': ['U', DeckType.COMBO],
@@ -284,6 +285,7 @@ export const ARCHETYPES = {
   'Golgari Elves': 'BG',
   'Golgari Sacrifice': 'BG',
   'Golgari Pestilence': 'BG',
+  'Golgari Moonshadow': 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],

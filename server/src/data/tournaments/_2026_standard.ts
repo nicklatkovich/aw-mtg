@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 421620,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #9/12',
+    date: '2026-04-14',
+    standings: [
+      { player: '4onoki', rank: 1, deck: 'Selesnya Ouroboroid', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Spellementals', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'McRais', rank: 3, deck: 'Sultai Dragons', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'ykcyc', rank: 4, deck: 'Orzhov Midrange', points: 6, mp: 2, mw: 0, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Barbossa', rank: 5, deck: 'Mono-White Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['McRais', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['ykcyc', 'Barbossa'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'ykcyc'], winner: 1, record: '2-0-0' },
+        { players: ['Barbossa', 'McRais'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ykcyc', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Barbossa'], winner: 1, record: '2-0-0' },
+        { players: ['McRais', '4onoki'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['ykcyc', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'McRais'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'Barbossa'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 420048,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #8/12',
