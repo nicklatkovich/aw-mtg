@@ -124,6 +124,7 @@ export const ARCHETYPES = {
   'Boros Mice': ['WR', DeckType.AGGRO],
   'Boros Moxite': 'WR',
   'Boros Wildfire': 'WR',
+  'Boros Storm': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -321,6 +322,7 @@ export const ARCHETYPES = {
   'Amulet Titan': ['G', DeckType.COMBO],
   'Mono-Green Aggro': ['G', DeckType.AGGRO],
   'Mono-Green Lands': ['G', DeckType.COMBO],
+  'Mono-Green Tron': 'G',
   // 4c
   Dredge: ['WUBRG', DeckType.COMBO],
   Tron: 'WBRG',
