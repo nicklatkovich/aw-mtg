@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"R":0.9269005847953216,"U":0.13742690058479531,"B":1,"W":0.005847953216374269,"G":0.005847953216374269},
+  "color_stats": {"U":0.14985590778097982,"B":1,"R":0.9135446685878962,"W":0.005763688760806916,"G":0.005763688760806916},
   "recent_events": [
+    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":10,"rank":[1,13],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-0-1","game_record":"7-3-1"},
     {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":7,"rank":[5,15],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-1-1","game_record":"6-4-1"},
     {"id":420644,"name":"Spring League 2026 | Pioneer #8/12","date":"2026-04-09","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -109,8 +110,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 104,
-  "match_played": 409,
-  "match_wins": 212,
-  "favorite_format": ["pioneer", 0.8557692307692307]
+  "events_count": 105,
+  "match_played": 413,
+  "match_wins": 215,
+  "favorite_format": ["pioneer", 0.8476190476190476]
 }

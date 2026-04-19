@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.5847691247415574,"R":1,"G":0.4745003445899379,"W":0.42625775327360443,"B":0.016195727084769122},
+  "color_stats": {"U":0.5890177353342427,"R":1,"G":0.46964529331514315,"W":0.4218963165075034,"B":0.0160300136425648},
   "recent_events": [
+    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":9,"rank":[2,13],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":9,"rank":[2,5],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":9,"rank":[2,15],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
@@ -167,8 +168,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 162,
-  "match_played": 641,
-  "match_wins": 344,
-  "favorite_format": ["pioneer", 0.5185185185185185]
+  "events_count": 163,
+  "match_played": 645,
+  "match_wins": 347,
+  "favorite_format": ["pioneer", 0.5153374233128835]
 }

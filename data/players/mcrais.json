@@ -2,8 +2,9 @@
   "guid": "d80a6551-671b-4303-89d1-3c361e2eca86",
   "id": "mcrais",
   "display_name": "Ihnatsik Yauheni",
-  "color_stats": {"B":1,"G":0.3854748603351957,"U":0.7276536312849166,"W":0.6089385474860342,"R":0.1689944134078213},
+  "color_stats": {"G":0.4273743016759778,"B":1,"U":0.7276536312849166,"W":0.6089385474860342,"R":0.1689944134078213},
   "recent_events": [
+    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":6,"rank":[5,13],"deck":{"archetype":"Mono-Green Tron","colors":"G","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":3,"rank":[9,9],"deck":{"archetype":"Golgari Moonshadow","colors":"BG","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":6,"rank":[3,5],"deck":{"archetype":"Sultai Dragons","colors":"UBG","type":"Control"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":6,"rank":[10,15],"deck":{"archetype":"Boros Wildfire","colors":"WR","type":null},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -89,8 +90,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":0,"rank":[13,14]},
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[9,12]}
   ],
-  "events_count": 84,
-  "match_played": 303,
-  "match_wins": 122,
-  "favorite_format": ["standard", 0.5238095238095238]
+  "events_count": 85,
+  "match_played": 307,
+  "match_wins": 124,
+  "favorite_format": ["standard", 0.5176470588235295]
 }
