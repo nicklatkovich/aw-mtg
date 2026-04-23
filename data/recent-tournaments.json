@@ -1,6 +1,6 @@
 [
   {"id":423838,"format":"pioneer","date":"2026-04-23","name":"Spring League 2026 | Pioneer #10/12","players_count":10,"winner":{"player":{"display_name":"Zenoviev ?","id":"bsmha"},"deck":{"archetype":"Dimir Bounce","colors":"UB","type":"Midrange"}}},
-  {"id":423517,"format":"pauper","date":"2026-04-22","name":"Spring League 2026 | Pauper #10/12","players_count":18,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"}}},
+  {"id":423517,"format":"pauper","date":"2026-04-22","name":"Spring League 2026 | Pauper #10/12","players_count":18,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null}}},
   {"id":423320,"format":"standard","date":"2026-04-21","name":"Spring League 2026 | Standard #10/12","players_count":3,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":421627,"format":"modern","date":"2026-04-19","name":"Spring League 2026 | Modern #8/12","players_count":13,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":421625,"format":"pioneer","date":"2026-04-16","name":"Spring League 2026 | Pioneer #9/12","players_count":9,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
