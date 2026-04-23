@@ -4,6 +4,7 @@
   "display_name": "Kokhan Roman",
   "color_stats": {"W":0.6242263483642793,"B":0.385499557913351,"R":1,"G":0.2705570291777188,"U":0.21308576480990268},
   "recent_events": [
+    {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":3,"rank":[13,18],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":3,"rank":[9,13],"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":3,"rank":[13,15],"deck":{"archetype":"Orzhov Blade","colors":"WB","type":null},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":0,"rank":[17,18],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"},
@@ -140,8 +141,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 135,
-  "match_played": 530,
-  "match_wins": 319,
-  "favorite_format": ["pioneer", 0.3925925925925926]
+  "events_count": 136,
+  "match_played": 534,
+  "match_wins": 320,
+  "favorite_format": ["pioneer", 0.3897058823529412]
 }

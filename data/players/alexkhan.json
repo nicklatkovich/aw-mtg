@@ -4,6 +4,7 @@
   "display_name": "Aflakhanov Alex",
   "color_stats": {"W":1,"U":0.6382978723404256,"R":0.10638297872340426,"B":0.02127659574468085,"G":0.5957446808510638},
   "recent_events": [
+    {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":6,"rank":[9,18],"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":3,"rank":[10,13],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":3,"rank":[12,15],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":10,"rank":[2,18],"deck":{"archetype":"Jeskai Ephemerate","colors":"WUR","type":null},"match_record":"3-0-1","game_record":"7-2-0"},
@@ -50,8 +51,8 @@
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
-  "events_count": 45,
-  "match_played": 184,
-  "match_wins": 91,
-  "favorite_format": ["pioneer", 0.6666666666666666]
+  "events_count": 46,
+  "match_played": 188,
+  "match_wins": 93,
+  "favorite_format": ["pioneer", 0.6521739130434783]
 }

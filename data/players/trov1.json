@@ -2,8 +2,10 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.760705289672544,"U":1,"R":0.4206549118387913,"B":0.3828715365239298,"G":0.2317380352644838},
+  "color_stats": {"W":0.7694174757281551,"U":1,"R":0.40533980582524304,"B":0.3689320388349518,"G":0.2233009708737866},
   "recent_events": [
+    {"id":423838,"name":"Spring League 2026 | Pioneer #10/12","date":"2026-04-23","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
+    {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":9,"rank":[5,18],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":0,"rank":[18,18],"deck":{"archetype":"Izzet Terror","colors":"UR","type":null},"match_record":"0-2-0","game_record":"0-4-0"},
@@ -63,8 +65,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 58,
-  "match_played": 202,
-  "match_wins": 120,
-  "favorite_format": ["pioneer", 0.6206896551724138]
+  "events_count": 60,
+  "match_played": 210,
+  "match_wins": 125,
+  "favorite_format": ["pioneer", 0.6166666666666667]
 }

@@ -4,7 +4,8 @@
   "display_name": "Moiseenko Pavel",
   "color_stats": {"W":0.10169491525423728,"B":0.288135593220339,"R":1,"U":0.18644067796610167,"G":0.2542372881355932},
   "recent_events": [
-    {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":6,"rank":[4,5],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
+    {"id":423320,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-21","format":"standard","points":6,"rank":[3,3],"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":421620,"name":"Spring League 2026 | Standard #10/12","date":"2026-04-14","format":"standard","points":6,"rank":[4,5],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":6,"rank":[5,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":408607,"name":"Spring League 2026 | Standard #4/12","date":"2026-03-10","format":"standard","points":9,"rank":[2,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":408605,"name":"Spring League 2026 | Standard #3/12","date":"2026-03-03","format":"standard","points":6,"rank":[4,6],"match_record":"2-2-0","game_record":"4-4-0"},
@@ -26,8 +27,8 @@
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":0,"rank":[18,18],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"0-4-0","game_record":"0-8-0"}
   ],
-  "events_count": 21,
-  "match_played": 81,
-  "match_wins": 24,
-  "favorite_format": ["standard", 0.42857142857142855]
+  "events_count": 22,
+  "match_played": 85,
+  "match_wins": 26,
+  "favorite_format": ["standard", 0.45454545454545453]
 }

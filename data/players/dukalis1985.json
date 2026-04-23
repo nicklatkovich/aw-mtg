@@ -4,6 +4,7 @@
   "display_name": "Smoktunovich Kirill",
   "color_stats": {"U":0.14653784219001612,"B":1,"R":0.8148148148148149,"G":0.1706924315619968,"W":0.33172302737520126},
   "recent_events": [
+    {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":12,"rank":[1,18],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":9,"rank":[4,13],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":9,"rank":[4,15],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":3,"rank":[15,18],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"1-3-0","game_record":"2-7-0"},
@@ -110,8 +111,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 105,
-  "match_played": 390,
-  "match_wins": 207,
-  "favorite_format": ["pioneer", 0.7142857142857143]
+  "events_count": 106,
+  "match_played": 394,
+  "match_wins": 211,
+  "favorite_format": ["pioneer", 0.7075471698113207]
 }
