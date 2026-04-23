@@ -193,6 +193,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'b42b01e2-8dc8-4144-803a-040c498165ad': 'Leshik Maksim',
   '5dd75bcd-d459-4f0b-ae92-38eefe2e172a': 'Lopatin Maxim',
   '787cc897-a0fc-4ae5-9ac9-f5d39bb38c19': 'Konon Ruslan',
+  '0afdc2a7-2f80-4c5a-bd82-bbcb35ab2bec': 'Kozak Dmitri',
+  'c56bb797-3185-498d-9cfc-59e38137f1d7': 'Zenoviev ?',
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
   'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2*',
@@ -417,4 +419,6 @@ export const playersByUsername: { [username in string]?: string } = {
   jor1k: 'b42b01e2-8dc8-4144-803a-040c498165ad',
   mnihc: '5dd75bcd-d459-4f0b-ae92-38eefe2e172a',
   Ligmaster: '787cc897-a0fc-4ae5-9ac9-f5d39bb38c19',
+  KozD: '0afdc2a7-2f80-4c5a-bd82-bbcb35ab2bec',
+  bsmha: 'c56bb797-3185-498d-9cfc-59e38137f1d7',
 };

@@ -3,6 +3,35 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 423320,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #10/12',
+    date: '2026-04-21',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 10, mp: 3, mw: 2, match_record: '3-0-1', game_record: '7-2-0' },
+      { player: '4onoki', rank: 2, points: 7, mp: 2, mw: 0, match_record: '2-1-1', game_record: '6-3-0' },
+      { player: 'ykcyc', rank: 3, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'ykcyc'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ykcyc', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'BRV'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'ykcyc'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'ykcyc'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 421620,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #9/12',
