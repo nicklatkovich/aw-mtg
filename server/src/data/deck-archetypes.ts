@@ -60,6 +60,7 @@ export const ARCHETYPES = {
   'Jeskai Ephemerate': 'WUR',
   'Jeksai Hammer': 'WUR',
   'Jeskai Splinter Twin': ['WUR', DeckType.COMBO],
+  'Jeskai Erayo': 'WUR',
   // WUG
   'Bant Poison': ['WUG', DeckType.AGGRO],
   'Bant Enchantments': ['WUG', DeckType.AGGRO],
@@ -186,6 +187,7 @@ export const ARCHETYPES = {
   'Grixis Artifacts': 'UBR',
   'Grixis Terror': ['UBR', DeckType.TEMPO],
   'Grixis Aggro': 'UBR',
+  'Grixis Dredge': 'UBR',
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -268,6 +270,7 @@ export const ARCHETYPES = {
   'Jund Altar Tron': 'BRG',
   'Jund Spy Combo': ['BRG', DeckType.COMBO],
   'Jund Cosmogoyf': ['BRG', DeckType.COMBO],
+  'Jund Meek Attack': 'BRG',
   // BG
   'Golgari Obliterator': ['BG', DeckType.MIDRANGE],
   'Golgari Aggro': ['BG', DeckType.AGGRO],

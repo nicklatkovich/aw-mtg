@@ -3,9 +3,67 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 424543,
+    format: Format.MODERN,
+    name: 'Spring League 2026 | Modern #10/12',
+    date: '2026-04-26',
+    standings: [
+      { player: 'Tanti', rank: 1, deck: 'Jeskai Blink', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-4-0' },
+      { player: 'Kihikara', rank: 2, deck: 'Sultai Living End', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'qvertion', rank: 4, deck: 'Boros Energy', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'NickLatkovich', rank: 5, deck: 'Grixis Dredge', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 6, deck: 'Jeskai Erayo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'diuzhev', rank: 7, deck: 'Golgari Yawgmoth', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Azurenia', rank: 8, deck: 'Esper Goryo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'McRais', rank: 9, deck: 'Simic Neoform', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'AnklDen', rank: 10, deck: 'Dimir Mill', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-7-0' },
+      { player: 'ispinyouround', rank: 11, deck: 'Dimir Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: 'Melamasta', rank: 12, deck: 'Jund Meek Attack', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Norbi', rank: 13, deck: 'Jeskai Blink', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+      { player: 'aspelled', rank: 14, deck: 'Boros Storm', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Azurenia', 'diuzhev'], winner: 2, record: '2-0-0' },
+        { players: ['McRais', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['Kihikara', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Melamasta'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['diuzhev', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['Kihikara', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'Melamasta'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tanti', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['diuzhev', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'Kihikara'], winner: 2, record: '2-1-0' },
+        { players: ['ispinyouround', 'Melamasta'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['diuzhev', 'Kihikara'], winner: 2, record: '2-0-0' },
+        { players: ['Azurenia', 'Melamasta'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 421627,
     format: Format.MODERN,
-    name: 'Spring League 2026 | Modern #8/12',
+    name: 'Spring League 2026 | Modern #9/12',
     date: '2026-04-19',
     standings: [
       { player: 'ispinyouround', rank: 1, deck: 'Dimir Midrange', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-1' },
@@ -64,7 +122,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 421408,
     format: Format.MODERN,
-    name: 'Spring League 2026 | Modern #7/12',
+    name: 'Spring League 2026 | Modern #8/12',
     date: '2026-04-12',
     standings: [
       { player: 'Norbi', rank: 1, deck: 'Jeskai Blink', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -128,7 +186,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 418044,
     format: Format.MODERN,
-    name: 'Spring League 2026 | Modern #6/12',
+    name: 'Spring League 2026 | Modern #7/12',
     date: '2026-04-05',
     standings: [
       { player: 'qvertion', rank: 1, deck: 'Boros Energy', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-4-0' },
