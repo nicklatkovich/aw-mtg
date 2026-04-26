@@ -140,7 +140,7 @@
   {"id":"mariiskins","display_name":"Mariiskin Sergey","events_count":8,"match_played":28,"match_wins":5,"color_stats":{},"favorite_format":["pioneer",1]},
   {"id":"gerber2000","display_name":"Duzhev Ivan","events_count":110,"match_played":421,"match_wins":187,"color_stats":{"B":1,"G":0.573947110675808,"U":0.2262487757100881,"W":0.16748285994123407,"R":0.7649363369245838},"favorite_format":["pioneer",0.4090909090909091]},
   {"id":"polevikov","display_name":"Polevikov Aleksandr","events_count":2,"match_played":5,"match_wins":4,"color_stats":{"G":1},"favorite_format":["commander",1]},
-  {"id":"melamasta","display_name":"Yushkevich Egor","events_count":30,"match_played":116,"match_wins":28,"color_stats":{"W":0.03636363636363636,"U":0.6727272727272727,"R":1,"G":0.6909090909090909,"B":0.2181818181818182},"favorite_format":["modern",0.36666666666666664]},
+  {"id":"melamasta","display_name":"Yushkevich Egor","events_count":30,"match_played":116,"match_wins":28,"color_stats":{"B":0.2545454545454545,"R":1,"G":0.7272727272727273,"U":0.6363636363636364},"favorite_format":["modern",0.36666666666666664]},
   {"id":"hi-art","display_name":"Arepin Artyom","events_count":4,"match_played":22,"match_wins":14,"color_stats":{"U":0.625,"R":1,"B":0.375,"W":0.25},"favorite_format":["pioneer",0.5]},
   {"id":"zi","display_name":"Zinovev Ilya","events_count":1,"match_played":3,"match_wins":1,"color_stats":{},"favorite_format":["pioneer",1]},
   {"id":"vitg2","display_name":"VitG2*","events_count":1,"match_played":3,"match_wins":0,"color_stats":{},"favorite_format":["draft",1]},
