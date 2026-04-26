@@ -2,19 +2,20 @@
   "guid": "9e856e66-33b9-4a88-b703-8f2bb34a19d1",
   "id": "kihikara",
   "display_name": "Maskaev Evgeny",
-  "color_stats": {"U":1,"G":1,"B":0.3142857142857143,"W":0.08571428571428572},
+  "color_stats": {"U":1,"B":0.38461538461538464,"G":1,"W":0.07692307692307693},
   "recent_events": [
-    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":6,"rank":[10,13],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-4-0"},
-    {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":6,"rank":[7,15],"deck":{"archetype":"Sultai Living End","colors":"UBG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
-    {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":6,"rank":[7,16],"deck":{"archetype":"Sultai Ritual","colors":"UBG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":424543,"name":"Spring League 2026 | Modern #10/12","date":"2026-04-26","format":"modern","points":9,"rank":[2,14],"deck":{"archetype":"Sultai Living End","colors":"UBG","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":421627,"name":"Spring League 2026 | Modern #9/12","date":"2026-04-19","format":"modern","points":6,"rank":[10,13],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-4-0"},
+    {"id":421408,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-12","format":"modern","points":6,"rank":[7,15],"deck":{"archetype":"Sultai Living End","colors":"UBG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
+    {"id":418044,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-05","format":"modern","points":6,"rank":[7,16],"deck":{"archetype":"Sultai Ritual","colors":"UBG","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":6,"rank":[7,12],"deck":{"archetype":"4c Living End","colors":"WUBG","type":null},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":6,"rank":[7,14],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":408612,"name":"Spring League 2026 | Modern #3/12","date":"2026-03-08","format":"modern","points":3,"rank":[9,12],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":6,"rank":[6,14],"deck":{"archetype":"Simic Ritual","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":9,"rank":[4,18],"match_record":"3-1-0","game_record":"7-3-0"}
   ],
-  "events_count": 8,
-  "match_played": 32,
-  "match_wins": 16,
+  "events_count": 9,
+  "match_played": 36,
+  "match_wins": 19,
   "favorite_format": ["modern", 1]
 }

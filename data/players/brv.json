@@ -2,17 +2,18 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.59725935828877,"R":1,"G":0.46022727272727265,"W":0.41343582887700536,"B":0.015708556149732617},
+  "color_stats": {"U":0.6012574454003969,"R":1,"G":0.4556585043017868,"W":0.40933156849768365,"B":0.015552614162806086},
   "recent_events": [
+    {"id":424543,"name":"Spring League 2026 | Modern #10/12","date":"2026-04-26","format":"modern","points":9,"rank":[3,14],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":423838,"name":"Spring League 2026 | Pioneer #10/12","date":"2026-04-23","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-4-0","game_record":"4-8-0"},
     {"id":423320,"name":"Spring League 2026 | Standard #10/12","date":"2026-04-21","format":"standard","points":10,"rank":[1,3],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-0-1","game_record":"7-2-0"},
-    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":9,"rank":[2,13],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":421627,"name":"Spring League 2026 | Modern #9/12","date":"2026-04-19","format":"modern","points":9,"rank":[2,13],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":421625,"name":"Spring League 2026 | Pioneer #9/12","date":"2026-04-16","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":9,"rank":[2,5],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"6-3-0"},
-    {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":9,"rank":[2,15],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":421408,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-12","format":"modern","points":9,"rank":[2,15],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":420644,"name":"Spring League 2026 | Pioneer #8/12","date":"2026-04-09","format":"pioneer","points":9,"rank":[1,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":420048,"name":"Spring League 2026 | Standard #8/12","date":"2026-04-07","format":"standard","points":9,"rank":[1,4],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-4-0"},
-    {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":3,"rank":[13,16],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"5-7-0"},
+    {"id":418044,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-05","format":"modern","points":3,"rank":[13,16],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"5-7-0"},
     {"id":418042,"name":"Spring League 2026 | Pioneer #7/12","date":"2026-04-02","format":"pioneer","points":3,"rank":[9,11],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":418040,"name":"Spring League 2026 | Standard #7/12","date":"2026-03-31","format":"standard","points":12,"rank":[1,2],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":6,"rank":[6,12],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -170,8 +171,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 165,
-  "match_played": 653,
-  "match_wins": 350,
-  "favorite_format": ["pioneer", 0.5151515151515151]
+  "events_count": 166,
+  "match_played": 657,
+  "match_wins": 353,
+  "favorite_format": ["pioneer", 0.5120481927710844]
 }

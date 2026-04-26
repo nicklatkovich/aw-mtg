@@ -2,11 +2,12 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"W":0.2976190476190476,"U":1,"R":0.9404761904761904,"B":0.2619047619047619,"G":0.14285714285714282},
+  "color_stats": {"W":0.313953488372093,"U":1,"R":0.9418604651162792,"B":0.2558139534883721,"G":0.1395348837209302},
   "recent_events": [
-    {"id":421627,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-19","format":"modern","points":9,"rank":[3,13],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
-    {"id":421408,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-12","format":"modern","points":12,"rank":[1,15],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
-    {"id":418044,"name":"Spring League 2026 | Modern #6/12","date":"2026-04-05","format":"modern","points":9,"rank":[3,16],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-5-0"},
+    {"id":424543,"name":"Spring League 2026 | Modern #10/12","date":"2026-04-26","format":"modern","points":0,"rank":[13,14],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
+    {"id":421627,"name":"Spring League 2026 | Modern #9/12","date":"2026-04-19","format":"modern","points":9,"rank":[3,13],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":421408,"name":"Spring League 2026 | Modern #8/12","date":"2026-04-12","format":"modern","points":12,"rank":[1,15],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"4-0-0","game_record":"8-2-0"},
+    {"id":418044,"name":"Spring League 2026 | Modern #7/12","date":"2026-04-05","format":"modern","points":9,"rank":[3,16],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":416909,"name":"Spring League 2026 | Modern #6/12","date":"2026-03-29","format":"modern","points":10,"rank":[2,12],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-0-1","game_record":"7-3-1"},
     {"id":414944,"name":"Spring League 2026 | Modern #5/12","date":"2026-03-22","format":"modern","points":6,"rank":[6,14],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":6,"rank":[9,13],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -66,8 +67,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 61,
-  "match_played": 210,
+  "events_count": 62,
+  "match_played": 212,
   "match_wins": 120,
-  "favorite_format": ["pioneer", 0.5245901639344263]
+  "favorite_format": ["pioneer", 0.5161290322580645]
 }
