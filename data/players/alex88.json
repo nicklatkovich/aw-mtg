@@ -4,6 +4,7 @@
   "display_name": "Raptunovich Aleksei",
   "color_stats": {"R":1,"B":0.11564625850340135,"G":0.013605442176870748,"U":0.08163265306122448,"W":0.6258503401360543},
   "recent_events": [
+    {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":9,"rank":[5,18],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":9,"rank":[6,18],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":12,"rank":[1,13],"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":420142,"name":"Spring League 2026 | Pauper #8/12","date":"2026-04-08","format":"pauper","points":6,"rank":[9,15],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -141,8 +142,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 136,
-  "match_played": 536,
-  "match_wins": 329,
-  "favorite_format": ["pioneer", 0.49264705882352944]
+  "events_count": 137,
+  "match_played": 540,
+  "match_wins": 332,
+  "favorite_format": ["pioneer", 0.48905109489051096]
 }

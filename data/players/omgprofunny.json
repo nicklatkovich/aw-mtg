@@ -2,8 +2,9 @@
   "guid": "584bf7f8-7b31-4575-b43e-e636daac85ab",
   "id": "omgprofunny",
   "display_name": "Bondarchik Andrei",
-  "color_stats": {"U":0.8235294117647061,"B":1,"G":0.15686274509803919,"W":0.3039215686274509,"R":0.48039215686274483},
+  "color_stats": {"U":0.8285714285714287,"B":1,"G":0.15238095238095234,"W":0.29523809523809513,"R":0.46666666666666645},
   "recent_events": [
+    {"id":424726,"name":"Spring League 2026 | Standard #11/12","date":"2026-04-28","format":"standard","points":6,"rank":[3,5],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":420048,"name":"Spring League 2026 | Standard #8/12","date":"2026-04-07","format":"standard","points":7,"rank":[2,4],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"2-1-1","game_record":"6-4-0"},
     {"id":416279,"name":"Spring League 2026 | Standard #6/12","date":"2026-03-24","format":"standard","points":12,"rank":[1,8],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":405306,"name":"Spring League 2026 | Standard #1/12","date":"2026-02-17","format":"standard","points":12,"rank":[1,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-2-0"},
@@ -73,8 +74,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 68,
-  "match_played": 244,
-  "match_wins": 140,
-  "favorite_format": ["standard", 0.5]
+  "events_count": 69,
+  "match_played": 248,
+  "match_wins": 142,
+  "favorite_format": ["standard", 0.5072463768115942]
 }

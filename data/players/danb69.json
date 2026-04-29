@@ -4,12 +4,13 @@
   "display_name": "Bliznetsov Daniil",
   "color_stats": {"U":0.5,"G":0.5,"W":1},
   "recent_events": [
+    {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":1,"rank":[16,18],"match_record":"0-3-1","game_record":"2-7-0"},
     {"id":"c251024","name":"Fall League 2025 | Commander (24.10)","date":"2025-10-24","format":"commander","points":3,"rank":[4,16],"deck":{"archetype":"The Wandering Minstrel","colors":"UG","type":null},"match_record":"0-2-0"},
     {"id":353655,"name":"Summer League 2025 | Pauper #11","date":"2025-08-20","format":"pauper","points":6,"rank":[10,20],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":12,"rank":[1,12]}
   ],
-  "events_count": 3,
-  "match_played": 6,
+  "events_count": 4,
+  "match_played": 10,
   "match_wins": 2,
-  "favorite_format": ["commander", 0.6666666666666666]
+  "favorite_format": ["pauper", 0.5]
 }

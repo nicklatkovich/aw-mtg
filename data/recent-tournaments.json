@@ -1,4 +1,6 @@
 [
+  {"id":424727,"format":"pauper","date":"2026-04-29","name":"Spring League 2026 | Pauper #11/12","players_count":18,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Temur Skred","colors":"URG","type":null}}},
+  {"id":424726,"format":"standard","date":"2026-04-28","name":"Spring League 2026 | Standard #11/12","players_count":5,"winner":{"player":{"display_name":"Bogdan Ilya","id":"barbossa"},"deck":{"archetype":"Mono-White Momo","colors":"W","type":null}}},
   {"id":424543,"format":"modern","date":"2026-04-26","name":"Spring League 2026 | Modern #10/12","players_count":14,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null}}},
   {"id":423838,"format":"pioneer","date":"2026-04-23","name":"Spring League 2026 | Pioneer #10/12","players_count":10,"winner":{"player":{"display_name":"Zenoviev ?","id":"bsmha"},"deck":{"archetype":"Dimir Bounce","colors":"UB","type":"Midrange"}}},
   {"id":423517,"format":"pauper","date":"2026-04-22","name":"Spring League 2026 | Pauper #10/12","players_count":18,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null}}},

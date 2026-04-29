@@ -1,0 +1,13 @@
+{
+  "guid": "6423afe6-bec1-4c66-958b-bbc08cc8b588",
+  "id": "underviun",
+  "display_name": "? Underviun Aika",
+  "color_stats": {},
+  "recent_events": [
+    {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":5,"rank":[12,18],"match_record":"1-1-2","game_record":"4-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 1,
+  "favorite_format": ["pauper", 1]
+}
