@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 424726,
+    format: Format.STANDARD,
+    name: 'Spring League 2026 | Standard #11/12',
+    date: '2026-04-28',
+    standings: [
+      { player: 'Barbossa', rank: 1, deck: 'Mono-White Momo', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'McRais', rank: 2, deck: 'Dimir Oculus', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'profunny', rank: 3, deck: 'Dimir Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'mnihc', rank: 4, deck: 'Mono-Green Landfall', points: 6, mp: 2, mw: 0, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 5, deck: 'Izzet Spellementals', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Barbossa', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'profunny'], winner: 2, record: '2-0-0' },
+        { players: ['McRais', 'mnihc'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['mnihc', null], winner: 1, record: 'bye' },
+        { players: ['Barbossa', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['profunny', 'McRais'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['profunny', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'Barbossa'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'mnihc'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['mnihc', null], winner: 1, record: 'bye' },
+        { players: ['Barbossa', 'profunny'], winner: 1, record: '2-0-0' },
+        { players: ['McRais', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 423320,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #10/12',
