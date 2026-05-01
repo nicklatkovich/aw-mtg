@@ -3,6 +3,48 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 424728,
+    format: Format.PIONEER,
+    name: 'Spring League 2026 | Pioneer #11/12',
+    date: '2026-04-30',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'vorotinskyV', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'AnklDen', rank: 3, deck: 'Selesnya Company', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 4, deck: 'Orzhov Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'DanilaNabeshko', rank: 5, deck: 'Niv to Light', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'VT', rank: 6, deck: 'Azorius Control', points: 3, mp: 2, mw: 1, match_record: '1-1-0', game_record: '2-2-0' },
+      { player: 'ispinyouround', rank: 7, deck: 'Rakdos Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'GlebK', rank: 8, deck: 'Mono-Red Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['VT', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'DanilaNabeshko'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['VT', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'vorotinskyV'], winner: 2, record: '2-1-0' },
+        { players: ['DanilaNabeshko', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'GlebK'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['vorotinskyV', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'DanilaNabeshko'], winner: 2, record: '2-0-0' },
+        { players: ['GlebK', 'AnklDen'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Aleksandr_KoLoshk', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'ispinyouround'], winner: 1, record: '2-1-0' },
+        { players: ['vorotinskyV', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['DanilaNabeshko', 'GlebK'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 423838,
     format: Format.PIONEER,
     name: 'Spring League 2026 | Pioneer #10/12',
