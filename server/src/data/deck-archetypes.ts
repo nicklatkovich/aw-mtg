@@ -218,6 +218,7 @@ export const ARCHETYPES = {
   'Izzet Spellementals': ['UR', DeckType.TEMPO],
   'Izzet Terror': 'UR',
   'Izzet Erayo': 'UR',
+  'Izzet Pirates': 'UR',
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
