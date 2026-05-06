@@ -197,6 +197,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'c56bb797-3185-498d-9cfc-59e38137f1d7': 'Zenoviev ?',
   '6423afe6-bec1-4c66-958b-bbc08cc8b588': '? Underviun Aika',
   'fc5b5da0-1a14-4761-9485-527cdb4f0126': 'Perevezenov Konstantin',
+  '8cbbc3bc-13d7-4995-a0b3-c7c53e73fbb3': 'Anna Misiuk',
+
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
   'b0439307-6a92-4967-b30f-2b255d3f989a': 'VitG2*',
@@ -425,4 +427,5 @@ export const playersByUsername: { [username in string]?: string } = {
   bsmha: 'c56bb797-3185-498d-9cfc-59e38137f1d7',
   underviun: '6423afe6-bec1-4c66-958b-bbc08cc8b588',
   KonstantinPerevezenov: 'fc5b5da0-1a14-4761-9485-527cdb4f0126',
+  aiika: '8cbbc3bc-13d7-4995-a0b3-c7c53e73fbb3',
 };
