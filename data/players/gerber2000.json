@@ -4,6 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"B":1,"G":0.573947110675808,"U":0.2262487757100881,"W":0.16748285994123407,"R":0.7649363369245838},
   "recent_events": [
+    {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":12,"rank":[1,13],"match_record":"4-0-0","game_record":"7-2-0"},
     {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":6,"rank":[11,18],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":424543,"name":"Spring League 2026 | Modern #10/12","date":"2026-04-26","format":"modern","points":6,"rank":[7,14],"deck":{"archetype":"Golgari Yawgmoth","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":423838,"name":"Spring League 2026 | Pioneer #10/12","date":"2026-04-23","format":"pioneer","points":9,"rank":[3,10],"deck":{"archetype":"Simic Scapeshift","colors":"UG","type":"Combo"},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -116,8 +117,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 111,
-  "match_played": 425,
-  "match_wins": 189,
-  "favorite_format": ["pauper", 0.40540540540540543]
+  "events_count": 112,
+  "match_played": 429,
+  "match_wins": 193,
+  "favorite_format": ["pauper", 0.4107142857142857]
 }
