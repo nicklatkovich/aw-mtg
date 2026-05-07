@@ -3,6 +3,53 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 427155,
+    format: Format.PIONEER,
+    name: 'Spring League 2026 | Pioneer #12/12',
+    date: '2026-05-07',
+    standings: [
+      { player: 'ispinyouround', rank: 1, deck: 'Rakdos Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'AnklDen', rank: 2, deck: 'Mono-Black Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'NickLatkovich', rank: 4, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'vorotinskyV', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'TroV1', rank: 6, deck: 'Azorius Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Tamplier007333', rank: 7, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Very_Bad_Man', rank: 8, deck: 'Rakdos Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'Norbi', rank: 9, deck: 'Boros Monument', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'McRais', rank: 10, deck: 'Golgari Midrange', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'TroV1'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'Tamplier007333'], winner: 1, record: '2-0-0' },
+        { players: ['ispinyouround', 'McRais'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['TroV1', 'McRais'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'vorotinskyV'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['TroV1', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'ispinyouround'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'Tamplier007333'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'McRais'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Norbi'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 424728,
     format: Format.PIONEER,
     name: 'Spring League 2026 | Pioneer #11/12',
