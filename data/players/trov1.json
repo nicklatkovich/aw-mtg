@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.7775175644028101,"U":1,"R":0.39110070257611274,"B":0.3559718969555038,"G":0.21545667447306807},
+  "color_stats": {"W":0.7850678733031672,"U":1,"R":0.37782805429864286,"B":0.3438914027149324,"G":0.20814479638009065},
   "recent_events": [
+    {"id":427155,"name":"Spring League 2026 | Pioneer #12/12","date":"2026-05-07","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":424728,"name":"Spring League 2026 | Pioneer #11/12","date":"2026-04-30","format":"pioneer","points":3,"rank":[6,8],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"1-1-0","game_record":"2-2-0"},
     {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":3,"rank":[15,18],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":423838,"name":"Spring League 2026 | Pioneer #10/12","date":"2026-04-23","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"5-4-0"},
@@ -67,8 +68,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 62,
-  "match_played": 215,
-  "match_wins": 127,
-  "favorite_format": ["pioneer", 0.6129032258064516]
+  "events_count": 63,
+  "match_played": 219,
+  "match_wins": 129,
+  "favorite_format": ["pioneer", 0.6190476190476191]
 }
