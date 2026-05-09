@@ -318,6 +318,7 @@ export const ARCHETYPES = {
   'Gruul Eldrazi': 'RG',
   'Gruul Belcher Storm': ['RG', DeckType.COMBO],
   'Gruul Storm': ['RG', DeckType.COMBO],
+  'Gruul Goblins': ['RG', DeckType.AGGRO],
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',
@@ -340,6 +341,8 @@ export const ARCHETYPES = {
   'Kethis Combo': ['WUBG', DeckType.COMBO],
   '4c Energy': 'WURG',
   '4c Living End': 'WUBG',
+  '4c Altar Combo': 'UBRG',
+  '4c Altar Tron': 'UBRG',
   // 5c
   "Lich's Mastery": ['WUBRG', DeckType.COMBO],
   'Niv to Light': ['WUBRG', DeckType.CONTROL],
@@ -352,6 +355,7 @@ export const ARCHETYPES = {
   'Ephemerate Tron': 'WUBRG',
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
   'Domain Ritual': 'WUBRG',
+  '5c Slivers': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',

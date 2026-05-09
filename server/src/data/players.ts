@@ -198,6 +198,14 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '6423afe6-bec1-4c66-958b-bbc08cc8b588': '? Underviun Aika',
   'fc5b5da0-1a14-4761-9485-527cdb4f0126': 'Perevezenov Konstantin',
   '8cbbc3bc-13d7-4995-a0b3-c7c53e73fbb3': 'Anna Misiuk',
+  '46c96b00-24f7-405f-bf49-0245336f0763': 'Berezin Dmitry',
+  'd9fd960f-40e7-4645-9130-cfe023d2f2c4': 'Kazak Dzmitry',
+  'a140007c-b17d-4035-b73b-69a3fe0c1768': 'Galvidis Artur',
+  '58a4226f-9399-4138-8ec4-2307c19a1726': 'Levchuk Yuri',
+  '74ed6652-e06b-4f33-ada8-aa14c3820451': 'Zayac Maxim',
+  '8412c31e-0390-4142-940a-705458bad57f': 'Mixailov Anton',
+  '46e196e2-1d44-405c-b869-eb52f2cbe4ef': 'Kononov Eduard',
+  'df228c70-0f01-4418-81e4-e47037581d30': 'Pas Sasha',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -428,4 +436,12 @@ export const playersByUsername: { [username in string]?: string } = {
   underviun: '6423afe6-bec1-4c66-958b-bbc08cc8b588',
   KonstantinPerevezenov: 'fc5b5da0-1a14-4761-9485-527cdb4f0126',
   aiika: '8cbbc3bc-13d7-4995-a0b3-c7c53e73fbb3',
+  SammyEdge: '46c96b00-24f7-405f-bf49-0245336f0763',
+  PanzerGold: 'd9fd960f-40e7-4645-9130-cfe023d2f2c4',
+  HikaruSorano: 'a140007c-b17d-4035-b73b-69a3fe0c1768',
+  Yryrynia: '58a4226f-9399-4138-8ec4-2307c19a1726',
+  MaxAliga: '74ed6652-e06b-4f33-ada8-aa14c3820451',
+  Anton: '8412c31e-0390-4142-940a-705458bad57f',
+  Ekon27: '46e196e2-1d44-405c-b869-eb52f2cbe4ef',
+  GambitBrest: 'df228c70-0f01-4418-81e4-e47037581d30',
 };
