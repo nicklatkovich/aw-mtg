@@ -2,13 +2,15 @@
   "guid": "91e78a5e-255c-4834-8ac7-c6fe9dc7bfb7",
   "id": "emera1d",
   "display_name": "Sarvira Mihail",
-  "color_stats": {"B":1,"W":0.5,"G":0.5},
+  "color_stats": {"R":1,"U":0.3333333333333333,"B":0.6666666666666666,"W":0.3333333333333333,"G":0.3333333333333333},
   "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":6,"rank":[16,24],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"2-3-0","game_record":"6-7-0"},
+    {"id":424084,"name":"★★★ Big Magic Weekend | Spring 2026 | Pioneer","date":"2026-05-02","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":9,"rank":[17,33],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"3-3-0","game_record":"7-7-0"},
     {"id":379112,"name":"★★★ Big Magic Weekend | Fall 2025 | Pauper","date":"2025-11-08","format":"pauper","points":22,"rank":[1,35],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"},"match_record":"7-1-1","game_record":"15-6-3"}
   ],
-  "events_count": 2,
-  "match_played": 15,
-  "match_wins": 10,
+  "events_count": 4,
+  "match_played": 24,
+  "match_wins": 14,
   "favorite_format": ["pioneer", 0.5]
 }

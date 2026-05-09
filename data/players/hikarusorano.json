@@ -1,0 +1,13 @@
+{
+  "guid": "a140007c-b17d-4035-b73b-69a3fe0c1768",
+  "id": "hikarusorano",
+  "display_name": "Galvidis Artur",
+  "color_stats": {"U":1,"R":1},
+  "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":9,"rank":[10,24],"deck":{"archetype":"Izzet Terror","colors":"UR","type":null},"match_record":"3-2-0","game_record":"6-5-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 1]
+}

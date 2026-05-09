@@ -1,0 +1,13 @@
+{
+  "guid": "74ed6652-e06b-4f33-ada8-aa14c3820451",
+  "id": "maxaliga",
+  "display_name": "Zayac Maxim",
+  "color_stats": {"R":1,"G":1},
+  "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":6,"rank":[14,24],"deck":{"archetype":"Gruul Goblins","colors":"RG","type":"Aggro"},"match_record":"2-3-0","game_record":"5-7-0"}
+  ],
+  "events_count": 1,
+  "match_played": 5,
+  "match_wins": 2,
+  "favorite_format": ["pauper", 1]
+}

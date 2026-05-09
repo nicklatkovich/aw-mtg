@@ -1,0 +1,13 @@
+{
+  "guid": "46c96b00-24f7-405f-bf49-0245336f0763",
+  "id": "sammyedge",
+  "display_name": "Berezin Dmitry",
+  "color_stats": {"W":1,"U":1},
+  "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":11,"rank":[6,24],"deck":{"archetype":"Azorius Gates","colors":"WU","type":null},"match_record":"3-1-2","game_record":"6-4-6"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 1]
+}

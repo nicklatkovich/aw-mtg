@@ -2,8 +2,9 @@
   "guid": "2752a16a-8320-4fef-b268-cbbeddb87355",
   "id": "lspolegi",
   "display_name": "Savchenko Oleg",
-  "color_stats": {"U":1,"B":0.375,"W":0.25,"R":0.625},
+  "color_stats": {"U":1,"B":0.5,"R":0.7,"W":0.2},
   "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":9,"rank":[8,24],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"3-3-0","game_record":"7-8-0"},
     {"id":421621,"name":"Spring League 2026 | Pauper #9/12","date":"2026-04-15","format":"pauper","points":3,"rank":[12,13],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":9,"rank":[8,20],"deck":{"archetype":"Dimir Reanimator","colors":"UB","type":"Combo"},"match_record":"3-3-0","game_record":"8-7-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":9,"rank":[3,20],"match_record":"3-0-0","game_record":"6-0-0"},
@@ -20,8 +21,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":6,"rank":[5,14]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":12,"rank":[1,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 15,
-  "match_played": 59,
-  "match_wins": 35,
-  "favorite_format": ["pioneer", 0.5333333333333333]
+  "events_count": 16,
+  "match_played": 65,
+  "match_wins": 38,
+  "favorite_format": ["pioneer", 0.5]
 }

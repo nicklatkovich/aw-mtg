@@ -1,0 +1,13 @@
+{
+  "guid": "d9fd960f-40e7-4645-9130-cfe023d2f2c4",
+  "id": "panzergold",
+  "display_name": "Kazak Dzmitry",
+  "color_stats": {"U":1},
+  "recent_events": [
+    {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":10,"rank":[7,24],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-2-1","game_record":"8-5-3"}
+  ],
+  "events_count": 1,
+  "match_played": 6,
+  "match_wins": 3,
+  "favorite_format": ["pauper", 1]
+}
