@@ -3,6 +3,54 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 427158,
+    format: Format.MODERN,
+    name: 'Spring League 2026 | Modern #11/12',
+    date: '2026-05-10',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Grixis Dredge', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'Norbi', rank: 2, deck: 'Jeskai Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: '4onoki', rank: 3, deck: 'Gruul Eldrazi', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-4-1' },
+      { player: 'Azurenia', rank: 4, deck: 'Esper Goryo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'aspelled', rank: 5, deck: 'Domain Zoo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'qvertion', rank: 6, deck: 'Boros Energy', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'BRV', rank: 7, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'AnklDen', rank: 8, deck: 'Boros Energy', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-6-1' },
+      { player: 'ispinyouround', rank: 9, deck: 'Dimir Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: 'Melamasta', rank: 10, deck: 'Jund Meek Attack', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '0-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['aspelled', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['Melamasta', 'Azurenia'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', '4onoki'], winner: 2, record: '2-1-0' },
+        { players: ['ispinyouround', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Norbi'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Norbi', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['4onoki', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['ispinyouround', 'Melamasta'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Azurenia'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', '4onoki'], winner: 0, record: '1-1-1' },
+        { players: ['aspelled', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['Melamasta', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'Norbi'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['4onoki', 'ispinyouround'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'Melamasta'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 424543,
     format: Format.MODERN,
     name: 'Spring League 2026 | Modern #10/12',
