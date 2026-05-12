@@ -99,6 +99,7 @@ export const ARCHETYPES = {
   'Mardu Synthesizer': 'WBR',
   'Mardu Midrange': ['WBR', DeckType.MIDRANGE],
   'Mardu Cycling': 'WBR',
+  'Mardu Ketramose': 'WBR',
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],

@@ -3,6 +3,31 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 428358,
+    format: Format.STANDARD,
+    name: 'Daily | Standard (12.05.26)',
+    date: '2026-05-12',
+    standings: [
+      { player: 'Barbossa', rank: 1, deck: 'Mono-White Momo', points: 9, mp: 2, mw: 2, match_record: '3-0-0', game_record: '6-2-0' },
+      { player: 'mnihc', rank: 2, deck: 'Mono-Green Landfall', points: 6, mp: 2, mw: 1, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'McRais', rank: 3, deck: 'Mardu Ketramose', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['mnihc', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'Barbossa'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['McRais', null], winner: 1, record: 'bye' },
+        { players: ['mnihc', 'Barbossa'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Barbossa', null], winner: 1, record: 'bye' },
+        { players: ['McRais', 'mnihc'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 426916,
     format: Format.STANDARD,
     name: 'Spring League 2026 | Standard #12/12',
