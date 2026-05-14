@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"U":1,"W":0.15404040404040403,"B":0.1877104377104377,"R":0.0951178451178451,"G":0.07828282828282827},
+  "color_stats": {"U":1,"W":0.1502463054187192,"B":0.1830870279146141,"R":0.0927750410509031,"G":0.07635467980295566},
   "recent_events": [
+    {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":6,"rank":[8,14],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":6,"rank":[7,13],"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":11,"rank":[3,24],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"4-1-2","game_record":"8-3-6"},
     {"id":424728,"name":"Spring League 2026 | Pioneer #11/12","date":"2026-04-30","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
@@ -92,8 +93,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 87,
-  "match_played": 338,
-  "match_wins": 189,
-  "favorite_format": ["pauper", 0.5632183908045977]
+  "events_count": 88,
+  "match_played": 342,
+  "match_wins": 191,
+  "favorite_format": ["pauper", 0.5681818181818182]
 }

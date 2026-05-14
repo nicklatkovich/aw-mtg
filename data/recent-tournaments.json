@@ -1,4 +1,6 @@
 [
+  {"id":428956,"format":"pioneer","date":"2026-05-14","name":"Daily | Pioneer (14.05.26)","players_count":7,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
+  {"id":428698,"format":"pauper","date":"2026-05-13","name":"Daily | Pauper (13.05.26)","players_count":14,"winner":{"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"}}},
   {"id":428358,"format":"standard","date":"2026-05-12","name":"Daily | Standard (12.05.26)","players_count":3,"winner":{"player":{"display_name":"Bogdan Ilya","id":"barbossa"},"deck":{"archetype":"Mono-White Momo","colors":"W","type":null}}},
   {"id":427158,"format":"modern","date":"2026-05-10","name":"Spring League 2026 | Modern #11/12","players_count":10,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Grixis Dredge","colors":"UBR","type":null}}},
   {"id":427155,"format":"pioneer","date":"2026-05-07","name":"Spring League 2026 | Pioneer #12/12","players_count":10,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"}}},
