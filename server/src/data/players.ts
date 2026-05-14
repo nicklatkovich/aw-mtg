@@ -444,4 +444,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Anton: '8412c31e-0390-4142-940a-705458bad57f',
   Ekon27: '46e196e2-1d44-405c-b869-eb52f2cbe4ef',
   GambitBrest: 'df228c70-0f01-4418-81e4-e47037581d30',
+  Fate_: 'fed69699-d5b2-4c4d-b7b7-7defc3ade796',
 };

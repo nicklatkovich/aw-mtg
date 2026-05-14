@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 428956,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (14.05.26)',
+    date: '2026-05-14',
+    standings: [
+      { player: 'vorotinskyV', rank: 1, deck: 'Mono-Red Aggro', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-0-0' },
+      { player: 'McRais', rank: 2, deck: 'Orzhov Monument', points: 6, mp: 2, mw: 1, match_record: '2-1-0', game_record: '4-2-0' },
+      { player: 'AnklDen', rank: 3, deck: 'Mono-Black Midrange', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-4-0' },
+      { player: 'ispinyouround', rank: 4, deck: 'Rakdos Aggro', points: 6, mp: 2, mw: 1, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'GlebK', rank: 5, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-5-0' },
+      { player: 'VT', rank: 6, deck: 'Azorius Control', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'NickLatkovich', rank: 7, deck: 'Azorius Control', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['McRais', null], winner: 1, record: 'bye' },
+        { players: ['ispinyouround', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'VT'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['vorotinskyV', 'McRais'], winner: 1, record: '2-0-0' },
+        { players: ['VT', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['GlebK', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['vorotinskyV', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['McRais', 'VT'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 427155,
     format: Format.PIONEER,
     name: 'Spring League 2026 | Pioneer #12/12',

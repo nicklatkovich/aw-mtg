@@ -128,6 +128,7 @@ export const ARCHETYPES = {
   'Boros Moxite': 'WR',
   'Boros Wildfire': 'WR',
   'Boros Storm': 'WR',
+  'Boros Tribe': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -243,6 +244,7 @@ export const ARCHETYPES = {
   'Simic Neoform': 'UG',
   'Simic Grinding Emry': 'UG',
   'Simic Merfolks': 'UG',
+  'Simic Pizza Combo': ['UG', DeckType.COMBO],
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],
