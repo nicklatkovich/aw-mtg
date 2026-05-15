@@ -41,6 +41,10 @@ export const spring2026League: LeagueInfo[] = [
       .filter((t) => new Date(t.date).getTime() >= new Date('2026-02-19').getTime())
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
+    rank_override: [
+      null,
+      '824039fa-f433-42e7-845c-7c0fd61a21c2', // Vorotinsky Vitaliy (won a tiebreaker game for bye in finals)
+    ],
   },
   {
     format: Format.MODERN,

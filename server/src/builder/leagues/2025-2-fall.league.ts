@@ -18,6 +18,15 @@ export const fall2025League: LeagueInfo[] = [
       .filter((t) => new Date(t.date).getTime() >= new Date('2025-09-30').getTime())
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
+    // is_finished: true,
+    rank_override: [
+      'cd3375a9-b0bc-4bb1-bff4-7e50504b68d9', // 1) Shagoiko Maxim
+      'ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7', // 2) Martseniuk Maksim
+      'd80a6551-671b-4303-89d1-3c361e2eca86', // 3) Ihnatsik Yauheni
+      'e32c68c8-9493-4892-b490-952746e51445', // 4) Brozhat Rostislav
+      'd3f6dfd4-2da2-45fc-bad4-fb638074a99c', // 5) Bandarchyk Anton
+      '94a41687-53a7-4651-b45c-72061e28251a', // 6) Snytko Egor
+    ],
   },
   {
     format: Format.PIONEER,

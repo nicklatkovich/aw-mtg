@@ -5,7 +5,7 @@ import { LeagueInfo } from './leagues/league.types';
 
 export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, PlayerDTO>): LeagueDto[] {
   return leagueInfo.map<LeagueDto>((league) => {
-    const players = new Map<string, LeaguePlayerDto>();
+    const players = new Map<string, LeaguePlayerDto & { pid: string }>();
     const next_events = league.total_events - league.events.length;
     let prize_pool = 0;
     assert(league.events.length <= league.total_events);
@@ -21,6 +21,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
         const points = prev?.points ?? Array.from({ length: league.total_events }, () => null);
         points[eventIndex] = s.leaguePoints ?? s.points;
         players.set(pid, {
+          pid,
           display_name: playerInfo.display_name,
           id: playerInfo.id,
           total_points: 0,
@@ -30,15 +31,34 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
         });
       }
     }
+    const pointsSum = new Map<string, number>();
     for (const p of players.values()) {
+      pointsSum.set(
+        p.id,
+        p.points.reduce<number>((acc, v) => acc + (v ?? 0), 0),
+      );
       p.total_points = calculateTotalPoints(p.points);
       p.max_points = calculateTotalPoints([...p.points, ...Array.from({ length: next_events }, () => 12)]);
     }
-    const sortedPlayers = [...players.values()].sort((a, b) => {
-      if (b.total_points !== a.total_points) return b.total_points - a.total_points;
-      if (b.event_count !== a.event_count) return a.event_count - b.event_count;
+    let sortedPlayers = [...players.values()].sort((a, b) => {
+      if (a.total_points !== b.total_points) return b.total_points - a.total_points;
+      if (a.event_count !== b.event_count) return a.event_count - b.event_count;
+      const [pa, pb] = [a, b].map((p) => pointsSum.get(p.id) ?? 0);
+      if (pa !== pb) return pb - pa;
+      for (let offset = league.total_events - 1; offset > 0; offset -= 1) {
+        const [tpa, tpb] = [a, b].map((p) => calculateTotalPoints(p.points.slice(0, offset)));
+        if (tpa !== tpb) return tpb - tpa;
+      }
       return a.display_name.localeCompare(b.display_name);
     });
+    for (const [newIndex, pid] of (league.rank_override ?? []).entries()) {
+      if (!pid) continue;
+      const prevIndex = sortedPlayers.findIndex((p) => p.pid === pid);
+      assert(prevIndex >= 0, `league ${league.display_name}: rank_override: ${pid} not found`);
+      if (prevIndex === newIndex) continue;
+      const otherPlayers = [...sortedPlayers.slice(0, prevIndex), ...sortedPlayers.slice(prevIndex + 1)];
+      sortedPlayers = [...otherPlayers.slice(0, newIndex), sortedPlayers[prevIndex], ...otherPlayers.slice(newIndex)];
+    }
     const result: LeagueDto = {
       format: league.format,
       display_name: league.display_name,
@@ -49,6 +69,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
       prize_fund: prize_pool,
       players: sortedPlayers,
       event_ids: league.events.map((e) => e?.id ?? null),
+      is_finished: league.is_finished,
     };
     return result;
   });
@@ -59,6 +80,6 @@ function calculateTotalPoints(points: (number | null)[]): number {
   const topPoints = pts
     .sort((a, b) => b - a)
     .slice(0, 6)
-    .reduce((a, b) => a + b);
+    .reduce((a, b) => a + b, 0);
   return topPoints + Math.max(0, pts.length - 6) + pts.filter((v) => v === 12).length;
 }

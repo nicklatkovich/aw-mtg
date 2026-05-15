@@ -128,7 +128,12 @@ ${leagueDto
     "prize_fund": ${l.prize_fund},
     "players": [
       ${l.players.map((p) => JSON.stringify(p)).join(',\n      ')}
-    ],
+    ],${
+      l.is_finished
+        ? `
+    "is_finished": true,`
+        : ''
+    }
     "event_ids": [${l.event_ids
       .map((id) => (id === null ? 'null' : typeof id === 'string' ? `"${id}"` : id))
       .join(', ')}]

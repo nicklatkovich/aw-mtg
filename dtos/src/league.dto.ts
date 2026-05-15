@@ -19,4 +19,5 @@ export type LeagueDto = {
   prize_fund: number;
   event_ids: (string | number | null)[];
   players: LeaguePlayerDto[];
+  is_finished?: boolean;
 };

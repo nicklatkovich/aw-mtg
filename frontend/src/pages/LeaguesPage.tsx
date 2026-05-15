@@ -66,7 +66,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
               className={[
                 index + 1 === league.top ? 'last-top' : '',
                 displayMaxPoints && player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
-                player.total_points > finalistPointsThreshold ? 'green-row' : '',
+                player.total_points > finalistPointsThreshold && !league.is_finished ? 'green-row' : '',
               ].join(' ')}
             >
               <div className="cell">{index + 1}</div>
