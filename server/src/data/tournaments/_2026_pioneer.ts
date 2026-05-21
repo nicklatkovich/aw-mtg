@@ -3,6 +3,50 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 429699,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (21.05.26)',
+    date: '2026-05-21',
+    standings: [
+      { player: 'ispinyouround', rank: 1, deck: 'Rakdos Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-0-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Simic Lotus Field', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'AnklDen', rank: 3, deck: 'Mono-Black Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'GlebK', rank: 4, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'mnihc', rank: 5, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'vorotinskyV', rank: 6, deck: 'Mono-Red Aggro', points: 3, mp: 1, mw: 0, match_record: '1-1-0', game_record: '2-2-0' },
+      { player: 'BRV', rank: 7, deck: 'Gruul Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'Professor013', rank: 8, deck: 'Azorius Lotus Field', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Alex88', rank: 9, deck: 'Mono-Red Aggro', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'Alex88'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['Professor013', 'mnihc'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['vorotinskyV', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'Professor013'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['ispinyouround', 'mnihc'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'Alex88'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Professor013', null], winner: 1, record: 'bye' },
+        { players: ['ispinyouround', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'mnihc'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['mnihc', 'GlebK'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 428956,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (14.05.26)',
