@@ -4,10 +4,11 @@
   "display_name": "Kozak Dmitri",
   "color_stats": {},
   "recent_events": [
+    {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":6,"rank":[6,9],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":423517,"name":"Spring League 2026 | Pauper #10/12","date":"2026-04-22","format":"pauper","points":3,"rank":[12,18],"match_record":"1-3-0","game_record":"4-7-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 1,
-  "favorite_format": ["pauper", 1]
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 3,
+  "favorite_format": ["modern", 0.5]
 }

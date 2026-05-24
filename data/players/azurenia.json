@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"W":0.33631618195376606,"U":1,"B":0.9440715883668905,"R":0.9254287844891874,"G":0.8210290827740496},
+  "color_stats": {"W":0.34606906686260125,"U":1,"B":0.9448934606906689,"R":0.9118295371050701,"G":0.808963997060985},
   "recent_events": [
+    {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":9,"rank":[2,9],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":9,"rank":[4,14],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":9,"rank":[4,14],"deck":{"archetype":"Temur Skred","colors":"URG","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":427158,"name":"Spring League 2026 | Modern #11/12","date":"2026-05-10","format":"modern","points":6,"rank":[4,10],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -123,8 +124,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 118,
-  "match_played": 447,
-  "match_wins": 247,
-  "favorite_format": ["pauper", 0.423728813559322]
+  "events_count": 119,
+  "match_played": 451,
+  "match_wins": 250,
+  "favorite_format": ["pauper", 0.42016806722689076]
 }

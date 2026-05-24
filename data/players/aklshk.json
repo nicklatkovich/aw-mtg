@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"W":0.1584564860426929,"B":0.1912972085385878,"R":0.10098522167487683,"U":1,"G":0.07635467980295566},
+  "color_stats": {"W":0.16530944625407165,"U":1,"B":0.19788273615635177,"R":0.1001628664495114,"G":0.0757328990228013},
   "recent_events": [
+    {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":9,"rank":[4,9],"deck":{"archetype":"Esper Blink","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":9,"rank":[3,14],"deck":{"archetype":"Mardu Blink","colors":"WBR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":6,"rank":[8,14],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":6,"rank":[7,13],"match_record":"2-2-0","game_record":"4-4-0"},
@@ -94,8 +95,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 89,
-  "match_played": 346,
-  "match_wins": 194,
-  "favorite_format": ["pauper", 0.5617977528089888]
+  "events_count": 90,
+  "match_played": 350,
+  "match_wins": 197,
+  "favorite_format": ["pauper", 0.5555555555555556]
 }

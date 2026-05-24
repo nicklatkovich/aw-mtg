@@ -1,4 +1,5 @@
 [
+  {"id":429702,"format":"modern","date":"2026-05-24","name":"Daily | Modern (24.05.26)","players_count":9,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":429699,"format":"pioneer","date":"2026-05-21","name":"Daily | Pioneer (21.05.26)","players_count":9,"winner":{"player":{"display_name":"Paulouski Tsimafei","id":"ispinyouround"},"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"}}},
   {"id":429265,"format":"modern","date":"2026-05-17","name":"Spring League 2026 | Modern #12/12","players_count":14,"winner":{"player":{"display_name":"Rapanovich Yauhen","id":"farsmac"},"deck":{"archetype":"Amulet Titan","colors":"G","type":"Combo"}}},
   {"id":428956,"format":"pioneer","date":"2026-05-14","name":"Daily | Pioneer (14.05.26)","players_count":7,"winner":{"player":{"display_name":"Vorotinsky Vitaliy","id":"vorotinskyv"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
