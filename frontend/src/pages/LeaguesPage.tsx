@@ -59,6 +59,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             else break;
           }
           const nonSignificantEventIndices = new Set(points.slice(6).map((e) => e[0]));
+          const nameClass = !league.is_finished || index >= league.top ? '' : index === 0 ? 'red-highlight' : 'red';
           return (
             <div
               style={{ display: 'contents' }}
@@ -69,8 +70,8 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
                 player.total_points > finalistPointsThreshold && !league.is_finished ? 'green-row' : '',
               ].join(' ')}
             >
-              <div className="cell">{index + 1}</div>
-              <div className="cell">{player.display_name}</div>
+              <div className={`cell ${nameClass}`}>{index + 1}</div>
+              <div className={`cell ${nameClass}`}>{player.display_name}</div>
               <div className="cell">{player.event_count}</div>
               <div className={`cell total-points`}>{player.total_points}</div>
               {player.points.map((p, i) => {

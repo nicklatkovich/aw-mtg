@@ -29,6 +29,15 @@ export const spring2026League: LeagueInfo[] = [
       .filter((t) => new Date(t.date).getTime() >= new Date('2026-02-18').getTime())
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
+    is_finished: true,
+    rank_override: [
+      'aad9350f-6810-4e07-8e70-86669d0936fa', // 1) Duzhev Ivan
+      'ba897ea4-1d49-44ff-8cd7-c7b21e27205f', // 2) Raptunovich Aleksei
+      'ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7', // 3) Martseniuk Maksim
+      '1cac0dfc-55ad-42dd-9d8a-f7812cf73013', // 4) Smoktunovich Kirill
+      '037e76b0-88c8-4458-94a8-d63c2f9a8155', // 5) Kolyshko Alexander
+      '2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f', // 6) Novikov Valentine
+    ],
   },
   {
     format: Format.PIONEER,

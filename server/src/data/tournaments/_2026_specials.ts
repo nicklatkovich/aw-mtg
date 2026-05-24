@@ -3,6 +3,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_specials: Tournament[] = [
   {
+    id: '2026-1-league-finals-pauper',
+    format: Format.PAUPER,
+    name: '\u2605\u2605\u2605 Spring League 2026 | Pauper Finals',
+    date: '2026-05-14',
+    standings: [
+      { player: 'IvaD', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0' },
+      { player: 'Alex88', rank: 2, points: 12, mp: 5, mw: 3, match_record: '4-1-0' },
+      { player: 'qvertion', rank: 3, points: 6, mp: 3, mw: 1, match_record: '2-2-0' },
+      { player: 'Dukalis1985', rank: 4, points: 3, mp: 3, mw: 1, match_record: '1-2-0' },
+      { player: 'aklshk', rank: 5, points: 3, mp: 3, mw: 1, match_record: '1-2-0' },
+      { player: 'Azurenia', rank: 6, points: 0, mp: 2, mw: 0, match_record: '0-2-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Azurenia', 'aklshk'], winner: 2 },
+        { players: ['IvaD', 'Dukalis1985'], winner: 1 },
+        { players: ['qvertion', null], winner: 1 },
+        { players: ['Alex88', null], winner: 1 },
+      ],
+      [
+        { players: ['qvertion', 'aklshk'], winner: 1 },
+        { players: ['Alex88', 'IvaD'], winner: 2 },
+      ],
+      [
+        { players: ['qvertion', 'IvaD'], winner: 2 },
+        { players: ['Alex88', 'Azurenia'], winner: 1 },
+        { players: ['aklshk', 'Dukalis1985'], winner: 2 },
+      ],
+      [{ players: ['Alex88', 'Dukalis1985'], winner: 1 }],
+      [{ players: ['qvertion', 'Alex88'], winner: 2 }],
+      [{ players: ['IvaD', 'Alex88'], winner: 1 }],
+    ],
+  },
+  {
     id: 424086,
     format: Format.PAUPER,
     name: '\u2605\u2605\u2605 Big Magic Weekend | Spring 2026 | Pauper',
