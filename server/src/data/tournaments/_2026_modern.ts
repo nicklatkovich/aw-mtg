@@ -3,6 +3,51 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 429702,
+    format: Format.MODERN,
+    name: 'Daily | Modern (24.05.26)',
+    date: '2026-05-24',
+    standings: [
+      { player: 'Tanti', rank: 1, deck: 'Dimir Midrange', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'Azurenia', rank: 2, deck: 'Esper Goryo', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Norbi', rank: 3, deck: 'Azorius Equipment', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 4, deck: 'Esper Blink', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'diuzhev', rank: 5, deck: 'Abzan Birthing Ritual', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'KozD', rank: 6, deck: 'Colorless Tron', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: '4onoki', rank: 7, deck: 'Gruul Eldrazi', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'aspelled', rank: 8, deck: 'Boros Ponza', points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+      { player: 'NickLatkovich', rank: 9, deck: 'Mono-Green Tron', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '2-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Azurenia', null], winner: 1, record: 'bye' },
+        { players: ['Tanti', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', 'KozD'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', '4onoki'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['KozD', null], winner: 1, record: 'bye' },
+        { players: ['Tanti', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'aspelled'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', '4onoki'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['KozD', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', 'Azurenia'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', '4onoki'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['KozD', 'diuzhev'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 429265,
     format: Format.MODERN,
     name: 'Spring League 2026 | Modern #12/12',

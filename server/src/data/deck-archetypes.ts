@@ -35,6 +35,7 @@ export const ARCHETYPES = {
   'Azorius Tempo': ['WU', DeckType.TEMPO],
   'Azorius Merfolks': 'WU',
   'Azorius Grinding Emry': ['WU', DeckType.COMBO],
+  'Azorius Equipment': 'WU',
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
@@ -130,6 +131,7 @@ export const ARCHETYPES = {
   'Boros Wildfire': 'WR',
   'Boros Storm': 'WR',
   'Boros Tribe': 'WR',
+  'Boros Ponza': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
