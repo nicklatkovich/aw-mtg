@@ -5,6 +5,7 @@
   "color_stats": {"R":1,"U":0.08609271523178808,"B":0.11920529801324505,"G":0.013245033112582781,"W":0.609271523178808},
   "recent_events": [
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-2-0","game_record":"0-4-0"},
+    {"id":"2026-1-league-finals-pauper","name":"★★★ Spring League 2026 | Pauper Finals","date":"2026-05-14","format":"pauper","points":12,"rank":[2,6],"match_record":"4-1-0"},
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":6,"rank":[6,14],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":3,"rank":[13,13],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":424727,"name":"Spring League 2026 | Pauper #11/12","date":"2026-04-29","format":"pauper","points":9,"rank":[5,18],"match_record":"3-1-0","game_record":"6-3-0"},
@@ -145,8 +146,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 140,
-  "match_played": 549,
-  "match_wins": 335,
-  "favorite_format": ["pioneer", 0.4857142857142857]
+  "events_count": 141,
+  "match_played": 555,
+  "match_wins": 339,
+  "favorite_format": ["pioneer", 0.48226950354609927]
 }
