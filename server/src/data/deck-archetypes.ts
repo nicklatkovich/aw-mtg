@@ -74,6 +74,8 @@ export const ARCHETYPES = {
   'Bant Spirits': ['WUG', DeckType.TEMPO],
   'Bant Airbending': ['WUG', DeckType.COMBO],
   'Bant Rhythm': 'WUG',
+  'Bant Control': ['WUG', DeckType.CONTROL],
+  'Bant Scapeshift': ['WUG', DeckType.COMBO],
   // WB
   'Orzhov Bounce': ['WB', DeckType.MIDRANGE],
   'Orzhov Control': ['WB', DeckType.CONTROL],
@@ -92,6 +94,7 @@ export const ARCHETYPES = {
   'Orzhov Midrange': ['WB', DeckType.MIDRANGE],
   'Orzhov Doom': 'WB',
   'Orzhov Humans': 'WB',
+  'Orzhov Lifegain': 'WB',
   // WBR
   'Mardu Greasefang': ['WBR', DeckType.COMBO],
   'Mardu Raise the Past': ['WBR', DeckType.COMBO],
@@ -102,6 +105,7 @@ export const ARCHETYPES = {
   'Mardu Cycling': 'WBR',
   'Mardu Ketramose': 'WBR',
   'Mardu Blink': 'WBR',
+  'Mardu Control': ['WBR', DeckType.CONTROL],
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
@@ -111,6 +115,8 @@ export const ARCHETYPES = {
   'Abzan Maverick': 'WBG',
   'Abzan Pestilence': 'WBG',
   'Abzan Birthing Ritual': ['WBG', DeckType.COMBO],
+  'Abzan Rhinos': 'WBG',
+  'Abzan Elves': 'WBG',
   // WR
   'Boros Heroic': ['WR', DeckType.AGGRO],
   'Boros Goblins': ['WR', DeckType.AGGRO],
@@ -132,6 +138,7 @@ export const ARCHETYPES = {
   'Boros Storm': 'WR',
   'Boros Tribe': 'WR',
   'Boros Ponza': 'WR',
+  'Boros Cauldron': 'WR',
   // WRG
   'Naya Adventures': 'WRG',
   'Naya Maverick': 'WRG',
@@ -183,6 +190,7 @@ export const ARCHETYPES = {
   'Dimir Mill': 'UB',
   'Dimir Terror': ['UB', DeckType.CONTROL],
   'Dimir Madness': ['UB', DeckType.CONTROL],
+  'Dimir Dredge': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -194,6 +202,7 @@ export const ARCHETYPES = {
   'Grixis Terror': ['UBR', DeckType.TEMPO],
   'Grixis Aggro': 'UBR',
   'Grixis Dredge': 'UBR',
+  'Grixis Carnage Combo': ['UBR', DeckType.COMBO],
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -206,6 +215,8 @@ export const ARCHETYPES = {
   'Sultai Scapeshift': ['UBG', DeckType.COMBO],
   'Sultai Ritual': 'UBG',
   'Sultai Living End': 'UBG',
+  'Sultai Rona Combo': ['UBG', DeckType.COMBO],
+  'Sultai Lotus Field': ['UBG', DeckType.COMBO],
   // UR
   'Izzet Phoenix': ['UR', DeckType.TEMPO],
   'Izzet Monument': ['UR', DeckType.MIDRANGE],
@@ -224,6 +235,7 @@ export const ARCHETYPES = {
   'Izzet Terror': 'UR',
   'Izzet Erayo': 'UR',
   'Izzet Pirates': 'UR',
+  'Izzet Rona Combo': ['UR', DeckType.COMBO],
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
@@ -271,6 +283,7 @@ export const ARCHETYPES = {
   'Rakdos Persist Combo': ['BR', DeckType.COMBO],
   'Rakdos Burn': 'BR',
   'Rakdos Hollow One': 'BR',
+  'Rakdos Creativity': 'BR',
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
@@ -298,6 +311,9 @@ export const ARCHETYPES = {
   'Golgari Sacrifice': 'BG',
   'Golgari Pestilence': 'BG',
   'Golgari Moonshadow': 'BG',
+  'Golgari Control': ['BG', DeckType.CONTROL],
+  'Golgari Lifegain': 'BG',
+  "Golgari Pharaoh's Gift": 'BG',
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -309,6 +325,7 @@ export const ARCHETYPES = {
   'Mono-Red Prison': 'R',
   'Mono-Red Dragons': 'R',
   'Mono-Red Dredge': ['R', DeckType.COMBO],
+  'Mono-Red Chandras': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
@@ -362,6 +379,8 @@ export const ARCHETYPES = {
   'Cycle Storm': ['WUBRG', DeckType.COMBO],
   'Domain Ritual': 'WUBRG',
   '5c Slivers': 'WUBRG',
+  '5c Song of Creation': 'WUBRG',
+  '5c Elementals': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',
