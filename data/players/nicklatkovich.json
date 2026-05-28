@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"G":0.8098503740648378,"U":1,"W":0.722568578553616,"B":0.4856608478802994,"R":0.42331670822942663},
+  "color_stats": {"B":0.5043640897755612,"R":0.4420199501246885,"G":0.8098503740648378,"U":1,"W":0.722568578553616},
   "recent_events": [
+    {"id":432044,"name":"Daily | Pioneer (28.05.26)","date":"2026-05-28","format":"pioneer","points":1,"rank":[6,6],"deck":{"archetype":"Rakdos Artifacts","colors":"BR","type":null},"match_record":"0-2-1","game_record":"1-5-1"},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":0,"rank":[9,9],"deck":{"archetype":"Mono-Green Tron","colors":"G","type":null},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":9,"rank":[2,9],"deck":{"archetype":"Simic Lotus Field","colors":"UG","type":"Combo"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":6,"rank":[6,14],"deck":{"archetype":"Amulet Titan","colors":"G","type":"Combo"},"match_record":"2-2-0","game_record":"4-5-0"},
@@ -130,8 +131,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 125,
-  "match_played": 500,
+  "events_count": 126,
+  "match_played": 503,
   "match_wins": 262,
-  "favorite_format": ["pioneer", 0.664]
+  "favorite_format": ["pioneer", 0.6666666666666666]
 }
