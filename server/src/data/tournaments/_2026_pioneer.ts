@@ -3,6 +3,37 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 432044,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (28.05.26)',
+    date: '2026-05-28',
+    standings: [
+      { player: 'AnklDen', rank: 1, deck: 'Golgari Midrange', points: 7, mp: 3, mw: 2, match_record: '2-0-1', game_record: '5-3-1' },
+      { player: 'Slava_bel', rank: 2, deck: 'Rakdos Midrange', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-2-0' },
+      { player: 'Tamplier007333', rank: 3, deck: 'Mono-Red Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-2-0' },
+      { player: 'vorotinskyV', rank: 4, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Professor013', rank: 5, deck: 'Golgari Midrange', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'NickLatkovich', rank: 6, deck: 'Rakdos Artifacts', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '1-5-1' },
+    ],
+    rounds: [
+      [
+        { players: ['AnklDen', 'NickLatkovich'], winner: 0, record: '1-1-1' },
+        { players: ['Slava_bel', 'Professor013'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'Tamplier007333'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Slava_bel', 'vorotinskyV'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'Professor013'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Tamplier007333'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Slava_bel', 'Tamplier007333'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'vorotinskyV'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Professor013'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 429699,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (21.05.26)',
