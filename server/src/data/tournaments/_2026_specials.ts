@@ -3,6 +3,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_specials: Tournament[] = [
   {
+    id: '2026-1-league-finals-standard',
+    format: Format.STANDARD,
+    name: '\u2605\u2605\u2605 Spring League 2026 | Standard Finals',
+    date: '2026-05-23',
+    standings: [
+      { player: 'Very_Bad_Man', deck: 'Azorius Control', rank: 1, points: 12 },
+      { player: 'BRV', deck: 'Izzet Spellementals', rank: 2, points: 12 },
+      { player: 'OMGProfunny', deck: 'Sultai Control', rank: 3, points: 6 },
+      { player: 'McRais', deck: 'Azorius Control', rank: 4, points: 3 },
+      { player: 'ykcyc', deck: 'Mono-Red Aggro', rank: 5, points: 3 },
+      { player: 'Barbossa', deck: 'Mono-White Momo', rank: 6, points: 0 },
+    ],
+    rounds: [
+      [
+        { players: ['OMGProfunny', 'McRais'], winner: 1 },
+        { players: ['Barbossa', 'ykcyc'], winner: 2 },
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', null], winner: 1, record: 'bye' },
+      ],
+      [
+        { players: ['BRV', 'OMGProfunny'], winner: 2 },
+        { players: ['Very_Bad_Man', 'ykcyc'], winner: 1 },
+      ],
+      [
+        { players: ['OMGProfunny', 'Very_Bad_Man'], winner: 2 },
+        { players: ['ykcyc', 'McRais'], winner: 2 },
+        { players: ['BRV', 'Barbossa'], winner: 1 },
+      ],
+      [{ players: ['McRais', 'BRV'], winner: 2 }],
+      [{ players: ['OMGProfunny', 'BRV'], winner: 2 }],
+      [{ players: ['Very_Bad_Man', 'BRV'], winner: 1 }],
+    ],
+  },
+  {
     hidden: true,
     id: 'apl-s8',
     format: Format.PIONEER,
@@ -44,8 +78,8 @@ export const _2026_specials: Tournament[] = [
       { player: { display_name: 'ipa_4_breakfast' }, deck: 'Niv to Light', rank: 33, points: 0 },
       { player: { display_name: 'its.hobbes' }, deck: "Golgari Pharaoh's Gift", rank: 34, points: 0 },
       { player: { display_name: 'j4m4n' }, deck: 'Bant Scapeshift', rank: 35, points: 0 },
-      { player: { display_name: 'jonathanprime' }, deck: 'Golgari Lifegain', rank: 36, points: 0 },
-      { player: { display_name: 'kalmalainen' }, deck: 'Mardu Control', rank: 37, points: 0 },
+      { player: { display_name: 'jonathanprime' }, deck: 'Golgari Control', rank: 36, points: 0 },
+      { player: { display_name: 'kalmalainen' }, deck: 'Mardu Doom', rank: 37, points: 0 },
       { player: { display_name: 'kerdinand' }, deck: 'Mono-Blue Rona Combo', rank: 38, points: 0 },
       { player: { display_name: 'killchopdeluxe666' }, deck: 'Rakdos Sacrifice', rank: 39, points: 0 },
       { player: { display_name: 'killmatronix' }, deck: 'Mono-White Control', rank: 40, points: 0 },
@@ -75,7 +109,7 @@ export const _2026_specials: Tournament[] = [
       { player: { display_name: 'sinistro' }, deck: 'Simic Scapeshift', rank: 64, points: 0 },
       { player: { display_name: 'sirepic' }, deck: 'Enigmatic Incarnation', rank: 65, points: 0 },
       { player: { display_name: 'smoliv121' }, deck: 'Azorius Control', rank: 66, points: 0 },
-      { player: { display_name: 'tachikomas' }, deck: 'Izzet Rona Combo', rank: 67, points: 0 },
+      { player: { display_name: 'tachikomas' }, deck: 'Izzet Affinity', rank: 67, points: 0 },
       { player: { display_name: 'tacotime' }, deck: 'Selesnya Company', rank: 68, points: 0 },
       { player: { display_name: 'terrorsaurer' }, deck: 'Mono-Red Aggro', rank: 69, points: 0 },
       { player: { display_name: 'tiggy227' }, deck: 'Golgari Insidious Roots', rank: 70, points: 0 },

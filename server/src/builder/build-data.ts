@@ -14,7 +14,7 @@ import { buildPlayersList } from './players-list.builder';
 import { buildRecentTournamentsData } from './recent-tournaments.builder';
 import { buildStandardLadder } from './standard-ladder.builder';
 import { buildTournamentResults } from './tournament-results.builder';
-import { spring2026League } from './leagues/2026-1-sprint.league';
+import { spring2026League } from './leagues/2026-1-spring.league';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
