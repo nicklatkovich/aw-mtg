@@ -2,8 +2,9 @@
   "guid": "8d9259b5-6373-4dc7-8282-d1847d935e42",
   "id": "ykcyc",
   "display_name": "Moiseenko Pavel",
-  "color_stats": {"B":0.3225806451612903,"R":1,"W":0.0967741935483871,"U":0.17741935483870966,"G":0.24193548387096772},
+  "color_stats": {"R":1,"B":0.29411764705882354,"W":0.08823529411764705,"U":0.16176470588235292,"G":0.22058823529411764},
   "recent_events": [
+    {"id":"2026-1-league-finals-standard","name":"★★★ Spring League 2026 | Standard Finals","date":"2026-05-23","format":"standard","points":3,"rank":[5,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":6,"rank":[7,14],"deck":{"archetype":"Rakdos Burn","colors":"BR","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":423320,"name":"Spring League 2026 | Standard #10/12","date":"2026-04-21","format":"standard","points":6,"rank":[3,3],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":421620,"name":"Spring League 2026 | Standard #9/12","date":"2026-04-14","format":"standard","points":6,"rank":[4,5],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -28,8 +29,8 @@
     {"id":337407,"name":"Summer League 2025 | Pauper #6","date":"2025-07-09","format":"pauper","points":0,"rank":[18,18],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":337405,"name":"Summer League 2025 | Standard #6","date":"2025-07-08","format":"standard","points":0,"rank":[14,14],"deck":{"archetype":"Boros Equipment","colors":"WR","type":"Aggro"},"match_record":"0-4-0","game_record":"0-8-0"}
   ],
-  "events_count": 23,
-  "match_played": 89,
-  "match_wins": 28,
-  "favorite_format": ["standard", 0.43478260869565216]
+  "events_count": 24,
+  "match_played": 92,
+  "match_wins": 29,
+  "favorite_format": ["standard", 0.4583333333333333]
 }
