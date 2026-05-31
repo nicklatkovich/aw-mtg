@@ -2,16 +2,17 @@
   "guid": "8ce56328-5704-4347-8b89-c54902e03a19",
   "id": "artb9",
   "display_name": "Birukov Arthur",
-  "color_stats": {"R":0.7272727272727273,"G":0.27272727272727276,"U":0.45454545454545453,"W":0.27272727272727276,"B":1},
+  "color_stats": {"U":0.7272727272727273,"R":1,"G":0.27272727272727276,"W":0.27272727272727276,"B":1},
   "recent_events": [
+    {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":9,"rank":[9,24],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-2-0","game_record":"8-5-0"},
     {"id":421627,"name":"Spring League 2026 | Modern #9/12","date":"2026-04-19","format":"modern","points":6,"rank":[9,13],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":395983,"name":"Daily | Premodern (10.01.26)","date":"2026-01-10","format":"premodern","points":6,"rank":[3,8],"deck":{"archetype":"Orzhov Infestation","colors":"WB","type":null},"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":324258,"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[1,7],"deck":{"archetype":"Mono-Black Pit Rack","colors":"B","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[11,17],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"5-5-0"}
   ],
-  "events_count": 5,
-  "match_played": 20,
-  "match_wins": 12,
-  "favorite_format": ["premodern", 0.4]
+  "events_count": 6,
+  "match_played": 24,
+  "match_wins": 13,
+  "favorite_format": ["premodern", 0.3333333333333333]
 }

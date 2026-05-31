@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":0.8852040816326531,"U":0.17091836734693877,"W":0.00510204081632653,"G":0.00510204081632653},
+  "color_stats": {"B":1,"R":0.8866498740554156,"U":0.16876574307304784,"W":0.005037783375314861,"G":0.005037783375314861},
   "recent_events": [
+    {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"}},
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":9,"rank":[5,14],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":428956,"name":"Daily | Pioneer (14.05.26)","date":"2026-05-14","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-1-0","game_record":"5-2-0"},
@@ -119,8 +120,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 114,
-  "match_played": 447,
-  "match_wins": 232,
-  "favorite_format": ["pioneer", 0.8333333333333334]
+  "events_count": 115,
+  "match_played": 450,
+  "match_wins": 233,
+  "favorite_format": ["pioneer", 0.8347826086956521]
 }

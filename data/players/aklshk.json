@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"W":0.16530944625407165,"U":1,"B":0.19788273615635177,"R":0.1001628664495114,"G":0.0757328990228013},
+  "color_stats": {"U":1,"R":0.11102172164119067,"W":0.16331456154465002,"B":0.19549477071600962,"G":0.0748189863234111},
   "recent_events": [
+    {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Izzet Affinity","colors":"UR","type":null}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":9,"rank":[4,9],"deck":{"archetype":"Esper Blink","colors":"WUB","type":null},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":9,"rank":[3,14],"deck":{"archetype":"Mardu Blink","colors":"WBR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":"2026-1-league-finals-pauper","name":"★★★ Spring League 2026 | Pauper Finals","date":"2026-05-14","format":"pauper","points":3,"rank":[5,6],"match_record":"1-2-0"},
@@ -96,8 +97,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 91,
-  "match_played": 353,
+  "events_count": 92,
+  "match_played": 355,
   "match_wins": 198,
-  "favorite_format": ["pauper", 0.5604395604395604]
+  "favorite_format": ["pauper", 0.5543478260869565]
 }

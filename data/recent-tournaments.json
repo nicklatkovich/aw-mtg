@@ -1,4 +1,5 @@
 [
+  {"id":"trios260531","format":"trios","date":"2026-05-31","name":"★ Special Event: Trios (31.05.26)","players_count":24,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":432044,"format":"pioneer","date":"2026-05-28","name":"Daily | Pioneer (28.05.26)","players_count":6,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}}},
   {"id":429702,"format":"modern","date":"2026-05-24","name":"Daily | Modern (24.05.26)","players_count":9,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},
   {"id":"2026-1-league-finals-standard","format":"standard","date":"2026-05-23","name":"★★★ Spring League 2026 | Standard Finals","players_count":6,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},

@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"W":0.39361702127659565,"U":0.9893617021276597,"R":1,"B":0.2340425531914894,"G":0.1276595744680851},
+  "color_stats": {"U":0.9896907216494847,"R":1,"W":0.38144329896907214,"B":0.22680412371134026,"G":0.12371134020618557},
   "recent_events": [
+    {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":9,"rank":[3,9],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":3,"rank":[11,14],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":427158,"name":"Spring League 2026 | Modern #11/12","date":"2026-05-10","format":"modern","points":9,"rank":[2,10],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
@@ -72,8 +73,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 67,
-  "match_played": 233,
-  "match_wins": 132,
-  "favorite_format": ["pioneer", 0.4925373134328358]
+  "events_count": 68,
+  "match_played": 237,
+  "match_wins": 133,
+  "favorite_format": ["pioneer", 0.4852941176470588]
 }
