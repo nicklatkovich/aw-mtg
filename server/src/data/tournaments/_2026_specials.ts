@@ -3,6 +3,112 @@ import { Tournament } from '../data.types';
 
 export const _2026_specials: Tournament[] = [
   {
+    id: 'trios260531',
+    format: Format.TRIOS,
+    name: '\u2605 Special Event: Trios (31.05.26)',
+    date: '2026-05-31',
+    standings: [
+      // Teamnoe Nefiltrovannoe
+      { player: 'GlebK', deck: 'Mono-Red Aggro', rank: 1, points: 12, format: Format.PIONEER },
+      { player: 'Dukalis1985', deck: 'Gruul Ponza', rank: 1, points: 12, format: Format.PAUPER },
+      { player: 'IvaD', deck: 'Domain Zoo', rank: 1, points: 12, format: Format.MODERN },
+      // Nikita Slyjit
+      { player: 'TroV1', deck: 'Esper Control', rank: 2, points: 12, format: Format.PIONEER },
+      { player: 'aspelled', deck: 'Gruul Ponza', rank: 2, points: 12, format: Format.PAUPER },
+      { player: 'BRV', deck: 'Izzet Aggro', rank: 2, points: 12, format: Format.MODERN },
+      // Borodatye Medoedi
+      { player: 'Very_Bad_Man', deck: 'Selesnya Company', rank: 3, points: 6, format: Format.PIONEER },
+      { player: '_Shatun_', deck: 'Jund Wildfire', rank: 3, points: 6, format: Format.PAUPER },
+      { player: 'Norbi', deck: 'Izzet Aggro', rank: 3, points: 6, format: Format.MODERN },
+      // Old School
+      { player: 'ArtB9', deck: 'Izzet Phoenix', rank: 4, points: 6, format: Format.PIONEER },
+      { player: 'Candybober', deck: 'Grixis Affinity', rank: 4, points: 6, format: Format.PAUPER },
+      { player: 'KozD', deck: 'Colorless Tron', rank: 4, points: 6, format: Format.MODERN },
+
+      // Ne nashli 4go (team OMW: 50.00%)
+      { player: 'RomanKohan14', deck: 'Mono-Red Aggro', rank: 5, points: 3, format: Format.PIONEER },
+      { player: 'Alex88', deck: 'Mono-Red Madness', rank: 5, points: 3, format: Format.PAUPER },
+      { player: 'Tanti', deck: 'Dimir Midrange', rank: 5, points: 3, format: Format.MODERN },
+      // Turizm govna (team OMW: 44.44%)
+      { player: 'ispinyouround', deck: 'Rakdos Aggro', rank: 6, points: 3, format: Format.PIONEER },
+      { player: 'Damingez', deck: 'Golgari Gardens', rank: 6, points: 3, format: Format.PAUPER },
+      { player: 'Melamasta', deck: 'Selesnya Bogles', rank: 6, points: 3, format: Format.MODERN },
+
+      // Holy Trinity (team OMW: 58.33%)
+      { player: 'qvertion', deck: 'Golgari Midrange', rank: 7, points: 0, format: Format.PIONEER },
+      { player: 'Azurenia', deck: 'Temur Control', rank: 7, points: 0, format: Format.PAUPER },
+      { player: 'aklshk', deck: 'Izzet Affinity', rank: 7, points: 0, format: Format.MODERN },
+      // Kalekted Company (team OMW: 33.33%)
+      { player: 'NickLatkovich', deck: 'Sultai Scapeshift', rank: 8, points: 0, format: Format.PIONEER },
+      { player: 'AlexKhan', deck: 'Jeskai Ephemerate', rank: 8, points: 0, format: Format.PAUPER },
+      { player: 'AnklDen', deck: 'Dimir Mill', rank: 8, points: 0, format: Format.MODERN },
+    ],
+    rounds: [
+      [
+        { players: ['AlexKhan', 'Damingez'], winner: 0, teamWinner: 2, record: '0-0-0', notFinished: true },
+        { players: ['NickLatkovich', 'ispinyouround'], winner: 2, teamWinner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'Melamasta'], winner: 2, teamWinner: 2, record: '2-0-0' },
+
+        { players: ['aspelled', 'Azurenia'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['TroV1', 'qvertion'], winner: 2, teamWinner: 1, record: '2-0-0' },
+        { players: ['BRV', 'aklshk'], winner: 1, teamWinner: 1, record: '2-0-0' },
+
+        { players: ['Dukalis1985', 'Candybober'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'ArtB9'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['IvaD', 'KozD'], winner: 0, teamWinner: 1, record: '1-1-0', notFinished: true },
+
+        { players: ['_Shatun_', 'Alex88'], winner: 2, teamWinner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'RomanKohan14'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Tanti'], winner: 1, teamWinner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['_Shatun_', 'Damingez'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'ispinyouround'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Melamasta'], winner: 2, teamWinner: 1, record: '2-0-0' },
+
+        { players: ['AlexKhan', 'Alex88'], winner: 1, teamWinner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'RomanKohan14'], winner: 2, teamWinner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'Tanti'], winner: 2, teamWinner: 2, record: '2-0-0' },
+
+        { players: ['Candybober', 'Azurenia'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['ArtB9', 'qvertion'], winner: 0, teamWinner: 1, record: '1-1-0', notFinished: true },
+        { players: ['KozD', 'aklshk'], winner: 1, teamWinner: 1, record: '2-1-0' },
+
+        { players: ['Dukalis1985', 'aspelled'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'TroV1'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['IvaD', 'BRV'], winner: 1, teamWinner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Alex88', 'aspelled'], winner: 2, teamWinner: 2, record: '2-1-0' },
+        { players: ['RomanKohan14', 'TroV1'], winner: 2, teamWinner: 2, record: '2-1-0' },
+        { players: ['Tanti', 'BRV'], winner: 2, teamWinner: 2, record: '2-0-0' },
+
+        { players: ['_Shatun_', 'Dukalis1985'], winner: 1, teamWinner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'GlebK'], winner: 2, teamWinner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'IvaD'], winner: 2, teamWinner: 2, record: '2-1-0' },
+
+        { players: ['Candybober', 'Damingez'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['ArtB9', 'ispinyouround'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['KozD', 'Melamasta'], winner: 1, teamWinner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['aspelled', 'Candybober'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['TroV1', 'ArtB9'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['BRV', 'KozD'], winner: 2, teamWinner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['aspelled', '_Shatun_'], winner: 1, teamWinner: 1, record: '2-0-0' },
+        { players: ['TroV1', 'Very_Bad_Man'], winner: 0, teamWinner: 1, record: '1-0-0', notFinished: true },
+        { players: ['BRV', 'Norbi'], winner: 1, teamWinner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Dukalis1985', 'aspelled'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'TroV1'], winner: 1, teamWinner: 1, record: '2-1-0' },
+        { players: ['IvaD', 'BRV'], winner: 2, teamWinner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: '2026-1-league-finals-standard',
     format: Format.STANDARD,
     name: '\u2605\u2605\u2605 Spring League 2026 | Standard Finals',

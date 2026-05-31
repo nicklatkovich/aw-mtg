@@ -246,6 +246,7 @@ export const ARCHETYPES = {
   'Temur Grinding Emry': 'URG',
   'Temur Skred': 'URG',
   'Temur Devoted Druid': ['URG', DeckType.COMBO],
+  'Temur Control': ['URG', DeckType.CONTROL],
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
