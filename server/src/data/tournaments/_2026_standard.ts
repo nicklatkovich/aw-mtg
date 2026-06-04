@@ -3,6 +3,23 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 433415,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #1/12',
+    date: '2026-06-02',
+    standings: [
+      { player: 'profunny', rank: 1, deck: 'Sultai Reanimator', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '6-1-0' },
+      { player: 'Barbossa', rank: 2, deck: 'Mono-White Control', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-6-0' },
+    ],
+    // eslint-disable-next-line prettier/prettier
+    rounds: [
+      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '1-0-0' }],
+      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '2-0-0' }],
+      [{ players: ['profunny', 'Barbossa'], winner: 0, record: '1-1-0' }],
+      [{ players: ['profunny', 'Barbossa'], winner: 1, record: '2-0-0' }],
+    ],
+  },
+  {
     id: 428358,
     format: Format.STANDARD,
     name: 'Daily | Standard (12.05.26)',
