@@ -7,7 +7,11 @@ export type LeagueInfo = {
   table_id: string;
   total_events: number;
   top: number;
-  prize_pool_inc_by_player: number;
+  top_events?: number; // default = 6
+  events_to_extra_point?: number; // default = 6
+  prize_pool_inc_by_player?: number;
+  disable_4_0_extra_point?: boolean;
+  display_tiebreakers?: boolean;
   events: (Tournament | null)[];
   rank_override?: (string | null)[]; // array of player's guids to override default sorting
   is_finished?: boolean;

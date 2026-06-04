@@ -13,6 +13,7 @@ import TournamentPage from './pages/TournamentPage';
 const leagues: { pageId: string; filename: string; displayName: string }[] = [
   { pageId: 'fall-league-2025', filename: '2025-2', displayName: 'Fall League 2025' },
   { pageId: 'spring-league-2026', filename: '2026-1', displayName: 'Spring League 2026' },
+  { pageId: 'summer-league-2026', filename: '2026-2', displayName: 'Summer League 2026' },
 ];
 
 const router = createHashRouter([

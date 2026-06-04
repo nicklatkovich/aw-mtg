@@ -19,7 +19,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
   const finalistPointsThreshold = maxPointsSorted[league.top] ?? calcNewPlayerMaxPoints(league);
   const minMaxPointsToMakeTop = league.players[league.top - 1]?.total_points ?? 0;
   const displayMaxPoints =
-    ((league.players[0].total_points ?? 0) > finalistPointsThreshold ||
+    ((league.players[0]?.total_points ?? 0) > finalistPointsThreshold ||
       league.players.some((p) => p.max_points < minMaxPointsToMakeTop)) &&
     league.past_events < league.total_events;
 
@@ -35,6 +35,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             '64px',
             '64px',
             ...Array.from({ length: league.total_events + (displayMaxPoints ? 1 : 0) }, () => '48px'),
+            ...Array.from({ length: league.display_tiebreakers ? 3 : 0 }, () => '96px'),
           ].join(' '),
         }}
       >
@@ -49,6 +50,13 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             </div>
           ))}
           {displayMaxPoints && <div className="cell">max</div>}
+          {league.display_tiebreakers ? (
+            <>
+              <div className="cell">aTGW</div>
+              <div className="cell">aOMW</div>
+              <div className="cell">aOGW</div>
+            </>
+          ) : null}
         </div>
         {league.players.slice(0).map((player, index) => {
           const points = [...player.points.entries()].filter((e): e is [index: number, value: number] => e[1] !== null);
@@ -78,7 +86,13 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
                 const nonSignificant = nonSignificantEventIndices.has(i);
                 const toImprove = p !== 0 && i === eventToImprove?.[0];
                 const className =
-                  p === 12 ? '_4-0' : toImprove ? 'to-improve' : nonSignificant ? 'non-significant' : '';
+                  p === 12 && !league.disable_4_0_extra_point
+                    ? '_4-0'
+                    : toImprove
+                      ? 'to-improve'
+                      : nonSignificant
+                        ? 'non-significant'
+                        : '';
                 return (
                   <div className={`cell event-points ${className}`} key={i}>
                     {p ?? ''}
@@ -86,6 +100,19 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
                 );
               })}
               {displayMaxPoints && <div className="cell">{player.max_points}</div>}
+              {league.display_tiebreakers ? (
+                <>
+                  <div className="cell">
+                    {typeof player.avg_tgw === 'number' ? `${player.avg_tgw.toFixed(2)}%` : ''}
+                  </div>
+                  <div className="cell">
+                    {typeof player.avg_omw === 'number' ? `${player.avg_omw.toFixed(2)}%` : ''}
+                  </div>
+                  <div className="cell">
+                    {typeof player.avg_ogw === 'number' ? `${player.avg_ogw.toFixed(2)}%` : ''}
+                  </div>
+                </>
+              ) : null}
             </div>
           );
         })}

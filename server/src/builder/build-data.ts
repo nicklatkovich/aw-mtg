@@ -7,6 +7,8 @@ import { _2026_pioneer } from '@server/data/tournaments/_2026_pioneer';
 import { _2025_pioneer } from '@server/data/tournaments/archive/_2025_pioneer';
 import { buildLeague } from './league.builder';
 import { fall2025League } from './leagues/2025-2-fall.league';
+import { spring2026League } from './leagues/2026-1-spring.league';
+import { summer2026League } from './leagues/2026-2-summer.league';
 import { LeagueInfo } from './leagues/league.types';
 import { buildPioneerLadder } from './pioneer-ladder.builder';
 import { buildPlayersData } from './players-data.builder';
@@ -14,7 +16,6 @@ import { buildPlayersList } from './players-list.builder';
 import { buildRecentTournamentsData } from './recent-tournaments.builder';
 import { buildStandardLadder } from './standard-ladder.builder';
 import { buildTournamentResults } from './tournament-results.builder';
-import { spring2026League } from './leagues/2026-1-spring.league';
 
 const CONTENT_PATH = path.resolve(process.cwd(), './dist/client/data');
 const TOURNAMENTS_PATH = path.resolve(CONTENT_PATH, 'tournaments/');
@@ -110,6 +111,7 @@ export async function buildData() {
   const leagues: { filename: string; info: LeagueInfo[] }[] = [
     { filename: '2025-2', info: fall2025League },
     { filename: '2026-1', info: spring2026League },
+    { filename: '2026-2', info: summer2026League },
   ];
   for (const { filename, info } of leagues) {
     const leagueDto = buildLeague(info, playersMap);
@@ -128,15 +130,15 @@ ${leagueDto
     "prize_fund": ${l.prize_fund},
     "players": [
       ${l.players.map((p) => JSON.stringify(p)).join(',\n      ')}
-    ],${
-      l.is_finished
-        ? `
-    "is_finished": true,`
-        : ''
-    }
-    "event_ids": [${l.event_ids
-      .map((id) => (id === null ? 'null' : typeof id === 'string' ? `"${id}"` : id))
-      .join(', ')}]
+    ],
+    ${[
+      ...(l.is_finished ? ['"is_finished": true,'] : []),
+      ...(l.disable_4_0_extra_point ? ['"disable_4_0_extra_point": true,'] : []),
+      ...(l.display_tiebreakers ? ['"display_tiebreakers": true,'] : []),
+      `"event_ids": [${l.event_ids
+        .map((id) => (id === null ? 'null' : typeof id === 'string' ? `"${id}"` : id))
+        .join(', ')}]`,
+    ].join('\n    ')}
   }`,
   )
   .join(',\n')}\n]\n`,
