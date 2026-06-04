@@ -3,6 +3,51 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 433727,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #1/12',
+    date: '2026-06-04',
+    standings: [
+      { player: 'Human11', rank: 1, deck: 'Orzhov Monument', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'GlebK', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Spellementals', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'Akel', rank: 4, deck: 'Jund Sacrifice', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'NickLatkovich', rank: 5, deck: 'Orzhov Monument', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'AnklDen', rank: 6, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'vorotinskyV', rank: 7, deck: 'Mono-Red Aggro', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'VT', rank: 8, deck: 'Esper Control', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'Very_Bad_Man', rank: 9, deck: 'Selesnya Company', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['NickLatkovich', null], winner: 1, record: 'bye' },
+        { players: ['Human11', 'GlebK'], winner: 2, record: '2-0-0' },
+        { players: ['VT', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'vorotinskyV'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Akel'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Human11', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'vorotinskyV'], winner: 1, record: '2-1-0' },
+        { players: ['Akel', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['NickLatkovich', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['VT', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['vorotinskyV', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Akel'], winner: 1, record: '2-0-0' },
+        { players: ['Human11', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['VT', 'GlebK'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'Human11'], winner: 2, record: '2-0-0' },
+        { players: ['GlebK', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'Akel'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 432044,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (28.05.26)',
