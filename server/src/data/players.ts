@@ -207,6 +207,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '46e196e2-1d44-405c-b869-eb52f2cbe4ef': 'Kononov Eduard',
   'df228c70-0f01-4418-81e4-e47037581d30': 'Pas Sasha',
   '6dc5d9d4-4349-4f29-bd70-959d21c914c1': 'Kulevtsov Yaroslav',
+  '5214f85f-fc87-4439-bf39-b50e88d0b415': ['Eldar Garbuzov', { id: 'the-llastt' }],
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -447,4 +448,5 @@ export const playersByUsername: { [username in string]?: string } = {
   GambitBrest: 'df228c70-0f01-4418-81e4-e47037581d30',
   Fate_: 'fed69699-d5b2-4c4d-b7b7-7defc3ade796',
   Human11: '6dc5d9d4-4349-4f29-bd70-959d21c914c1',
+  the_llastt: '5214f85f-fc87-4439-bf39-b50e88d0b415',
 };

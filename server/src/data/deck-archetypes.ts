@@ -36,6 +36,7 @@ export const ARCHETYPES = {
   'Azorius Merfolks': 'WU',
   'Azorius Grinding Emry': ['WU', DeckType.COMBO],
   'Azorius Equipment': 'WU',
+  'Azorius Faeries': ['WU', DeckType.TEMPO],
   // WUB
   'Esper Control': ['WUB', DeckType.CONTROL],
   'Esper Bounce': ['WUB', DeckType.MIDRANGE],
