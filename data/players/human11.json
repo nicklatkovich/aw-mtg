@@ -1,0 +1,13 @@
+{
+  "guid": "6dc5d9d4-4349-4f29-bd70-959d21c914c1",
+  "id": "human11",
+  "display_name": "Kulevtsov Yaroslav",
+  "color_stats": {"W":1,"B":1},
+  "recent_events": [
+    {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":9,"rank":[1,9],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-1-0","game_record":"6-3-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 3,
+  "favorite_format": ["pioneer", 1]
+}
