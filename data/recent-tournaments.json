@@ -1,5 +1,7 @@
 [
   {"id":433727,"format":"pioneer","date":"2026-06-04","name":"Summer League 2026 | Pioneer #1/12","players_count":9,"winner":{"player":{"display_name":"Kulevtsov Yaroslav","id":"human11"},"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"}}},
+  {"id":433717,"format":"pauper","date":"2026-06-03","name":"Summer League 2026 | Pauper #1/12","players_count":15,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"},"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null}}},
+  {"id":433415,"format":"standard","date":"2026-06-02","name":"Summer League 2026 | Standard #1/12","players_count":2,"winner":{"player":{"display_name":"Bondarchik Andrei","id":"omgprofunny"},"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"}}},
   {"id":"trios260531","format":"trios","date":"2026-05-31","name":"★ Special Event: Trios (31.05.26)","players_count":24,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":432044,"format":"pioneer","date":"2026-05-28","name":"Daily | Pioneer (28.05.26)","players_count":6,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}}},
   {"id":429702,"format":"modern","date":"2026-05-24","name":"Daily | Modern (24.05.26)","players_count":9,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}}},

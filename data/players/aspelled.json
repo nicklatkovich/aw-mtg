@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"R":1,"G":0.4603524229074891,"W":0.36123348017621154,"U":0.587004405286344,"B":0.3006607929515419},
+  "color_stats": {"W":0.37775330396475787,"U":0.6035242290748902,"R":1,"G":0.4603524229074891,"B":0.3006607929515419},
   "recent_events": [
+    {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":10,"rank":[2,15],"deck":{"archetype":"Azorius Familiar","colors":"WU","type":null},"match_record":"3-0-1","game_record":"7-4-1"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":0,"rank":[8,9],"deck":{"archetype":"Boros Ponza","colors":"WR","type":null},"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":0,"rank":[13,14],"deck":{"archetype":"Amulet Titan","colors":"G","type":"Combo"},"match_record":"0-2-0","game_record":"0-4-0"},
@@ -135,8 +136,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 130,
-  "match_played": 481,
-  "match_wins": 238,
-  "favorite_format": ["pauper", 0.3153846153846154]
+  "events_count": 131,
+  "match_played": 485,
+  "match_wins": 241,
+  "favorite_format": ["pauper", 0.32061068702290074]
 }

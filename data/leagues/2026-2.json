@@ -1,0 +1,105 @@
+[
+  {
+    "format": "standard",
+    "display_name": "Standard",
+    "table_id": "standard",
+    "total_events": 12,
+    "past_events": 1,
+    "top": 6,
+    "prize_fund": 4,
+    "players": [
+      {"pid":"584bf7f8-7b31-4575-b43e-e636daac85ab","display_name":"Bondarchik Andrei","id":"omgprofunny","total_points":10,"max_points":89,"event_count":1,"points":[10,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"809ddd36-48d8-4c9a-9229-0bb8afe5376c","display_name":"Bogdan Ilya","id":"barbossa","total_points":1,"max_points":89,"event_count":1,"points":[1,null,null,null,null,null,null,null,null,null,null,null]}
+    ],
+    "event_ids": [433415]
+  },
+  {
+    "format": "pauper",
+    "display_name": "Pauper",
+    "table_id": "pauper",
+    "total_events": 12,
+    "past_events": 1,
+    "top": 6,
+    "prize_fund": 30,
+    "players": [
+      {"pid":"1cac0dfc-55ad-42dd-9d8a-f7812cf73013","display_name":"Smoktunovich Kirill","id":"dukalis1985","total_points":13,"max_points":90,"event_count":1,"points":[12,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"05f46aac-a10a-4e78-a27c-ee8d8778996c","display_name":"Zubovich Valery","id":"aspelled","total_points":10,"max_points":89,"event_count":1,"points":[10,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"f28e040a-bd0f-445d-b11e-c2e79f45750a","display_name":"Ivanov Andrey","id":"andreyvorobey","total_points":9,"max_points":89,"event_count":1,"points":[9,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"aad9350f-6810-4e07-8e70-86669d0936fa","display_name":"Duzhev Ivan","id":"gerber2000","total_points":7,"max_points":89,"event_count":1,"points":[7,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"5a1a3197-1193-4637-a2ad-01fe86d05a4e","display_name":"Nabeshko Daniil","id":"danilanabeshko","total_points":7,"max_points":89,"event_count":1,"points":[7,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"037e76b0-88c8-4458-94a8-d63c2f9a8155","display_name":"Kolyshko Alexander","id":"aklshk","total_points":6,"max_points":89,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7","display_name":"Martseniuk Maksim","id":"qvertion","total_points":6,"max_points":89,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"a7892ae0-6591-4760-a40d-9444a1f58812","display_name":"Plisko Ihar","id":"4onoki","total_points":6,"max_points":89,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"5188dedb-3c53-4644-ac45-73b99669b87b","display_name":"Aflakhanov Alex","id":"alexkhan","total_points":5,"max_points":89,"event_count":1,"points":[5,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"c1da6ed3-4f79-496a-8f49-e6566eddd816","display_name":"Kokhan Roman","id":"romankohan14","total_points":5,"max_points":89,"event_count":1,"points":[5,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"00c53649-c5aa-4bed-a147-35396f52ec60","display_name":"Burankou Aliaksei","id":"burial63","total_points":4,"max_points":89,"event_count":1,"points":[4,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"8cbbc3bc-13d7-4995-a0b3-c7c53e73fbb3","display_name":"Anna Misiuk","id":"aiika","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"11201119-6296-4f7b-bf08-c97364f1e99a","display_name":"Bondarev Evgeniy","id":"bomj","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"5214f85f-fc87-4439-bf39-b50e88d0b415","display_name":"Eldar Garbuzov","id":"the-llastt","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f","display_name":"Novikov Valentine","id":"azurenia","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]}
+    ],
+    "event_ids": [433717]
+  },
+  {
+    "format": "pioneer",
+    "display_name": "Pioneer",
+    "table_id": "pioneer",
+    "total_events": 12,
+    "past_events": 1,
+    "top": 6,
+    "prize_fund": 18,
+    "players": [
+      {"pid":"9b204a9b-2dfc-42ba-8cf3-07aeb14b1b3d","display_name":"Akulenko Slava","id":"akel","total_points":9,"max_points":89,"event_count":1,"points":[9,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":9,"max_points":89,"event_count":1,"points":[9,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"49786616-ed05-4c94-932f-f8d26e8f4360","display_name":"Krapivnitsky Gleb","id":"glebk","total_points":9,"max_points":89,"event_count":1,"points":[9,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"6dc5d9d4-4349-4f29-bd70-959d21c914c1","display_name":"Kulevtsov Yaroslav","id":"human11","total_points":9,"max_points":89,"event_count":1,"points":[9,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"26c66354-a32a-4ad1-928e-8322f4724e56","display_name":"Chuyanau Dzianis","id":"anklden","total_points":6,"max_points":89,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"1340ff1d-fb31-41dc-9827-d6bde941be4a","display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":6,"max_points":89,"event_count":1,"points":[6,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"08306c56-4ad8-4dbc-84ba-9d8ac0586ff2","display_name":"Trofimov Valera","id":"trov1","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"824039fa-f433-42e7-845c-7c0fd61a21c2","display_name":"Vorotinsky Vitaliy","id":"vorotinskyv","total_points":3,"max_points":89,"event_count":1,"points":[3,null,null,null,null,null,null,null,null,null,null,null]},
+      {"pid":"cd3375a9-b0bc-4bb1-bff4-7e50504b68d9","display_name":"Shagoiko Maxim","id":"very-bad-man","total_points":0,"max_points":89,"event_count":1,"points":[0,null,null,null,null,null,null,null,null,null,null,null]}
+    ],
+    "event_ids": [433727]
+  },
+  {
+    "format": "modern",
+    "display_name": "Modern",
+    "table_id": "modern",
+    "total_events": 9,
+    "past_events": 0,
+    "top": 6,
+    "prize_fund": 0,
+    "players": [
+      
+    ],
+    "event_ids": []
+  },
+  {
+    "format": "draft",
+    "display_name": "Limited",
+    "table_id": "limited",
+    "total_events": 12,
+    "past_events": 0,
+    "top": 6,
+    "prize_fund": 0,
+    "players": [
+      
+    ],
+    "event_ids": []
+  },
+  {
+    "format": "legacy",
+    "display_name": "Legacy",
+    "table_id": "legacy",
+    "total_events": 3,
+    "past_events": 0,
+    "top": 4,
+    "prize_fund": 0,
+    "players": [
+      
+    ],
+    "disable_4_0_extra_point": true,
+    "display_tiebreakers": true,
+    "event_ids": []
+  }
+]

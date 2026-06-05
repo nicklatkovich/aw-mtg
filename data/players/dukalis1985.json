@@ -2,8 +2,9 @@
   "guid": "1cac0dfc-55ad-42dd-9d8a-f7812cf73013",
   "id": "dukalis1985",
   "display_name": "Smoktunovich Kirill",
-  "color_stats": {"R":0.8463901689708142,"G":0.1858678955453149,"U":0.1858678955453149,"B":1,"W":0.31643625192012287},
+  "color_stats": {"R":0.8694316436251921,"G":0.20890937019969277,"U":0.1858678955453149,"B":1,"W":0.31643625192012287},
   "recent_events": [
+    {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":12,"rank":[1,15],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[1,8],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null}},
     {"id":"2026-1-league-finals-pauper","name":"★★★ Spring League 2026 | Pauper Finals","date":"2026-05-14","format":"pauper","points":3,"rank":[4,6],"match_record":"1-2-0"},
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":3,"rank":[10,14],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"1-2-0","game_record":"4-5-0"},
@@ -117,8 +118,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 112,
-  "match_played": 414,
-  "match_wins": 222,
-  "favorite_format": ["pioneer", 0.6696428571428571]
+  "events_count": 113,
+  "match_played": 418,
+  "match_wins": 226,
+  "favorite_format": ["pioneer", 0.6637168141592921]
 }

@@ -1,0 +1,13 @@
+{
+  "guid": "5214f85f-fc87-4439-bf39-b50e88d0b415",
+  "id": "the-llastt",
+  "display_name": "Eldar Garbuzov",
+  "color_stats": {"W":1},
+  "recent_events": [
+    {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":3,"rank":[15,15],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"1-2-0","game_record":"3-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["pauper", 1]
+}
