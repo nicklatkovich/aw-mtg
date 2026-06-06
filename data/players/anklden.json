@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"B":1,"G":0.7829131652661065,"U":0.5098039215686273,"W":0.8249299719887957,"R":0.4957983193277313},
+  "color_stats": {"B":1,"G":0.7873799725651578,"U":0.4993141289437585,"W":0.8079561042524006,"R":0.4855967078189302},
   "recent_events": [
+    {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":12,"rank":[2,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Dimir Mill","colors":"UB","type":null}},
     {"id":432044,"name":"Daily | Pioneer (28.05.26)","date":"2026-05-28","format":"pioneer","points":7,"rank":[1,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-0-1","game_record":"5-3-1"},
@@ -129,8 +130,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 124,
-  "match_played": 491,
-  "match_wins": 248,
-  "favorite_format": ["pioneer", 0.7903225806451613]
+  "events_count": 125,
+  "match_played": 497,
+  "match_wins": 252,
+  "favorite_format": ["pioneer", 0.792]
 }
