@@ -59,9 +59,14 @@ export const spring2026League: LeagueInfo[] = [
       .filter((t) => new Date(t.date).getTime() >= new Date('2026-02-19').getTime())
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
+    is_finished: true,
     rank_override: [
-      null,
-      '824039fa-f433-42e7-845c-7c0fd61a21c2', // Vorotinsky Vitaliy (won a tiebreaker game for bye in finals)
+      '08306c56-4ad8-4dbc-84ba-9d8ac0586ff2', // 1) Trofimov Valera
+      '26c66354-a32a-4ad1-928e-8322f4724e56', // 2) Chuyanau Dzianis
+      '824039fa-f433-42e7-845c-7c0fd61a21c2', // 3) Vorotinsky Vitaliy
+      '1340ff1d-fb31-41dc-9827-d6bde941be4a', // 4) Latkovich Nikita
+      'e32c68c8-9493-4892-b490-952746e51445', // 5) Brozhat Rostislav
+      '49786616-ed05-4c94-932f-f8d26e8f4360', // 6) Krapivnitsky Gleb
     ],
   },
   {

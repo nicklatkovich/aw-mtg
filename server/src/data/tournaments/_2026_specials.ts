@@ -3,6 +3,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_specials: Tournament[] = [
   {
+    id: '2026-1-league-finals-pioneer',
+    format: Format.PIONEER,
+    name: '\u2605\u2605\u2605 Spring League 2026 | Pioneer Finals',
+    date: '2026-06-06',
+    standings: [
+      { player: 'TroV1', deck: 'Niv to Light', rank: 1, points: 12 },
+      { player: 'AnklDen', deck: 'Golgari Midrange', rank: 2, points: 12 },
+      { player: 'vorotinskyV', deck: 'Mono-Red Aggro', rank: 3, points: 6 },
+      { player: 'NickLatkovich', deck: 'Sultai Scapeshift', rank: 4, points: 3 },
+      { player: 'BRV', deck: 'Azorius Spirits', rank: 5, points: 3 },
+      { player: 'GlebK', deck: 'Mono-Red Aggro', rank: 6, points: 0 },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['vorotinskyV', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'TroV1'], winner: 2 },
+        { players: ['NickLatkovich', 'AnklDen'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', 'TroV1'], winner: 2 },
+        { players: ['vorotinskyV', 'AnklDen'], winner: 1 },
+      ],
+      [
+        { players: ['TroV1', 'vorotinskyV'], winner: 1 },
+        { players: ['AnklDen', 'GlebK'], winner: 1 },
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+      ],
+      [{ players: ['AnklDen', 'NickLatkovich'], winner: 1, record: '2-0-0' }],
+      [{ players: ['vorotinskyV', 'AnklDen'], winner: 2, record: '2-0-0' }],
+      [{ players: ['TroV1', 'AnklDen'], winner: 1, record: '2-0-0' }],
+    ],
+  },
+  {
     id: 'trios260531',
     format: Format.TRIOS,
     name: '\u2605 Special Event: Trios (31.05.26)',
