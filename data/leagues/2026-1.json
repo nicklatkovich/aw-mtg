@@ -87,11 +87,11 @@
     "top": 6,
     "prize_fund": 226,
     "players": [
-      {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":68,"max_points":68,"event_count":12,"points":[12,6,3,9,1,6,3,9,9,0,12,9]},
+      {"pid":"08306c56-4ad8-4dbc-84ba-9d8ac0586ff2","display_name":"Trofimov Valera","id":"trov1","total_points":53,"max_points":53,"event_count":10,"points":[6,12,6,null,6,9,9,null,6,6,3,6]},
+      {"pid":"26c66354-a32a-4ad1-928e-8322f4724e56","display_name":"Chuyanau Dzianis","id":"anklden","total_points":58,"max_points":58,"event_count":11,"points":[3,6,7,null,3,6,12,9,9,6,6,9]},
       {"pid":"824039fa-f433-42e7-845c-7c0fd61a21c2","display_name":"Vorotinsky Vitaliy","id":"vorotinskyv","total_points":60,"max_points":60,"event_count":12,"points":[9,9,9,7,9,6,9,3,6,9,9,6]},
       {"pid":"1340ff1d-fb31-41dc-9827-d6bde941be4a","display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":60,"max_points":60,"event_count":10,"points":[6,6,12,10,9,9,3,6,null,3,null,9]},
-      {"pid":"26c66354-a32a-4ad1-928e-8322f4724e56","display_name":"Chuyanau Dzianis","id":"anklden","total_points":58,"max_points":58,"event_count":11,"points":[3,6,7,null,3,6,12,9,9,6,6,9]},
-      {"pid":"08306c56-4ad8-4dbc-84ba-9d8ac0586ff2","display_name":"Trofimov Valera","id":"trov1","total_points":53,"max_points":53,"event_count":10,"points":[6,12,6,null,6,9,9,null,6,6,3,6]},
+      {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":68,"max_points":68,"event_count":12,"points":[12,6,3,9,1,6,3,9,9,0,12,9]},
       {"pid":"49786616-ed05-4c94-932f-f8d26e8f4360","display_name":"Krapivnitsky Gleb","id":"glebk","total_points":52,"max_points":52,"event_count":12,"points":[3,9,6,0,6,6,6,6,12,3,3,3]},
       {"pid":"cd3375a9-b0bc-4bb1-bff4-7e50504b68d9","display_name":"Shagoiko Maxim","id":"very-bad-man","total_points":46,"max_points":46,"event_count":9,"points":[6,6,3,3,9,12,6,0,null,null,null,3]},
       {"pid":"71dad143-e677-4917-b96b-0f0e86ed30e1","display_name":"Paulouski Tsimafei","id":"ispinyouround","total_points":44,"max_points":44,"event_count":10,"points":[null,null,7,3,9,6,3,6,3,3,3,9]},
@@ -108,6 +108,7 @@
       {"pid":"d3f6dfd4-2da2-45fc-bad4-fb638074a99c","display_name":"Bandarchyk Anton","id":"summie","total_points":3,"max_points":3,"event_count":2,"points":[null,3,null,null,null,0,null,null,null,null,null,null]},
       {"pid":"05f46aac-a10a-4e78-a27c-ee8d8778996c","display_name":"Zubovich Valery","id":"aspelled","total_points":0,"max_points":0,"event_count":1,"points":[null,null,0,null,null,null,null,null,null,null,null,null]}
     ],
+    "is_finished": true,
     "event_ids": [405312, 407525, 408619, 408624, 414934, 416904, 418042, 420644, 421625, 423838, 424728, 427155]
   },
   {
