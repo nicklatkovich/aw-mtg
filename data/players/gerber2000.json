@@ -2,8 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"B":1,"G":0.586501901140684,"W":0.17775665399239535,"U":0.23954372623574133,"R":0.7908745247148286},
+  "color_stats": {"U":0.2538022813688212,"G":0.6007604562737638,"B":1,"W":0.17775665399239535,"R":0.7908745247148286},
   "recent_events": [
+    {"id":434858,"name":"Summer League 2026 | Modern #1/9","date":"2026-06-07","format":"modern","points":6,"rank":[3,6],"deck":{"archetype":"Simic Neoform","colors":"UG","type":null},"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":7,"rank":[4,15],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"2-1-1","game_record":"5-4-1"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[1,8],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":6,"rank":[5,9],"deck":{"archetype":"Abzan Birthing Ritual","colors":"WBG","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -123,8 +124,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 118,
-  "match_played": 453,
-  "match_wins": 210,
-  "favorite_format": ["pauper", 0.4152542372881356]
+  "events_count": 119,
+  "match_played": 457,
+  "match_wins": 212,
+  "favorite_format": ["pauper", 0.4117647058823529]
 }
