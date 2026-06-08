@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 434858,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #1/9',
+    date: '2026-06-07',
+    standings: [
+      { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'qvertion', rank: 2, deck: 'Boros Energy', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'diuzhev', rank: 3, deck: 'Simic Neoform', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-6-0' },
+      { player: 'aspelled', rank: 4, deck: 'Grixis Reanimator', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 5, deck: 'Mono-Red Ponza', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'Norbi', rank: 6, deck: 'Izzet Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['aspelled', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'diuzhev'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'diuzhev'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['diuzhev', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['aspelled', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'qvertion'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'aspelled'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 429702,
     format: Format.MODERN,
     name: 'Daily | Modern (24.05.26)',

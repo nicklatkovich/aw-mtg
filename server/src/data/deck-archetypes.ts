@@ -205,6 +205,7 @@ export const ARCHETYPES = {
   'Grixis Aggro': 'UBR',
   'Grixis Dredge': 'UBR',
   'Grixis Carnage Combo': ['UBR', DeckType.COMBO],
+  'Grixis Reanimator': 'UBR',
   // UBG
   'Sultai Acererak': ['UBG', DeckType.COMBO],
   'Sultai Beanstalk': ['UBG', DeckType.CONTROL],
@@ -330,6 +331,7 @@ export const ARCHETYPES = {
   'Mono-Red Dragons': 'R',
   'Mono-Red Dredge': ['R', DeckType.COMBO],
   'Mono-Red Chandras': 'R',
+  'Mono-Red Ponza': 'R',
   // RG
   'Gruul Aggro': ['RG', DeckType.AGGRO],
   'Gruul Resonance': ['RG', DeckType.AGGRO],
