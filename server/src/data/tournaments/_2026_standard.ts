@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 433731,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #2/12',
+    date: '2026-06-09',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Bant Airbending', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'Barbossa', rank: 2, deck: 'Mono-White Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Spellementals', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Flame111', rank: 4, deck: 'Mono-Green Landfall', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-5-1' },
+      { player: 'vladislavyurel', rank: 5, deck: 'Mono-Blue Terror', points: 2, mp: 4, mw: 0, match_record: '0-2-2', game_record: '2-6-2' },
+      { player: 'Sergey', rank: 6, deck: 'Rakdos Goblins', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-7-1' },
+    ],
+    rounds: [
+      [
+        { players: ['vladislavyurel', 'Barbossa'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['Sergey', 'Flame111'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Barbossa', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Flame111', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 0, record: '1-1-1' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Barbossa'], winner: 1, record: '2-0-0' },
+        { players: ['Flame111', 'vladislavyurel'], winner: 0, record: '1-1-1' },
+        { players: ['Sergey', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Sergey'], winner: 1, record: '2-0-0' },
+        { players: ['Barbossa', 'Flame111'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 433415,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #1/12',
@@ -12,12 +48,7 @@ export const _2026_standard: Tournament[] = [
       { player: 'Barbossa', rank: 2, deck: 'Mono-White Control', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-6-0' },
     ],
     // eslint-disable-next-line prettier/prettier
-    rounds: [
-      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '1-0-0' }],
-      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '2-0-0' }],
-      [{ players: ['profunny', 'Barbossa'], winner: 0, record: '1-1-0' }],
-      [{ players: ['profunny', 'Barbossa'], winner: 1, record: '2-0-0' }],
-    ],
+    rounds: [[{ players: ['Barbossa', 'profunny'], winner: 2, record: '1-0-0' }], [{ players: ['Barbossa', 'profunny'], winner: 2, record: '2-0-0' }], [{ players: ['profunny', 'Barbossa'], winner: 0, record: '1-1-0' }], [{ players: ['profunny', 'Barbossa'], winner: 1, record: '2-0-0' }]],
   },
   {
     id: 428358,

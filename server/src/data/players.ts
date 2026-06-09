@@ -208,6 +208,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'df228c70-0f01-4418-81e4-e47037581d30': 'Pas Sasha',
   '6dc5d9d4-4349-4f29-bd70-959d21c914c1': 'Kulevtsov Yaroslav',
   '5214f85f-fc87-4439-bf39-b50e88d0b415': ['Eldar Garbuzov', { id: 'the-llastt' }],
+  '963894d3-147e-4e27-8f58-ae81349c448c': 'Yurel Vladislav',
+  '620daa87-8c20-4152-bf50-78d63017a1ee': 'Derkach Sergey',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -449,4 +451,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Fate_: 'fed69699-d5b2-4c4d-b7b7-7defc3ade796',
   Human11: '6dc5d9d4-4349-4f29-bd70-959d21c914c1',
   the_llastt: '5214f85f-fc87-4439-bf39-b50e88d0b415',
+  vladislavyurel: '963894d3-147e-4e27-8f58-ae81349c448c',
+  Sergey: '620daa87-8c20-4152-bf50-78d63017a1ee',
 };

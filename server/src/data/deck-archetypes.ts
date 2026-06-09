@@ -289,6 +289,7 @@ export const ARCHETYPES = {
   'Rakdos Hollow One': 'BR',
   'Rakdos Creativity': 'BR',
   'Rakdos Artifacts': 'BR',
+  'Rakdos Goblins': 'BR',
   // BRG
   'Jund Sacrifice': ['BRG', DeckType.COMBO],
   'Jund Dredge': ['BRG', DeckType.COMBO],
