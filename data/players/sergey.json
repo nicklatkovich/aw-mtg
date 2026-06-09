@@ -1,0 +1,13 @@
+{
+  "guid": "620daa87-8c20-4152-bf50-78d63017a1ee",
+  "id": "sergey",
+  "display_name": "Derkach Sergey",
+  "color_stats": {"B":1,"R":1},
+  "recent_events": [
+    {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":1,"rank":[6,6],"deck":{"archetype":"Rakdos Goblins","colors":"BR","type":null},"match_record":"0-3-1","game_record":"1-7-1"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 0,
+  "favorite_format": ["standard", 1]
+}

@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"W":0.3813967489464178,"U":0.6372667068031306,"R":1,"G":0.42354003612281743,"B":0.014148103552077058},
+  "color_stats": {"U":0.6405131264916467,"R":1,"W":0.3779832935560859,"G":0.41974940334128863,"B":0.014021479713603815},
   "recent_events": [
+    {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
@@ -182,8 +183,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 177,
-  "match_played": 704,
-  "match_wins": 383,
-  "favorite_format": ["pioneer", 0.5084745762711864]
+  "events_count": 178,
+  "match_played": 708,
+  "match_wins": 385,
+  "favorite_format": ["pioneer", 0.5056179775280899]
 }
