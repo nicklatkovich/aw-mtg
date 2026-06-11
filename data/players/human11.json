@@ -2,12 +2,13 @@
   "guid": "6dc5d9d4-4349-4f29-bd70-959d21c914c1",
   "id": "human11",
   "display_name": "Kulevtsov Yaroslav",
-  "color_stats": {"W":1,"B":1},
+  "color_stats": {"W":1,"U":0.5,"B":0.5},
   "recent_events": [
+    {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":6,"rank":[5,7],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":9,"rank":[1,9],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 3,
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 5,
   "favorite_format": ["pioneer", 1]
 }

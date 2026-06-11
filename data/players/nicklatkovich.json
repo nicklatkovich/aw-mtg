@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"W":0.7265625,"U":1,"G":0.8167067307692307,"B":0.5282451923076925,"R":0.42608173076923095},
+  "color_stats": {"U":1,"B":0.533847980997625,"G":0.8188836104513063,"W":0.7179334916864609,"R":0.4210213776722092},
   "recent_events": [
+    {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":7,"rank":[3,7],"deck":{"archetype":"Sultai Scapeshift","colors":"UBG","type":"Combo"},"match_record":"2-1-1","game_record":"5-5-0"},
     {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":12,"rank":[1,6],"deck":{"archetype":"Bant Airbending","colors":"WUG","type":"Combo"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":3,"rank":[4,6],"deck":{"archetype":"Sultai Scapeshift","colors":"UBG","type":"Combo"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":6,"rank":[5,9],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"4-4-0"},
@@ -135,8 +136,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 130,
-  "match_played": 516,
-  "match_wins": 269,
-  "favorite_format": ["pioneer", 0.6692307692307692]
+  "events_count": 131,
+  "match_played": 520,
+  "match_wins": 271,
+  "favorite_format": ["pioneer", 0.6717557251908397]
 }

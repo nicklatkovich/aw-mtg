@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.17777777777777778},
+  "color_stats": {"R":1,"G":0.17391304347826086},
   "recent_events": [
+    {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":9,"rank":[2,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":0,"rank":[6,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":9,"rank":[2,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[1,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
@@ -82,8 +83,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 77,
-  "match_played": 277,
-  "match_wins": 160,
+  "events_count": 78,
+  "match_played": 281,
+  "match_wins": 163,
   "favorite_format": ["pioneer", 1]
 }
