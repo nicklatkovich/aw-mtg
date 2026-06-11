@@ -3,6 +3,47 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 433739,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #2/12',
+    date: '2026-06-11',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-0' },
+      { player: 'GlebK', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'NickLatkovich', rank: 3, deck: 'Sultai Scapeshift', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-5-0' },
+      { player: 'AnklDen', rank: 4, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Human11', rank: 5, deck: 'Azorius Control', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'vorotinskyV', rank: 6, deck: 'Mono-Red Aggro', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'DanilaNabeshko', rank: 7, deck: 'Niv to Light', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '5-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['DanilaNabeshko', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Human11'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['vorotinskyV', 'GlebK'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['vorotinskyV', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['DanilaNabeshko', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Human11'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Human11', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['DanilaNabeshko', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['vorotinskyV', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['GlebK', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'NickLatkovich'], winner: 0, record: '1-1-0' },
+        { players: ['AnklDen', 'Human11'], winner: 2, record: '2-0-0' },
+        { players: ['vorotinskyV', 'DanilaNabeshko'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 433727,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #1/12',
