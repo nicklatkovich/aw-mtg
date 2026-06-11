@@ -4,6 +4,7 @@
   "display_name": "Burankou Aliaksei",
   "color_stats": {"U":0.8378378378378378,"G":1,"W":0.13513513513513514,"B":0.7027027027027027,"R":0.24324324324324326},
   "recent_events": [
+    {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":3,"rank":[14,17],"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":4,"rank":[11,15],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":414646,"name":"Spring League 2026 | Pauper #5/12","date":"2026-03-18","format":"pauper","points":3,"rank":[15,19],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"1-1-0","game_record":"3-2-0"},
     {"id":408618,"name":"Spring League 2026 | Pauper #4/12","date":"2026-03-11","format":"pauper","points":4,"rank":[15,19],"match_record":"1-2-1","game_record":"4-5-0"},
@@ -73,8 +74,8 @@
     {"id":134250,"date":"2024-08-15","format":"pioneer","points":4,"rank":[13,17]},
     {"id":121447,"date":"2024-07-18","format":"pioneer","points":6,"rank":[10,21]}
   ],
-  "events_count": 68,
-  "match_played": 251,
-  "match_wins": 80,
-  "favorite_format": ["pauper", 0.5294117647058824]
+  "events_count": 69,
+  "match_played": 255,
+  "match_wins": 81,
+  "favorite_format": ["pauper", 0.5362318840579711]
 }

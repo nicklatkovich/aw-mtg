@@ -4,6 +4,7 @@
   "display_name": "Martseniuk Maksim",
   "color_stats": {"W":0.32951036612262896,"R":0.74636082928981,"B":0.4662549625055137,"G":0.3427437141596823,"U":1},
   "recent_events": [
+    {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":6,"rank":[7,17],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":434858,"name":"Summer League 2026 | Modern #1/9","date":"2026-06-07","format":"modern","points":9,"rank":[2,6],"deck":{"archetype":"Boros Energy","colors":"WR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":6,"rank":[6,15],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":0,"rank":[7,8],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}},
@@ -160,8 +161,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 155,
-  "match_played": 610,
-  "match_wins": 361,
-  "favorite_format": ["standard", 0.3225806451612903]
+  "events_count": 156,
+  "match_played": 614,
+  "match_wins": 363,
+  "favorite_format": ["standard", 0.32051282051282054]
 }

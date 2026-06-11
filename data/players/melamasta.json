@@ -4,6 +4,7 @@
   "display_name": "Yushkevich Egor",
   "color_stats": {"W":0.1016949152542373,"G":0.847457627118644,"B":0.3050847457627119,"R":1,"U":0.5932203389830509},
   "recent_events": [
+    {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":3,"rank":[13,17],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Selesnya Bogles","colors":"WG","type":"Aggro"}},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":0,"rank":[14,14],"deck":{"archetype":"Jund Meek Attack","colors":"BRG","type":null},"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":427158,"name":"Spring League 2026 | Modern #11/12","date":"2026-05-10","format":"modern","points":0,"rank":[10,10],"deck":{"archetype":"Jund Meek Attack","colors":"BRG","type":null},"match_record":"0-4-0","game_record":"0-8-0"},
@@ -39,8 +40,8 @@
     {"id":189282,"date":"2024-11-14","format":"pioneer","points":0,"rank":[17,18]},
     {"id":184873,"date":"2024-11-07","format":"pioneer","points":3,"rank":[13,15]}
   ],
-  "events_count": 34,
-  "match_played": 134,
-  "match_wins": 34,
-  "favorite_format": ["modern", 0.4117647058823529]
+  "events_count": 35,
+  "match_played": 137,
+  "match_wins": 35,
+  "favorite_format": ["modern", 0.4]
 }

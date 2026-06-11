@@ -1,5 +1,6 @@
 [
   {"id":433739,"format":"pioneer","date":"2026-06-11","name":"Summer League 2026 | Pioneer #2/12","players_count":7,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
+  {"id":433734,"format":"pauper","date":"2026-06-10","name":"Summer League 2026 | Pauper #2/12","players_count":17,"winner":{"player":{"display_name":"Kolyshko Alexander","id":"aklshk"},"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"}}},
   {"id":433731,"format":"standard","date":"2026-06-09","name":"Summer League 2026 | Standard #2/12","players_count":6,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Bant Airbending","colors":"WUG","type":"Combo"}}},
   {"id":434858,"format":"modern","date":"2026-06-07","name":"Summer League 2026 | Modern #1/9","players_count":6,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},
   {"id":"2026-1-league-finals-pioneer","format":"pioneer","date":"2026-06-06","name":"★★★ Spring League 2026 | Pioneer Finals","players_count":6,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}}},
