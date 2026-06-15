@@ -3,6 +3,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_specials: Tournament[] = [
   {
+    id: '2026-1-league-finals-modern',
+    format: Format.MODERN,
+    name: '\u2605\u2605\u2605 Spring League 2026 | Modern Finals',
+    date: '2026-06-14',
+    standings: [
+      { player: 'BRV', deck: 'Izzet Aggro', rank: 1, points: 12 },
+      { player: 'Tanti', deck: 'Dimir Midrange', rank: 2, points: 9 },
+      { player: 'qvertion', deck: 'Selesnya Bogles', rank: 3, points: 6 },
+      { player: 'aklshk', deck: 'Esper Blink', rank: 4, points: 6 },
+      { player: 'ispinyouround', deck: 'Dimir Midrange', rank: 5, points: 3 },
+      { player: 'Norbi', deck: 'Izzet Aggro', rank: 6, points: 0 },
+    ],
+    rounds: [
+      [
+        { players: ['ispinyouround', null], winner: 1, record: 'bye' },
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Norbi', 'Tanti'], winner: 2 },
+        { players: ['aklshk', 'qvertion'], winner: 1 },
+      ],
+      [
+        { players: ['ispinyouround', 'Tanti'], winner: 2 },
+        { players: ['BRV', 'aklshk'], winner: 1 },
+      ],
+      [
+        { players: ['Tanti', 'BRV'], winner: 2 },
+        { players: ['aklshk', 'Norbi'], winner: 1 },
+        { players: ['ispinyouround', 'qvertion'], winner: 2 },
+      ],
+      [{ players: ['aklshk', 'qvertion'], winner: 2 }],
+      [{ players: ['Tanti', 'qvertion'], winner: 1 }],
+      [{ players: ['BRV', 'Tanti'], winner: 1 }],
+    ],
+  },
+  {
     id: '2026-1-league-finals-pioneer',
     format: Format.PIONEER,
     name: '\u2605\u2605\u2605 Spring League 2026 | Pioneer Finals',

@@ -80,5 +80,14 @@ export const spring2026League: LeagueInfo[] = [
       .filter((t) => new Date(t.date).getTime() >= new Date('2026-02-22').getTime())
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
       .slice(0, 12),
+    is_finished: true,
+    rank_override: [
+      'e32c68c8-9493-4892-b490-952746e51445', // 1) Brozhat Rostislav
+      'a52d83e2-0c2f-4fe0-bc03-1d03a54a4170', // 2) Charniauski Mikita
+      'ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7', // 3) Martseniuk Maksim
+      '037e76b0-88c8-4458-94a8-d63c2f9a8155', // 4) Kolyshko Alexander
+      '71dad143-e677-4917-b96b-0f0e86ed30e1', // 5) Paulouski Tsimafei
+      'ff13634f-2035-4dc4-ae7d-31ad9a01e658', // 6) Voiteh Stas
+    ],
   },
 ];
