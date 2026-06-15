@@ -73,7 +73,7 @@ const TournamentPage: React.FC = () => {
                     </div>
                   ))}
                 </div>
-                {data.standings.map((s) => (
+                {data.standings.slice(0).map((s) => (
                   <div key={s.rank} style={{ display: 'contents' }}>
                     <div className="cell">{s.rank}</div>
                     <div className="cell left">
