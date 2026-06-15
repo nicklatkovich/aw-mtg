@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.6437019515079834,"R":1,"W":0.3746303962152572,"G":0.41602602010644574,"B":0.013897102306327612},
+  "color_stats": {"U":0.6468347010550995,"R":1,"W":0.37133645955451344,"G":0.41236811254396233,"B":0.013774912075029304},
   "recent_events": [
+    {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":12,"rank":[1,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":10,"rank":[1,7],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":6,"rank":[3,6],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Azorius Spirits","colors":"WU","type":"Tempo"}},
@@ -184,8 +185,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 179,
-  "match_played": 712,
-  "match_wins": 388,
-  "favorite_format": ["pioneer", 0.5083798882681564]
+  "events_count": 180,
+  "match_played": 716,
+  "match_wins": 392,
+  "favorite_format": ["pioneer", 0.5055555555555555]
 }
