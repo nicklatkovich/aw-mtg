@@ -4,6 +4,7 @@
   "display_name": "Bogdan Ilya",
   "color_stats": {"W":1},
   "recent_events": [
+    {"id":433732,"name":"Summer League 2026 | Standard #3/12","date":"2026-06-16","format":"standard","points":4,"rank":[4,6],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"1-2-1","game_record":"4-4-1"},
     {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":9,"rank":[2,6],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":433415,"name":"Summer League 2026 | Standard #1/12","date":"2026-06-02","format":"standard","points":1,"rank":[2,2],"deck":{"archetype":"Mono-White Control","colors":"W","type":"Control"},"match_record":"0-3-1","game_record":"1-6-0"},
     {"id":"2026-1-league-finals-standard","name":"★★★ Spring League 2026 | Standard Finals","date":"2026-05-23","format":"standard","points":0,"rank":[6,6],"deck":{"archetype":"Mono-White Momo","colors":"W","type":null}},
@@ -38,8 +39,8 @@
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[15,22]},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":9,"rank":[4,17]}
   ],
-  "events_count": 33,
-  "match_played": 118,
-  "match_wins": 52,
-  "favorite_format": ["standard", 0.9696969696969697]
+  "events_count": 34,
+  "match_played": 122,
+  "match_wins": 53,
+  "favorite_format": ["standard", 0.9705882352941176]
 }
