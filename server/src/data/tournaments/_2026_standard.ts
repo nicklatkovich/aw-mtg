@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 433732,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #3/12',
+    date: '2026-06-16',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Azorius Control', points: 8, mp: 4, mw: 2, match_record: '2-0-2', game_record: '6-2-2' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Spellementals', points: 8, mp: 4, mw: 2, match_record: '2-0-2', game_record: '6-3-1' },
+      { player: 'profunny', rank: 3, deck: 'Sultai Reanimator', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '4-3-0' },
+      { player: 'Barbossa', rank: 4, deck: 'Mono-White Control', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-4-1' },
+      { player: 'vladislavyurel', rank: 5, deck: 'Mono-Blue Terror', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-5-1' },
+      { player: 'Sergey', rank: 6, deck: 'Rakdos Goblins', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-7-1' },
+    ],
+    rounds: [
+      [
+        { players: ['vladislavyurel', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['profunny', 'Barbossa'], winner: 1, record: '1-0-0' },
+        { players: ['BRV', 'Sergey'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Barbossa'], winner: 0, record: '1-1-1' },
+        { players: ['BRV', 'profunny'], winner: 0, record: '1-1-0' },
+        { players: ['Sergey', 'vladislavyurel'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['profunny', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'BRV'], winner: 0, record: '1-1-1' },
+        { players: ['Barbossa', 'Sergey'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['profunny', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Barbossa'], winner: 1, record: '2-1-0' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 0, record: '1-1-1' },
+      ],
+    ],
+  },
+  {
     id: 433731,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #2/12',
