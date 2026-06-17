@@ -1,4 +1,5 @@
 [
+  {"id":433737,"format":"pauper","date":"2026-06-17","name":"Summer League 2026 | Pauper #3/12","players_count":14,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"}}},
   {"id":433732,"format":"standard","date":"2026-06-16","name":"Summer League 2026 | Standard #3/12","players_count":6,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":"2026-1-league-finals-modern","format":"modern","date":"2026-06-14","name":"★★★ Spring League 2026 | Modern Finals","players_count":6,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}}},
   {"id":433739,"format":"pioneer","date":"2026-06-11","name":"Summer League 2026 | Pioneer #2/12","players_count":7,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
