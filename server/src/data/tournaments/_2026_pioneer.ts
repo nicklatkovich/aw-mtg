@@ -3,6 +3,45 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 433740,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #3/12',
+    date: '2026-06-18',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Orzhov Monument', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Spellementals', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'AnklDen', rank: 3, deck: 'Orzhov Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Tamplier007333', rank: 4, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'Very_Bad_Man', rank: 5, deck: 'Selesnya Company', points: 4, mp: 2, mw: 0, match_record: '1-1-1', game_record: '4-3-0' },
+      { player: 'TroV1', rank: 6, deck: 'Sultai Control', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
+      { player: 'profunny', rank: 7, deck: 'Dimir Midrange', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '2-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['NickLatkovich', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['profunny', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Tamplier007333'], winner: 1, record: '2-0-0' },
+        { players: ['TroV1', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['profunny', 'Very_Bad_Man'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'profunny'], winner: 1, record: '2-0-0' },
+        { players: ['TroV1', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'Tamplier007333'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 433739,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #2/12',
