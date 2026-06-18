@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.6082089552238806,"G":0.3703358208955224,"U":0.4449626865671643,"B":1,"R":0.4589552238805972},
+  "color_stats": {"W":0.6222014925373135,"G":0.3843283582089553,"U":0.4449626865671643,"B":1,"R":0.4589552238805972},
   "recent_events": [
+    {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":4,"rank":[5,7],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-1-1","game_record":"4-3-0"},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"0-3-0","game_record":"2-6-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null}},
     {"id":"2026-1-league-finals-standard","name":"★★★ Spring League 2026 | Standard Finals","date":"2026-05-23","format":"standard","points":12,"rank":[1,6],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}},
@@ -144,8 +145,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 139,
-  "match_played": 556,
-  "match_wins": 262,
-  "favorite_format": ["pioneer", 0.6546762589928058]
+  "events_count": 140,
+  "match_played": 559,
+  "match_wins": 263,
+  "favorite_format": ["pioneer", 0.6571428571428571]
 }

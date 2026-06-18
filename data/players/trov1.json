@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.8033126293995858,"U":1,"B":0.368530020703934,"R":0.358178053830228,"G":0.2028985507246378},
+  "color_stats": {"U":1,"B":0.38133874239350946,"G":0.21906693711967562,"W":0.7870182555780932,"R":0.35091277890466555},
   "recent_events": [
+    {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":3,"rank":[6,7],"deck":{"archetype":"Sultai Control","colors":"UBG","type":"Control"},"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":12,"rank":[1,6],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":12,"rank":[2,8],"deck":{"archetype":"Esper Control","colors":"WUB","type":"Control"}},
@@ -72,8 +73,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 67,
-  "match_played": 235,
-  "match_wins": 137,
-  "favorite_format": ["pioneer", 0.6417910447761194]
+  "events_count": 68,
+  "match_played": 238,
+  "match_wins": 138,
+  "favorite_format": ["pioneer", 0.6470588235294118]
 }

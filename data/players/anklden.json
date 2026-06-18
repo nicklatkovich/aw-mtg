@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"B":1,"G":0.7916666666666666,"U":0.4892473118279569,"W":0.7916666666666667,"R":0.47580645161290336},
+  "color_stats": {"W":0.7957839262187087,"B":1,"G":0.7760210803689064,"U":0.47957839262187074,"R":0.4664031620553361},
   "recent_events": [
+    {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":6,"rank":[3,7],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":12,"rank":[2,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"}},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
@@ -131,8 +132,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 126,
-  "match_played": 501,
-  "match_wins": 254,
-  "favorite_format": ["pioneer", 0.7936507936507936]
+  "events_count": 127,
+  "match_played": 505,
+  "match_wins": 256,
+  "favorite_format": ["pioneer", 0.7952755905511811]
 }
