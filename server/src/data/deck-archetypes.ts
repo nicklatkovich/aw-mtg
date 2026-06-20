@@ -249,6 +249,7 @@ export const ARCHETYPES = {
   'Temur Skred': 'URG',
   'Temur Devoted Druid': ['URG', DeckType.COMBO],
   'Temur Control': ['URG', DeckType.CONTROL],
+  'Temur Rhinos': 'URG',
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
@@ -359,6 +360,7 @@ export const ARCHETYPES = {
   'Mono-Green Aggro': ['G', DeckType.AGGRO],
   'Mono-Green Lands': ['G', DeckType.COMBO],
   'Mono-Green Tron': 'G',
+  'Mono-Green Broodscale': ['G', DeckType.COMBO],
   // 4c
   Dredge: ['WUBRG', DeckType.COMBO],
   Tron: 'WBRG',

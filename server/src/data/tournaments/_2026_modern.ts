@@ -3,6 +3,58 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 438129,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #2/9',
+    date: '2026-06-20',
+    standings: [
+      { player: 'wfmsa', rank: 1, deck: 'Temur Rhinos', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Armalite', rank: 2, deck: 'Boros Burn', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Aggro', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'qvertion', rank: 4, deck: 'Boros Energy', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'DanilaNabeshko', rank: 5, deck: 'Azorius Control', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'diuzhev', rank: 6, deck: 'Domain Zoo', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'aspelled', rank: 7, deck: 'Mono-Green Broodscale', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 8, deck: 'Esper Blink', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-7-0' },
+      { player: 'EgoU', rank: 9, deck: 'Izzet Affinity', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'Azurenia', rank: 10, deck: 'Esper Goryo', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Norbi', rank: 11, deck: 'Azorius Equipment', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Armalite', null], winner: 1, record: 'bye' },
+        { players: ['EgoU', 'DanilaNabeshko'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'wfmsa'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['diuzhev', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Armalite', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['aspelled', 'DanilaNabeshko'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'EgoU'], winner: 1, record: '2-0-0' },
+        { players: ['wfmsa', 'Azurenia'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Azurenia', null], winner: 1, record: 'bye' },
+        { players: ['DanilaNabeshko', 'wfmsa'], winner: 2, record: '2-0-0' },
+        { players: ['diuzhev', 'Armalite'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'EgoU'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'aspelled'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Armalite', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['wfmsa', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['DanilaNabeshko', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['Azurenia', 'EgoU'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 434858,
     format: Format.MODERN,
     name: 'Summer League 2026 | Modern #1/9',

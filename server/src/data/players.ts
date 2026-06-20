@@ -213,6 +213,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '4f7a377e-64ad-4971-a08e-b5a5e4eac007': 'Rasuk Daniil',
   'dd1e38f1-dec7-408b-9165-b0c2e25b6c87': 'Kirill Melnik',
   '3912f954-8c2c-4601-8c9e-563840ab3d32': 'Ivan Dubovik',
+  '32e3b0dd-0de2-46af-8cf5-6187548f4e42': 'Wang Dennis',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -459,4 +460,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Danik1998: '4f7a377e-64ad-4971-a08e-b5a5e4eac007',
   Odis89: 'dd1e38f1-dec7-408b-9165-b0c2e25b6c87',
   Ayyyvan: '3912f954-8c2c-4601-8c9e-563840ab3d32',
+  wfmsa: '32e3b0dd-0de2-46af-8cf5-6187548f4e42',
+  EgoU: 'adeba5e9-a5e4-4c9e-85c9-a09f10acc4af',
 };
