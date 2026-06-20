@@ -1,12 +1,13 @@
 import { Format } from '@dtos';
 import { Tournament } from '@server/data/data.types';
+import { _2026_limited } from '@server/data/tournaments/_2026_limited';
 import { _2026_modern } from '@server/data/tournaments/_2026_modern';
 import { _2026_pauper } from '@server/data/tournaments/_2026_pauper';
 import { _2026_pioneer } from '@server/data/tournaments/_2026_pioneer';
 import { _2026_standard } from '@server/data/tournaments/_2026_standard';
+
 import { LeagueInfo } from './league.types';
 
-const _2026_limited: Tournament[] = [];
 const _2026_legacy: Tournament[] = [];
 
 const STARTED_AT = new Date('2026-06-01').getTime();

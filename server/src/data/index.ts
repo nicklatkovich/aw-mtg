@@ -10,6 +10,7 @@ import { _2026_pioneer } from './tournaments/_2026_pioneer';
 import { _2026_premodern } from './tournaments/_2026_premodern';
 import { _2026_specials } from './tournaments/_2026_specials';
 import { _2026_standard } from './tournaments/_2026_standard';
+import { _2026_limited } from './tournaments/_2026_limited';
 
 export const allTournaments = [
   ...archiveTournaments,
@@ -23,4 +24,5 @@ export const allTournaments = [
   ..._2026_premodern,
   ..._2026_specials,
   ..._2026_standard,
+  ..._2026_limited,
 ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime() || b.standings.length - a.standings.length);

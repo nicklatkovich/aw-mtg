@@ -210,6 +210,9 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '5214f85f-fc87-4439-bf39-b50e88d0b415': ['Eldar Garbuzov', { id: 'the-llastt' }],
   '963894d3-147e-4e27-8f58-ae81349c448c': 'Yurel Vladislav',
   '620daa87-8c20-4152-bf50-78d63017a1ee': 'Derkach Sergey',
+  '4f7a377e-64ad-4971-a08e-b5a5e4eac007': 'Rasuk Daniil',
+  'dd1e38f1-dec7-408b-9165-b0c2e25b6c87': 'Kirill Melnik',
+  '3912f954-8c2c-4601-8c9e-563840ab3d32': 'Ivan Dubovik',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -453,4 +456,7 @@ export const playersByUsername: { [username in string]?: string } = {
   the_llastt: '5214f85f-fc87-4439-bf39-b50e88d0b415',
   vladislavyurel: '963894d3-147e-4e27-8f58-ae81349c448c',
   Sergey: '620daa87-8c20-4152-bf50-78d63017a1ee',
+  Danik1998: '4f7a377e-64ad-4971-a08e-b5a5e4eac007',
+  Odis89: 'dd1e38f1-dec7-408b-9165-b0c2e25b6c87',
+  Ayyyvan: '3912f954-8c2c-4601-8c9e-563840ab3d32',
 };
