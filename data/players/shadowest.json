@@ -4,6 +4,7 @@
   "display_name": "Buslavsky Alexander",
   "color_stats": {"R":1,"B":0.45454545454545453,"G":0.18181818181818182},
   "recent_events": [
+    {"id":436294,"name":"Summer League 2026 | Draft #1 (SOS)","date":"2026-06-12","format":"draft","points":0,"rank":[7,8],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":379105,"name":"Fall League 2025 | Pioneer #6/12","date":"2025-11-06","format":"pioneer","points":6,"rank":[3,8],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":3,"rank":[15,20],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":365579,"name":"Draft 19.09 (FIN)","date":"2025-09-19","format":"draft","points":3,"rank":[5,6],"match_record":"1-2-0","game_record":"3-3-0"},
@@ -20,8 +21,8 @@
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[11,14]}
   ],
-  "events_count": 15,
-  "match_played": 55,
+  "events_count": 16,
+  "match_played": 57,
   "match_wins": 23,
-  "favorite_format": ["draft", 0.3333333333333333]
+  "favorite_format": ["draft", 0.375]
 }

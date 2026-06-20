@@ -2,8 +2,10 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"U":0.9902912621359224,"R":1,"W":0.35922330097087374,"B":0.21359223300970878,"G":0.11650485436893204},
+  "color_stats": {"W":0.3809523809523809,"U":1,"R":0.9809523809523808,"B":0.20952380952380953,"G":0.11428571428571427},
   "recent_events": [
+    {"id":438129,"name":"Summer League 2026 | Modern #2/9","date":"2026-06-20","format":"modern","points":3,"rank":[11,11],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
+    {"id":437878,"name":"Summer League 2026 | Draft #1 (ECL)","date":"2026-06-19","format":"draft","points":4,"rank":[6,10],"match_record":"1-2-1","game_record":"3-5-3"},
     {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":0,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":434858,"name":"Summer League 2026 | Modern #1/9","date":"2026-06-07","format":"modern","points":3,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
@@ -75,8 +77,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 70,
-  "match_played": 243,
-  "match_wins": 134,
-  "favorite_format": ["pioneer", 0.4714285714285714]
+  "events_count": 72,
+  "match_played": 250,
+  "match_wins": 136,
+  "favorite_format": ["pioneer", 0.4583333333333333]
 }

@@ -4,6 +4,8 @@
   "display_name": "Polevskiy Nikita",
   "color_stats": {},
   "recent_events": [
+    {"id":437878,"name":"Summer League 2026 | Draft #1 (ECL)","date":"2026-06-19","format":"draft","points":12,"rank":[1,10],"match_record":"4-0-0","game_record":"8-1-0"},
+    {"id":436294,"name":"Summer League 2026 | Draft #1 (SOS)","date":"2026-06-12","format":"draft","points":3,"rank":[6,8],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":335217,"name":"Summer League 2025 | Draft #4 (FIN)","date":"2025-07-04","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":331797,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-27","format":"draft","points":6,"rank":[3,8],"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":"sl250621","name":"Summer League 2025 | Sealed #1","date":"2025-06-21","format":"sealed","points":0,"rank":[9,10]},
@@ -11,8 +13,8 @@
     {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":0,"rank":[10,12],"match_record":"0-2-0","game_record":"1-4-0"}
   ],
-  "events_count": 6,
-  "match_played": 16,
-  "match_wins": 11,
-  "favorite_format": ["draft", 0.8333333333333334]
+  "events_count": 8,
+  "match_played": 23,
+  "match_wins": 16,
+  "favorite_format": ["draft", 0.875]
 }

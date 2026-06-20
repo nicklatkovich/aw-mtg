@@ -1,0 +1,13 @@
+{
+  "guid": "3912f954-8c2c-4601-8c9e-563840ab3d32",
+  "id": "ayyyvan",
+  "display_name": "Ivan Dubovik",
+  "color_stats": {},
+  "recent_events": [
+    {"id":437878,"name":"Summer League 2026 | Draft #1 (ECL)","date":"2026-06-19","format":"draft","points":2,"rank":[9,10],"match_record":"0-2-2","game_record":"1-4-3"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 0,
+  "favorite_format": ["draft", 1]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "4f7a377e-64ad-4971-a08e-b5a5e4eac007",
+  "id": "danik1998",
+  "display_name": "Rasuk Daniil",
+  "color_stats": {},
+  "recent_events": [
+    {"id":437878,"name":"Summer League 2026 | Draft #1 (ECL)","date":"2026-06-19","format":"draft","points":6,"rank":[4,10],"match_record":"2-2-0","game_record":"4-5-0"},
+    {"id":436294,"name":"Summer League 2026 | Draft #1 (SOS)","date":"2026-06-12","format":"draft","points":6,"rank":[2,8],"match_record":"2-1-0","game_record":"4-3-0"}
+  ],
+  "events_count": 2,
+  "match_played": 7,
+  "match_wins": 4,
+  "favorite_format": ["draft", 1]
+}
