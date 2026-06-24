@@ -173,6 +173,7 @@ export const ARCHETYPES = {
   'Mono-Blue Stasis': ['U', DeckType.CONTROL],
   'Mono-Blue Grinding Emry': ['U', DeckType.COMBO],
   'Mono-Blue Rona Combo': 'U',
+  'Mono-Blue Elementals': ['U', DeckType.TEMPO],
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],

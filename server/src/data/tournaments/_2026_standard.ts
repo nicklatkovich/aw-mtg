@@ -3,6 +3,35 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 438677,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #4/12',
+    date: '2026-06-23',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'vladislavyurel', rank: 2, deck: 'Mono-Blue Elementals', points: 7, mp: 2, mw: 0, match_record: '2-1-1', game_record: '5-3-0' },
+      { player: 'Sergey', rank: 3, deck: 'Rakdos Goblins', points: 4, mp: 3, mw: 0, match_record: '1-2-1', game_record: '5-5-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Sergey', null], winner: 1, record: 'bye' },
+        { players: ['vladislavyurel', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['vladislavyurel', null], winner: 1, record: 'bye' },
+        { players: ['Sergey', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['vladislavyurel', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Sergey'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 433732,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #3/12',
@@ -83,8 +112,13 @@ export const _2026_standard: Tournament[] = [
       { player: 'profunny', rank: 1, deck: 'Sultai Reanimator', points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '6-1-0' },
       { player: 'Barbossa', rank: 2, deck: 'Mono-White Control', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-6-0' },
     ],
-    // eslint-disable-next-line prettier/prettier
-    rounds: [[{ players: ['Barbossa', 'profunny'], winner: 2, record: '1-0-0' }], [{ players: ['Barbossa', 'profunny'], winner: 2, record: '2-0-0' }], [{ players: ['profunny', 'Barbossa'], winner: 0, record: '1-1-0' }], [{ players: ['profunny', 'Barbossa'], winner: 1, record: '2-0-0' }]],
+    rounds: [
+      //
+      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '1-0-0' }],
+      [{ players: ['Barbossa', 'profunny'], winner: 2, record: '2-0-0' }],
+      [{ players: ['profunny', 'Barbossa'], winner: 0, record: '1-1-0' }],
+      [{ players: ['profunny', 'Barbossa'], winner: 1, record: '2-0-0' }],
+    ],
   },
   {
     id: 428358,
