@@ -4,19 +4,19 @@
     "display_name": "Standard",
     "table_id": "standard",
     "total_events": 12,
-    "past_events": 3,
+    "past_events": 4,
     "top": 6,
-    "prize_fund": 28,
+    "prize_fund": 34,
     "players": [
-      {"pid":"1340ff1d-fb31-41dc-9827-d6bde941be4a","display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":21,"max_points":87,"event_count":2,"points":[null,12,8,null,null,null,null,null,null,null,null,null]},
-      {"pid":"584bf7f8-7b31-4575-b43e-e636daac85ab","display_name":"Bondarchik Andrei","id":"omgprofunny","total_points":17,"max_points":86,"event_count":2,"points":[10,null,7,null,null,null,null,null,null,null,null,null]},
-      {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":14,"max_points":86,"event_count":2,"points":[null,6,8,null,null,null,null,null,null,null,null,null]},
-      {"pid":"809ddd36-48d8-4c9a-9229-0bb8afe5376c","display_name":"Bogdan Ilya","id":"barbossa","total_points":14,"max_points":87,"event_count":3,"points":[1,9,4,null,null,null,null,null,null,null,null,null]},
-      {"pid":"963894d3-147e-4e27-8f58-ae81349c448c","display_name":"Yurel Vladislav","id":"vladislavyurel","total_points":6,"max_points":86,"event_count":2,"points":[null,2,4,null,null,null,null,null,null,null,null,null]},
-      {"pid":"d0b3bc1a-7c92-4ceb-803f-b22a5095054d","display_name":"Naborovsky Konstantin","id":"flame111","total_points":4,"max_points":85,"event_count":1,"points":[null,4,null,null,null,null,null,null,null,null,null,null]},
-      {"pid":"620daa87-8c20-4152-bf50-78d63017a1ee","display_name":"Derkach Sergey","id":"sergey","total_points":2,"max_points":86,"event_count":2,"points":[null,1,1,null,null,null,null,null,null,null,null,null]}
+      {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":27,"max_points":86,"event_count":3,"points":[null,6,8,12,null,null,null,null,null,null,null,null]},
+      {"pid":"1340ff1d-fb31-41dc-9827-d6bde941be4a","display_name":"Latkovich Nikita","id":"nicklatkovich","total_points":21,"max_points":85,"event_count":2,"points":[null,12,8,null,null,null,null,null,null,null,null,null]},
+      {"pid":"584bf7f8-7b31-4575-b43e-e636daac85ab","display_name":"Bondarchik Andrei","id":"omgprofunny","total_points":17,"max_points":84,"event_count":2,"points":[10,null,7,null,null,null,null,null,null,null,null,null]},
+      {"pid":"809ddd36-48d8-4c9a-9229-0bb8afe5376c","display_name":"Bogdan Ilya","id":"barbossa","total_points":14,"max_points":85,"event_count":3,"points":[1,9,4,null,null,null,null,null,null,null,null,null]},
+      {"pid":"963894d3-147e-4e27-8f58-ae81349c448c","display_name":"Yurel Vladislav","id":"vladislavyurel","total_points":13,"max_points":85,"event_count":3,"points":[null,2,4,7,null,null,null,null,null,null,null,null]},
+      {"pid":"620daa87-8c20-4152-bf50-78d63017a1ee","display_name":"Derkach Sergey","id":"sergey","total_points":6,"max_points":85,"event_count":3,"points":[null,1,1,4,null,null,null,null,null,null,null,null]},
+      {"pid":"d0b3bc1a-7c92-4ceb-803f-b22a5095054d","display_name":"Naborovsky Konstantin","id":"flame111","total_points":4,"max_points":83,"event_count":1,"points":[null,4,null,null,null,null,null,null,null,null,null,null]}
     ],
-    "event_ids": [433415, 433731, 433732]
+    "event_ids": [433415, 433731, 433732, 438677]
   },
   {
     "format": "pauper",

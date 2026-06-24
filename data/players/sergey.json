@@ -4,11 +4,12 @@
   "display_name": "Derkach Sergey",
   "color_stats": {"B":1,"R":1},
   "recent_events": [
+    {"id":438677,"name":"Summer League 2026 | Standard #4/12","date":"2026-06-23","format":"standard","points":4,"rank":[3,3],"deck":{"archetype":"Rakdos Goblins","colors":"BR","type":null},"match_record":"1-2-1","game_record":"5-5-0"},
     {"id":433732,"name":"Summer League 2026 | Standard #3/12","date":"2026-06-16","format":"standard","points":1,"rank":[6,6],"deck":{"archetype":"Rakdos Goblins","colors":"BR","type":null},"match_record":"0-3-1","game_record":"1-7-1"},
     {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":1,"rank":[6,6],"deck":{"archetype":"Rakdos Goblins","colors":"BR","type":null},"match_record":"0-3-1","game_record":"1-7-1"}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 0,
+  "events_count": 3,
+  "match_played": 12,
+  "match_wins": 1,
   "favorite_format": ["standard", 1]
 }
