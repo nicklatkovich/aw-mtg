@@ -108,6 +108,7 @@ export const ARCHETYPES = {
   'Mardu Blink': 'WBR',
   'Mardu Control': ['WBR', DeckType.CONTROL],
   'Mardu Doom': 'WBR',
+  'Mardu Sacrifice': 'WBR',
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],

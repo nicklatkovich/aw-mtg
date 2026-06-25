@@ -3,6 +3,48 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 439209,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #4/12',
+    date: '2026-06-25',
+    standings: [
+      { player: 'ispinyouround', rank: 1, deck: 'Rakdos Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'AnklDen', rank: 2, deck: 'Simic Merfolks', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Slava_bel', rank: 3, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Akel', rank: 4, deck: 'Jund Sacrifice', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'NickLatkovich', rank: 5, deck: 'Izzet Phoenix', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 6, deck: 'Izzet Spellementals', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'TroV1', rank: 7, deck: '5c Song of Creation', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'ktna', rank: 8, deck: 'Mardu Sacrifice', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '0-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['ispinyouround', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Akel'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['ktna', 'Slava_bel'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['AnklDen', 'Slava_bel'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'Akel'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['TroV1', 'ktna'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Akel', 'Slava_bel'], winner: 2, record: '2-1-0' },
+        { players: ['ispinyouround', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'TroV1'], winner: 1, record: '2-1-0' },
+        { players: ['ktna', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Slava_bel', 'ispinyouround'], winner: 2, record: '2-0-0' },
+        { players: ['Akel', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'ktna'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'TroV1'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 433740,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #3/12',
