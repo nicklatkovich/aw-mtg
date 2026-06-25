@@ -4,6 +4,7 @@
   "display_name": "Raptunovich Aleksei",
   "color_stats": {"R":1,"U":0.08441558441558442,"B":0.1168831168831169,"G":0.012987012987012988,"W":0.5974025974025974},
   "recent_events": [
+    {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":9,"rank":[5,16],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Mono-Red Madness","colors":"R","type":null}},
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":"2026-1-league-finals-pauper","name":"★★★ Spring League 2026 | Pauper Finals","date":"2026-05-14","format":"pauper","points":12,"rank":[2,6],"match_record":"4-1-0"},
@@ -147,8 +148,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":12,"rank":[1,12],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}
   ],
-  "events_count": 142,
-  "match_played": 558,
-  "match_wins": 340,
-  "favorite_format": ["pioneer", 0.4788732394366197]
+  "events_count": 143,
+  "match_played": 562,
+  "match_wins": 343,
+  "favorite_format": ["pioneer", 0.4755244755244755]
 }

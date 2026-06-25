@@ -1,4 +1,5 @@
 [
+  {"id":438920,"format":"pauper","date":"2026-06-24","name":"Summer League 2026 | Pauper #4/12","players_count":16,"winner":{"player":{"display_name":"Smoktunovich Kirill","id":"dukalis1985"}}},
   {"id":438677,"format":"standard","date":"2026-06-23","name":"Summer League 2026 | Standard #4/12","players_count":3,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":438129,"format":"modern","date":"2026-06-20","name":"Summer League 2026 | Modern #2/9","players_count":11,"winner":{"player":{"display_name":"Wang Dennis","id":"wfmsa"},"deck":{"archetype":"Temur Rhinos","colors":"URG","type":null}}},
   {"id":437878,"format":"draft","date":"2026-06-19","name":"Summer League 2026 | Draft #1 (ECL)","players_count":10,"winner":{"player":{"display_name":"Polevskiy Nikita","id":"nikitap"}}},
