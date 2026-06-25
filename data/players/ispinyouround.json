@@ -4,7 +4,7 @@
   "display_name": "Paulouski Tsimafei",
   "color_stats": {"B":1,"R":0.8771498771498771,"U":0.1769041769041769,"W":0.004914004914004914,"G":0.004914004914004914},
   "recent_events": [
-    {"id":439209,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-25","format":"pioneer","points":9,"rank":[1,8],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-2-0"},
+    {"id":439209,"name":"Summer League 2026 | Pioneer #4/12","date":"2026-06-25","format":"pioneer","points":9,"rank":[1,8],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":3,"rank":[5,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"}},
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"4-0-0","game_record":"8-0-0"},
