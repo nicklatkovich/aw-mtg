@@ -2,8 +2,10 @@
   "guid": "b8d65678-3f77-49a6-a51d-f80ef537419d",
   "id": "farsmac",
   "display_name": "Rapanovich Yauhen",
-  "color_stats": {"G":0.5818815331010454,"W":0.3031358885017421,"U":1,"B":0.3031358885017421,"R":0.11149825783972125},
+  "color_stats": {"U":1,"G":0.6214511041009465,"W":0.27444794952681384,"B":0.27444794952681384,"R":0.10094637223974763},
   "recent_events": [
+    {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":10,"rank":[3,14],"deck":{"archetype":"Simic Omni-Tell","colors":"UG","type":"Combo"},"match_record":"3-1-1","game_record":"6-3-3"},
+    {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":3,"rank":[8,12],"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":12,"rank":[1,14],"deck":{"archetype":"Amulet Titan","colors":"G","type":"Combo"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":408604,"name":"Spring League 2026 | Modern #2/12","date":"2026-03-01","format":"modern","points":3,"rank":[11,14],"deck":{"archetype":"Colorless Tron","colors":"c","type":null},"match_record":"1-3-0","game_record":"3-7-0"},
     {"id":405315,"name":"Spring League 2026 | Modern #1/12","date":"2026-02-22","format":"modern","points":6,"rank":[13,18],"match_record":"2-2-0","game_record":"6-5-0"},
@@ -31,8 +33,8 @@
     {"id":233771,"date":"2025-01-23","format":"pioneer","points":7,"rank":[5,15]},
     {"id":130326,"date":"2024-08-08","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 26,
-  "match_played": 87,
-  "match_wins": 42,
+  "events_count": 28,
+  "match_played": 95,
+  "match_wins": 46,
   "favorite_format": ["legacy", 0.5]
 }

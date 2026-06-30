@@ -2,8 +2,9 @@
   "guid": "a52d83e2-0c2f-4fe0-bc03-1d03a54a4170",
   "id": "tanti",
   "display_name": "Charniauski Mikita",
-  "color_stats": {"U":1,"B":0.6086956521739131,"W":0.5217391304347828,"R":0.5652173913043479,"G":0.17391304347826086},
+  "color_stats": {"W":0.5416666666666669,"U":1,"R":0.5833333333333335,"B":0.5833333333333335,"G":0.16666666666666669},
   "recent_events": [
+    {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":6,"rank":[5,14],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":9,"rank":[2,6],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[5,8],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":12,"rank":[1,9],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"4-0-0","game_record":"8-1-0"},
@@ -36,8 +37,8 @@
     {"id":"m250608","name":"Summer League 2025 | Modern #1","date":"2025-06-08","format":"modern","points":0,"rank":[5,5],"deck":{"archetype":"Grixis Control","colors":"UBR","type":"Control"}},
     {"id":315138,"date":"2025-06-01","format":"legacy","points":9,"rank":[1,5],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 31,
-  "match_played": 108,
-  "match_wins": 64,
-  "favorite_format": ["modern", 0.6774193548387096]
+  "events_count": 32,
+  "match_played": 112,
+  "match_wins": 66,
+  "favorite_format": ["modern", 0.65625]
 }

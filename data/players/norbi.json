@@ -2,10 +2,11 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"W":0.3809523809523809,"U":1,"R":0.9809523809523808,"B":0.20952380952380953,"G":0.11428571428571427},
+  "color_stats": {"W":0.39252336448598124,"U":1,"G":0.1308411214953271,"R":0.9626168224299064,"B":0.20560747663551404},
   "recent_events": [
+    {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":4,"rank":[9,14],"deck":{"archetype":"Bant Control","colors":"WUG","type":"Control"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":438129,"name":"Summer League 2026 | Modern #2/9","date":"2026-06-20","format":"modern","points":3,"rank":[11,11],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
-    {"id":437878,"name":"Summer League 2026 | Draft #1 (ECL)","date":"2026-06-19","format":"draft","points":4,"rank":[6,10],"match_record":"1-2-1","game_record":"3-5-3"},
+    {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":4,"rank":[6,10],"match_record":"1-2-1","game_record":"3-5-3"},
     {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":0,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":434858,"name":"Summer League 2026 | Modern #1/9","date":"2026-06-07","format":"modern","points":3,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
@@ -77,8 +78,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 72,
-  "match_played": 250,
-  "match_wins": 136,
-  "favorite_format": ["pioneer", 0.4583333333333333]
+  "events_count": 73,
+  "match_played": 254,
+  "match_wins": 137,
+  "favorite_format": ["pioneer", 0.4520547945205479]
 }
