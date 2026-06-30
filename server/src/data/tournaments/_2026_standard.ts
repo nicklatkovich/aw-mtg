@@ -3,6 +3,36 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 440076,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #5/12',
+    date: '2026-06-30',
+    standings: [
+      { player: 'BRV', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'vladislavyurel', rank: 2, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '4-3-0' },
+      { player: 'Sergey', rank: 3, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'lcpsp', rank: 4, points: 3, mp: 2, mw: 1, match_record: '1-1-0', game_record: '1-2-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'Sergey'], winner: 1, record: '2-0-0' },
+        { players: ['lcpsp', 'vladislavyurel'], winner: 1, record: '1-0-0' },
+      ],
+      [
+        { players: ['lcpsp', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Sergey', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['vladislavyurel', null], winner: 1, record: 'bye' },
+        { players: ['Sergey', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 438677,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #4/12',

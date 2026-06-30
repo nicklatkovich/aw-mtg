@@ -216,6 +216,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '32e3b0dd-0de2-46af-8cf5-6187548f4e42': 'Wang Dennis',
   'a984b90b-e758-41eb-9ebd-46e1b520c10e': 'Beliy Artemiy',
   'a931c076-d03d-4ab3-ac20-a8fca3934016': 'Ferrari Antonio',
+  '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0': 'S* Anna',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -467,4 +468,5 @@ export const playersByUsername: { [username in string]?: string } = {
   ktna: 'a984b90b-e758-41eb-9ebd-46e1b520c10e',
   nubila0: '32e3b0dd-0de2-46af-8cf5-6187548f4e42',
   FerrariStar: 'a931c076-d03d-4ab3-ac20-a8fca3934016',
+  lcpsp: '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0',
 };
