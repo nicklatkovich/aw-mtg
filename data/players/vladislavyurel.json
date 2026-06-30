@@ -4,13 +4,14 @@
   "display_name": "Yurel Vladislav",
   "color_stats": {"U":1},
   "recent_events": [
+    {"id":440076,"name":"Summer League 2026 | Standard #5/12","date":"2026-06-30","format":"standard","points":6,"rank":[2,4],"match_record":"2-2-0","game_record":"4-3-0"},
     {"id":438677,"name":"Summer League 2026 | Standard #4/12","date":"2026-06-23","format":"standard","points":7,"rank":[2,3],"deck":{"archetype":"Mono-Blue Elementals","colors":"U","type":"Tempo"},"match_record":"2-1-1","game_record":"5-3-0"},
     {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":3,"rank":[8,10],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":433732,"name":"Summer League 2026 | Standard #3/12","date":"2026-06-16","format":"standard","points":4,"rank":[5,6],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"1-2-1","game_record":"3-5-1"},
     {"id":433731,"name":"Summer League 2026 | Standard #2/12","date":"2026-06-09","format":"standard","points":2,"rank":[5,6],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"0-2-2","game_record":"2-6-2"}
   ],
-  "events_count": 4,
-  "match_played": 15,
-  "match_wins": 4,
-  "favorite_format": ["standard", 0.75]
+  "events_count": 5,
+  "match_played": 19,
+  "match_wins": 6,
+  "favorite_format": ["standard", 0.8]
 }

@@ -1,0 +1,13 @@
+{
+  "guid": "0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0",
+  "id": "lcpsp",
+  "display_name": "S* Anna",
+  "color_stats": {},
+  "recent_events": [
+    {"id":440076,"name":"Summer League 2026 | Standard #5/12","date":"2026-06-30","format":"standard","points":3,"rank":[4,4],"match_record":"1-1-0","game_record":"1-2-0"}
+  ],
+  "events_count": 1,
+  "match_played": 2,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
+}
