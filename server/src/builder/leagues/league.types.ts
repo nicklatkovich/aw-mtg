@@ -15,4 +15,5 @@ export type LeagueInfo = {
   events: (Tournament | null)[];
   rank_override?: (string | null)[]; // array of player's guids to override default sorting
   is_finished?: boolean;
+  determined_top?: number;
 };

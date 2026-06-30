@@ -1,0 +1,71 @@
+import { Format } from '@dtos';
+
+import { Tournament } from '../data.types';
+
+export const _2026_legacy: Tournament[] = [
+  {
+    id: 439920,
+    format: Format.LEGACY,
+    name: 'Summer League 2026 | Legacy #1/3',
+    date: '2026-06-28',
+    standings: [
+      { player: 'Aleksandr_KoLoshk', deck: 'Dimir Doomsday', rank: 1, points: 9, mp: 6, mw: 5, match_record: '5-1-0', game_record: '10-3-0', omw: 50.0, tgw: 75.0, ogw: 48.61111 },
+      { player: 'qvertion', deck: 'Mardu Energy', rank: 2, points: 10, mp: 6, mw: 4, match_record: '4-1-1', game_record: '9-3-3', omw: 60.41667, tgw: 77.77778, ogw: 56.73611 },
+      { player: 'farsmac', deck: 'Simic Omni-Tell', rank: 3, points: 10, mp: 5, mw: 3, match_record: '3-1-1', game_record: '6-3-3', omw: 50.0, tgw: 70.0, ogw: 48.61111 },
+      { player: 'nubila0', deck: 'Dimir Midrange', rank: 4, points: 9, mp: 5, mw: 3, match_record: '3-2-0', game_record: '7-6-0', omw: 41.66667, tgw: 60.0, ogw: 45.48611 },
+      { player: 'Tanti', deck: 'Jeskai Control', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0', omw: 60.41667, tgw: 50.0, ogw: 59.86111 },
+      { player: 'andrei', deck: 'Mono-Green Lands', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0', omw: 60.41667, tgw: 44.44444, ogw: 55.27778 },
+      { player: 'aspelled', deck: 'Dimir Doomsday', rank: 7, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0', omw: 47.91667, tgw: 50.0, ogw: 43.0303 },
+      { player: '4onoki', deck: 'Mardu Energy', rank: 8, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0', omw: 37.5, tgw: 45.45455, ogw: 37.5 },
+      { player: 'Norbi', deck: 'Bant Control', rank: 9, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '3-5-0', omw: 56.25, tgw: 37.5, ogw: 55.27778 },
+      { player: 'K1ppy', deck: 'Izzet Aggro', rank: 10, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-5-0', omw: 47.91667, tgw: 50.0, ogw: 45.20833 },
+      { player: 'diuzhev', deck: 'Mono-Black Reanimator', rank: 11, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 64.58333, tgw: 33.33333, ogw: 59.86111 },
+      { player: 'NickLatkovich', deck: 'Mono-Blue Omni-Tell', rank: 12, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 52.08333, tgw: 33.33333, ogw: 50.94697 },
+      { player: 'BRV', deck: 'Izzet Aggro', rank: 13, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 50.0, tgw: 33.33333, ogw: 46.57197 },
+      { player: 'BregoXX', deck: 'Izzet Sneak and Show', rank: 14, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0', omw: 37.5, tgw: 33.33333, ogw: 40.5303 },
+    ],
+    rounds: [
+      [
+        { players: ['NickLatkovich', 'BregoXX'], winner: 1, record: '2-0-0' },
+        { players: ['K1ppy', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['farsmac', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'diuzhev'], winner: 1, record: '2-0-0' },
+        { players: ['4onoki', 'aspelled'], winner: 2, record: '2-1-0' },
+        { players: ['nubila0', 'andrei'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['aspelled', 'diuzhev'], winner: 2, record: '2-0-0' },
+        { players: ['NickLatkovich', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+        { players: ['andrei', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['Tanti', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['K1ppy', 'BregoXX'], winner: 1, record: '2-0-0' },
+        { players: ['nubila0', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', '4onoki'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', 'diuzhev'], winner: 1, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['nubila0', 'K1ppy'], winner: 1, record: '2-1-0' },
+        { players: ['Tanti', 'andrei'], winner: 1, record: '2-0-0' },
+        { players: ['NickLatkovich', 'aspelled'], winner: 2, record: '2-0-0' },
+        { players: ['4onoki', 'BregoXX'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'farsmac'], winner: 0, record: '0-0-3' },
+        { players: ['Aleksandr_KoLoshk', 'Tanti'], winner: 1, record: '2-0-0' },
+        { players: ['nubila0', 'aspelled'], winner: 1, record: '2-1-0' },
+        { players: ['4onoki', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['andrei', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'K1ppy'], winner: 0, record: '1-1-0' },
+        { players: ['BregoXX', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'nubila0'], winner: 1, record: '2-1-0' },
+        { players: ['farsmac', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+      ],
+      [{ players: ['qvertion', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' }],
+    ],
+  },
+];

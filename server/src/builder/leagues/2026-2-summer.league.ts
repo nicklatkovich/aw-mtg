@@ -1,5 +1,6 @@
 import { Format } from '@dtos';
 import { Tournament } from '@server/data/data.types';
+import { _2026_legacy } from '@server/data/tournaments/_2026_legacy';
 import { _2026_limited } from '@server/data/tournaments/_2026_limited';
 import { _2026_modern } from '@server/data/tournaments/_2026_modern';
 import { _2026_pauper } from '@server/data/tournaments/_2026_pauper';
@@ -7,8 +8,6 @@ import { _2026_pioneer } from '@server/data/tournaments/_2026_pioneer';
 import { _2026_standard } from '@server/data/tournaments/_2026_standard';
 
 import { LeagueInfo } from './league.types';
-
-const _2026_legacy: Tournament[] = [];
 
 const STARTED_AT = new Date('2026-06-01').getTime();
 
@@ -60,8 +59,8 @@ export const summer2026League: LeagueInfo[] = [
     format: Format.DRAFT,
     display_name: 'Limited',
     table_id: 'limited',
-    total_events: 12,
-    top: 6,
+    total_events: 13,
+    top: 8,
     events_to_extra_point: 0,
     events: slice(_2026_limited, 12),
   },
@@ -76,5 +75,9 @@ export const summer2026League: LeagueInfo[] = [
     disable_4_0_extra_point: true,
     display_tiebreakers: true,
     events: slice(_2026_legacy, 3),
+    rank_override: [
+      '037e76b0-88c8-4458-94a8-d63c2f9a8155', // Kolyshko Alexander
+    ],
+    determined_top: 1,
   },
 ];

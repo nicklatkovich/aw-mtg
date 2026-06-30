@@ -68,6 +68,9 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
           }
           const nonSignificantEventIndices = new Set(points.slice(6).map((e) => e[0]));
           const nameClass = !league.is_finished || index >= league.top ? '' : index === 0 ? 'red-highlight' : 'red';
+          const finalist =
+            player.total_points > finalistPointsThreshold ||
+            (league.determined_top !== undefined && index + 1 <= league.determined_top);
           return (
             <div
               style={{ display: 'contents' }}
@@ -75,7 +78,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
               className={[
                 index + 1 === league.top ? 'last-top' : '',
                 displayMaxPoints && player.max_points < minMaxPointsToMakeTop ? 'red-row' : '',
-                player.total_points > finalistPointsThreshold && !league.is_finished ? 'green-row' : '',
+                finalist && !league.is_finished ? 'green-row' : '',
               ].join(' ')}
             >
               <div className={`cell ${nameClass}`}>{index + 1}</div>

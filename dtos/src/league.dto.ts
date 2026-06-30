@@ -25,4 +25,5 @@ export type LeagueDto = {
   event_ids: (string | number | null)[];
   players: LeaguePlayerDto[];
   is_finished?: boolean;
+  determined_top?: number;
 };

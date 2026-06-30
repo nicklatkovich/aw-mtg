@@ -135,6 +135,7 @@ ${leagueDto
       ...(l.is_finished ? ['"is_finished": true,'] : []),
       ...(l.disable_4_0_extra_point ? ['"disable_4_0_extra_point": true,'] : []),
       ...(l.display_tiebreakers ? ['"display_tiebreakers": true,'] : []),
+      ...(l.determined_top !== undefined ? [`"determined_top": ${l.determined_top},`] : []),
       `"event_ids": [${l.event_ids
         .map((id) => (id === null ? 'null' : typeof id === 'string' ? `"${id}"` : id))
         .join(', ')}]`,

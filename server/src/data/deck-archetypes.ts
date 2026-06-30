@@ -241,6 +241,7 @@ export const ARCHETYPES = {
   'Izzet Erayo': 'UR',
   'Izzet Pirates': 'UR',
   'Izzet Rona Combo': ['UR', DeckType.COMBO],
+  'Izzet Sneak and Show': ['UR', DeckType.COMBO],
   // URG
   'Temur Beanstalk': ['URG', DeckType.CONTROL],
   'Temur Aggro': ['URG', DeckType.AGGRO],
@@ -278,6 +279,7 @@ export const ARCHETYPES = {
   'Mono-Black Land Destruction': 'B',
   'Mono-Black Devotion': 'B',
   'Oops! All Spells': ['B', DeckType.COMBO],
+  'Mono-Black Reanimator': 'B',
   // BR
   'Rakdos Vampires': ['BR', DeckType.MIDRANGE],
   'Rakdos Midrange': ['BR', DeckType.MIDRANGE],

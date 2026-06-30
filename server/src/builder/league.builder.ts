@@ -95,6 +95,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
       players: sortedPlayers,
       event_ids: league.events.map((e) => e?.id ?? null),
       is_finished: league.is_finished,
+      determined_top: league.determined_top,
     };
     return result;
   });
