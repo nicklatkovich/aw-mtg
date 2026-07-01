@@ -4,6 +4,7 @@
   "display_name": "Anna Misiuk",
   "color_stats": {"W":1,"U":0.3333333333333333},
   "recent_events": [
+    {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":1,"rank":[16,17],"match_record":"0-3-1","game_record":"1-7-0"},
     {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":3,"rank":[15,16],"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":433737,"name":"Summer League 2026 | Pauper #3/12","date":"2026-06-17","format":"pauper","points":1,"rank":[14,14],"match_record":"0-3-1","game_record":"1-7-0"},
     {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":3,"rank":[17,17],"match_record":"1-3-0","game_record":"2-6-0"},
@@ -11,8 +12,8 @@
     {"id":428698,"name":"Daily | Pauper (13.05.26)","date":"2026-05-13","format":"pauper","points":7,"rank":[5,14],"deck":{"archetype":"Mono-White Aggro","colors":"W","type":"Aggro"},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":3,"rank":[11,13],"match_record":"1-3-0","game_record":"2-5-0"}
   ],
-  "events_count": 6,
-  "match_played": 24,
+  "events_count": 7,
+  "match_played": 28,
   "match_wins": 6,
   "favorite_format": ["pauper", 1]
 }

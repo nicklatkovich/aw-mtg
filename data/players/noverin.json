@@ -4,11 +4,12 @@
   "display_name": "Novik Misha",
   "color_stats": {"R":1},
   "recent_events": [
+    {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":6,"rank":[8,17],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":3,"rank":[16,20],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":3,"rank":[10,14]}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 2,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 3,
+  "match_played": 12,
+  "match_wins": 4,
+  "favorite_format": ["pauper", 0.6666666666666666]
 }

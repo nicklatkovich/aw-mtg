@@ -4,6 +4,7 @@
   "display_name": "Birukov Arthur",
   "color_stats": {"U":0.7272727272727273,"R":1,"G":0.27272727272727276,"W":0.27272727272727276,"B":1},
   "recent_events": [
+    {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":9,"rank":[5,17],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":6,"rank":[10,16],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":433737,"name":"Summer League 2026 | Pauper #3/12","date":"2026-06-17","format":"pauper","points":4,"rank":[9,14],"match_record":"1-2-1","game_record":"4-4-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[4,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
@@ -13,8 +14,8 @@
     {"id":324258,"name":"Summer League 2025 | Premodern #1","date":"2025-06-14","format":"premodern","points":9,"rank":[1,7],"deck":{"archetype":"Mono-Black Pit Rack","colors":"B","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":324252,"name":"Summer League 2025 | Pauper #2","date":"2025-06-11","format":"pauper","points":6,"rank":[11,17],"deck":{"archetype":"Grixis Madness Burn","colors":"UBR","type":null},"match_record":"2-2-0","game_record":"5-5-0"}
   ],
-  "events_count": 8,
-  "match_played": 32,
-  "match_wins": 16,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 9,
+  "match_played": 36,
+  "match_wins": 19,
+  "favorite_format": ["pauper", 0.5555555555555556]
 }

@@ -4,6 +4,7 @@
   "display_name": "Kokhan Roman",
   "color_stats": {"B":0.38350340136054417,"R":1,"W":0.6130952380952379,"G":0.27295918367346933,"U":0.2049319727891156},
   "recent_events": [
+    {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":12,"rank":[1,17],"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":6,"rank":[6,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":433737,"name":"Summer League 2026 | Pauper #3/12","date":"2026-06-17","format":"pauper","points":12,"rank":[1,14],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":9,"rank":[4,17],"match_record":"3-1-0","game_record":"6-2-0"},
@@ -147,8 +148,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[7,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[2,12]}
   ],
-  "events_count": 142,
-  "match_played": 557,
-  "match_wins": 332,
-  "favorite_format": ["pioneer", 0.38028169014084506]
+  "events_count": 143,
+  "match_played": 561,
+  "match_wins": 336,
+  "favorite_format": ["pioneer", 0.3776223776223776]
 }
