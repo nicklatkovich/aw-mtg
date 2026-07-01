@@ -469,4 +469,5 @@ export const playersByUsername: { [username in string]?: string } = {
   nubila0: '32e3b0dd-0de2-46af-8cf5-6187548f4e42',
   FerrariStar: 'a931c076-d03d-4ab3-ac20-a8fca3934016',
   lcpsp: '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0',
+  pichushkin8: 'e6d28df5-a35e-434f-87f0-4be11c9b9079',
 };
