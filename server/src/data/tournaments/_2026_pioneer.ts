@@ -3,6 +3,38 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 440363,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #5/12',
+    date: '2026-07-02',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'ZI', rank: 2, deck: 'Gruul Aggro', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Human11', rank: 3, deck: 'Rakdos Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'myhji', rank: 4, deck: 'Simic Flash', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Human11', 'myhji'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'ZI'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Human11', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['myhji', 'ZI'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'myhji'], winner: 1, record: '2-0-0' },
+        { players: ['ZI', 'Human11'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Human11', null], winner: 1, record: 'bye' },
+        { players: ['ZI', null], winner: 1, record: 'bye' },
+        { players: ['myhji', null], winner: 1, record: 'bye' },
+      ],
+    ],
+  },
+  {
     id: 439209,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #4/12',

@@ -3,6 +3,54 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 441875,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #3/9',
+    date: '2026-07-05',
+    standings: [
+      { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
+      { player: 'IvaD', rank: 2, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 3, deck: 'Mono-Red Ponza', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'Kihikara', rank: 4, deck: 'Sultai Living End', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'PanzerGold', rank: 5, deck: 'Eldrazi', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 6, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'qvertion', rank: 7, deck: 'Jeskai Energy', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'Pivovarishe', rank: 8, deck: 'Mono-Black Discard', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: 'PolR', rank: 9, deck: 'Domain Zoo', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
+      { player: 'Norbi', rank: 10, deck: 'Domain Zoo', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['PanzerGold', 'Kihikara'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['IvaD', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Pivovarishe', 'Azurenia'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'PolR'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Azurenia', 'Kihikara'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'PanzerGold'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'IvaD'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Pivovarishe'], winner: 1, record: '2-0-0' },
+        { players: ['PolR', 'Norbi'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['PanzerGold', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+        { players: ['Azurenia', 'IvaD'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Pivovarishe'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['PolR', 'Kihikara'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['PolR', null], winner: 1, record: 'bye' },
+        { players: ['Azurenia', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Kihikara'], winner: 2, record: '2-1-0' },
+        { players: ['PanzerGold', 'IvaD'], winner: 2, record: '2-1-0' },
+        { players: ['Pivovarishe', 'qvertion'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 438129,
     format: Format.MODERN,
     name: 'Summer League 2026 | Modern #2/9',

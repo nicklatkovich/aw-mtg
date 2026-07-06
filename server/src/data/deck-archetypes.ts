@@ -268,6 +268,7 @@ export const ARCHETYPES = {
   'Simic Grinding Emry': 'UG',
   'Simic Merfolks': 'UG',
   'Simic Pizza Combo': ['UG', DeckType.COMBO],
+  'Simic Flash': 'UG',
   // B
   'Mono-Black Discard': ['B', DeckType.MIDRANGE],
   'Mono-Black Midrange': ['B', DeckType.MIDRANGE],

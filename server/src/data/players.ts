@@ -217,6 +217,12 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'a984b90b-e758-41eb-9ebd-46e1b520c10e': 'Beliy Artemiy',
   'a931c076-d03d-4ab3-ac20-a8fca3934016': 'Ferrari Antonio',
   '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0': 'S* Anna',
+  '432e2674-fa02-4af3-b0cd-eb5b13876888': 'Shkerenok Evgeny',
+  '663759e2-28ac-46e4-b153-3c720f2ceff4': 'Zmachynskaya Elizaveta',
+  '1972c86c-b445-4072-b9bf-429110686e02': 'Zubchenok Anton',
+  'f20975a4-c9d7-4f0a-a4d0-01a9264b2193': 'Savko Nikita',
+  'b8d9026b-de93-48f2-8dac-ce6915ccc3f2': 'Starevich Slava',
+  '261eb0c0-4782-4e3c-8a12-20efc68e6115': 'Kopylovich Maksim',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -470,4 +476,10 @@ export const playersByUsername: { [username in string]?: string } = {
   FerrariStar: 'a931c076-d03d-4ab3-ac20-a8fca3934016',
   lcpsp: '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0',
   pichushkin8: 'e6d28df5-a35e-434f-87f0-4be11c9b9079',
+  myhji: '432e2674-fa02-4af3-b0cd-eb5b13876888',
+  Elfaitelson: '663759e2-28ac-46e4-b153-3c720f2ceff4',
+  tqvlt: '1972c86c-b445-4072-b9bf-429110686e02',
+  Mopsist: 'f20975a4-c9d7-4f0a-a4d0-01a9264b2193',
+  SlaS2: 'b8d9026b-de93-48f2-8dac-ce6915ccc3f2',
+  AladiN: '261eb0c0-4782-4e3c-8a12-20efc68e6115',
 };
