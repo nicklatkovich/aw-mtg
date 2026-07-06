@@ -2,8 +2,9 @@
   "guid": "16f3ca52-6de4-4ad0-9217-345bde3c0312",
   "id": "polr",
   "display_name": "Romanenko Polina",
-  "color_stats": {"W":0.1,"U":1,"B":0.13333333333333333,"R":0.23333333333333334,"G":0.13333333333333333},
+  "color_stats": {"W":0.11764705882352941,"U":1,"B":0.1503267973856209,"R":0.2483660130718955,"G":0.1503267973856209},
   "recent_events": [
+    {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":3,"rank":[9,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":421627,"name":"Spring League 2026 | Modern #9/12","date":"2026-04-19","format":"modern","points":6,"rank":[8,13],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":408613,"name":"Spring League 2026 | Modern #4/12","date":"2026-03-15","format":"modern","points":6,"rank":[10,13],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":408612,"name":"Spring League 2026 | Modern #3/12","date":"2026-03-08","format":"modern","points":3,"rank":[10,12],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-3-0","game_record":"5-6-0"},
@@ -23,8 +24,8 @@
     {"id":304833,"name":"Daily | Pioneer (08.05)","date":"2025-05-08","format":"pioneer","points":3,"rank":[10,11],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":258802,"name":"League Pioneer | Season 5 (6/12)","date":"2025-03-06","format":"pioneer","points":1,"rank":[14,16],"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}
   ],
-  "events_count": 18,
-  "match_played": 69,
-  "match_wins": 23,
-  "favorite_format": ["pauper", 0.5555555555555556]
+  "events_count": 19,
+  "match_played": 73,
+  "match_wins": 24,
+  "favorite_format": ["pauper", 0.5263157894736842]
 }

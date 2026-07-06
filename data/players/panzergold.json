@@ -4,10 +4,11 @@
   "display_name": "Kazak Dzmitry",
   "color_stats": {"U":1},
   "recent_events": [
+    {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":6,"rank":[5,10],"deck":{"archetype":"Eldrazi","colors":"c","type":"Midrange"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":10,"rank":[7,24],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-2-1","game_record":"8-5-3"}
   ],
-  "events_count": 1,
-  "match_played": 6,
-  "match_wins": 3,
-  "favorite_format": ["pauper", 1]
+  "events_count": 2,
+  "match_played": 10,
+  "match_wins": 5,
+  "favorite_format": ["modern", 0.5]
 }

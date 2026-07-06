@@ -1,0 +1,13 @@
+{
+  "guid": "261eb0c0-4782-4e3c-8a12-20efc68e6115",
+  "id": "aladin",
+  "display_name": "Kopylovich Maksim",
+  "color_stats": {},
+  "recent_events": [
+    {"id":440366,"name":"Summer League 2026 | Draft #4 (MSH)","date":"2026-07-03","format":"draft","points":4,"rank":[3,6],"match_record":"1-1-1","game_record":"3-3-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["draft", 1]
+}

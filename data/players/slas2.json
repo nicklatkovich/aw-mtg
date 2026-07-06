@@ -1,0 +1,13 @@
+{
+  "guid": "b8d9026b-de93-48f2-8dac-ce6915ccc3f2",
+  "id": "slas2",
+  "display_name": "Starevich Slava",
+  "color_stats": {},
+  "recent_events": [
+    {"id":440365,"name":"Summer League 2026 | Sealed #2 (MSH)","date":"2026-07-03","format":"sealed","points":0,"rank":[6,6],"match_record":"0-3-0","game_record":"2-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 0,
+  "favorite_format": ["sealed", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "432e2674-fa02-4af3-b0cd-eb5b13876888",
+  "id": "myhji",
+  "display_name": "Shkerenok Evgeny",
+  "color_stats": {"U":1,"G":1},
+  "recent_events": [
+    {"id":440363,"name":"Summer League 2026 | Pioneer #5/12","date":"2026-07-02","format":"pioneer","points":3,"rank":[4,4],"deck":{"archetype":"Simic Flash","colors":"UG","type":null},"match_record":"1-3-0","game_record":"2-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 1,
+  "favorite_format": ["pioneer", 1]
+}

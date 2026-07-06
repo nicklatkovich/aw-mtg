@@ -2,12 +2,14 @@
   "guid": "afe3537f-2921-483d-8607-7ce7777cb6f5",
   "id": "zi",
   "display_name": "Zinovev Ilya",
-  "color_stats": {},
+  "color_stats": {"R":1,"G":1},
   "recent_events": [
+    {"id":440365,"name":"Summer League 2026 | Sealed #2 (MSH)","date":"2026-07-03","format":"sealed","points":9,"rank":[1,6],"match_record":"3-0-0","game_record":"6-1-0"},
+    {"id":440363,"name":"Summer League 2026 | Pioneer #5/12","date":"2026-07-02","format":"pioneer","points":9,"rank":[2,4],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":144635,"date":"2024-09-05","format":"pioneer","points":3,"rank":[11,11]}
   ],
-  "events_count": 1,
-  "match_played": 3,
-  "match_wins": 1,
-  "favorite_format": ["pioneer", 1]
+  "events_count": 3,
+  "match_played": 10,
+  "match_wins": 7,
+  "favorite_format": ["pioneer", 0.6666666666666666]
 }

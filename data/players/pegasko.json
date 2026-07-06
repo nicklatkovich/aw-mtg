@@ -4,11 +4,12 @@
   "display_name": "Dychek Dmitry",
   "color_stats": {"B":1,"G":0.5,"R":0.5},
   "recent_events": [
+    {"id":440367,"name":"Summer League 2026 | Sealed #3 (MSH)","date":"2026-07-04","format":"sealed","points":7,"rank":[1,8],"match_record":"2-0-1","game_record":"5-2-0"},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":0,"rank":[24,24],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null},"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":7,"rank":[19,33],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-1","game_record":"6-7-1"}
   ],
-  "events_count": 2,
-  "match_played": 8,
-  "match_wins": 2,
-  "favorite_format": ["pauper", 0.5]
+  "events_count": 3,
+  "match_played": 11,
+  "match_wins": 4,
+  "favorite_format": ["sealed", 0.3333333333333333]
 }
