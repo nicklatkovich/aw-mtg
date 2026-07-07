@@ -3,8 +3,8 @@ import { Match, Standing } from '@server/data/data.types';
 import { readFile } from 'fs/promises';
 import path from 'path';
 
-const DATA_FILE = process.env.DATA_FILE || 'tmp/apl-site-data.json';
-const TOURNAMENT_NAME = process.env.TOURNAMENT_NAME || 'APL Season 8';
+const APL_SITE_DATA_FILE = process.env.DATA_FILE || null;
+const TOURNAMENT_NAME = process.env.TOURNAMENT_NAME || null;
 const EXTEND_EVENT_ID = process.env.EXTEND_EVENT_ID || null;
 const CUSTOM_STANDINGS_FILE = process.env.CUSTOM_STANDINGS_FILE || null;
 
@@ -46,11 +46,16 @@ type CustomStandings = ReadonlyArray<{
   readonly points: number;
 }>;
 
+async function getAplSiteData(): Promise<AplSiteData | null> {
+  if (!APL_SITE_DATA_FILE) return null;
+  const content = await readFile(path.resolve(process.cwd(), APL_SITE_DATA_FILE), 'utf-8');
+  return JSON.parse(content);
+}
+
 async function main(): Promise<void> {
-  const content = await readFile(path.resolve(process.cwd(), DATA_FILE), 'utf-8');
-  const data = JSON.parse(content) as AplSiteData;
-  const tournament = data.find((t) => t.name === TOURNAMENT_NAME);
-  if (!tournament) throw new Error(`Tournament "${TOURNAMENT_NAME}" not found`);
+  const aplSiteData = await getAplSiteData();
+  const tournament = aplSiteData?.find((t) => t.name === TOURNAMENT_NAME);
+  if (!tournament) console.error(`Tournament "${TOURNAMENT_NAME}" not found`);
   const eventToExtend = allTournaments.find((t) => t.id === EXTEND_EVENT_ID) ?? null;
   const customStandings: CustomStandings = CUSTOM_STANDINGS_FILE
     ? await readFile(path.resolve(process.cwd(), CUSTOM_STANDINGS_FILE), 'utf-8').then((res) => JSON.parse(res))
@@ -63,7 +68,7 @@ async function main(): Promise<void> {
     )?.deck;
     standings.push({ rank: st.rank, player: { display_name: st.player }, points: st.points, deck });
   }
-  for (const p of tournament.players) {
+  for (const p of tournament?.players ?? []) {
     playerIdToPlayerDisplayNameMap.set(p.id, p.discordUsername);
     if (standings.some((s) => typeof s.player === 'object' && s.player.display_name === p.discordUsername)) continue;
     const match_record = `${p.matchWins}-${p.matchLosses}-${p.matchDraws}`;
@@ -81,9 +86,11 @@ async function main(): Promise<void> {
     });
   }
   const rounds: Match[][] = [];
-  for (const [roundIndex, round] of tournament.rounds.entries()) {
+  const roundsCount = Math.max(tournament?.rounds.length ?? 0, eventToExtend?.rounds?.length ?? 0);
+  for (let roundIndex = 0; roundIndex < roundsCount; roundIndex += 1) {
+    const round = tournament?.rounds[roundIndex] ?? null;
     const matches: Match[] = eventToExtend?.rounds?.[roundIndex] ?? [];
-    for (const match of round.matches) {
+    for (const match of round?.matches ?? []) {
       const p1 = playerIdToPlayerDisplayNameMap.get(match.player1Id);
       const p2 = match.player2Id === 'bye' ? null : playerIdToPlayerDisplayNameMap.get(match.player2Id);
       if (!p1 || p2 === undefined) throw new Error(`Player not found for match ${match.id}`);
@@ -118,10 +125,10 @@ async function main(): Promise<void> {
   }
   console.log(`  {`);
   console.log(`    hidden: true,`);
-  console.log(`    id: '${eventToExtend?.id ?? tournament.id}',`);
+  console.log(`    id: '${eventToExtend?.id ?? tournament?.id}',`);
   console.log(`    format: Format.PIONEER,`);
-  console.log(`    name: '${eventToExtend?.name ?? tournament.name}',`);
-  console.log(`    date: '${eventToExtend?.date ?? tournament.date.split('/').reverse().join('-')}',`);
+  console.log(`    name: '${eventToExtend?.name ?? tournament?.name}',`);
+  console.log(`    date: '${eventToExtend?.date ?? tournament?.date.split('/').reverse().join('-')}',`);
   console.log(`    standings: [`);
   for (const st of standings) {
     let stStr = `      { player: `;
