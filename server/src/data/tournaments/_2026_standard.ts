@@ -3,6 +3,36 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 442142,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #6/12',
+    date: '2026-07-07',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-3-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Simic Artifacts', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-5-0' },
+      { player: 'vladislavyurel', rank: 3, deck: 'Mono-Blue Elementals', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-3-0' },
+      { player: 'Sergey', rank: 4, deck: 'Rakdos Goblins', points: 1, mp: 4, mw: 0, match_record: '0-3-1', game_record: '1-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'vladislavyurel'], winner: 0, record: '1-1-0' },
+        { players: ['Sergey', 'NickLatkovich'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['vladislavyurel', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['Sergey', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['NickLatkovich', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['vladislavyurel', 'Sergey'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 440076,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #5/12',
