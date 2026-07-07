@@ -1,4 +1,5 @@
 [
+  {"id":442142,"format":"standard","date":"2026-07-07","name":"Summer League 2026 | Standard #6/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":441875,"format":"modern","date":"2026-07-05","name":"Summer League 2026 | Modern #3/9","players_count":10,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},
   {"id":440367,"format":"sealed","date":"2026-07-04","name":"Summer League 2026 | Sealed #3 (MSH)","players_count":8,"winner":{"player":{"display_name":"Dychek Dmitry","id":"pegasko"}}},
   {"id":440366,"format":"draft","date":"2026-07-03","name":"Summer League 2026 | Draft #4 (MSH)","players_count":6,"winner":{"player":{"display_name":"Ferrari Antonio","id":"ferraristar"}}},
