@@ -108,6 +108,6 @@ function calculateTotalPoints(points: (number | null)[], info: LeagueInfo): numb
     .slice(0, info.top_events ?? 6)
     .reduce((a, b) => a + b, 0);
   const visitingPoints = Math.max(0, pts.length - (info.events_to_extra_point ?? 6));
-  const _4_0_extra_points = info.disable_4_0_extra_point ? 0 : pts.filter((v) => v === 12).length;
+  const _4_0_extra_points = info.disable_4_0_extra_point ? 0 : pts.filter((v) => v >= 12).length;
   return topPoints + visitingPoints + _4_0_extra_points;
 }

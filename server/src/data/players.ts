@@ -223,6 +223,10 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'f20975a4-c9d7-4f0a-a4d0-01a9264b2193': 'Savko Nikita',
   'b8d9026b-de93-48f2-8dac-ce6915ccc3f2': 'Starevich Slava',
   '261eb0c0-4782-4e3c-8a12-20efc68e6115': 'Kopylovich Maksim',
+  '80960709-2bbe-4941-851f-6931da4b4862': 'Danilov Artem',
+  '28dc710c-a6ea-4236-b336-ba13b822c491': 'Zruev Ruslan',
+  '3e9d57e1-5acb-415e-91c2-97f8aa068077': 'Samoshin Anton',
+  '53dd0a35-4ace-46e1-bddf-f27967f2fbff': ['Shcherbakov *', { id: 'shcherbakov' }],
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -482,4 +486,7 @@ export const playersByUsername: { [username in string]?: string } = {
   Mopsist: 'f20975a4-c9d7-4f0a-a4d0-01a9264b2193',
   SlaS2: 'b8d9026b-de93-48f2-8dac-ce6915ccc3f2',
   AladiN: '261eb0c0-4782-4e3c-8a12-20efc68e6115',
+  jfhyw: '80960709-2bbe-4941-851f-6931da4b4862',
+  xfmjz: '28dc710c-a6ea-4236-b336-ba13b822c491',
+  tpgso: '3e9d57e1-5acb-415e-91c2-97f8aa068077',
 };

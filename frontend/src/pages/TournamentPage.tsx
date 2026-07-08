@@ -19,6 +19,7 @@ const TournamentPage: React.FC = () => {
           const displayGameRecord = data.standings.some((s) => s.game_record);
           const displayDecks = data.standings.slice(1).some((s) => s.deck);
           const winnerDeck = data.standings[0]?.deck;
+          const formatColumn = data.format === Format.TRIOS && data.standings.some((s) => s.format);
           return (
             <>
               {data.name ? <h1>{data.name}</h1> : null}
@@ -50,7 +51,7 @@ const TournamentPage: React.FC = () => {
                     'auto',
                     'auto',
                     'auto',
-                    ...(data.format === Format.TRIOS ? ['auto'] : []),
+                    ...(formatColumn ? ['auto'] : []),
                     ...(displayDecks ? ['auto'] : []),
                     ...(displayMatchRecord ? ['auto'] : []),
                     ...(displayGameRecord ? ['auto'] : []),
@@ -63,7 +64,7 @@ const TournamentPage: React.FC = () => {
                   <div className="cell">Rank</div>
                   <div className="cell">Player</div>
                   <div className="cell">Points</div>
-                  {data.format === Format.TRIOS ? <div className="cell">Format</div> : null}
+                  {formatColumn ? <div className="cell">Format</div> : null}
                   {displayDecks ? <div className="cell">Deck</div> : null}
                   {displayMatchRecord ? <div className="cell">Match Record</div> : null}
                   {displayGameRecord ? <div className="cell">Game Record</div> : null}
@@ -84,7 +85,7 @@ const TournamentPage: React.FC = () => {
                       )}
                     </div>
                     <div className="cell">{s.points}</div>
-                    {data.format === Format.TRIOS ? (
+                    {formatColumn ? (
                       <div className="cell">{s.format ? <FormatComponent value={s.format} /> : '?'}</div>
                     ) : null}
                     {displayDecks ? (

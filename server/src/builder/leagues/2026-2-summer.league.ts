@@ -59,7 +59,7 @@ export const summer2026League: LeagueInfo[] = [
     format: Format.DRAFT,
     display_name: 'Limited',
     table_id: 'limited',
-    total_events: 13,
+    total_events: 17,
     top: 8,
     events_to_extra_point: 0,
     events: slice(_2026_limited, 12),

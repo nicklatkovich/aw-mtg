@@ -89,7 +89,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
                 const nonSignificant = nonSignificantEventIndices.has(i);
                 const toImprove = p !== 0 && i === eventToImprove?.[0];
                 const className =
-                  p === 12 && !league.disable_4_0_extra_point
+                  p >= 12 && !league.disable_4_0_extra_point
                     ? '_4-0'
                     : toImprove
                       ? 'to-improve'
