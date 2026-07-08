@@ -1,0 +1,13 @@
+{
+  "guid": "53dd0a35-4ace-46e1-bddf-f27967f2fbff",
+  "id": "shcherbakov",
+  "display_name": "Shcherbakov *",
+  "color_stats": {},
+  "recent_events": [
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":0,"rank":[8,8]}
+  ],
+  "events_count": 1,
+  "match_played": 0,
+  "match_wins": 0,
+  "favorite_format": ["trios", 1]
+}

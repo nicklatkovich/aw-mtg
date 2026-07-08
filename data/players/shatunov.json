@@ -4,12 +4,13 @@
   "display_name": "Shatunov Yuri",
   "color_stats": {"B":1,"W":0.5,"U":0.5},
   "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":6,"rank":[16,19],"match_record":"2-4-0","game_record":"5-8-0"},
     {"id":370371,"name":"MTGA Pioneer (05.10.25)","date":"2025-10-05","format":"pioneer","points":6,"rank":[4,10],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":6,"rank":[4,20],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":362305,"name":"MTGA Vintage Pauper (07.09.25)","date":"2025-09-07","format":"pauper","points":3,"rank":[8,9],"deck":{"archetype":"Azorius Ephemerate","colors":"WU","type":null},"match_record":"1-3-0","game_record":"3-7-0"}
   ],
-  "events_count": 3,
-  "match_played": 11,
-  "match_wins": 5,
-  "favorite_format": ["pioneer", 0.3333333333333333]
+  "events_count": 4,
+  "match_played": 17,
+  "match_wins": 7,
+  "favorite_format": ["draft", 0.5]
 }

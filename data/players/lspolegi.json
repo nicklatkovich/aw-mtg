@@ -4,6 +4,8 @@
   "display_name": "Savchenko Oleg",
   "color_stats": {"U":1,"B":0.5,"R":0.7,"W":0.2},
   "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[8,19],"match_record":"4-3-0","game_record":"9-7-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[3,8]},
     {"id":440366,"name":"Summer League 2026 | Draft #4 (MSH)","date":"2026-07-03","format":"draft","points":7,"rank":[2,6],"match_record":"2-0-1","game_record":"4-2-0"},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":9,"rank":[3,12],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":9,"rank":[8,24],"deck":{"archetype":"Grixis Affinity","colors":"UBR","type":null},"match_record":"3-3-0","game_record":"7-8-0"},
@@ -23,8 +25,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":6,"rank":[5,14]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":12,"rank":[1,8],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 18,
-  "match_played": 72,
-  "match_wins": 43,
-  "favorite_format": ["pioneer", 0.4444444444444444]
+  "events_count": 20,
+  "match_played": 79,
+  "match_wins": 47,
+  "favorite_format": ["pioneer", 0.4]
 }

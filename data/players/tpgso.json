@@ -1,0 +1,14 @@
+{
+  "guid": "3e9d57e1-5acb-415e-91c2-97f8aa068077",
+  "id": "tpgso",
+  "display_name": "Samoshin Anton",
+  "color_stats": {},
+  "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":6,"rank":[14,19],"match_record":"2-4-0","game_record":"7-8-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":12,"rank":[1,8]}
+  ],
+  "events_count": 2,
+  "match_played": 6,
+  "match_wins": 2,
+  "favorite_format": ["draft", 0.5]
+}

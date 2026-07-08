@@ -4,6 +4,7 @@
   "display_name": "Miadzvedski Pavel",
   "color_stats": {"B":1,"R":0.7,"G":0.4,"U":0.30000000000000004},
   "recent_events": [
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[3,8]},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"}},
     {"id":424086,"name":"★★★ Big Magic Weekend | Spring 2026 | Pauper","date":"2026-05-03","format":"pauper","points":1,"rank":[21,24],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"0-2-1","game_record":"2-5-0"},
     {"id":418041,"name":"Spring League 2026 | Pauper #7/12","date":"2026-04-01","format":"pauper","points":6,"rank":[7,18],"deck":{"archetype":"Rakdos Madness","colors":"BR","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
@@ -12,8 +13,8 @@
     {"id":379115,"name":"★★★ Big Magic Weekend | Fall 2025 | Legacy","date":"2025-11-09","format":"legacy","points":13,"rank":[3,20],"deck":{"archetype":"Dimir Tempo","colors":"UB","type":"Tempo"},"match_record":"4-2-1","game_record":"8-6-3"},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":6,"rank":[5,12]}
   ],
-  "events_count": 7,
+  "events_count": 8,
   "match_played": 28,
   "match_wins": 15,
-  "favorite_format": ["pauper", 0.7142857142857143]
+  "favorite_format": ["pauper", 0.625]
 }

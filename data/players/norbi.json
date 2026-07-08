@@ -5,6 +5,8 @@
   "color_stats": {"W":0.39926062846580396,"U":1,"B":0.21441774491682075,"R":0.9630314232902034,"G":0.14048059149722736},
   "recent_events": [
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[4,19],"match_record":"5-3-0","game_record":"13-7-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[3,8]},
     {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":4,"rank":[9,14],"deck":{"archetype":"Bant Control","colors":"WUG","type":"Control"},"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":438129,"name":"Summer League 2026 | Modern #2/9","date":"2026-06-20","format":"modern","points":3,"rank":[11,11],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":4,"rank":[6,10],"match_record":"1-2-1","game_record":"3-5-3"},
@@ -79,8 +81,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 74,
-  "match_played": 257,
-  "match_wins": 138,
-  "favorite_format": ["pioneer", 0.44594594594594594]
+  "events_count": 76,
+  "match_played": 265,
+  "match_wins": 143,
+  "favorite_format": ["pioneer", 0.4342105263157895]
 }

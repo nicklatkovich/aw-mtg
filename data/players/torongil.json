@@ -4,6 +4,7 @@
   "display_name": "Bulyshkin Yauheny",
   "color_stats": {"U":0.5833333333333334,"B":1,"W":0.5833333333333334,"R":0.16666666666666669,"G":0.16666666666666669},
   "recent_events": [
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[2,8]},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":439604,"name":"Summer League 2026 | Sealed #1 (MSH)","date":"2026-06-26","format":"sealed","points":3,"rank":[5,8],"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":1,"rank":[10,10],"match_record":"0-1-1","game_record":"1-3-0"},
@@ -20,8 +21,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":0,"rank":[12,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Lich's Mastery","colors":"WUBRG","type":"Combo"}}
   ],
-  "events_count": 15,
+  "events_count": 16,
   "match_played": 49,
   "match_wins": 21,
-  "favorite_format": ["draft", 0.5333333333333333]
+  "favorite_format": ["draft", 0.5]
 }

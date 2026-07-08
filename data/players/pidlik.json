@@ -4,6 +4,8 @@
   "display_name": "Sobyanin Dmitriy",
   "color_stats": {"R":1},
   "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[2,19],"match_record":"6-3-0","game_record":"14-11-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[5,8]},
     {"id":366426,"name":"Rapa League | Draft #9 (Chaos)","date":"2025-09-21","format":"draft","points":6,"rank":[6,20],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":365579,"name":"Draft 19.09 (FIN)","date":"2025-09-19","format":"draft","points":4,"rank":[4,6],"match_record":"1-1-1","game_record":"3-3-0"},
     {"id":335217,"name":"Summer League 2025 | Draft #4 (FIN)","date":"2025-07-04","format":"draft","points":7,"rank":[5,12],"match_record":"2-1-1","game_record":"6-4-0"},
@@ -12,8 +14,8 @@
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[6,12],"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":3,"rank":[8,12],"match_record":"1-2-0","game_record":"3-4-0"}
   ],
-  "events_count": 7,
-  "match_played": 23,
-  "match_wins": 11,
-  "favorite_format": ["draft", 0.8571428571428571]
+  "events_count": 9,
+  "match_played": 32,
+  "match_wins": 17,
+  "favorite_format": ["draft", 0.7777777777777778]
 }

@@ -1,0 +1,14 @@
+{
+  "guid": "28dc710c-a6ea-4236-b336-ba13b822c491",
+  "id": "xfmjz",
+  "display_name": "Zruev Ruslan",
+  "color_stats": {},
+  "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[7,19],"match_record":"4-3-0","game_record":"9-7-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":12,"rank":[1,8]}
+  ],
+  "events_count": 2,
+  "match_played": 7,
+  "match_wins": 4,
+  "favorite_format": ["draft", 0.5]
+}

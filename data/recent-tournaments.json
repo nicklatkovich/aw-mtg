@@ -1,7 +1,9 @@
 [
   {"id":442142,"format":"standard","date":"2026-07-07","name":"Summer League 2026 | Standard #6/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":441875,"format":"modern","date":"2026-07-05","name":"Summer League 2026 | Modern #3/9","players_count":10,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},
+  {"id":441690,"format":"draft","date":"2026-07-04","name":"BRO TOUR Double Draft (SOS+ECL+TLA)","players_count":19,"winner":{"player":{"display_name":"Kopylovich Maksim","id":"aladin"}}},
   {"id":440367,"format":"sealed","date":"2026-07-04","name":"Summer League 2026 | Sealed #3 (MSH)","players_count":8,"winner":{"player":{"display_name":"Dychek Dmitry","id":"pegasko"}}},
+  {"id":"bro-tour-sealed-trios-260703","format":"trios","date":"2026-07-03","name":"BRO TOUR Sealed Trios (SOS)","players_count":24,"winner":{"player":{"display_name":"Zruev Ruslan","id":"xfmjz"}}},
   {"id":440366,"format":"draft","date":"2026-07-03","name":"Summer League 2026 | Draft #4 (MSH)","players_count":6,"winner":{"player":{"display_name":"Ferrari Antonio","id":"ferraristar"}}},
   {"id":440365,"format":"sealed","date":"2026-07-03","name":"Summer League 2026 | Sealed #2 (MSH)","players_count":6,"winner":{"player":{"display_name":"Zinovev Ilya","id":"zi"}}},
   {"id":440363,"format":"pioneer","date":"2026-07-02","name":"Summer League 2026 | Pioneer #5/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},

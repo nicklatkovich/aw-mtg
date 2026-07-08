@@ -1,0 +1,14 @@
+{
+  "guid": "80960709-2bbe-4941-851f-6931da4b4862",
+  "id": "jfhyw",
+  "display_name": "Danilov Artem",
+  "color_stats": {},
+  "recent_events": [
+    {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":15,"rank":[3,19],"match_record":"6-2-0","game_record":"13-5-0"},
+    {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":12,"rank":[1,8]}
+  ],
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 6,
+  "favorite_format": ["draft", 0.5]
+}
