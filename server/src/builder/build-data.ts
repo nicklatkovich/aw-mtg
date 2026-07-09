@@ -134,6 +134,7 @@ ${leagueDto
     ${[
       ...(l.is_finished ? ['"is_finished": true,'] : []),
       ...(l.disable_4_0_extra_point ? ['"disable_4_0_extra_point": true,'] : []),
+      ...(l.top_events !== undefined ? [`"top_events": ${l.top_events},`] : []),
       ...(l.display_tiebreakers ? ['"display_tiebreakers": true,'] : []),
       ...(l.determined_top !== undefined ? [`"determined_top": ${l.determined_top},`] : []),
       `"event_ids": [${l.event_ids

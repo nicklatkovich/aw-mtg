@@ -42,4 +42,7 @@ export type Tournament = {
   date: string;
   standings: Standing[];
   rounds?: Match[][];
+  leagueProps?: {
+    disable_4_0_extra_point?: boolean;
+  };
 };

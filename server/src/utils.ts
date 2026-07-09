@@ -2,6 +2,10 @@ export function _assertType<V>(_v: V): asserts _v is V {
   //
 }
 
+export function _castToType<T extends V, V>(_v: V): asserts _v is T {
+  void _v;
+}
+
 /** @author ChatGPT */
 export function toValidPropertyKey(key: string): string {
   const identifierRegex = /^[A-Za-z_$][A-Za-z0-9_$]*$/;

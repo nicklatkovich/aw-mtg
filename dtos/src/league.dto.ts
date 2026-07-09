@@ -6,7 +6,7 @@ export type LeaguePlayerDto = {
   total_points: number;
   max_points: number;
   event_count: number;
-  points: (number | null)[];
+  points: (number | { points: number; leagueProps?: { disable_4_0_extra_point?: boolean } } | null)[];
   avg_tgw?: number | null;
   avg_omw?: number | null;
   avg_ogw?: number | null;
@@ -21,6 +21,7 @@ export type LeagueDto = {
   top: number;
   prize_fund: number;
   disable_4_0_extra_point?: boolean;
+  top_events?: number; // default = 6
   display_tiebreakers?: boolean;
   event_ids: (string | number | null)[];
   players: LeaguePlayerDto[];

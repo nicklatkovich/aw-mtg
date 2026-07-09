@@ -1,6 +1,9 @@
 import assert from 'assert';
+
 import { LeagueDto, LeaguePlayerDto, PlayerDTO } from '@dtos';
 import { playersByUsername } from '@server/data/players';
+import { _castToType } from '@server/utils';
+
 import { LeagueInfo } from './leagues/league.types';
 
 export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, PlayerDTO>): LeagueDto[] {
@@ -20,7 +23,10 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
         assert(playerInfo, `Player not found: ${s.player} (${pid})`);
         const prev = players.get(pid);
         const points = prev?.points ?? Array.from({ length: league.total_events }, () => null);
-        points[eventIndex] = s.leaguePoints ?? s.points;
+        const eventPoints = s.leaguePoints ?? s.points;
+        points[eventIndex] = event.leagueProps
+          ? { points: eventPoints, leagueProps: { disable_4_0_extra_point: event.leagueProps.disable_4_0_extra_point } }
+          : eventPoints;
         players.set(pid, {
           pid,
           display_name: playerInfo.display_name,
@@ -55,7 +61,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
     for (const p of players.values()) {
       pointsSum.set(
         p.id,
-        p.points.reduce<number>((acc, v) => acc + (v ?? 0), 0),
+        p.points.reduce<number>((acc, v) => acc + (v === null ? 0 : typeof v === 'number' ? v : v.points), 0),
       );
       p.total_points = calculateTotalPoints(p.points, league);
       p.max_points = calculateTotalPoints([...p.points, ...Array.from({ length: next_events }, () => 12)], league);
@@ -91,6 +97,7 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
       top: league.top,
       prize_fund: prize_pool,
       disable_4_0_extra_point: league.disable_4_0_extra_point,
+      top_events: league.top_events,
       display_tiebreakers: league.display_tiebreakers,
       players: sortedPlayers,
       event_ids: league.events.map((e) => e?.id ?? null),
@@ -101,13 +108,19 @@ export function buildLeague(leagueInfo: LeagueInfo[], playersMap: Map<string, Pl
   });
 }
 
-function calculateTotalPoints(points: (number | null)[], info: LeagueInfo): number {
-  const pts = points.filter((v) => v !== null);
+function calculateTotalPoints(points: LeaguePlayerDto['points'], info: LeagueInfo): number {
+  points = points.filter((v) => v !== null);
+  _castToType<Array<NonNullable<(typeof points)[number]>>, typeof points>(points);
+  const pts = points.map((p) => (typeof p === 'number' ? p : p.points));
   const topPoints = pts
     .sort((a, b) => b - a)
     .slice(0, info.top_events ?? 6)
     .reduce((a, b) => a + b, 0);
-  const visitingPoints = Math.max(0, pts.length - (info.events_to_extra_point ?? 6));
-  const _4_0_extra_points = info.disable_4_0_extra_point ? 0 : pts.filter((v) => v >= 12).length;
+  const visitingPoints = Math.max(0, points.length - (info.events_to_extra_point ?? 6));
+  const _4_0_extra_points = info.disable_4_0_extra_point
+    ? 0
+    : points.filter((v) =>
+        typeof v === 'number' ? v >= 12 : v.leagueProps?.disable_4_0_extra_point !== true && v.points >= 12,
+      ).length;
   return topPoints + visitingPoints + _4_0_extra_points;
 }

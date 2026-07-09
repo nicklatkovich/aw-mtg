@@ -48,6 +48,7 @@ export const _2026_limited: Tournament[] = [
     format: Format.DRAFT,
     name: 'BRO TOUR Double Draft (SOS+ECL+TLA)',
     date: '2026-07-04',
+    leagueProps: { disable_4_0_extra_point: true },
     standings: [
       { player: 'AladiN', rank: 1, points: 18, mp: 9, mw: 9, match_record: '9-0-0', game_record: '18-4-0' },
       { player: 'pidlik', rank: 2, points: 12, mp: 9, mw: 6, match_record: '6-3-0', game_record: '14-11-0' },

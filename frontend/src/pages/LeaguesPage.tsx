@@ -4,13 +4,14 @@ import { useNavigate, useParams } from 'react-router-dom';
 import React from 'react';
 
 function calcNewPlayerMaxPoints(league: LeagueDto): number {
+  const top_events = league.top_events ?? 6;
   let result = 0;
   const eventsLeft = league.total_events - league.past_events;
   // 12 points per event plus 1 point for each event with 4-0
-  if (eventsLeft > 6) result += 6 * 13;
-  else result += eventsLeft * 13;
+  if (eventsLeft > top_events) result += top_events * 13;
+  else result += eventsLeft * (league.disable_4_0_extra_point ? 12 : 13);
   // plus bonus points for events beyond 6
-  if (eventsLeft > 6) result += eventsLeft - 6;
+  if (eventsLeft > top_events) result += eventsLeft - top_events;
   return result;
 }
 
@@ -22,6 +23,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
     ((league.players[0]?.total_points ?? 0) > finalistPointsThreshold ||
       league.players.some((p) => p.max_points < minMaxPointsToMakeTop)) &&
     league.past_events < league.total_events;
+  const top_events = league.top_events ?? 6;
 
   return (
     <div className="league-details">
@@ -59,14 +61,16 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
           ) : null}
         </div>
         {league.players.slice(0).map((player, index) => {
-          const points = [...player.points.entries()].filter((e): e is [index: number, value: number] => e[1] !== null);
+          const points = [...player.points.entries()]
+            .map(([i, p]) => [i, typeof p === 'number' ? p : p?.points] as const)
+            .filter((e): e is [(typeof e)[0], NonNullable<(typeof e)[1]>] => !!e[1]);
           points.sort((a, b) => b[1] - a[1] || a[0] - b[0]);
-          let eventToImprove = points[5];
-          for (let i = 4; i >= 0; i -= 1) {
+          let eventToImprove = points[top_events - 1];
+          for (let i = top_events - 2; i >= 0; i -= 1) {
             if (points[i]?.[1] === eventToImprove?.[1]) eventToImprove = points[i];
             else break;
           }
-          const nonSignificantEventIndices = new Set(points.slice(6).map((e) => e[0]));
+          const nonSignificantEventIndices = new Set(points.slice(top_events).map((e) => e[0]));
           const nameClass = !league.is_finished || index >= league.top ? '' : index === 0 ? 'red-highlight' : 'red';
           const finalist =
             player.total_points > finalistPointsThreshold ||
@@ -87,9 +91,12 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
               <div className={`cell total-points`}>{player.total_points}</div>
               {player.points.map((p, i) => {
                 const nonSignificant = nonSignificantEventIndices.has(i);
-                const toImprove = p !== 0 && i === eventToImprove?.[0];
+                const pts = typeof p === 'number' ? p : p?.points;
+                const toImprove = pts !== 0 && i === eventToImprove?.[0];
                 const className =
-                  p >= 12 && !league.disable_4_0_extra_point
+                  p &&
+                  !league.disable_4_0_extra_point &&
+                  (typeof p === 'number' ? p >= 12 : !p.leagueProps?.disable_4_0_extra_point && p.points >= 12)
                     ? '_4-0'
                     : toImprove
                       ? 'to-improve'
@@ -98,7 +105,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
                         : '';
                 return (
                   <div className={`cell event-points ${className}`} key={i}>
-                    {p ?? ''}
+                    {p === null ? '' : typeof p === 'number' ? p : p.points}
                   </div>
                 );
               })}
