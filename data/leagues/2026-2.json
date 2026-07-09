@@ -197,7 +197,7 @@
       {"pid":"8c5397a7-0ae9-4e31-b650-cc0b98e1c0be","display_name":"Ivashnev Artem","id":"bregoxx","total_points":3,"max_points":27,"event_count":1,"points":[3,null,null],"avg_tgw":33.33333,"avg_omw":37.5,"avg_ogw":40.5303}
     ],
     "disable_4_0_extra_point": true,
-    "top_events": 9007199254740991,
+    "top_events": 4,
     "display_tiebreakers": true,
     "determined_top": 1,
     "event_ids": [439920]
