@@ -1,4 +1,5 @@
 [
+  {"id":442187,"format":"pioneer","date":"2026-07-09","name":"Summer League 2026 | Pioneer #6/12","players_count":7,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":442145,"format":"pauper","date":"2026-07-08","name":"Summer League 2026 | Pauper #6/12","players_count":16,"winner":{"player":{"display_name":"Kokhan Roman","id":"romankohan14"}}},
   {"id":442142,"format":"standard","date":"2026-07-07","name":"Summer League 2026 | Standard #6/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
   {"id":441875,"format":"modern","date":"2026-07-05","name":"Summer League 2026 | Modern #3/9","players_count":10,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},

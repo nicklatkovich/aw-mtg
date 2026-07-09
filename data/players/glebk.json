@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.1702127659574468},
+  "color_stats": {"R":1,"G":0.16666666666666666},
   "recent_events": [
+    {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":9,"rank":[3,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":433739,"name":"Summer League 2026 | Pioneer #2/12","date":"2026-06-11","format":"pioneer","points":9,"rank":[2,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":"2026-1-league-finals-pioneer","name":"★★★ Spring League 2026 | Pioneer Finals","date":"2026-06-06","format":"pioneer","points":0,"rank":[6,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}},
@@ -84,8 +85,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 79,
-  "match_played": 285,
-  "match_wins": 165,
+  "events_count": 80,
+  "match_played": 289,
+  "match_wins": 168,
   "favorite_format": ["pioneer", 1]
 }

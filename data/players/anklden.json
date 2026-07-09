@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"U":0.49934123847167317,"G":0.7957839262187087,"W":0.7957839262187087,"B":1,"R":0.4664031620553361},
+  "color_stats": {"U":0.5191040843214755,"G":0.8155467720685111,"W":0.7957839262187087,"B":1,"R":0.4664031620553361},
   "recent_events": [
+    {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":6,"rank":[5,7],"deck":{"archetype":"Simic Merfolks","colors":"UG","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[6,8]},
     {"id":439209,"name":"Summer League 2026 | Pioneer #4/12","date":"2026-06-25","format":"pioneer","points":9,"rank":[2,8],"deck":{"archetype":"Simic Merfolks","colors":"UG","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":6,"rank":[3,7],"deck":{"archetype":"Orzhov Midrange","colors":"WB","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -134,8 +135,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 129,
-  "match_played": 509,
-  "match_wins": 259,
-  "favorite_format": ["pioneer", 0.7906976744186046]
+  "events_count": 130,
+  "match_played": 513,
+  "match_wins": 261,
+  "favorite_format": ["pioneer", 0.7923076923076923]
 }
