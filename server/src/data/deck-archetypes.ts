@@ -175,6 +175,7 @@ export const ARCHETYPES = {
   'Mono-Blue Grinding Emry': ['U', DeckType.COMBO],
   'Mono-Blue Rona Combo': 'U',
   'Mono-Blue Elementals': ['U', DeckType.TEMPO],
+  'Mono-Blue Mill': 'U',
   // UB
   'Dimir Control': ['UB', DeckType.CONTROL],
   'Dimir Doomsday': ['UB', DeckType.CONTROL],

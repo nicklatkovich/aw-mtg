@@ -489,4 +489,5 @@ export const playersByUsername: { [username in string]?: string } = {
   jfhyw: '80960709-2bbe-4941-851f-6931da4b4862',
   xfmjz: '28dc710c-a6ea-4236-b336-ba13b822c491',
   tpgso: '3e9d57e1-5acb-415e-91c2-97f8aa068077',
+  EvgS: '432e2674-fa02-4af3-b0cd-eb5b13876888',
 };
