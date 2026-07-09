@@ -4,6 +4,7 @@
   "display_name": "Bondarev Evgeniy",
   "color_stats": {"W":1,"B":0.375,"R":0.375},
   "recent_events": [
+    {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":6,"rank":[7,16],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":9,"rank":[10,19],"match_record":"3-3-0","game_record":"8-8-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":6,"rank":[4,8]},
     {"id":440366,"name":"Summer League 2026 | Draft #4 (MSH)","date":"2026-07-03","format":"draft","points":3,"rank":[4,6],"match_record":"1-2-0","game_record":"3-3-0"},
@@ -20,8 +21,8 @@
     {"id":333217,"name":"Rapa League | Draft #6 (TSR)","date":"2025-06-29","format":"draft","points":3,"rank":[9,12],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[2,12],"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 15,
-  "match_played": 57,
-  "match_wins": 28,
-  "favorite_format": ["pauper", 0.4]
+  "events_count": 16,
+  "match_played": 61,
+  "match_wins": 30,
+  "favorite_format": ["pauper", 0.4375]
 }

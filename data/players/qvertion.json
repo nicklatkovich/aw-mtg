@@ -4,6 +4,7 @@
   "display_name": "Martseniuk Maksim",
   "color_stats": {"W":0.3703541757761259,"U":1,"R":0.7704416265850456,"B":0.4709226060341055,"G":0.3528640139921293},
   "recent_events": [
+    {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":9,"rank":[3,16],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":6,"rank":[7,10],"deck":{"archetype":"Jeskai Energy","colors":"WUR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":6,"rank":[15,19],"match_record":"2-4-0","game_record":"6-9-0"},
     {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":9,"rank":[3,17],"match_record":"3-1-0","game_record":"6-3-0"},
@@ -169,8 +170,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 164,
-  "match_played": 650,
-  "match_wins": 382,
-  "favorite_format": ["standard", 0.3048780487804878]
+  "events_count": 165,
+  "match_played": 654,
+  "match_wins": 385,
+  "favorite_format": ["standard", 0.30303030303030304]
 }

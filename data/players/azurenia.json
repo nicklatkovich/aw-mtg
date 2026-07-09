@@ -4,6 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"W":0.3634496919917867,"U":1,"B":0.9212867898699524,"R":0.876796714579056,"G":0.7809719370294325},
   "recent_events": [
+    {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":3,"rank":[13,16],"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":12,"rank":[1,10],"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":9,"rank":[2,17],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":9,"rank":[2,16],"match_record":"3-1-0","game_record":"7-4-0"},
@@ -134,8 +135,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 129,
-  "match_played": 487,
-  "match_wins": 270,
-  "favorite_format": ["pauper", 0.4418604651162791]
+  "events_count": 130,
+  "match_played": 491,
+  "match_wins": 271,
+  "favorite_format": ["pauper", 0.4461538461538462]
 }
