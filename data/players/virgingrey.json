@@ -1,0 +1,13 @@
+{
+  "guid": "d932d632-9410-45a9-9be8-ac5526741ae9",
+  "id": "virgingrey",
+  "display_name": "Kovalyov Igor",
+  "color_stats": {},
+  "recent_events": [
+    {"id":442193,"name":"Summer League 2026 | Draft #5 (MSH)","date":"2026-07-10","format":"draft","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"3-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["draft", 1]
+}

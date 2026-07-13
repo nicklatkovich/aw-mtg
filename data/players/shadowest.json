@@ -4,6 +4,7 @@
   "display_name": "Buslavsky Alexander",
   "color_stats": {"R":1,"B":0.45454545454545453,"G":0.18181818181818182},
   "recent_events": [
+    {"id":442193,"name":"Summer League 2026 | Draft #5 (MSH)","date":"2026-07-10","format":"draft","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":440365,"name":"Summer League 2026 | Sealed #2 (MSH)","date":"2026-07-03","format":"sealed","points":6,"rank":[3,6],"match_record":"2-1-0","game_record":"4-4-0"},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":6,"rank":[5,12],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":439604,"name":"Summer League 2026 | Sealed #1 (MSH)","date":"2026-06-26","format":"sealed","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"2-5-0"},
@@ -24,8 +25,8 @@
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":6,"rank":[6,12],"match_record":"2-2-0","game_record":"6-6-0"},
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[11,14]}
   ],
-  "events_count": 19,
-  "match_played": 67,
+  "events_count": 20,
+  "match_played": 69,
   "match_wins": 28,
-  "favorite_format": ["draft", 0.3684210526315789]
+  "favorite_format": ["draft", 0.4]
 }
