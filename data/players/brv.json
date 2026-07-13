@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.6753771551724139,"R":1,"W":0.34132543103448276,"G":0.379040948275862,"B":0.01266163793103448},
+  "color_stats": {"U":0.6779796900053449,"R":1,"W":0.3385889898450027,"G":0.3760021378941742,"B":0.012560128273650452},
   "recent_events": [
+    {"id":442230,"name":"Summer League 2026 | Modern #4/9","date":"2026-07-12","format":"modern","points":6,"rank":[3,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":12,"rank":[1,7],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":442142,"name":"Summer League 2026 | Standard #6/12","date":"2026-07-07","format":"standard","points":7,"rank":[1,4],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"2-1-1","game_record":"6-3-0"},
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":6,"rank":[6,10],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -197,8 +198,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 192,
-  "match_played": 760,
-  "match_wins": 423,
-  "favorite_format": ["pioneer", 0.4947916666666667]
+  "events_count": 193,
+  "match_played": 764,
+  "match_wins": 425,
+  "favorite_format": ["pioneer", 0.49222797927461137]
 }
