@@ -4,6 +4,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_limited: Tournament[] = [
   {
+    id: 442193,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #5 (MSH)',
+    date: '2026-07-10',
+    standings: [
+      { player: 'Roman_B', rank: 1, points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'pidlik', rank: 2, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'BasharimovS', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-2-0' },
+      { player: 'BigBoris', rank: 4, points: 4, mp: 3, mw: 1, match_record: '1-1-1', game_record: '3-3-1' },
+      { player: 'HeartlessHero', rank: 5, points: 4, mp: 3, mw: 1, match_record: '1-1-1', game_record: '3-4-1' },
+      { player: 'Danik1998', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-5-0' },
+      { player: 'VirginGrey', rank: 7, points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Shadowest', rank: 8, points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['pidlik', 'Shadowest'], winner: 1, record: '2-0-0' },
+        { players: ['BigBoris', 'HeartlessHero'], winner: 0, record: '1-1-1' },
+        { players: ['BasharimovS', 'Roman_B'], winner: 2, record: '2-0-0' },
+        { players: ['Danik1998', 'VirginGrey'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['pidlik', 'BigBoris'], winner: 1, record: '2-0-0' },
+        { players: ['Roman_B', 'Danik1998'], winner: 1, record: '2-0-0' },
+        { players: ['HeartlessHero', 'Shadowest'], winner: 1, record: '2-1-0' },
+        { players: ['VirginGrey', 'BasharimovS'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['VirginGrey', null], winner: 1, record: 'bye' },
+        { players: ['Roman_B', 'pidlik'], winner: 1, record: '2-1-0' },
+        { players: ['HeartlessHero', 'BasharimovS'], winner: 2, record: '2-0-0' },
+        { players: ['Danik1998', 'BigBoris'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 'bro-tour-sealed-trios-260703',
     format: Format.TRIOS,
     name: 'BRO TOUR Sealed Trios (SOS)',
