@@ -3,6 +3,48 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 442230,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #4/9',
+    date: '2026-07-12',
+    standings: [
+      { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Kihikara', rank: 2, deck: 'Eldrazi Tron', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'Pivovarishe', rank: 4, deck: 'Mono-Black Discard', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0' },
+      { player: 'diuzhev', rank: 5, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'EggsLicker', rank: 6, deck: 'Amulet Titan', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 7, deck: 'Gruul Ponza', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'qvertion', rank: 8, deck: 'Boros Energy', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Kihikara', 'Azurenia'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'EggsLicker'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'Pivovarishe'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['EggsLicker', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'diuzhev'], winner: 2, record: '2-0-0' },
+        { players: ['Pivovarishe', 'Kihikara'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['EggsLicker', 'Azurenia'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['Kihikara', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'Pivovarishe'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', 'Pivovarishe'], winner: 2, record: '2-1-0' },
+        { players: ['EggsLicker', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Kihikara'], winner: 2, record: '2-0-0' },
+        { players: ['Aleksandr_KoLoshk', 'qvertion'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 441875,
     format: Format.MODERN,
     name: 'Summer League 2026 | Modern #3/9',
@@ -12,7 +54,7 @@ export const _2026_modern: Tournament[] = [
       { player: 'IvaD', rank: 2, deck: 'Izzet Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
       { player: 'Aleksandr_KoLoshk', rank: 3, deck: 'Mono-Red Ponza', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
       { player: 'Kihikara', rank: 4, deck: 'Sultai Living End', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
-      { player: 'PanzerGold', rank: 5, deck: 'Eldrazi', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'PanzerGold', rank: 5, deck: 'Eldrazi Tron', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
       { player: 'BRV', rank: 6, deck: 'Izzet Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
       { player: 'qvertion', rank: 7, deck: 'Jeskai Energy', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
       { player: 'Pivovarishe', rank: 8, deck: 'Mono-Black Discard', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },

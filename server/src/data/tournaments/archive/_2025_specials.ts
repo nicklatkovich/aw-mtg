@@ -150,7 +150,7 @@ export const _2025_specials: Tournament[] = [
       { player: 'heksogen', rank: 10, deck: 'Simic Omni-Tell', points: 9, mp: 5, mw: 3, match_record: '3-2-0', game_record: '7-6-0' },
       { player: 'Granit', rank: 11, deck: 'Selesnya Enchantments', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '4-7-0' },
       { player: 'farsmac', rank: 12, deck: 'Bant Nadu', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '6-7-0' },
-      { player: 'Slobad', rank: 13, deck: 'Eldrazi', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '5-8-0' },
+      { player: 'Slobad', rank: 13, deck: 'Eldrazi Tron', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '5-8-0' },
       { player: 'Tanti', rank: 14, deck: 'Domain Control', points: 6, mp: 4, mw: 1, match_record: '2-3-0', game_record: '6-6-0' },
       { player: '4onoki', rank: 15, deck: 'Abzan Maverick', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
       { player: 'Goyza', rank: 16, deck: 'Dimir Reanimator', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },

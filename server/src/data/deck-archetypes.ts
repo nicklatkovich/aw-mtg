@@ -7,7 +7,7 @@ export const ARCHETYPES = {
   // c
   'Colorless Tron': 'c',
   'Mystic Forge Combo': ['c', DeckType.COMBO],
-  Eldrazi: ['c', DeckType.MIDRANGE],
+  'Eldrazi Tron': ['c', DeckType.MIDRANGE],
   'Colorless Cloudpost': ['c', DeckType.COMBO],
   // W
   'Mono-White Control': ['W', DeckType.CONTROL],
