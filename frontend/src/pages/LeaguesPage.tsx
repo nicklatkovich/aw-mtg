@@ -63,7 +63,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
         {league.players.slice(0).map((player, index) => {
           const points = [...player.points.entries()]
             .map(([i, p]) => [i, typeof p === 'number' ? p : p?.points] as const)
-            .filter((e): e is [(typeof e)[0], NonNullable<(typeof e)[1]>] => !!e[1]);
+            .filter((e): e is [(typeof e)[0], number] => typeof e[1] === 'number');
           points.sort((a, b) => b[1] - a[1] || a[0] - b[0]);
           let eventToImprove = points[top_events - 1];
           for (let i = top_events - 2; i >= 0; i -= 1) {
