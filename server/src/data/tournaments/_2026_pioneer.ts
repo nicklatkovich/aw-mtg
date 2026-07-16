@@ -3,6 +3,58 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 444699,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #7/12',
+    date: '2026-07-16',
+    standings: [
+      { player: 'hi_art', rank: 1, deck: 'Azorius Control', points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'Human11', rank: 2, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Slava_bel', rank: 3, deck: 'Golgari Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'AnklDen', rank: 4, deck: 'Simic Merfolks', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-5-1' },
+      { player: 'Professor013', rank: 5, deck: 'Azorius Lotus Field', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'BRV', rank: 6, deck: 'Izzet Spellementals', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'EvgS', rank: 7, deck: 'Simic Flash', points: 5, mp: 4, mw: 1, match_record: '1-1-2', game_record: '5-5-2' },
+      { player: 'Psychosocial', rank: 8, deck: 'Grixis Control', points: 4, mp: 3, mw: 0, match_record: '1-2-1', game_record: '3-5-1' },
+      { player: 'TroV1', rank: 9, deck: '5c Song of Creation', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
+      { player: 'DanilaNabeshko', rank: 10, deck: 'Niv to Light', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'diuzhev', rank: 11, deck: 'Golgari Midrange', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['hi_art', null], winner: 1, record: 'bye' },
+        { players: ['Psychosocial', 'Professor013'], winner: 2, record: '2-0-0' },
+        { players: ['diuzhev', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Human11', 'TroV1'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'DanilaNabeshko'], winner: 1, record: '2-0-0' },
+        { players: ['EvgS', 'AnklDen'], winner: 0, record: '1-1-1' },
+      ],
+      [
+        { players: ['diuzhev', null], winner: 1, record: 'bye' },
+        { players: ['TroV1', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'Professor013'], winner: 2, record: '2-0-0' },
+        { players: ['hi_art', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['EvgS', 'Psychosocial'], winner: 0, record: '1-1-1' },
+        { players: ['DanilaNabeshko', 'Human11'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Psychosocial', null], winner: 1, record: 'bye' },
+        { players: ['hi_art', 'Professor013'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['Slava_bel', 'TroV1'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Human11'], winner: 2, record: '2-1-0' },
+        { players: ['EvgS', 'DanilaNabeshko'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['hi_art', 'AnklDen'], winner: 1, record: '2-0-0' },
+        { players: ['Slava_bel', 'EvgS'], winner: 1, record: '2-1-0' },
+        { players: ['Professor013', 'Human11'], winner: 2, record: '2-0-0' },
+        { players: ['Psychosocial', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['diuzhev', 'DanilaNabeshko'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 442187,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #6/12',

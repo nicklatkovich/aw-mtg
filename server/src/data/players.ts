@@ -228,6 +228,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '3e9d57e1-5acb-415e-91c2-97f8aa068077': 'Samoshin Anton',
   '53dd0a35-4ace-46e1-bddf-f27967f2fbff': ['Shcherbakov *', { id: 'shcherbakov' }],
   'd932d632-9410-45a9-9be8-ac5526741ae9': 'Kovalyov Igor',
+  '7cfa1df2-d247-49ea-ae72-249b521b2175': 'Ryabtsev Ivan',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -492,4 +493,5 @@ export const playersByUsername: { [username in string]?: string } = {
   tpgso: '3e9d57e1-5acb-415e-91c2-97f8aa068077',
   EvgS: '432e2674-fa02-4af3-b0cd-eb5b13876888',
   VirginGrey: 'd932d632-9410-45a9-9be8-ac5526741ae9',
+  Psychosocial: '7cfa1df2-d247-49ea-ae72-249b521b2175',
 };
