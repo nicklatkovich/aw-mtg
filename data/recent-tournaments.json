@@ -1,4 +1,6 @@
 [
+  {"id":444697,"format":"pauper","date":"2026-07-15","name":"Summer League 2026 | Pauper #7/12","players_count":17,"winner":{"player":{"display_name":"Danilau Uladzimir","id":"armalite"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
+  {"id":444693,"format":"standard","date":"2026-07-14","name":"Summer League 2026 | Standard #7/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"}}},
   {"id":442230,"format":"modern","date":"2026-07-12","name":"Summer League 2026 | Modern #4/9","players_count":8,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},
   {"id":442193,"format":"draft","date":"2026-07-10","name":"Summer League 2026 | Draft #5 (MSH)","players_count":8,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"}}},
   {"id":442187,"format":"pioneer","date":"2026-07-09","name":"Summer League 2026 | Pioneer #6/12","players_count":7,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},

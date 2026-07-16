@@ -4,10 +4,11 @@
   "display_name": "S* Anna",
   "color_stats": {},
   "recent_events": [
+    {"id":444693,"name":"Summer League 2026 | Standard #7/12","date":"2026-07-14","format":"standard","points":4,"rank":[4,4],"match_record":"1-2-1","game_record":"3-4-0"},
     {"id":440076,"name":"Summer League 2026 | Standard #5/12","date":"2026-06-30","format":"standard","points":3,"rank":[4,4],"match_record":"1-1-0","game_record":"1-2-0"}
   ],
-  "events_count": 1,
-  "match_played": 2,
-  "match_wins": 1,
+  "events_count": 2,
+  "match_played": 6,
+  "match_wins": 2,
   "favorite_format": ["standard", 1]
 }

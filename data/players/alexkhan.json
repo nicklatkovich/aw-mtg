@@ -4,6 +4,7 @@
   "display_name": "Aflakhanov Alex",
   "color_stats": {"W":1,"U":0.6600000000000001,"R":0.16,"B":0.02,"G":0.56},
   "recent_events": [
+    {"id":444697,"name":"Summer League 2026 | Pauper #7/12","date":"2026-07-15","format":"pauper","points":4,"rank":[11,17],"match_record":"1-2-1","game_record":"3-5-0"},
     {"id":433734,"name":"Summer League 2026 | Pauper #2/12","date":"2026-06-10","format":"pauper","points":9,"rank":[6,17],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":433717,"name":"Summer League 2026 | Pauper #1/12","date":"2026-06-03","format":"pauper","points":5,"rank":[10,15],"deck":{"archetype":"Jeskai Ephemerate","colors":"WUR","type":null},"match_record":"1-1-2","game_record":"3-4-1"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":0,"rank":[8,8],"deck":{"archetype":"Jeskai Ephemerate","colors":"WUR","type":null}},
@@ -57,8 +58,8 @@
     {"id":272247,"name":"League Pioneer | Season 5 (8/12)","date":"2025-03-20","format":"pioneer","points":7,"rank":[6,18],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-1","game_record":"5-4-0"},
     {"id":266709,"name":"League Pioneer | Season 5 (7/12)","date":"2025-03-13","format":"pioneer","points":9,"rank":[4,17],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"3-1-0","game_record":"6-2-0"}
   ],
-  "events_count": 52,
-  "match_played": 210,
-  "match_wins": 103,
-  "favorite_format": ["pioneer", 0.5769230769230769]
+  "events_count": 53,
+  "match_played": 214,
+  "match_wins": 104,
+  "favorite_format": ["pioneer", 0.5660377358490566]
 }
