@@ -3,7 +3,7 @@ import { Match, Standing } from '@server/data/data.types';
 import { readFile } from 'fs/promises';
 import path from 'path';
 
-const APL_SITE_DATA_FILE = process.env.DATA_FILE || null;
+const APL_SITE_DATA_FILE = process.env.APL_SITE_DATA_FILE || null;
 const TOURNAMENT_NAME = process.env.TOURNAMENT_NAME || null;
 const EXTEND_EVENT_ID = process.env.EXTEND_EVENT_ID || null;
 const CUSTOM_STANDINGS_FILE = process.env.CUSTOM_STANDINGS_FILE || null;
