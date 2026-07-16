@@ -166,7 +166,7 @@
   {"id":"mariiskins","display_name":"Mariiskin Sergey","events_count":8,"match_played":28,"match_wins":5,"color_stats":{},"favorite_format":["pioneer",1]},
   {"id":"ferraristar","display_name":"Ferrari Antonio","events_count":4,"match_played":11,"match_wins":4,"color_stats":{},"favorite_format":["draft",0.75]},
   {"id":"ktna","display_name":"Beliy Artemiy","events_count":1,"match_played":4,"match_wins":0,"color_stats":{"W":1,"B":1,"R":1},"favorite_format":["pioneer",1]},
-  {"id":"gerber2000","display_name":"Duzhev Ivan","events_count":129,"match_played":496,"match_wins":231,"color_stats":{"U":0.285063752276867,"B":1,"R":0.7996357012750449,"W":0.17577413479052809,"G":0.5810564663023674},"favorite_format":["pauper",0.4186046511627907]},
+  {"id":"gerber2000","display_name":"Duzhev Ivan","events_count":129,"match_played":496,"match_wins":231,"color_stats":{"B":1,"G":0.5920217588395279,"U":0.27470534904805066,"R":0.7869446962828642,"W":0.17497733454215758},"favorite_format":["pauper",0.4186046511627907]},
   {"id":"polevikov","display_name":"Polevikov Aleksandr","events_count":2,"match_played":5,"match_wins":4,"color_stats":{"G":1},"favorite_format":["commander",1]},
   {"id":"melamasta","display_name":"Yushkevich Egor","events_count":37,"match_played":145,"match_wins":37,"color_stats":{"U":0.6129032258064516,"R":1,"W":0.09677419354838711,"G":0.8064516129032258,"B":0.2903225806451613},"favorite_format":["modern",0.40540540540540543]},
   {"id":"hi-art","display_name":"Arepin Artyom","events_count":5,"match_played":26,"match_wins":18,"color_stats":{"W":0.625,"U":1,"R":1,"B":0.375},"favorite_format":["pioneer",0.6]},

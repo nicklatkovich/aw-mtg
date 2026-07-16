@@ -2,9 +2,9 @@
   "guid": "aad9350f-6810-4e07-8e70-86669d0936fa",
   "id": "gerber2000",
   "display_name": "Duzhev Ivan",
-  "color_stats": {"U":0.285063752276867,"B":1,"R":0.7996357012750449,"W":0.17577413479052809,"G":0.5810564663023674},
+  "color_stats": {"B":1,"G":0.5920217588395279,"U":0.27470534904805066,"R":0.7869446962828642,"W":0.17497733454215758},
   "recent_events": [
-    {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":3,"rank":[11,11],"deck":{"archetype":"Grixis Midrange","colors":"UBR","type":"Midrange"},"match_record":"1-3-0","game_record":"3-6-0"},
+    {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":3,"rank":[11,11],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":442230,"name":"Summer League 2026 | Modern #4/9","date":"2026-07-12","format":"modern","points":6,"rank":[5,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":9,"rank":[2,16],"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":9,"rank":[2,10],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
