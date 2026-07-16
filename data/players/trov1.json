@@ -2,8 +2,9 @@
   "guid": "08306c56-4ad8-4dbc-84ba-9d8ac0586ff2",
   "id": "trov1",
   "display_name": "Trofimov Valera",
-  "color_stats": {"W":0.7895791583166332,"U":1,"B":0.3887775551102207,"R":0.3587174348697398,"G":0.22845691382765548},
+  "color_stats": {"W":0.792079207920792,"U":1,"B":0.39603960396039634,"R":0.36633663366336666,"G":0.2376237623762378},
   "recent_events": [
+    {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":3,"rank":[9,11],"deck":{"archetype":"5c Song of Creation","colors":"WUBRG","type":null},"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[6,19],"match_record":"4-3-0","game_record":"9-10-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[7,8]},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":12,"rank":[1,12],"match_record":"4-0-0","game_record":"8-4-0"},
@@ -77,8 +78,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 72,
-  "match_played": 253,
-  "match_wins": 147,
-  "favorite_format": ["pioneer", 0.625]
+  "events_count": 73,
+  "match_played": 256,
+  "match_wins": 148,
+  "favorite_format": ["pioneer", 0.6301369863013698]
 }

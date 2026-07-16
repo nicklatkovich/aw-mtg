@@ -1,4 +1,5 @@
 [
+  {"id":444699,"format":"pioneer","date":"2026-07-16","name":"Summer League 2026 | Pioneer #7/12","players_count":11,"winner":{"player":{"display_name":"Arepin Artyom","id":"hi-art"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},
   {"id":444697,"format":"pauper","date":"2026-07-15","name":"Summer League 2026 | Pauper #7/12","players_count":17,"winner":{"player":{"display_name":"Danilau Uladzimir","id":"armalite"},"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"}}},
   {"id":444693,"format":"standard","date":"2026-07-14","name":"Summer League 2026 | Standard #7/12","players_count":4,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"}}},
   {"id":442230,"format":"modern","date":"2026-07-12","name":"Summer League 2026 | Modern #4/9","players_count":8,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"},"deck":{"archetype":"Esper Goryo","colors":"WUB","type":null}}},
