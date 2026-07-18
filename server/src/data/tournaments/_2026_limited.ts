@@ -4,6 +4,78 @@ import { Tournament } from '../data.types';
 
 export const _2026_limited: Tournament[] = [
   {
+    id: 445826,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #7 (MSH)',
+    date: '2026-07-17',
+    standings: [
+      { player: 'Roman_B', rank: 1, points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'Torongil', rank: 2, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'NikitaP', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-2-0' },
+      { player: 'SVETLYK', rank: 4, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'BDima', rank: 5, points: 4, mp: 3, mw: 1, match_record: '1-1-1', game_record: '3-3-0' },
+      { player: 'pidlik', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'BigBoris', rank: 7, points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '2-5-0' },
+      { player: 'Vassago', rank: 8, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['NikitaP', 'Vassago'], winner: 1, record: '2-0-0' },
+        { players: ['BigBoris', 'Roman_B'], winner: 2, record: '2-0-0' },
+        { players: ['pidlik', 'BDima'], winner: 1, record: '2-0-0' },
+        { players: ['Torongil', 'SVETLYK'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['pidlik', 'Torongil'], winner: 2, record: '2-1-0' },
+        { players: ['Roman_B', 'NikitaP'], winner: 1, record: '2-0-0' },
+        { players: ['BigBoris', 'BDima'], winner: 0, record: '1-1-0' },
+        { players: ['SVETLYK', 'Vassago'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Roman_B', 'Torongil'], winner: 1, record: '2-1-0' },
+        { players: ['SVETLYK', 'BigBoris'], winner: 1, record: '2-1-0' },
+        { players: ['NikitaP', 'pidlik'], winner: 1, record: '2-0-0' },
+        { players: ['BDima', 'Vassago'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
+    id: 445827,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #6 (SOS)',
+    date: '2026-07-17',
+    standings: [
+      { player: 'lspolegi', rank: 1, points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'Odis89', rank: 2, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'FerrariStar', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'AntonH', rank: 4, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Kiryl_Smaktunovich', rank: 5, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'RomanKohan14', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Danik1998', rank: 7, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-5-0' },
+      { player: 'serj', rank: 8, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '1-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['serj', 'Danik1998'], winner: 2, record: '2-1-0' },
+        { players: ['FerrariStar', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['Odis89', 'AntonH'], winner: 1, record: '2-1-0' },
+        { players: ['lspolegi', 'Kiryl_Smaktunovich'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['FerrariStar', 'lspolegi'], winner: 2, record: '2-1-0' },
+        { players: ['Danik1998', 'Odis89'], winner: 2, record: '2-0-0' },
+        { players: ['AntonH', 'Kiryl_Smaktunovich'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'serj'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['lspolegi', 'Odis89'], winner: 1, record: '2-0-0' },
+        { players: ['RomanKohan14', 'AntonH'], winner: 2, record: '2-1-0' },
+        { players: ['FerrariStar', 'Danik1998'], winner: 1, record: '2-0-0' },
+        { players: ['Kiryl_Smaktunovich', 'serj'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 442193,
     format: Format.DRAFT,
     name: 'Summer League 2026 | Draft #5 (MSH)',

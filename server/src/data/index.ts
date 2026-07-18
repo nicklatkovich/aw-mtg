@@ -27,4 +27,9 @@ export const allTournaments = [
   ..._2026_standard,
   ..._2026_limited,
   ..._2026_legacy,
-].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime() || b.standings.length - a.standings.length);
+].sort(
+  (a, b) =>
+    new Date(b.date).getTime() - new Date(a.date).getTime() ||
+    b.standings.length - a.standings.length ||
+    a.id.toString().localeCompare(b.id.toString()),
+);
