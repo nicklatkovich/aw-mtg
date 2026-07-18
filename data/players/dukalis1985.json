@@ -4,6 +4,7 @@
   "display_name": "Smoktunovich Kirill",
   "color_stats": {"R":0.89247311827957,"G":0.23195084485407066,"U":0.1858678955453149,"B":1,"W":0.31643625192012287},
   "recent_events": [
+    {"id":445827,"name":"Summer League 2026 | Draft #6 (SOS)","date":"2026-07-17","format":"draft","points":3,"rank":[5,8],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":444697,"name":"Summer League 2026 | Pauper #7/12","date":"2026-07-15","format":"pauper","points":9,"rank":[3,17],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":0,"rank":[16,16],"match_record":"0-2-0","game_record":"2-4-0"},
     {"id":440361,"name":"Summer League 2026 | Pauper #5/12","date":"2026-07-01","format":"pauper","points":3,"rank":[14,17],"match_record":"1-3-0","game_record":"2-7-0"},
@@ -124,8 +125,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[2,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":9,"rank":[3,12]}
   ],
-  "events_count": 119,
-  "match_played": 440,
-  "match_wins": 238,
-  "favorite_format": ["pioneer", 0.6302521008403361]
+  "events_count": 120,
+  "match_played": 443,
+  "match_wins": 239,
+  "favorite_format": ["pioneer", 0.625]
 }

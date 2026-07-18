@@ -4,10 +4,11 @@
   "display_name": "Burak Dima",
   "color_stats": {},
   "recent_events": [
+    {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":4,"rank":[5,8],"match_record":"1-1-1","game_record":"3-3-0"},
     {"id":440367,"name":"Summer League 2026 | Sealed #3 (MSH)","date":"2026-07-04","format":"sealed","points":0,"rank":[8,8],"match_record":"0-3-0","game_record":"2-6-0"}
   ],
-  "events_count": 1,
-  "match_played": 3,
-  "match_wins": 0,
-  "favorite_format": ["sealed", 1]
+  "events_count": 2,
+  "match_played": 6,
+  "match_wins": 1,
+  "favorite_format": ["draft", 0.5]
 }

@@ -1,0 +1,13 @@
+{
+  "guid": "4a200d9a-0dac-4a71-a4ae-66e8a0be3558",
+  "id": "vassago",
+  "display_name": "Bakhankov Ignat",
+  "color_stats": {},
+  "recent_events": [
+    {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":0,"rank":[8,8],"match_record":"0-3-0","game_record":"0-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 0,
+  "favorite_format": ["draft", 1]
+}

@@ -4,6 +4,7 @@
   "display_name": "Sobyanin Dmitriy",
   "color_stats": {"R":1},
   "recent_events": [
+    {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":3,"rank":[6,8],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":442193,"name":"Summer League 2026 | Draft #5 (MSH)","date":"2026-07-10","format":"draft","points":6,"rank":[2,8],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[2,19],"match_record":"6-3-0","game_record":"14-11-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[5,8]},
@@ -15,8 +16,8 @@
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[6,12],"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":3,"rank":[8,12],"match_record":"1-2-0","game_record":"3-4-0"}
   ],
-  "events_count": 10,
-  "match_played": 35,
-  "match_wins": 19,
-  "favorite_format": ["draft", 0.8]
+  "events_count": 11,
+  "match_played": 38,
+  "match_wins": 20,
+  "favorite_format": ["draft", 0.8181818181818182]
 }

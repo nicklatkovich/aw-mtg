@@ -4,12 +4,13 @@
   "display_name": "Zmachynski Aleh",
   "color_stats": {},
   "recent_events": [
+    {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":6,"rank":[4,8],"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":440367,"name":"Summer League 2026 | Sealed #3 (MSH)","date":"2026-07-04","format":"sealed","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":335217,"name":"Summer League 2025 | Draft #4 (FIN)","date":"2025-07-04","format":"draft","points":3,"rank":[9,12],"match_record":"1-3-0","game_record":"5-6-0"},
     {"id":331797,"name":"Summer League 2025 | Draft #3 (FIN)","date":"2025-06-27","format":"draft","points":3,"rank":[6,8],"match_record":"1-2-0","game_record":"3-5-0"}
   ],
-  "events_count": 3,
-  "match_played": 10,
-  "match_wins": 3,
-  "favorite_format": ["draft", 0.6666666666666666]
+  "events_count": 4,
+  "match_played": 13,
+  "match_wins": 5,
+  "favorite_format": ["draft", 0.75]
 }

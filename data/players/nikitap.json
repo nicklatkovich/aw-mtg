@@ -4,6 +4,7 @@
   "display_name": "Polevskiy Nikita",
   "color_stats": {},
   "recent_events": [
+    {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":6,"rank":[3,8],"match_record":"2-1-0","game_record":"4-2-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[9,19],"match_record":"4-2-0","game_record":"8-6-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[2,8]},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":9,"rank":[4,12],"match_record":"3-1-0","game_record":"6-3-0"},
@@ -17,8 +18,8 @@
     {"id":324260,"name":"Summer League 2025 | Draft #2 (FIN)","date":"2025-06-13","format":"draft","points":6,"rank":[5,12],"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":0,"rank":[10,12],"match_record":"0-2-0","game_record":"1-4-0"}
   ],
-  "events_count": 12,
-  "match_played": 36,
-  "match_wins": 25,
-  "favorite_format": ["draft", 0.75]
+  "events_count": 13,
+  "match_played": 39,
+  "match_wins": 27,
+  "favorite_format": ["draft", 0.7692307692307693]
 }

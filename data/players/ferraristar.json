@@ -4,13 +4,14 @@
   "display_name": "Ferrari Antonio",
   "color_stats": {},
   "recent_events": [
+    {"id":445827,"name":"Summer League 2026 | Draft #6 (SOS)","date":"2026-07-17","format":"draft","points":6,"rank":[3,8],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":0,"rank":[19,19],"match_record":"0-4-0","game_record":"1-8-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":6,"rank":[4,8]},
     {"id":440366,"name":"Summer League 2026 | Draft #4 (MSH)","date":"2026-07-03","format":"draft","points":7,"rank":[1,6],"match_record":"2-0-1","game_record":"4-1-0"},
     {"id":439253,"name":"Summer League 2026 | Draft #3 (2X2)","date":"2026-06-26","format":"draft","points":6,"rank":[7,12],"match_record":"2-2-0","game_record":"4-4-0"}
   ],
-  "events_count": 4,
-  "match_played": 11,
-  "match_wins": 4,
-  "favorite_format": ["draft", 0.75]
+  "events_count": 5,
+  "match_played": 14,
+  "match_wins": 6,
+  "favorite_format": ["draft", 0.8]
 }
