@@ -48,14 +48,14 @@ const TournamentPage: React.FC = () => {
                 style={{
                   marginTop: 32,
                   gridTemplateColumns: [
-                    'auto',
-                    'auto',
-                    'auto',
-                    ...(formatColumn ? ['auto'] : []),
-                    ...(displayDecks ? ['auto'] : []),
-                    ...(displayMatchRecord ? ['auto'] : []),
-                    ...(displayGameRecord ? ['auto'] : []),
-                    ...Array.from({ length: rounds }, () => 'minmax(0, 1fr)'),
+                    'max-content',
+                    'max-content',
+                    'max-content',
+                    ...(formatColumn ? ['max-content'] : []),
+                    ...(displayDecks ? ['max-content'] : []),
+                    ...(displayMatchRecord ? ['max-content'] : []),
+                    ...(displayGameRecord ? ['max-content'] : []),
+                    ...Array.from({ length: rounds }, () => 'minmax(89px, 1fr)'),
                   ].join(' '),
                 }}
                 className={`grid-table ${data.format === Format.TRIOS ? 'trios-format' : ''}`}
@@ -69,7 +69,7 @@ const TournamentPage: React.FC = () => {
                   {displayMatchRecord ? <div className="cell">Match Record</div> : null}
                   {displayGameRecord ? <div className="cell">Game Record</div> : null}
                   {Array.from({ length: rounds }).map((_, i) => (
-                    <div key={i.toString(10)} className={`cell ${rounds > 5 && rounds < 10 ? 'small-font' : ''}`}>
+                    <div key={i.toString(10)} className={`cell`}>
                       {rounds > 9 ? 'R' : 'Round '}#{i + 1}
                     </div>
                   ))}
@@ -96,7 +96,7 @@ const TournamentPage: React.FC = () => {
                     {displayMatchRecord ? <div className="cell">{s.match_record}</div> : null}
                     {displayGameRecord ? <div className="cell">{s.game_record}</div> : null}
                     {Array.from({ length: rounds }).map((_, i) => {
-                      let className = `cell ${rounds > 5 ? 'small-font' : ''}`;
+                      let className = `cell`;
                       const r = s.rounds?.[i];
                       if (!r) return <div className={className}>-</div>;
                       if (r === 'bye') return <div className={`${className} round--bye`}>bye</div>;

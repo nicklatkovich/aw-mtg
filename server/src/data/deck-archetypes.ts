@@ -196,6 +196,7 @@ export const ARCHETYPES = {
   'Dimir Terror': ['UB', DeckType.CONTROL],
   'Dimir Madness': ['UB', DeckType.CONTROL],
   'Dimir Dredge': 'UB',
+  'Dimir Tron': 'UB',
   // UBR
   'Grixis Affinity': 'UBR',
   'Grixis Madness Burn': 'UBR',
@@ -327,6 +328,7 @@ export const ARCHETYPES = {
   'Golgari Control': ['BG', DeckType.CONTROL],
   'Golgari Lifegain': 'BG',
   "Golgari Pharaoh's Gift": 'BG',
+  'Golgari Depths': ['BG', DeckType.COMBO],
   // R
   'Mono-Red Aggro': ['R', DeckType.AGGRO],
   'Mono-Red Resonance': ['R', DeckType.AGGRO],
@@ -396,6 +398,7 @@ export const ARCHETYPES = {
   '5c Slivers': 'WUBRG',
   '5c Song of Creation': 'WUBRG',
   '5c Elementals': 'WUBRG',
+  '5c Epic Storm': ['WUBRG', DeckType.COMBO],
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',

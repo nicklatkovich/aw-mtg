@@ -4,6 +4,59 @@ import { Tournament } from '../data.types';
 
 export const _2026_legacy: Tournament[] = [
   {
+    id: 446395,
+    format: Format.LEGACY,
+    name: 'Summer League 2026 | Legacy #2/3',
+    date: '2026-07-19',
+    standings: [
+      { player: 'Tanti', rank: 1, deck: 'Esper Tempo', points: 10, mp: 6, mw: 5, match_record: '5-0-1', game_record: '10-2-3', omw: 58.33333, tgw: 63.63636, ogw: 53.86364 },
+      { player: 'K1ppy', rank: 2, deck: '5c Epic Storm', points: 9, mp: 6, mw: 4, match_record: '4-2-0', game_record: '8-5-0', omw: 37.5, tgw: 66.66667, ogw: 40.55556 },
+      { player: 'qvertion', rank: 3, deck: 'Mardu Energy', points: 10, mp: 5, mw: 3, match_record: '3-1-1', game_record: '6-3-3', omw: 50.0, tgw: 70.0, ogw: 46.46465 },
+      { player: 'Aleksandr_KoLoshk', rank: 4, deck: 'Azorius Tempo', points: 6, mp: 5, mw: 2, match_record: '2-3-0', game_record: '5-6-0', omw: 66.66667, tgw: 55.55556, ogw: 58.66162 },
+      { player: 'BregoXX', rank: 5, deck: 'Izzet Sneak and Show', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0', omw: 52.08333, tgw: 55.55556, ogw: 50.0 },
+      { player: 'farsmac', rank: 6, deck: 'Dimir Tron', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-6-0', omw: 50.0, tgw: 45.45455, ogw: 48.13131 },
+      { player: 'Norbi', rank: 7, deck: 'Bant Control', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0', omw: 50.0, tgw: 44.44444, ogw: 48.13131 },
+      { player: 'Armalite', rank: 8, deck: 'Golgari Depths', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 64.58333, tgw: 33.33333, ogw: 59.16667 },
+      { player: '4onoki', rank: 9, deck: 'Golgari Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0', omw: 52.08333, tgw: 40.0, ogw: 47.47475 },
+      { player: 'IvaD', rank: 10, deck: 'Rakdos Reanimator', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '1-8-0', omw: 60.41667, tgw: 33.33333, ogw: 55.5303 },
+    ],
+    rounds: [
+      [
+        { players: ['Armalite', 'K1ppy'], winner: 1, record: '2-0-0' },
+        { players: ['4onoki', 'farsmac'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'IvaD'], winner: 1, record: '2-0-0' },
+        { players: ['Tanti', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['BregoXX', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', 'IvaD'], winner: 1, record: '2-1-0' },
+        { players: ['qvertion', 'Armalite'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'Tanti'], winner: 2, record: '2-1-0' },
+        { players: ['4onoki', 'K1ppy'], winner: 2, record: '2-0-0' },
+        { players: ['BregoXX', 'Norbi'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['qvertion', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['Tanti', 'farsmac'], winner: 1, record: '2-1-0' },
+        { players: ['K1ppy', 'IvaD'], winner: 1, record: '2-0-0' },
+        { players: ['BregoXX', 'Armalite'], winner: 1, record: '2-0-0' },
+        { players: ['Norbi', '4onoki'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tanti', 'qvertion'], winner: 0, record: '0-0-3' },
+        { players: ['farsmac', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+        { players: ['K1ppy', 'BregoXX'], winner: 1, record: '2-1-0' },
+        { players: ['Armalite', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['IvaD', '4onoki'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tanti', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['qvertion', 'K1ppy'], winner: 2, record: '2-0-0' },
+      ],
+      [{ players: ['Tanti', 'K1ppy'], winner: 1, record: '2-0-0' }],
+    ],
+  },
+  {
     id: 439920,
     format: Format.LEGACY,
     name: 'Summer League 2026 | Legacy #1/3',

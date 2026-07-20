@@ -4,7 +4,6 @@ import styles from './Header.module.scss';
 const navLinks: { to: string; label: string }[] = [
   { to: '/recent-events', label: 'Recent Events' },
   { to: '/pioneer-ladder-2026', label: 'Pioneer Ladder 2026' },
-  { to: '/spring-league-2026', label: 'Spring League 2026' },
   { to: '/summer-league-2026', label: 'Summer League 2026' },
   { to: '/players', label: 'Players List' },
   { to: '/archive', label: 'Archive' },

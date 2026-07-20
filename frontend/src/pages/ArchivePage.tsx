@@ -5,6 +5,9 @@ export const ArchivePage: React.FC = () => (
     <h1>Archive</h1>
     <ul>
       <li>
+        <Link to="/spring-league-2026">Spring League 2026</Link>
+      </li>
+      <li>
         <Link to="/fall-league-2025">Fall League 2025</Link>
       </li>
       <li>

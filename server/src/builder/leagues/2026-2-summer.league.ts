@@ -78,7 +78,8 @@ export const summer2026League: LeagueInfo[] = [
     events: slice(_2026_legacy, 3),
     rank_override: [
       '037e76b0-88c8-4458-94a8-d63c2f9a8155', // Kolyshko Alexander
+      'a52d83e2-0c2f-4fe0-bc03-1d03a54a4170', // Charniauski Mikita
     ],
-    determined_top: 1,
+    determined_top: 2,
   },
 ];
