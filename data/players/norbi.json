@@ -2,8 +2,9 @@
   "guid": "ff13634f-2035-4dc4-ae7d-31ad9a01e658",
   "id": "norbi",
   "display_name": "Voiteh Stas",
-  "color_stats": {"W":0.39926062846580396,"U":1,"B":0.21441774491682075,"R":0.9630314232902034,"G":0.14048059149722736},
+  "color_stats": {"W":0.4101633393829401,"U":1,"G":0.15607985480943742,"B":0.21052631578947376,"R":0.9455535390199639},
   "recent_events": [
+    {"id":446395,"name":"Summer League 2026 | Legacy #2/3","date":"2026-07-19","format":"legacy","points":6,"rank":[7,10],"deck":{"archetype":"Bant Control","colors":"WUG","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[4,19],"match_record":"5-3-0","game_record":"13-7-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[3,8]},
@@ -81,8 +82,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 76,
-  "match_played": 265,
-  "match_wins": 143,
-  "favorite_format": ["pioneer", 0.4342105263157895]
+  "events_count": 77,
+  "match_played": 269,
+  "match_wins": 145,
+  "favorite_format": ["pioneer", 0.42857142857142855]
 }

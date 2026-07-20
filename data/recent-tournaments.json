@@ -1,4 +1,5 @@
 [
+  {"id":446395,"format":"legacy","date":"2026-07-19","name":"Summer League 2026 | Legacy #2/3","players_count":10,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Esper Tempo","colors":"WUB","type":"Tempo"}}},
   {"id":445826,"format":"draft","date":"2026-07-17","name":"Summer League 2026 | Draft #7 (MSH)","players_count":8,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"}}},
   {"id":445827,"format":"draft","date":"2026-07-17","name":"Summer League 2026 | Draft #6 (SOS)","players_count":8,"winner":{"player":{"display_name":"Savchenko Oleg","id":"lspolegi"}}},
   {"id":444699,"format":"pioneer","date":"2026-07-16","name":"Summer League 2026 | Pioneer #7/12","players_count":11,"winner":{"player":{"display_name":"Arepin Artyom","id":"hi-art"},"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}},

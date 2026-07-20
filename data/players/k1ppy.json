@@ -2,8 +2,9 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"U":0.09909909909909913,"R":1,"W":0.21921921921921925,"B":0.09909909909909913,"G":0.4444444444444444},
+  "color_stats": {"W":0.2238805970149254,"U":0.10447761194029853,"B":0.10447761194029853,"R":1,"G":0.44776119402985076},
   "recent_events": [
+    {"id":446395,"name":"Summer League 2026 | Legacy #2/3","date":"2026-07-19","format":"legacy","points":9,"rank":[2,10],"deck":{"archetype":"5c Epic Storm","colors":"WUBRG","type":"Combo"},"match_record":"4-2-0","game_record":"8-5-0"},
     {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":4,"rank":[10,14],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-2-1","game_record":"5-5-0"},
     {"id":400202,"name":"Daily | Pioneer (29.01.26)","date":"2026-01-29","format":"pioneer","points":7,"rank":[1,6],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-0-1","game_record":"4-1-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":6,"rank":[2,8],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-0","game_record":"5-4-0"},
@@ -100,8 +101,8 @@
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[10,12]},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":3,"rank":[12,12]}
   ],
-  "events_count": 95,
-  "match_played": 375,
-  "match_wins": 215,
-  "favorite_format": ["pioneer", 0.5789473684210527]
+  "events_count": 96,
+  "match_played": 381,
+  "match_wins": 219,
+  "favorite_format": ["pioneer", 0.5729166666666666]
 }
