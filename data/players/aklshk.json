@@ -4,6 +4,7 @@
   "display_name": "Kolyshko Alexander",
   "color_stats": {"W":0.17208966015907443,"U":1,"R":0.15401301518438174,"G":0.07809110629067245,"B":0.20101229211858274},
   "recent_events": [
+    {"id":446445,"name":"Summer League 2026 | Pauper #8/12","date":"2026-07-22","format":"pauper","points":0,"rank":[20,20],"match_record":"0-3-0","game_record":"1-6-0"},
     {"id":446395,"name":"Summer League 2026 | Legacy #2/3","date":"2026-07-19","format":"legacy","points":6,"rank":[4,10],"deck":{"archetype":"Azorius Tempo","colors":"WU","type":"Tempo"},"match_record":"2-3-0","game_record":"5-6-0"},
     {"id":444697,"name":"Summer League 2026 | Pauper #7/12","date":"2026-07-15","format":"pauper","points":9,"rank":[4,17],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":442230,"name":"Summer League 2026 | Modern #4/9","date":"2026-07-12","format":"modern","points":3,"rank":[7,8],"deck":{"archetype":"Gruul Ponza","colors":"RG","type":null},"match_record":"1-3-0","game_record":"4-7-0"},
@@ -112,8 +113,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 107,
-  "match_played": 415,
+  "events_count": 108,
+  "match_played": 418,
   "match_wins": 229,
-  "favorite_format": ["pauper", 0.5420560747663551]
+  "favorite_format": ["pauper", 0.5462962962962963]
 }

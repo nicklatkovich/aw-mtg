@@ -4,6 +4,7 @@
   "display_name": "Ivanov Andrey",
   "color_stats": {"R":1,"W":0.32080924855491333,"U":0.3063583815028902,"B":0.1329479768786127,"G":0.14739884393063585},
   "recent_events": [
+    {"id":446445,"name":"Summer League 2026 | Pauper #8/12","date":"2026-07-22","format":"pauper","points":3,"rank":[16,20],"match_record":"1-3-0","game_record":"5-6-0"},
     {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":9,"rank":[4,16],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":440366,"name":"Summer League 2026 | Draft #4 (MSH)","date":"2026-07-03","format":"draft","points":3,"rank":[5,6],"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":438920,"name":"Summer League 2026 | Pauper #4/12","date":"2026-06-24","format":"pauper","points":6,"rank":[11,16],"match_record":"2-2-0","game_record":"5-4-0"},
@@ -45,8 +46,8 @@
     {"id":308022,"name":"Daily | Pauper (14.05)","date":"2025-05-14","format":"pauper","points":9,"rank":[5,15],"deck":{"archetype":"Mono-Red Burn","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":6,"rank":[6,14]}
   ],
-  "events_count": 40,
-  "match_played": 159,
-  "match_wins": 84,
-  "favorite_format": ["pauper", 0.925]
+  "events_count": 41,
+  "match_played": 163,
+  "match_wins": 85,
+  "favorite_format": ["pauper", 0.926829268292683]
 }
