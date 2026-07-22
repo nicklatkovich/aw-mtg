@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 446444,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #8/12',
+    date: '2026-07-21',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '6-2-0' },
+      { player: 'profunny', rank: 2, points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Sergey', rank: 3, points: 7, mp: 3, mw: 1, match_record: '2-1-1', game_record: '5-4-0' },
+      { player: 'BRV', rank: 4, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'vladislavyurel', rank: 5, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['profunny', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['Sergey', 'vladislavyurel'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['profunny', 'vladislavyurel'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'Sergey'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['vladislavyurel', null], winner: 1, record: 'bye' },
+        { players: ['profunny', 'Very_Bad_Man'], winner: 2, record: '1-0-0' },
+        { players: ['Sergey', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Sergey', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'profunny'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 444693,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #7/12',
