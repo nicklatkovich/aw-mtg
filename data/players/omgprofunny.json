@@ -4,6 +4,7 @@
   "display_name": "Bondarchik Andrei",
   "color_stats": {"U":0.8461538461538465,"B":1,"G":0.1880341880341881,"W":0.26495726495726496,"R":0.41880341880341876},
   "recent_events": [
+    {"id":446444,"name":"Summer League 2026 | Standard #8/12","date":"2026-07-21","format":"standard","points":9,"rank":[2,5],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[6,8]},
     {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":1,"rank":[7,7],"deck":{"archetype":"Dimir Midrange","colors":"UB","type":"Midrange"},"match_record":"0-2-1","game_record":"2-5-0"},
     {"id":433732,"name":"Summer League 2026 | Standard #3/12","date":"2026-06-16","format":"standard","points":7,"rank":[3,6],"deck":{"archetype":"Sultai Reanimator","colors":"UBG","type":"Combo"},"match_record":"2-1-1","game_record":"4-3-0"},
@@ -80,8 +81,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":9,"rank":[3,9]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[7,12],"deck":{"archetype":"Rakdos Vampires","colors":"BR","type":"Midrange"}}
   ],
-  "events_count": 75,
-  "match_played": 267,
-  "match_wins": 151,
-  "favorite_format": ["standard", 0.52]
+  "events_count": 76,
+  "match_played": 271,
+  "match_wins": 154,
+  "favorite_format": ["standard", 0.5263157894736842]
 }
