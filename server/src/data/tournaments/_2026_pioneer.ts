@@ -3,6 +3,53 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 447544,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #8/12',
+    date: '2026-07-23',
+    standings: [
+      { player: 'profunny', rank: 1, deck: 'Dimir Ninjas', points: 12, mp: 3, mw: 3, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'Human11', rank: 2, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Very_Bad_Man', rank: 3, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-2-0' },
+      { player: 'Slava_bel', rank: 4, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-4-0' },
+      { player: 'RomanKohan14', rank: 5, deck: 'Mono-Black Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'TroV1', rank: 6, deck: 'Orzhov Monument', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'AnklDen', rank: 7, deck: 'Golgari Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'BRV', rank: 8, deck: 'Izzet Spellementals', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'Alex88', rank: 9, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['profunny', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'Human11'], winner: 2, record: '2-1-0' },
+        { players: ['TroV1', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'Alex88'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'Alex88'], winner: 1, record: '2-0-0' },
+        { players: ['Human11', 'profunny'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'RomanKohan14'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'TroV1'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['AnklDen', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'RomanKohan14'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'profunny'], winner: 2, record: '2-0-0' },
+        { players: ['TroV1', 'Alex88'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Human11'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Alex88', null], winner: 1, record: 'bye' },
+        { players: ['profunny', 'TroV1'], winner: 1, record: '2-1-0' },
+        { players: ['RomanKohan14', 'Human11'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Slava_bel'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 444699,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #7/12',
