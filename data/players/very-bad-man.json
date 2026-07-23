@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"W":0.6222014925373135,"G":0.3843283582089553,"U":0.4449626865671643,"B":1,"R":0.4589552238805972},
+  "color_stats": {"B":1,"R":0.4664213431462742,"W":0.6136154553817846,"G":0.3790248390064397,"U":0.438822447102116},
   "recent_events": [
+    {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":9,"rank":[3,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":446444,"name":"Summer League 2026 | Standard #8/12","date":"2026-07-21","format":"standard","points":10,"rank":[1,5],"match_record":"3-0-1","game_record":"6-2-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[6,8]},
     {"id":433740,"name":"Summer League 2026 | Pioneer #3/12","date":"2026-06-18","format":"pioneer","points":4,"rank":[5,7],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"1-1-1","game_record":"4-3-0"},
@@ -147,8 +148,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 142,
-  "match_played": 563,
-  "match_wins": 266,
-  "favorite_format": ["pioneer", 0.647887323943662]
+  "events_count": 143,
+  "match_played": 567,
+  "match_wins": 269,
+  "favorite_format": ["pioneer", 0.6503496503496503]
 }

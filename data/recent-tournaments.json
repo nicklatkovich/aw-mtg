@@ -1,4 +1,5 @@
 [
+  {"id":447544,"format":"pioneer","date":"2026-07-23","name":"Summer League 2026 | Pioneer #8/12","players_count":9,"winner":{"player":{"display_name":"Bondarchik Andrei","id":"omgprofunny"},"deck":{"archetype":"Dimir Ninjas","colors":"UB","type":"Tempo"}}},
   {"id":446445,"format":"pauper","date":"2026-07-22","name":"Summer League 2026 | Pauper #8/12","players_count":20,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"}}},
   {"id":446444,"format":"standard","date":"2026-07-21","name":"Summer League 2026 | Standard #8/12","players_count":5,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"}}},
   {"id":446395,"format":"legacy","date":"2026-07-19","name":"Summer League 2026 | Legacy #2/3","players_count":10,"winner":{"player":{"display_name":"Charniauski Mikita","id":"tanti"},"deck":{"archetype":"Esper Tempo","colors":"WUB","type":"Tempo"}}},

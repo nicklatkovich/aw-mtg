@@ -2,8 +2,9 @@
   "guid": "26c66354-a32a-4ad1-928e-8322f4724e56",
   "id": "anklden",
   "display_name": "Chuyanau Dzianis",
-  "color_stats": {"U":0.5388669301712778,"G":0.8353096179183137,"W":0.7957839262187087,"B":1,"R":0.4664031620553361},
+  "color_stats": {"B":1,"G":0.838501291989664,"U":0.528423772609819,"W":0.7803617571059431,"R":0.45736434108527146},
   "recent_events": [
+    {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":6,"rank":[7,9],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":7,"rank":[4,11],"deck":{"archetype":"Simic Merfolks","colors":"UG","type":null},"match_record":"2-1-1","game_record":"5-5-1"},
     {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":6,"rank":[5,7],"deck":{"archetype":"Simic Merfolks","colors":"UG","type":null},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":3,"rank":[6,8]},
@@ -136,8 +137,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[8,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[11,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 131,
-  "match_played": 517,
-  "match_wins": 263,
-  "favorite_format": ["pioneer", 0.7938931297709924]
+  "events_count": 132,
+  "match_played": 521,
+  "match_wins": 265,
+  "favorite_format": ["pioneer", 0.7954545454545454]
 }
