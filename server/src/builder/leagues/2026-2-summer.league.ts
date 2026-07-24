@@ -63,7 +63,7 @@ export const summer2026League: LeagueInfo[] = [
     top: 8,
     top_events: 7,
     events_to_extra_point: 0,
-    events: slice(_2026_limited, 12),
+    events: slice(_2026_limited, 18),
   },
   {
     format: Format.LEGACY,

@@ -4,6 +4,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_limited: Tournament[] = [
   {
+    id: 447625,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #8 (MSH)',
+    date: '2026-07-24',
+    standings: [
+      { player: 'Roman_B', rank: 1, points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'Danik1998', rank: 2, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'serj', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'pidlik', rank: 4, points: 6, mp: 2, mw: 1, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'Torongil', rank: 5, points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'NikitaP', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'McRais', rank: 7, points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['pidlik', null], winner: 1, record: 'bye' },
+        { players: ['Roman_B', 'Torongil'], winner: 1, record: '2-0-0' },
+        { players: ['NikitaP', 'serj'], winner: 2, record: '2-0-0' },
+        { players: ['Danik1998', 'McRais'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Torongil', null], winner: 1, record: 'bye' },
+        { players: ['Danik1998', 'pidlik'], winner: 1, record: '2-1-0' },
+        { players: ['serj', 'Roman_B'], winner: 2, record: '2-1-0' },
+        { players: ['McRais', 'NikitaP'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Roman_B', 'Danik1998'], winner: 1, record: '2-0-0' },
+        { players: ['NikitaP', 'pidlik'], winner: 2, record: '2-0-0' },
+        { players: ['Torongil', 'serj'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 445826,
     format: Format.DRAFT,
     name: 'Summer League 2026 | Draft #7 (MSH)',
