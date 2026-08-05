@@ -3,6 +3,46 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 448999,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #9/12',
+    date: '2026-07-30',
+    standings: [
+      { player: 'AnklDen', rank: 1, deck: 'Quintorius Combo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Melamasta', rank: 2, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Spellementals', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'TroV1', rank: 4, deck: 'Abzan Greasefang', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Slava_bel', rank: 5, deck: 'Golgari Midrange', points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'GlebK', rank: 6, deck: 'Mono-Red Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-5-0' },
+      { player: 'Very_Bad_Man', rank: 7, deck: 'Rakdos Midrange', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+    ],
+    rounds: [
+      [
+        { players: ['TroV1', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'Slava_bel'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['GlebK', 'Melamasta'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'TroV1'], winner: 1, record: '2-0-0' },
+        { players: ['Melamasta', 'Very_Bad_Man'], winner: 1, record: '2-1-0' },
+        { players: ['GlebK', 'Slava_bel'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Slava_bel', null], winner: 1, record: 'bye' },
+        { players: ['Melamasta', 'AnklDen'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'GlebK'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'TroV1'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['TroV1', 'Melamasta'], winner: 2, record: '2-1-0' },
+        { players: ['Slava_bel', 'Very_Bad_Man'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 447544,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #8/12',

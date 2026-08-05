@@ -18,6 +18,9 @@ function slice(events: Tournament[], count: number): Tournament[] {
     .slice(0, count);
 }
 
+const standardEvents: (Tournament | null)[] = slice(_2026_standard, 11);
+standardEvents.splice(8, 0, null);
+
 export const summer2026League: LeagueInfo[] = [
   {
     format: Format.STANDARD,
@@ -26,7 +29,7 @@ export const summer2026League: LeagueInfo[] = [
     total_events: 12,
     top: 6,
     prize_pool_inc_by_player: 2,
-    events: slice(_2026_standard, 12),
+    events: standardEvents,
   },
   {
     format: Format.PAUPER,

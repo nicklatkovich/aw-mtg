@@ -216,7 +216,6 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '32e3b0dd-0de2-46af-8cf5-6187548f4e42': 'Wang Dennis',
   'a984b90b-e758-41eb-9ebd-46e1b520c10e': 'Beliy Artemiy',
   'a931c076-d03d-4ab3-ac20-a8fca3934016': 'Ferrari Antonio',
-  '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0': 'S* Anna',
   '432e2674-fa02-4af3-b0cd-eb5b13876888': 'Shkerenok Evgeny',
   '663759e2-28ac-46e4-b153-3c720f2ceff4': 'Zmachynskaya Elizaveta',
   '1972c86c-b445-4072-b9bf-429110686e02': 'Zubchenok Anton',
@@ -230,6 +229,8 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'd932d632-9410-45a9-9be8-ac5526741ae9': 'Kovalyov Igor',
   '7cfa1df2-d247-49ea-ae72-249b521b2175': 'Ryabtsev Ivan',
   '4a200d9a-0dac-4a71-a4ae-66e8a0be3558': 'Bakhankov Ignat',
+  '78ad3e17-021e-4fb0-8585-f8e621881173': 'Martsev Ivan',
+  '6e7d0a32-52be-44e9-9aa5-8d83104c068f': 'Sachkova Anna',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -481,7 +482,7 @@ export const playersByUsername: { [username in string]?: string } = {
   ktna: 'a984b90b-e758-41eb-9ebd-46e1b520c10e',
   nubila0: '32e3b0dd-0de2-46af-8cf5-6187548f4e42',
   FerrariStar: 'a931c076-d03d-4ab3-ac20-a8fca3934016',
-  lcpsp: '0bd144bf-1c5c-4f9b-b9cf-eeb9531617e0',
+  lcpsp: '6e7d0a32-52be-44e9-9aa5-8d83104c068f',
   pichushkin8: 'e6d28df5-a35e-434f-87f0-4be11c9b9079',
   myhji: '432e2674-fa02-4af3-b0cd-eb5b13876888',
   Elfaitelson: '663759e2-28ac-46e4-b153-3c720f2ceff4',
@@ -497,4 +498,6 @@ export const playersByUsername: { [username in string]?: string } = {
   Psychosocial: '7cfa1df2-d247-49ea-ae72-249b521b2175',
   BDima: '58124235-296f-4aa8-a419-4f0c442767f8',
   Vassago: '4a200d9a-0dac-4a71-a4ae-66e8a0be3558',
+  meowmeoww: '78ad3e17-021e-4fb0-8585-f8e621881173',
+  xelvq: '6e7d0a32-52be-44e9-9aa5-8d83104c068f',
 };

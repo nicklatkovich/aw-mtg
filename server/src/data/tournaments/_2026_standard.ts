@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 450306,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #10/12',
+    date: '2026-08-04',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-5-0' },
+      { player: 'Melamasta', rank: 2, points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'profunny', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'BRV', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'xelvq', rank: 5, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'vladislavyurel', rank: 6, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['profunny', 'BRV'], winner: 1, record: '2-1-0' },
+        { players: ['vladislavyurel', 'Melamasta'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'xelvq'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['profunny', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Melamasta'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'xelvq'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['profunny', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['xelvq', 'Melamasta'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'vladislavyurel'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Melamasta', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['xelvq', 'vladislavyurel'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 446444,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #8/12',
