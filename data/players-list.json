@@ -210,7 +210,7 @@
   {"id":"odis89","display_name":"Kirill Melnik","events_count":3,"match_played":9,"match_wins":5,"color_stats":{},"favorite_format":["draft",1]},
   {"id":"gambitbrest","display_name":"Pas Sasha","events_count":1,"match_played":5,"match_wins":0,"color_stats":{"U":1,"B":1,"R":1,"G":1},"favorite_format":["pauper",1]},
   {"id":"iliabakhriev","display_name":"Bakhriev Ilia","events_count":4,"match_played":15,"match_wins":8,"color_stats":{},"favorite_format":["draft",1]},
-  {"id":"brv","display_name":"Brozhat Rostislav","events_count":200,"match_played":792,"match_wins":442,"color_stats":{"U":0.6855427974947809,"R":1,"W":0.33063674321503134,"G":0.3671711899791231,"B":0.012265135699373693},"favorite_format":["pioneer",0.49]},
+  {"id":"brv","display_name":"Brozhat Rostislav","events_count":201,"match_played":792,"match_wins":442,"color_stats":{"U":0.6855427974947809,"R":1,"W":0.33063674321503134,"G":0.3671711899791231,"B":0.012265135699373693},"favorite_format":["pioneer",0.48756218905472637]},
   {"id":"levdansky","display_name":"Levdansky Alexander","events_count":6,"match_played":6,"match_wins":4,"color_stats":{"W":1,"U":1,"B":1,"R":1},"favorite_format":["commander",0.8333333333333334]},
   {"id":"darkowlai","display_name":"BrOwl* Artem","events_count":2,"match_played":7,"match_wins":4,"color_stats":{"W":1,"U":1,"B":1},"favorite_format":["commander",1]},
   {"id":"pichushkin","display_name":"Pichushkin Andrey","events_count":6,"match_played":15,"match_wins":5,"color_stats":{"B":1,"G":1},"favorite_format":["pauper",0.5]},
@@ -234,6 +234,6 @@
   {"id":"ixidor","display_name":"Gaponov Nikita","events_count":3,"match_played":23,"match_wins":16,"color_stats":{"W":0.625,"U":1,"B":0.375,"R":0.25},"favorite_format":["pioneer",0.3333333333333333]},
   {"id":"konstantinperevezenov","display_name":"Perevezenov Konstantin","events_count":1,"match_played":4,"match_wins":1,"color_stats":{"U":1,"R":1},"favorite_format":["standard",1]},
   {"id":"danb69","display_name":"Bliznetsov Daniil","events_count":5,"match_played":14,"match_wins":3,"color_stats":{"U":1,"G":1,"W":1},"favorite_format":["pauper",0.6]},
-  {"id":"norbi","display_name":"Voiteh Stas","events_count":78,"match_played":273,"match_wins":147,"color_stats":{"W":0.4101633393829401,"U":1,"G":0.15607985480943742,"B":0.21052631578947376,"R":0.9455535390199639},"favorite_format":["pioneer",0.4230769230769231]},
+  {"id":"norbi","display_name":"Voiteh Stas","events_count":79,"match_played":273,"match_wins":147,"color_stats":{"W":0.4101633393829401,"U":1,"G":0.15607985480943742,"B":0.21052631578947376,"R":0.9455535390199639},"favorite_format":["pioneer",0.4177215189873418]},
   {"id":"sutko","display_name":"Sutko Artem","events_count":21,"match_played":64,"match_wins":28,"color_stats":{"B":1,"R":0.32203389830508466,"G":0.9717514124293785,"W":0.29378531073446323,"U":0.4632768361581921},"favorite_format":["pauper",0.5714285714285714]}
 ]

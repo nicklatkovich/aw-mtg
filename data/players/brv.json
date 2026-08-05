@@ -5,8 +5,9 @@
   "color_stats": {"U":0.6855427974947809,"R":1,"W":0.33063674321503134,"G":0.3671711899791231,"B":0.012265135699373693},
   "recent_events": [
     {"id":450306,"name":"Summer League 2026 | Standard #10/12","date":"2026-08-04","format":"standard","points":6,"rank":[4,6],"match_record":"2-2-0","game_record":"6-4-0"},
-    {"id":450101,"name":"Summer League 2026 | Modern #5/9","date":"2026-08-02","format":"modern","points":9,"rank":[5,15],"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":450101,"name":"Summer League 2026 | Modern #6/9","date":"2026-08-02","format":"modern","points":9,"rank":[5,15],"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":448999,"name":"Summer League 2026 | Pioneer #9/12","date":"2026-07-30","format":"pioneer","points":9,"rank":[3,7],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
+    {"id":"m260726","name":"Summer League 2026 | Modern #5/9","date":"2026-07-26","format":"modern","points":6,"rank":[1,2]},
     {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":446444,"name":"Summer League 2026 | Standard #8/12","date":"2026-07-21","format":"standard","points":6,"rank":[4,5],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":6,"rank":[6,11],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -205,8 +206,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 200,
+  "events_count": 201,
   "match_played": 792,
   "match_wins": 442,
-  "favorite_format": ["pioneer", 0.49]
+  "favorite_format": ["pioneer", 0.48756218905472637]
 }

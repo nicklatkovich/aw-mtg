@@ -1,9 +1,10 @@
 [
   {"id":450306,"format":"standard","date":"2026-08-04","name":"Summer League 2026 | Standard #10/12","players_count":6,"winner":{"player":{"display_name":"Shagoiko Maxim","id":"very-bad-man"}}},
-  {"id":450101,"format":"modern","date":"2026-08-02","name":"Summer League 2026 | Modern #5/9","players_count":15,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"}}},
+  {"id":450101,"format":"modern","date":"2026-08-02","name":"Summer League 2026 | Modern #6/9","players_count":15,"winner":{"player":{"display_name":"Novikov Valentine","id":"azurenia"}}},
   {"id":449000,"format":"draft","date":"2026-07-31","name":"Summer League 2026 | Draft #9 (MSH)","players_count":10,"winner":{"player":{"display_name":"Rasuk Daniil","id":"danik1998"}}},
   {"id":448999,"format":"pioneer","date":"2026-07-30","name":"Summer League 2026 | Pioneer #9/12","players_count":7,"winner":{"player":{"display_name":"Chuyanau Dzianis","id":"anklden"},"deck":{"archetype":"Quintorius Combo","colors":"WUBRG","type":"Combo"}}},
   {"id":448997,"format":"pauper","date":"2026-07-29","name":"Summer League 2026 | Pauper #9/12","players_count":19,"winner":{"player":{"display_name":"Aflakhanov Alex","id":"alexkhan"}}},
+  {"id":"m260726","format":"modern","date":"2026-07-26","name":"Summer League 2026 | Modern #5/9","players_count":2,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"}}},
   {"id":447625,"format":"draft","date":"2026-07-24","name":"Summer League 2026 | Draft #8 (MSH)","players_count":7,"winner":{"player":{"display_name":"Bashkirov Roman","id":"roman-b"}}},
   {"id":447544,"format":"pioneer","date":"2026-07-23","name":"Summer League 2026 | Pioneer #8/12","players_count":9,"winner":{"player":{"display_name":"Bondarchik Andrei","id":"omgprofunny"},"deck":{"archetype":"Dimir Ninjas","colors":"UB","type":"Tempo"}}},
   {"id":446445,"format":"pauper","date":"2026-07-22","name":"Summer League 2026 | Pauper #8/12","players_count":20,"winner":{"player":{"display_name":"Martseniuk Maksim","id":"qvertion"},"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"}}},
