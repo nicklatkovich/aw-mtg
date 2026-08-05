@@ -5,7 +5,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 450101,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #5/9',
+    name: 'Summer League 2026 | Modern #6/9',
     date: '2026-08-02',
     standings: [
       { player: 'Azurenia', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -64,6 +64,16 @@ export const _2026_modern: Tournament[] = [
         { players: ['PolR', 'Norbi'], winner: 2, record: '2-1-0' },
         { players: ['Melamasta', 'diuzhev'], winner: 1, record: '2-0-0' },
       ],
+    ],
+  },
+  {
+    id: 'm260726',
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #5/9',
+    date: '2026-07-26',
+    standings: [
+      { player: 'BRV', rank: 1, points: 6 },
+      { player: 'Norbi', rank: 1, points: 6 },
     ],
   },
   {
