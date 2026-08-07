@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 450332,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #10/12',
+    date: '2026-08-06',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-1-0' },
+      { player: 'Very_Bad_Man', rank: 2, deck: 'Rakdos Midrange', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'GlebK', rank: 3, deck: 'Mono-Red Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'PavP', rank: 4, deck: 'Rakdos Aggro', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'AnklDen', rank: 5, deck: 'Quintorius Combo', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-7-0' },
+      { player: 'EvgS', rank: 6, deck: 'Simic Flash', points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '1-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['PavP', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'EvgS'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'AnklDen'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['PavP', 'EvgS'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Very_Bad_Man', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['GlebK', 'EvgS'], winner: 1, record: '2-0-0' },
+        { players: ['PavP', 'AnklDen'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', 'PavP'], winner: 1, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['EvgS', 'AnklDen'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 448999,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #9/12',
