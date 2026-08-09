@@ -4,6 +4,7 @@
   "display_name": "Sobyanin Dmitriy",
   "color_stats": {"R":1},
   "recent_events": [
+    {"id":450304,"name":"Summer League 2026 | Draft #10 (MSH)","date":"2026-08-07","format":"draft","points":12,"rank":[1,8],"match_record":"4-0-0","game_record":"7-3-0"},
     {"id":449000,"name":"Summer League 2026 | Draft #9 (MSH)","date":"2026-07-31","format":"draft","points":6,"rank":[4,10],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":447625,"name":"Summer League 2026 | Draft #8 (MSH)","date":"2026-07-24","format":"draft","points":6,"rank":[4,7],"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":445826,"name":"Summer League 2026 | Draft #7 (MSH)","date":"2026-07-17","format":"draft","points":3,"rank":[6,8],"match_record":"1-2-0","game_record":"3-4-0"},
@@ -18,8 +19,8 @@
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":6,"rank":[6,12],"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":3,"rank":[8,12],"match_record":"1-2-0","game_record":"3-4-0"}
   ],
-  "events_count": 13,
-  "match_played": 45,
-  "match_wins": 24,
-  "favorite_format": ["draft", 0.8461538461538461]
+  "events_count": 14,
+  "match_played": 49,
+  "match_wins": 28,
+  "favorite_format": ["draft", 0.8571428571428571]
 }

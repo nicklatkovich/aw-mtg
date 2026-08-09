@@ -4,6 +4,7 @@
   "display_name": "Novikov Valentine",
   "color_stats": {"U":1,"R":0.8667554963357765,"G":0.77348434377082,"W":0.367088607594937,"B":0.9100599600266491},
   "recent_events": [
+    {"id":450333,"name":"Summer League 2026 | Modern #7/9","date":"2026-08-09","format":"modern","points":6,"rank":[6,9],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":450326,"name":"Summer League 2026 | Pauper #10/12","date":"2026-08-05","format":"pauper","points":12,"rank":[1,22],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":450101,"name":"Summer League 2026 | Modern #6/9","date":"2026-08-02","format":"modern","points":12,"rank":[1,15],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":448997,"name":"Summer League 2026 | Pauper #9/12","date":"2026-07-29","format":"pauper","points":6,"rank":[9,19],"match_record":"2-2-0","game_record":"4-5-0"},
@@ -141,8 +142,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 136,
-  "match_played": 515,
-  "match_wins": 289,
-  "favorite_format": ["pauper", 0.45588235294117646]
+  "events_count": 137,
+  "match_played": 519,
+  "match_wins": 291,
+  "favorite_format": ["pauper", 0.45255474452554745]
 }

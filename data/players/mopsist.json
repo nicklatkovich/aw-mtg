@@ -4,11 +4,12 @@
   "display_name": "Savko Nikita",
   "color_stats": {},
   "recent_events": [
+    {"id":450304,"name":"Summer League 2026 | Draft #10 (MSH)","date":"2026-08-07","format":"draft","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":440367,"name":"Summer League 2026 | Sealed #3 (MSH)","date":"2026-07-04","format":"sealed","points":3,"rank":[6,8],"match_record":"1-2-0","game_record":"2-5-0"},
     {"id":440365,"name":"Summer League 2026 | Sealed #2 (MSH)","date":"2026-07-03","format":"sealed","points":3,"rank":[4,6],"match_record":"1-2-0","game_record":"3-4-0"}
   ],
-  "events_count": 2,
-  "match_played": 6,
-  "match_wins": 2,
-  "favorite_format": ["sealed", 1]
+  "events_count": 3,
+  "match_played": 9,
+  "match_wins": 3,
+  "favorite_format": ["sealed", 0.6666666666666666]
 }
