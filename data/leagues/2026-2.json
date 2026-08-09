@@ -5,7 +5,7 @@
     "table_id": "standard",
     "total_events": 12,
     "past_events": 10,
-    "top": 6,
+    "top": 4,
     "prize_fund": 80,
     "players": [
       {"pid":"e32c68c8-9493-4892-b490-952746e51445","display_name":"Brozhat Rostislav","id":"brv","total_points":62,"max_points":77,"event_count":8,"points":[null,6,8,12,12,7,12,6,null,6,null,null]},
@@ -27,7 +27,7 @@
     "table_id": "pauper",
     "total_events": 12,
     "past_events": 10,
-    "top": 6,
+    "top": 8,
     "prize_fund": 346,
     "players": [
       {"pid":"1cac0dfc-55ad-42dd-9d8a-f7812cf73013","display_name":"Smoktunovich Kirill","id":"dukalis1985","total_points":70,"max_points":80,"event_count":10,"points":[12,3,9,12,3,0,9,12,9,6,null,null]},
