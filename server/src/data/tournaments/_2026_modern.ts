@@ -3,6 +3,53 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 450333,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #7/9',
+    date: '2026-08-09',
+    standings: [
+      { player: 'Kihikara', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Norbi', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Spellstutter', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'diuzhev', rank: 4, points: 7, mp: 3, mw: 1, match_record: '2-1-1', game_record: '6-4-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 5, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '6-5-0' },
+      { player: 'Azurenia', rank: 6, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 7, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Pivovarishe', rank: 8, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'qvertion', rank: 9, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Pivovarishe', null], winner: 1, record: 'bye' },
+        { players: ['Norbi', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['Kihikara', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'Spellstutter'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'BRV'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['qvertion', 'Azurenia'], winner: 2, record: '2-0-0' },
+        { players: ['Pivovarishe', 'Spellstutter'], winner: 2, record: '2-0-0' },
+        { players: ['Kihikara', 'Norbi'], winner: 1, record: '2-0-0' },
+        { players: ['diuzhev', 'Aleksandr_KoLoshk'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['diuzhev', null], winner: 1, record: 'bye' },
+        { players: ['Kihikara', 'Spellstutter'], winner: 2, record: '2-1-0' },
+        { players: ['Azurenia', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['Pivovarishe', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['qvertion', 'Norbi'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Azurenia', null], winner: 1, record: 'bye' },
+        { players: ['Spellstutter', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'Kihikara'], winner: 2, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'Pivovarishe'], winner: 1, record: '2-1-0' },
+        { players: ['diuzhev', 'qvertion'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 450101,
     format: Format.MODERN,
     name: 'Summer League 2026 | Modern #6/9',

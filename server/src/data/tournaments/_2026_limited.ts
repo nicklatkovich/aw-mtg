@@ -4,6 +4,47 @@ import { Tournament } from '../data.types';
 
 export const _2026_limited: Tournament[] = [
   {
+    id: 450304,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #10 (MSH)',
+    date: '2026-08-07',
+    standings: [
+      { player: 'pidlik', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '7-3-0' },
+      { player: 'Roman_B', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-5-0' },
+      { player: 'NikitaP', rank: 3, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'SVETLYK', rank: 4, points: 6, mp: 3, mw: 1, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Danik1998', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'serj', rank: 6, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
+      { player: 'Mopsist', rank: 7, points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Torongil', rank: 8, points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '1-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Roman_B', 'serj'], winner: 1, record: '2-1-0' },
+        { players: ['Torongil', 'pidlik'], winner: 2, record: '2-1-0' },
+        { players: ['SVETLYK', 'Danik1998'], winner: 1, record: '2-0-0' },
+        { players: ['Mopsist', 'NikitaP'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['NikitaP', 'pidlik'], winner: 2, record: '1-0-0' },
+        { players: ['Roman_B', 'SVETLYK'], winner: 1, record: '2-1-0' },
+        { players: ['Mopsist', 'serj'], winner: 2, record: '2-1-0' },
+        { players: ['Torongil', 'Danik1998'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Mopsist', null], winner: 1, record: 'bye' },
+        { players: ['Roman_B', 'pidlik'], winner: 2, record: '2-1-0' },
+        { players: ['Danik1998', 'serj'], winner: 1, record: '2-1-0' },
+        { players: ['SVETLYK', 'NikitaP'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['SVETLYK', null], winner: 1, record: 'bye' },
+        { players: ['pidlik', 'Danik1998'], winner: 1, record: '2-1-0' },
+        { players: ['NikitaP', 'Roman_B'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 449000,
     format: Format.DRAFT,
     name: 'Summer League 2026 | Draft #9 (MSH)',
