@@ -1,0 +1,13 @@
+{
+  "guid": "7e4549e7-7e03-47fb-b041-330fdbf2a3a8",
+  "id": "ysvcl",
+  "display_name": "Stepanova Anna",
+  "color_stats": {"W":1},
+  "recent_events": [
+    {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":3,"rank":[8,11],"deck":{"archetype":"Mono-White Bogles","colors":"W","type":null},"match_record":"1-2-0","game_record":"4-4-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
+}

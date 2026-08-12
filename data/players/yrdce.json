@@ -1,0 +1,13 @@
+{
+  "guid": "dc675980-dfa8-46c8-bc9c-246cdf98a927",
+  "id": "yrdce",
+  "display_name": "Rusak Anna",
+  "color_stats": {"U":1},
+  "recent_events": [
+    {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":3,"rank":[10,11],"deck":{"archetype":"Mono-Blue Elementals","colors":"U","type":"Tempo"},"match_record":"1-2-0","game_record":"3-3-0"}
+  ],
+  "events_count": 1,
+  "match_played": 3,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "5417aec6-3884-49d3-89cf-2140280ccef8",
+  "id": "siyro",
+  "display_name": "Zhdanyuk Maxim",
+  "color_stats": {"U":1,"B":1},
+  "recent_events": [
+    {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":4,"rank":[7,11],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"},"match_record":"1-2-1","game_record":"4-6-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 1,
+  "favorite_format": ["standard", 1]
+}
