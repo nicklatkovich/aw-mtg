@@ -231,6 +231,9 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   '4a200d9a-0dac-4a71-a4ae-66e8a0be3558': 'Bakhankov Ignat',
   '78ad3e17-021e-4fb0-8585-f8e621881173': 'Martsev Ivan',
   '6e7d0a32-52be-44e9-9aa5-8d83104c068f': 'Sachkova Anna',
+  '5417aec6-3884-49d3-89cf-2140280ccef8': 'Zhdanyuk Maxim',
+  '7e4549e7-7e03-47fb-b041-330fdbf2a3a8': 'Stepanova Anna',
+  'dc675980-dfa8-46c8-bc9c-246cdf98a927': 'Rusak Anna',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -500,4 +503,7 @@ export const playersByUsername: { [username in string]?: string } = {
   Vassago: '4a200d9a-0dac-4a71-a4ae-66e8a0be3558',
   meowmeoww: '78ad3e17-021e-4fb0-8585-f8e621881173',
   xelvq: '6e7d0a32-52be-44e9-9aa5-8d83104c068f',
+  siyro: '5417aec6-3884-49d3-89cf-2140280ccef8',
+  ysvcl: '7e4549e7-7e03-47fb-b041-330fdbf2a3a8',
+  yrdce: 'dc675980-dfa8-46c8-bc9c-246cdf98a927',
 };

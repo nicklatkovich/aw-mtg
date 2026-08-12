@@ -15,6 +15,8 @@ export const ARCHETYPES = {
   'Mono-White Humans': ['W', DeckType.AGGRO],
   'Mono-White Heroic': ['W', DeckType.AGGRO],
   'Mono-White Momo': 'W',
+  'Mono-White Angels': 'W',
+  'Mono-White Bogles': 'W',
   // WU
   'Azorius Control': ['WU', DeckType.CONTROL],
   'Azorius Spirits': ['WU', DeckType.TEMPO],

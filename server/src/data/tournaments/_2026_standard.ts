@@ -3,6 +3,58 @@ import { Tournament } from '../data.types';
 
 export const _2026_standard: Tournament[] = [
   {
+    id: 452300,
+    format: Format.STANDARD,
+    name: 'Summer League 2026 | Standard #11/12',
+    date: '2026-08-11',
+    standings: [
+      { player: 'Very_Bad_Man', rank: 1, deck: 'Mono-Green Landfall', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'BRV', rank: 2, deck: 'Izzet Spellementals', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'Melamasta', rank: 3, deck: 'Sultai Reanimator', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '5-3-0' },
+      { player: 'xelvq', rank: 4, deck: 'Mono-White Angels', points: 9, mp: 3, mw: 2, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Sergey', rank: 5, deck: 'Rakdos Goblins', points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-5-0' },
+      { player: 'IvaD', rank: 6, deck: 'Mono-Blue Elementals', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'siyro', rank: 7, deck: 'Dimir Control', points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-6-0' },
+      { player: 'ysvcl', rank: 8, deck: 'Mono-White Bogles', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'Damingez', rank: 9, deck: 'Domain Control', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-6-0' },
+      { player: 'yrdce', rank: 10, deck: 'Mono-Blue Elementals', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-3-0' },
+      { player: 'vladislavyurel', rank: 11, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '3-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['ysvcl', null], winner: 1, record: 'bye' },
+        { players: ['xelvq', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Melamasta', 'yrdce'], winner: 1, record: '1-0-0' },
+        { players: ['vladislavyurel', 'IvaD'], winner: 2, record: '2-0-0' },
+        { players: ['Damingez', 'Very_Bad_Man'], winner: 2, record: '2-1-0' },
+        { players: ['Sergey', 'siyro'], winner: 0, record: '1-1-0' },
+      ],
+      [
+        { players: ['xelvq', null], winner: 1, record: 'bye' },
+        { players: ['IvaD', 'Sergey'], winner: 1, record: '2-0-0' },
+        { players: ['Melamasta', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'ysvcl'], winner: 1, record: '2-1-0' },
+        { players: ['siyro', 'yrdce'], winner: 1, record: '2-1-0' },
+        { players: ['vladislavyurel', 'Damingez'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['yrdce', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'siyro'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'IvaD'], winner: 1, record: '2-1-0' },
+        { players: ['ysvcl', 'xelvq'], winner: 2, record: '2-1-0' },
+        { players: ['Melamasta', 'Damingez'], winner: 1, record: '2-0-0' },
+        { players: ['Sergey', 'vladislavyurel'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['vladislavyurel', null], winner: 1, record: 'bye' },
+        { players: ['BRV', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['xelvq', 'siyro'], winner: 1, record: '2-1-0' },
+        { players: ['IvaD', 'Melamasta'], winner: 2, record: '2-1-0' },
+        { players: ['Sergey', 'Damingez'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 450306,
     format: Format.STANDARD,
     name: 'Summer League 2026 | Standard #10/12',
