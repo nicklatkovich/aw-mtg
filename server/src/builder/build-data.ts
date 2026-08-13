@@ -25,15 +25,18 @@ async function buildAndSavePioneerLadder(
   ladderName: string,
   playersMap: Map<string, PlayerDTO>,
   tournaments: Tournament[],
-  winner?: string,
+  options?: Parameters<typeof buildPioneerLadder>[2],
 ) {
-  const ladder = buildPioneerLadder(playersMap, tournaments, winner);
+  const ladder = buildPioneerLadder(playersMap, tournaments, options);
   await writeFile(
     path.resolve(CONTENT_PATH, `${ladderName}.json`),
     `{
-  "totalEvents": ${ladder.totalEvents},
-  "table": [\n    ${ladder.table.map((r) => JSON.stringify(r)).join(',\n    ')}\n  ],
-  "finished": ${ladder.finished}\n}\n`,
+  ${[
+    `"totalEvents": ${ladder.totalEvents}`,
+    `"table": [\n    ${ladder.table.map((r) => JSON.stringify(r)).join(',\n    ')}\n  ]`,
+    `"finished": ${ladder.finished}`,
+    ...(typeof options?.finalist_points === 'number' ? [`"finalist_points": ${options.finalist_points}`] : []),
+  ].join(',\n  ')}\n}\n`,
   );
 }
 
@@ -88,13 +91,14 @@ export async function buildData() {
     'pioneer-ladder-2025',
     playersMap,
     _2025_pioneer.filter((t) => new Date(t.date).getTime() < new Date('2025-10-10').getTime()),
-    '824039fa-f433-42e7-845c-7c0fd61a21c2', // Vorotinsky Vitaliy
+    { winner: '824039fa-f433-42e7-845c-7c0fd61a21c2' }, // Vorotinsky Vitaliy
   );
 
   await buildAndSavePioneerLadder(
     'pioneer-ladder-2026',
     playersMap,
     _2026_pioneer.filter((t) => new Date(t.date).getTime() > new Date('2026-02-04').getTime()),
+    { finalist_points: 250 },
   );
 
   const standardLadder = buildStandardLadder(playersMap);

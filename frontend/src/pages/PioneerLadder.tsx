@@ -36,7 +36,9 @@ export const PioneerLadder: React.FC<{ name: string; link: string }> = (props) =
               <div className={`cell ${data.finished && i < 3 ? 'red-highlight' : ''}`}>
                 <Link to={`/player/${row.player.id}`}>{row.player.display_name}</Link>
               </div>
-              <div className={`cell ${row.points >= 200 ? 'red-highlight' : ''}`}>{row.points}</div>
+              <div className={`cell ${row.points >= (data.finalist_points ?? 200) ? 'red-highlight' : ''}`}>
+                {row.points}
+              </div>
               <div className="cell">{row.events}</div>
               <div className="cell">
                 {((row.mw / row.mp) * 100).toFixed(2)}% ({row.mw}/{row.mp})

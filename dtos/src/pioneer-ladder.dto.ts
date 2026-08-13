@@ -14,5 +14,6 @@ export interface PioneerLadderItemDto {
 export interface PioneerLadderInfoDto {
   totalEvents: number;
   table: PioneerLadderItemDto[];
+  finalist_points?: number; // default 200
   finished?: boolean;
 }

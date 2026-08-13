@@ -3,6 +3,54 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 452587,
+    format: Format.PIONEER,
+    name: 'Summer League 2026 | Pioneer #11/12',
+    date: '2026-08-13',
+    standings: [
+      { player: 'TroV1', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-2-0' },
+      { player: 'BRV', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Human11', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Tamplier007333', rank: 4, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'Very_Bad_Man', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'AnklDen', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'Akel', rank: 7, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'Dalotus', rank: 8, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '5-6-1' },
+      { player: 'Professor013', rank: 9, points: 4, mp: 4, mw: 1, match_record: '1-2-1', game_record: '4-6-1' },
+      { player: 'Slava_bel', rank: 10, points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '2-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['AnklDen', 'Professor013'], winner: 1, record: '2-0-0' },
+        { players: ['Slava_bel', 'TroV1'], winner: 2, record: '2-0-0' },
+        { players: ['Human11', 'Very_Bad_Man'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'Akel'], winner: 1, record: '2-1-0' },
+        { players: ['Dalotus', 'BRV'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', 'Human11'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'TroV1'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Slava_bel', 'Dalotus'], winner: 2, record: '2-1-0' },
+        { players: ['Akel', 'Professor013'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Tamplier007333', 'TroV1'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['Very_Bad_Man', 'Professor013'], winner: 1, record: '2-1-0' },
+        { players: ['Dalotus', 'Human11'], winner: 2, record: '2-1-0' },
+        { players: ['Akel', 'Slava_bel'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['TroV1', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Very_Bad_Man', 'Akel'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'Human11'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'Slava_bel'], winner: 1, record: '2-1-0' },
+        { players: ['Professor013', 'Dalotus'], winner: 0, record: '1-1-1' },
+      ],
+    ],
+  },
+  {
     id: 450332,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #10/12',

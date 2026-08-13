@@ -12,7 +12,7 @@ type PlayerDecks = Map<
 export function buildPioneerLadder(
   playersMap: Map<string, PlayerDTO>,
   tournaments: Tournament[],
-  winner?: string,
+  options: { winner?: string; finalist_points?: number } = {},
 ): PioneerLadderInfoDto {
   tournaments = [...tournaments].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
   const winnerDefeats = new Map<string, number>();
@@ -57,17 +57,17 @@ export function buildPioneerLadder(
     for (const m of t.rounds?.flat() ?? []) {
       const p1id = playersByUsername[m.players[0]] ?? m.players[0];
       const p2id = m.players[1] && (playersByUsername[m.players[1]] ?? m.players[1]);
-      if (p1id === winner && m.winner === 2 && p2id) {
+      if (p1id === options.winner && m.winner === 2 && p2id) {
         winnerDefeats.set(p2id, (winnerDefeats.get(p2id) ?? 0) + 1);
-      } else if (p2id === winner && m.winner === 1) {
+      } else if (p2id === options.winner && m.winner === 1) {
         winnerDefeats.set(p1id, (winnerDefeats.get(p1id) ?? 0) + 1);
       }
     }
   }
   // points DESC, 4-0s DESC, events ASC, mw DESC, mp ASC, guid ASC
   const rows = [...result.entries()].sort(([apid, a], [bpid, b]) => {
-    if (apid === winner) return -1;
-    if (bpid === winner) return 1;
+    if (apid === options.winner) return -1;
+    if (bpid === options.winner) return 1;
     if (a.points !== b.points) return b.points - a.points;
     if (a._4_0s !== b._4_0s) return b._4_0s - a._4_0s;
     if (a.events !== b.events) return a.events - b.events;
@@ -111,5 +111,10 @@ export function buildPioneerLadder(
   // for (const [pid, count] of [...winnerDefeats.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10)) {
   //   console.log(`- ${playersMap.get(pid)?.display_name ?? pid}: ${count}`);
   // }
-  return { totalEvents: tournaments.length, table, finished: !!winner };
+  return {
+    totalEvents: tournaments.length,
+    table,
+    finished: !!options.winner,
+    finalist_points: options.finalist_points,
+  };
 }
