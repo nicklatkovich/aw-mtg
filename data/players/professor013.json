@@ -4,6 +4,7 @@
   "display_name": "Inshakov Nikita",
   "color_stats": {"W":1,"U":1,"B":0.23809523809523808,"G":0.23809523809523808,"R":0.09523809523809523},
   "recent_events": [
+    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":4,"rank":[9,10],"match_record":"1-2-1","game_record":"4-6-1"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":432044,"name":"Daily | Pioneer (28.05.26)","date":"2026-05-28","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":429699,"name":"Daily | Pioneer (21.05.26)","date":"2026-05-21","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"match_record":"1-2-0","game_record":"2-4-0"},
@@ -14,8 +15,8 @@
     {"id":367375,"name":"Daily | Pioneer (25.09)","date":"2025-09-25","format":"pioneer","points":1,"rank":[10,10],"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"match_record":"0-3-1","game_record":"4-7-0"},
     {"id":362554,"name":"Daily | Pioneer (11.09)","date":"2025-09-11","format":"pioneer","points":4,"rank":[13,17],"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"},"match_record":"1-2-1","game_record":"3-6-0"}
   ],
-  "events_count": 9,
-  "match_played": 35,
-  "match_wins": 12,
-  "favorite_format": ["pioneer", 0.8888888888888888]
+  "events_count": 10,
+  "match_played": 39,
+  "match_wins": 13,
+  "favorite_format": ["pioneer", 0.9]
 }
