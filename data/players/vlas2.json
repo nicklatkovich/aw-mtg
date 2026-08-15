@@ -4,6 +4,7 @@
   "display_name": "Shantar Vlad",
   "color_stats": {"U":1,"B":0.3333333333333333},
   "recent_events": [
+    {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":3,"rank":[13,15],"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":"c251029","name":"Fall League 2025 | Commander (29.10)","date":"2025-10-29","format":"commander","points":0,"rank":[9,12],"deck":{"archetype":"Yuriko, the Tiger's Shadow","colors":"UB","type":null}},
     {"id":"c251015","name":"Fall League 2025 | Commander (15.10)","date":"2025-10-15","format":"commander","points":0,"rank":[10,11],"deck":{"archetype":"Yuriko, the Tiger's Shadow","colors":"UB","type":null},"match_record":"0-2-0"},
     {"id":342695,"name":"Summer League 2025 | Pauper #8","date":"2025-07-23","format":"pauper","points":0,"rank":[20,20],"deck":{"archetype":"Mono-Blue Faeries","colors":"U","type":"Tempo"},"match_record":"0-3-0","game_record":"1-6-0"},
@@ -11,8 +12,8 @@
     {"id":"c250627","name":"Summer League 2025 | Commander #3 (Tribal)","date":"2025-06-27","format":"commander","points":3,"rank":[11,16],"deck":{"archetype":"Vampire Tribal","colors":null,"type":null}},
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":3,"rank":[8,12]}
   ],
-  "events_count": 6,
-  "match_played": 11,
-  "match_wins": 3,
-  "favorite_format": ["commander", 0.6666666666666666]
+  "events_count": 7,
+  "match_played": 14,
+  "match_wins": 4,
+  "favorite_format": ["commander", 0.5714285714285714]
 }

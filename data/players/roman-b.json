@@ -4,6 +4,7 @@
   "display_name": "Bashkirov Roman",
   "color_stats": {"W":0.05405405405405406,"U":0.05405405405405406,"B":1,"R":0.05405405405405406,"G":0.18918918918918917},
   "recent_events": [
+    {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":0,"rank":[15,15],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":450304,"name":"Summer League 2026 | Draft #10 (MSH)","date":"2026-08-07","format":"draft","points":9,"rank":[2,8],"match_record":"3-1-0","game_record":"7-5-0"},
     {"id":449000,"name":"Summer League 2026 | Draft #9 (MSH)","date":"2026-07-31","format":"draft","points":9,"rank":[3,10],"match_record":"3-1-0","game_record":"6-3-0"},
     {"id":447625,"name":"Summer League 2026 | Draft #8 (MSH)","date":"2026-07-24","format":"draft","points":9,"rank":[1,7],"match_record":"3-0-0","game_record":"6-1-0"},
@@ -30,8 +31,8 @@
     {"id":320678,"name":"Rapa League | Draft #5 (KLD)","date":"2025-06-08","format":"draft","points":9,"rank":[1,12],"match_record":"3-0-0","game_record":"6-2-0"},
     {"id":320655,"name":"Summer League 2025 | Draft #1 (FDN)","date":"2025-06-06","format":"draft","points":9,"rank":[3,12],"deck":{"archetype":"Golgari Draft","colors":"BG","type":null},"match_record":"3-1-0","game_record":"6-4-0"}
   ],
-  "events_count": 25,
-  "match_played": 81,
+  "events_count": 26,
+  "match_played": 83,
   "match_wins": 56,
-  "favorite_format": ["draft", 0.72]
+  "favorite_format": ["draft", 0.7307692307692307]
 }

@@ -4,6 +4,7 @@
   "display_name": "Trofimov Valera",
   "color_stats": {"W":0.8415841584158416,"B":0.4455445544554459,"G":0.25742574257425765,"U":1,"R":0.36633663366336666},
   "recent_events": [
+    {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":9,"rank":[4,15],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":9,"rank":[1,10],"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":448999,"name":"Summer League 2026 | Pioneer #9/12","date":"2026-07-30","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Orzhov Monument","colors":"WB","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
@@ -81,8 +82,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 76,
-  "match_played": 268,
-  "match_wins": 155,
-  "favorite_format": ["pioneer", 0.6447368421052632]
+  "events_count": 77,
+  "match_played": 272,
+  "match_wins": 158,
+  "favorite_format": ["pioneer", 0.6363636363636364]
 }

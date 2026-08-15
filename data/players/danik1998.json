@@ -4,6 +4,7 @@
   "display_name": "Rasuk Daniil",
   "color_stats": {},
   "recent_events": [
+    {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":6,"rank":[9,15],"match_record":"2-2-0","game_record":"6-5-0"},
     {"id":450304,"name":"Summer League 2026 | Draft #10 (MSH)","date":"2026-08-07","format":"draft","points":6,"rank":[5,8],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":449000,"name":"Summer League 2026 | Draft #9 (MSH)","date":"2026-07-31","format":"draft","points":12,"rank":[1,10],"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":447625,"name":"Summer League 2026 | Draft #8 (MSH)","date":"2026-07-24","format":"draft","points":6,"rank":[2,7],"match_record":"2-1-0","game_record":"4-3-0"},
@@ -16,8 +17,8 @@
     {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":6,"rank":[4,10],"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":436294,"name":"Summer League 2026 | Draft #1 (SOS)","date":"2026-06-12","format":"draft","points":6,"rank":[2,8],"match_record":"2-1-0","game_record":"4-3-0"}
   ],
-  "events_count": 11,
-  "match_played": 33,
-  "match_wins": 17,
-  "favorite_format": ["draft", 0.7272727272727273]
+  "events_count": 12,
+  "match_played": 37,
+  "match_wins": 19,
+  "favorite_format": ["draft", 0.75]
 }

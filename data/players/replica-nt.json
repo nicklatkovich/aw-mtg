@@ -1,0 +1,13 @@
+{
+  "guid": "1ad84612-a3c8-45c4-a8d9-edd7778088d1",
+  "id": "replica-nt",
+  "display_name": "Kukhtsiuk Wiaczaslaw",
+  "color_stats": {},
+  "recent_events": [
+    {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":9,"rank":[5,15],"match_record":"3-1-0","game_record":"6-3-0"}
+  ],
+  "events_count": 1,
+  "match_played": 4,
+  "match_wins": 3,
+  "favorite_format": ["draft", 1]
+}
