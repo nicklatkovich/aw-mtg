@@ -4,6 +4,7 @@
   "display_name": "Zubovich Valery",
   "color_stats": {"U":0.6241830065359479,"B":0.32461873638344235,"G":0.4880174291938999,"R":1,"W":0.3736383442265797},
   "recent_events": [
+    {"id":452590,"name":"Summer League 2026 | Legacy #2/3","date":"2026-08-16","format":"legacy","points":0,"rank":[9,9],"match_record":"0-2-0","game_record":"0-4-0"},
     {"id":452579,"name":"Summer League 2026 | Pauper #11/12","date":"2026-08-12","format":"pauper","points":3,"rank":[14,20],"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":442145,"name":"Summer League 2026 | Pauper #6/12","date":"2026-07-08","format":"pauper","points":6,"rank":[8,16],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":15,"rank":[5,19],"match_record":"5-2-0","game_record":"11-6-0"},
@@ -146,8 +147,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 141,
-  "match_played": 521,
+  "events_count": 142,
+  "match_played": 523,
   "match_wins": 258,
-  "favorite_format": ["pauper", 0.3333333333333333]
+  "favorite_format": ["pauper", 0.33098591549295775]
 }

@@ -4,6 +4,7 @@
   "display_name": "Ivashnev Artem",
   "color_stats": {"U":1,"R":0.75,"W":0.25,"B":0.25},
   "recent_events": [
+    {"id":452590,"name":"Summer League 2026 | Legacy #2/3","date":"2026-08-16","format":"legacy","points":3,"rank":[8,9],"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":12,"rank":[1,15],"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":446395,"name":"Summer League 2026 | Legacy #2/3","date":"2026-07-19","format":"legacy","points":6,"rank":[5,10],"deck":{"archetype":"Izzet Sneak and Show","colors":"UR","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":3,"rank":[14,14],"deck":{"archetype":"Izzet Sneak and Show","colors":"UR","type":"Combo"},"match_record":"1-3-0","game_record":"3-7-0"},
@@ -11,8 +12,8 @@
     {"id":"c250620","name":"Summer League 2025 | Commander #1 (Planechase)","date":"2025-06-20","format":"commander","points":0,"rank":[12,12]},
     {"id":236526,"name":"League Standard | Season 11 (1/12)","date":"2025-01-28","format":"standard","points":3,"rank":[12,17]}
   ],
-  "events_count": 6,
-  "match_played": 18,
-  "match_wins": 9,
-  "favorite_format": ["legacy", 0.3333333333333333]
+  "events_count": 7,
+  "match_played": 22,
+  "match_wins": 10,
+  "favorite_format": ["legacy", 0.42857142857142855]
 }
