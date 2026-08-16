@@ -4,6 +4,56 @@ import { Tournament } from '../data.types';
 
 export const _2026_legacy: Tournament[] = [
   {
+    id: 452590,
+    format: Format.LEGACY,
+    name: 'Summer League 2026 | Legacy #2/3',
+    date: '2026-08-16',
+    standings: [
+      { player: 'diuzhev', rank: 1, points: 9, mp: 6, mw: 5, match_record: '5-1-0', game_record: '11-6-0', omw: 43.75, tgw: 58.33333, ogw: 43.0303 },
+      { player: 'Tanti', rank: 2, points: 9, mp: 6, mw: 4, match_record: '4-2-0', game_record: '8-7-0', omw: 56.25, tgw: 60.0, ogw: 51.7803 },
+      { player: 'farsmac', rank: 3, points: 10, mp: 5, mw: 3, match_record: '3-1-1', game_record: '7-3-3', omw: 60.41667, tgw: 70.0, ogw: 57.75253 },
+      { player: '4onoki', rank: 4, points: 10, mp: 4, mw: 2, match_record: '3-1-1', game_record: '7-3-3', omw: 55.55556, tgw: 70.0, ogw: 52.96296 },
+      { player: 'qvertion', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0', omw: 58.33333, tgw: 55.55556, ogw: 51.66667 },
+      { player: 'Melamasta', rank: 6, points: 3, mp: 3, mw: 0, match_record: '1-3-0', game_record: '5-6-0', omw: 77.77778, tgw: 45.45455, ogw: 62.77778 },
+      { player: 'Aleksandr_KoLoshk', rank: 7, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 60.41667, tgw: 33.33333, ogw: 54.30556 },
+      { player: 'BregoXX', rank: 8, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0', omw: 47.91667, tgw: 33.33333, ogw: 45.13889 },
+      { player: 'aspelled', rank: 9, points: 0, mp: 2, mw: 0, match_record: '0-2-0', game_record: '0-4-0', omw: 54.16667, tgw: 33.33333, ogw: 46.66667 },
+    ],
+    rounds: [
+      [
+        { players: ['4onoki', null], winner: 1, record: 'bye' },
+        { players: ['Aleksandr_KoLoshk', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['BregoXX', 'qvertion'], winner: 2, record: '2-0-0' },
+        { players: ['Tanti', 'aspelled'], winner: 1, record: '2-0-0' },
+        { players: ['farsmac', 'Melamasta'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['Melamasta', null], winner: 1, record: 'bye' },
+        { players: ['4onoki', 'Aleksandr_KoLoshk'], winner: 1, record: '2-0-0' },
+        { players: ['farsmac', 'qvertion'], winner: 1, record: '2-0-0' },
+        { players: ['Tanti', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['BregoXX', 'aspelled'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['4onoki', 'qvertion'], winner: 1, record: '2-1-0' },
+        { players: ['farsmac', 'Tanti'], winner: 1, record: '2-0-0' },
+        { players: ['BregoXX', 'Aleksandr_KoLoshk'], winner: 2, record: '2-0-0' },
+        { players: ['Melamasta', 'diuzhev'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['4onoki', 'farsmac'], winner: 0, record: '0-0-3' },
+        { players: ['BregoXX', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['Tanti', 'Melamasta'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'qvertion'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['farsmac', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['4onoki', 'Tanti'], winner: 2, record: '2-1-0' },
+      ],
+      [{ players: ['diuzhev', 'Tanti'], winner: 1, record: '2-0-0' }],
+    ],
+  },
+  {
     id: 446395,
     format: Format.LEGACY,
     name: 'Summer League 2026 | Legacy #2/3',

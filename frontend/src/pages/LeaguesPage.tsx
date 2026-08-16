@@ -60,7 +60,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             </>
           ) : null}
         </div>
-        {league.players.slice(0).map((player, index) => {
+        {league.players.slice(0, 20).map((player, index) => {
           const points = [...player.points.entries()]
             .map(([i, p]) => [i, typeof p === 'number' ? p : p?.points] as const)
             .filter((e): e is [(typeof e)[0], number] => typeof e[1] === 'number');
@@ -73,8 +73,9 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
           const nonSignificantEventIndices = new Set(points.slice(top_events).map((e) => e[0]));
           const nameClass = !league.is_finished || index >= league.top ? '' : index === 0 ? 'red-highlight' : 'red';
           const finalist =
-            player.total_points > finalistPointsThreshold ||
-            (league.determined_top !== undefined && index + 1 <= league.determined_top);
+            league.determined_top !== undefined
+              ? index + 1 <= league.determined_top
+              : player.total_points > finalistPointsThreshold;
           return (
             <div
               style={{ display: 'contents' }}

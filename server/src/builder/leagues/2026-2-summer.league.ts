@@ -82,7 +82,8 @@ export const summer2026League: LeagueInfo[] = [
     rank_override: [
       '037e76b0-88c8-4458-94a8-d63c2f9a8155', // Kolyshko Alexander
       'a52d83e2-0c2f-4fe0-bc03-1d03a54a4170', // Charniauski Mikita
+      'aad9350f-6810-4e07-8e70-86669d0936fa', // Duzhev Ivan
     ],
-    determined_top: 2,
+    determined_top: 4,
   },
 ];
