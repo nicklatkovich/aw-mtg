@@ -4,6 +4,7 @@
   "display_name": "Danilau Uladzimir",
   "color_stats": {"B":0.6666666666666666,"G":0.3333333333333333,"R":1,"W":0.3333333333333333,"U":0.3333333333333333},
   "recent_events": [
+    {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":6,"rank":[6,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":450326,"name":"Summer League 2026 | Pauper #10/12","date":"2026-08-05","format":"pauper","points":3,"rank":[17,22],"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":448997,"name":"Summer League 2026 | Pauper #9/12","date":"2026-07-29","format":"pauper","points":6,"rank":[8,19],"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":446445,"name":"Summer League 2026 | Pauper #8/12","date":"2026-07-22","format":"pauper","points":6,"rank":[11,20],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -15,8 +16,8 @@
     {"id":330427,"name":"Summer League 2025 | Pauper #4","date":"2025-06-25","format":"pauper","points":9,"rank":[5,19],"deck":{"archetype":"Dimir Faeries","colors":"UB","type":"Tempo"},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":136903,"date":"2024-08-22","format":"pioneer","points":0,"rank":[14,14]}
   ],
-  "events_count": 10,
-  "match_played": 39,
-  "match_wins": 20,
-  "favorite_format": ["pauper", 0.7]
+  "events_count": 11,
+  "match_played": 43,
+  "match_wins": 22,
+  "favorite_format": ["pauper", 0.7272727272727273]
 }

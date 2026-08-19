@@ -4,10 +4,11 @@
   "display_name": "Kukhtsiuk Wiaczaslaw",
   "color_stats": {},
   "recent_events": [
+    {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":6,"rank":[7,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":452588,"name":"Summer League 2026 | Draft #11 (MB2)","date":"2026-08-14","format":"draft","points":9,"rank":[5,15],"match_record":"3-1-0","game_record":"6-3-0"}
   ],
-  "events_count": 1,
-  "match_played": 4,
-  "match_wins": 3,
-  "favorite_format": ["draft", 1]
+  "events_count": 2,
+  "match_played": 8,
+  "match_wins": 5,
+  "favorite_format": ["pauper", 0.5]
 }
