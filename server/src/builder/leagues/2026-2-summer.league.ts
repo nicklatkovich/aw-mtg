@@ -53,7 +53,7 @@ export const summer2026League: LeagueInfo[] = [
     format: Format.MODERN,
     display_name: 'Modern',
     table_id: 'modern',
-    total_events: 9,
+    total_events: 8,
     top: 6,
     prize_pool_inc_by_player: 2,
     events: slice(_2026_modern, 9),

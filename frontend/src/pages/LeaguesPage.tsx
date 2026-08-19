@@ -60,7 +60,7 @@ export const LeagueComponent: React.FC<{ league: LeagueDto }> = ({ league }) => 
             </>
           ) : null}
         </div>
-        {league.players.slice(0, 20).map((player, index) => {
+        {league.players.slice(0).map((player, index) => {
           const points = [...player.points.entries()]
             .map(([i, p]) => [i, typeof p === 'number' ? p : p?.points] as const)
             .filter((e): e is [(typeof e)[0], number] => typeof e[1] === 'number');
