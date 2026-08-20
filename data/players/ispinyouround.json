@@ -4,6 +4,7 @@
   "display_name": "Paulouski Tsimafei",
   "color_stats": {"B":1,"R":0.8800959232613909,"U":0.1726618705035971,"W":0.004796163069544364,"G":0.004796163069544364},
   "recent_events": [
+    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":9,"rank":[2,11],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":450332,"name":"Summer League 2026 | Pioneer #10/12","date":"2026-08-06","format":"pioneer","points":6,"rank":[4,6],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-6-0"},
     {"id":439209,"name":"Summer League 2026 | Pioneer #4/12","date":"2026-06-25","format":"pioneer","points":9,"rank":[1,8],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-2-0"},
@@ -124,8 +125,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 119,
-  "match_played": 465,
-  "match_wins": 241,
-  "favorite_format": ["pioneer", 0.8319327731092437]
+  "events_count": 120,
+  "match_played": 469,
+  "match_wins": 244,
+  "favorite_format": ["pioneer", 0.8333333333333334]
 }
