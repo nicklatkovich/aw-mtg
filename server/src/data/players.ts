@@ -236,6 +236,7 @@ export const playersByGuid: { [id in string]?: string | [name: string, { id: str
   'dc675980-dfa8-46c8-bc9c-246cdf98a927': 'Rusak Anna',
   '1ad84612-a3c8-45c4-a8d9-edd7778088d1': ['Kukhtsiuk Wiaczaslaw', { id: 'replica-nt' }],
   '0203f29b-1d62-42e1-862c-17c6b220f8d5': 'Zhylko Barys',
+  '0c793ea5-e1d8-43f3-9351-c9f346a6bced': 'Popov Georgi',
 
   // unknown players
   '2ee74800-0713-4f8a-abb2-c5ed1329911f': 'DanZ9*',
@@ -513,4 +514,5 @@ export const playersByUsername: { [username in string]?: string } = {
   Vladosik: '607e01c3-b538-43fa-adc7-5a7581bd5bb4',
   KostkoK: 'ed9526f1-51b3-4060-b1fa-d72b122b0dd7',
   DdBrnch: '0203f29b-1d62-42e1-862c-17c6b220f8d5',
+  kfozj: '0c793ea5-e1d8-43f3-9351-c9f346a6bced',
 };
