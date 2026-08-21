@@ -2,10 +2,10 @@
   "guid": "d35155ca-808a-4885-b99b-1178c4e2302d",
   "id": "slava-bel",
   "display_name": "Belezeko Slava",
-  "color_stats": {"B":1,"G":0.19047619047619047,"R":0.42857142857142855,"U":0.38095238095238093},
+  "color_stats": {"B":1,"G":0.2608695652173913,"R":0.391304347826087,"U":0.34782608695652173},
   "recent_events": [
-    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":6,"rank":[5,11],"match_record":"2-2-0","game_record":"5-5-0"},
-    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":0,"rank":[10,10],"match_record":"0-4-0","game_record":"2-8-0"},
+    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":6,"rank":[5,11],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"0-4-0","game_record":"2-8-0"},
     {"id":448999,"name":"Summer League 2026 | Pioneer #9/12","date":"2026-07-30","format":"pioneer","points":6,"rank":[5,7],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":6,"rank":[4,9],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"2-2-0","game_record":"4-4-0"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":9,"rank":[3,11],"deck":{"archetype":"Golgari Midrange","colors":"BG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},

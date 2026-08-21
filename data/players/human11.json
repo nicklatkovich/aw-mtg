@@ -2,10 +2,10 @@
   "guid": "6dc5d9d4-4349-4f29-bd70-959d21c914c1",
   "id": "human11",
   "display_name": "Kulevtsov Yaroslav",
-  "color_stats": {"B":1,"R":0.75,"W":0.5,"U":0.25},
+  "color_stats": {"B":1,"R":0.8333333333333334,"W":0.3333333333333333,"U":0.16666666666666666},
   "recent_events": [
-    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":9,"rank":[4,11],"match_record":"3-1-0","game_record":"6-5-0"},
-    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":9,"rank":[3,10],"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":9,"rank":[4,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-5-0"},
+    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":9,"rank":[3,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":447544,"name":"Summer League 2026 | Pioneer #8/12","date":"2026-07-23","format":"pioneer","points":9,"rank":[2,9],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":440363,"name":"Summer League 2026 | Pioneer #5/12","date":"2026-07-02","format":"pioneer","points":6,"rank":[3,4],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"6-4-0"},

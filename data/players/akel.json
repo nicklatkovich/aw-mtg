@@ -2,10 +2,10 @@
   "guid": "9b204a9b-2dfc-42ba-8cf3-07aeb14b1b3d",
   "id": "akel",
   "display_name": "Akulenko Slava",
-  "color_stats": {"B":0.9096385542168676,"R":1,"G":0.9096385542168676,"W":0.03614457831325302,"U":0.2168674698795181},
+  "color_stats": {"B":0.9193548387096775,"R":1,"G":0.9193548387096775,"W":0.032258064516129045,"U":0.19354838709677424},
   "recent_events": [
-    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":4,"rank":[8,11],"match_record":"1-2-1","game_record":"5-5-1"},
-    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":6,"rank":[7,10],"match_record":"2-2-0","game_record":"6-4-0"},
+    {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":4,"rank":[8,11],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-2-1","game_record":"5-5-1"},
+    {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":6,"rank":[7,10],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":439209,"name":"Summer League 2026 | Pioneer #4/12","date":"2026-06-25","format":"pioneer","points":6,"rank":[4,8],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":433727,"name":"Summer League 2026 | Pioneer #1/12","date":"2026-06-04","format":"pioneer","points":9,"rank":[4,9],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":6,"rank":[3,8],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"2-1-0","game_record":"5-4-0"},
