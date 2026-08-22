@@ -4,6 +4,37 @@ import { Tournament } from '../data.types';
 
 export const _2026_limited: Tournament[] = [
   {
+    id: 454549,
+    format: Format.DRAFT,
+    name: 'Summer League 2026 | Draft #11 (MH2)',
+    date: '2026-08-21',
+    standings: [
+      { player: 'Odis89', rank: 1, points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-2-0' },
+      { player: 'NikitaP', rank: 2, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'diuzhev', rank: 3, points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-4-0' },
+      { player: 'Shadowest', rank: 4, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'Torongil', rank: 5, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-5-0' },
+      { player: 'AntonZubchenok', rank: 6, points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Torongil', 'AntonZubchenok'], winner: 1, record: '2-1-0' },
+        { players: ['NikitaP', 'Odis89'], winner: 2, record: '2-1-0' },
+        { players: ['Shadowest', 'diuzhev'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Torongil', 'diuzhev'], winner: 2, record: '2-1-0' },
+        { players: ['Shadowest', 'Odis89'], winner: 2, record: '2-0-0' },
+        { players: ['NikitaP', 'AntonZubchenok'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['Odis89', 'Torongil'], winner: 1, record: '2-1-0' },
+        { players: ['diuzhev', 'AntonZubchenok'], winner: 1, record: '2-1-0' },
+        { players: ['Shadowest', 'NikitaP'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 452588,
     format: Format.DRAFT,
     name: 'Summer League 2026 | Draft #11 (MB2)',
