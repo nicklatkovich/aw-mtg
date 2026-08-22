@@ -4,6 +4,7 @@
   "display_name": "Bulyshkin Yauheny",
   "color_stats": {"U":0.5833333333333334,"B":1,"W":0.5833333333333334,"R":0.16666666666666669,"G":0.16666666666666669},
   "recent_events": [
+    {"id":454549,"name":"Summer League 2026 | Draft #11 (MH2)","date":"2026-08-21","format":"draft","points":3,"rank":[5,6],"match_record":"1-2-0","game_record":"4-5-0"},
     {"id":450304,"name":"Summer League 2026 | Draft #10 (MSH)","date":"2026-08-07","format":"draft","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"1-4-0"},
     {"id":449000,"name":"Summer League 2026 | Draft #9 (MSH)","date":"2026-07-31","format":"draft","points":9,"rank":[2,10],"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":447625,"name":"Summer League 2026 | Draft #8 (MSH)","date":"2026-07-24","format":"draft","points":3,"rank":[5,7],"match_record":"1-2-0","game_record":"2-4-0"},
@@ -25,8 +26,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":0,"rank":[12,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":3,"rank":[10,12],"deck":{"archetype":"Lich's Mastery","colors":"WUBRG","type":"Combo"}}
   ],
-  "events_count": 20,
-  "match_played": 61,
-  "match_wins": 27,
-  "favorite_format": ["draft", 0.6]
+  "events_count": 21,
+  "match_played": 64,
+  "match_wins": 28,
+  "favorite_format": ["draft", 0.6190476190476191]
 }
