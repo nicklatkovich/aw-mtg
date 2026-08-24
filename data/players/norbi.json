@@ -4,18 +4,19 @@
   "display_name": "Voiteh Stas",
   "color_stats": {"W":0.4101633393829401,"U":1,"G":0.15607985480943742,"B":0.21052631578947376,"R":0.9455535390199639},
   "recent_events": [
-    {"id":450333,"name":"Summer League 2026 | Modern #7/9","date":"2026-08-09","format":"modern","points":9,"rank":[2,9],"match_record":"3-1-0","game_record":"6-4-0"},
-    {"id":450101,"name":"Summer League 2026 | Modern #6/9","date":"2026-08-02","format":"modern","points":6,"rank":[9,15],"match_record":"2-2-0","game_record":"5-5-0"},
-    {"id":"m260726","name":"Summer League 2026 | Modern #5/9","date":"2026-07-26","format":"modern","points":6,"rank":[1,2]},
+    {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":9,"rank":[3,10],"match_record":"3-1-0","game_record":"7-4-0"},
+    {"id":450333,"name":"Summer League 2026 | Modern #7/8","date":"2026-08-09","format":"modern","points":9,"rank":[2,9],"match_record":"3-1-0","game_record":"6-4-0"},
+    {"id":450101,"name":"Summer League 2026 | Modern #6/8","date":"2026-08-02","format":"modern","points":6,"rank":[9,15],"match_record":"2-2-0","game_record":"5-5-0"},
+    {"id":"m260726","name":"Summer League 2026 | Modern #5/8","date":"2026-07-26","format":"modern","points":6,"rank":[1,2]},
     {"id":446395,"name":"Summer League 2026 | Legacy #2/3","date":"2026-07-19","format":"legacy","points":6,"rank":[7,10],"deck":{"archetype":"Bant Control","colors":"WUG","type":"Control"},"match_record":"2-2-0","game_record":"4-5-0"},
-    {"id":441875,"name":"Summer League 2026 | Modern #3/9","date":"2026-07-05","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
+    {"id":441875,"name":"Summer League 2026 | Modern #3/8","date":"2026-07-05","format":"modern","points":3,"rank":[10,10],"deck":{"archetype":"Domain Zoo","colors":"WUBRG","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":441690,"name":"BRO TOUR Double Draft (SOS+ECL+TLA)","date":"2026-07-04","format":"draft","points":12,"rank":[4,19],"match_record":"5-3-0","game_record":"13-7-0"},
     {"id":"bro-tour-sealed-trios-260703","name":"BRO TOUR Sealed Trios (SOS)","date":"2026-07-03","format":"trios","points":9,"rank":[3,8]},
     {"id":439920,"name":"Summer League 2026 | Legacy #1/3","date":"2026-06-28","format":"legacy","points":4,"rank":[9,14],"deck":{"archetype":"Bant Control","colors":"WUG","type":"Control"},"match_record":"1-2-1","game_record":"3-5-0"},
-    {"id":438129,"name":"Summer League 2026 | Modern #2/9","date":"2026-06-20","format":"modern","points":3,"rank":[11,11],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
+    {"id":438129,"name":"Summer League 2026 | Modern #2/8","date":"2026-06-20","format":"modern","points":3,"rank":[11,11],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":437878,"name":"Summer League 2026 | Draft #2 (ECL)","date":"2026-06-19","format":"draft","points":4,"rank":[6,10],"match_record":"1-2-1","game_record":"3-5-3"},
     {"id":"2026-1-league-finals-modern","name":"★★★ Spring League 2026 | Modern Finals","date":"2026-06-14","format":"modern","points":0,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
-    {"id":434858,"name":"Summer League 2026 | Modern #1/9","date":"2026-06-07","format":"modern","points":3,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
+    {"id":434858,"name":"Summer League 2026 | Modern #1/8","date":"2026-06-07","format":"modern","points":3,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":6,"rank":[3,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"}},
     {"id":429702,"name":"Daily | Modern (24.05.26)","date":"2026-05-24","format":"modern","points":9,"rank":[3,9],"deck":{"archetype":"Azorius Equipment","colors":"WU","type":null},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":429265,"name":"Spring League 2026 | Modern #12/12","date":"2026-05-17","format":"modern","points":3,"rank":[11,14],"deck":{"archetype":"Jeskai Blink","colors":"WUR","type":null},"match_record":"1-2-0","game_record":"3-4-0"},
@@ -85,8 +86,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":12,"rank":[1,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[5,12],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}}
   ],
-  "events_count": 80,
-  "match_played": 277,
-  "match_wins": 150,
-  "favorite_format": ["pioneer", 0.4125]
+  "events_count": 81,
+  "match_played": 281,
+  "match_wins": 153,
+  "favorite_format": ["pioneer", 0.4074074074074074]
 }

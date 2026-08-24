@@ -4,6 +4,7 @@
   "display_name": "Arepin Artyom",
   "color_stats": {"W":0.7272727272727273,"U":1,"R":0.7272727272727273,"B":0.27272727272727276},
   "recent_events": [
+    {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":10,"rank":[1,10],"match_record":"3-0-1","game_record":"7-3-0"},
     {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":10,"rank":[1,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"3-0-1","game_record":"7-1-0"},
     {"id":444699,"name":"Summer League 2026 | Pioneer #7/12","date":"2026-07-16","format":"pioneer","points":12,"rank":[1,11],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"4-0-0","game_record":"8-1-0"},
     {"id":379114,"name":"★★★ Big Magic Weekend | Fall 2025 | Pioneer","date":"2025-11-09","format":"pioneer","points":12,"rank":[10,33],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"},"match_record":"4-2-0","game_record":"9-6-0"},
@@ -11,8 +12,8 @@
     {"id":379109,"name":"★★★ Big Magic Weekend | Fall 2025 | Standard","date":"2025-11-07","format":"standard","points":16,"rank":[2,20],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"},"match_record":"5-2-1","game_record":"10-5-3"},
     {"id":96558,"date":"2024-05-23","format":"pioneer","points":12,"rank":[1,12]}
   ],
-  "events_count": 6,
-  "match_played": 30,
-  "match_wins": 21,
-  "favorite_format": ["pioneer", 0.6666666666666666]
+  "events_count": 7,
+  "match_played": 34,
+  "match_wins": 24,
+  "favorite_format": ["pioneer", 0.5714285714285714]
 }
