@@ -3,9 +3,57 @@ import { Tournament } from '../data.types';
 
 export const _2026_modern: Tournament[] = [
   {
+    id: 454550,
+    format: Format.MODERN,
+    name: 'Summer League 2026 | Modern #8/8',
+    date: '2026-08-23',
+    standings: [
+      { player: 'hi_art', rank: 1, points: 10, mp: 4, mw: 3, match_record: '3-0-1', game_record: '7-3-0' },
+      { player: 'qvertion', rank: 2, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-4-0' },
+      { player: 'Norbi', rank: 3, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
+      { player: 'Kihikara', rank: 4, points: 7, mp: 4, mw: 2, match_record: '2-1-1', game_record: '5-3-0' },
+      { player: 'Pivovarishe', rank: 5, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-5-0' },
+      { player: 'BRV', rank: 6, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-6-0' },
+      { player: 'Spellstutter', rank: 7, points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-5-0' },
+      { player: 'Aleksandr_KoLoshk', rank: 8, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '5-7-0' },
+      { player: 'Azurenia', rank: 9, points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '4-7-0' },
+      { player: 'diuzhev', rank: 10, points: 0, mp: 4, mw: 0, match_record: '0-4-0', game_record: '3-8-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'diuzhev'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'Kihikara'], winner: 2, record: '2-0-0' },
+        { players: ['Spellstutter', 'Pivovarishe'], winner: 2, record: '2-0-0' },
+        { players: ['qvertion', 'Norbi'], winner: 1, record: '2-1-0' },
+        { players: ['hi_art', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['BRV', 'Kihikara'], winner: 2, record: '2-0-0' },
+        { players: ['hi_art', 'Pivovarishe'], winner: 1, record: '2-1-0' },
+        { players: ['Norbi', 'Aleksandr_KoLoshk'], winner: 1, record: '2-1-0' },
+        { players: ['Spellstutter', 'diuzhev'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['Kihikara', 'hi_art'], winner: 0, record: '1-1-0' },
+        { players: ['Spellstutter', 'Aleksandr_KoLoshk'], winner: 2, record: '2-1-0' },
+        { players: ['Norbi', 'Pivovarishe'], winner: 1, record: '2-1-0' },
+        { players: ['Azurenia', 'diuzhev'], winner: 1, record: '2-1-0' },
+      ],
+      [
+        { players: ['qvertion', 'hi_art'], winner: 2, record: '2-0-0' },
+        { players: ['Kihikara', 'Norbi'], winner: 2, record: '2-0-0' },
+        { players: ['Pivovarishe', 'Azurenia'], winner: 1, record: '2-1-0' },
+        { players: ['Aleksandr_KoLoshk', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['diuzhev', 'Spellstutter'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 450333,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #7/9',
+    name: 'Summer League 2026 | Modern #7/8',
     date: '2026-08-09',
     standings: [
       { player: 'Kihikara', rank: 1, points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-4-0' },
@@ -52,7 +100,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 450101,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #6/9',
+    name: 'Summer League 2026 | Modern #6/8',
     date: '2026-08-02',
     standings: [
       { player: 'Azurenia', rank: 1, points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
@@ -116,7 +164,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 'm260726',
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #5/9',
+    name: 'Summer League 2026 | Modern #5/8',
     date: '2026-07-26',
     standings: [
       { player: 'BRV', rank: 1, points: 6 },
@@ -126,7 +174,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 442230,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #4/9',
+    name: 'Summer League 2026 | Modern #4/8',
     date: '2026-07-12',
     standings: [
       { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
@@ -168,7 +216,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 441875,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #3/9',
+    name: 'Summer League 2026 | Modern #3/8',
     date: '2026-07-05',
     standings: [
       { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
@@ -216,7 +264,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 438129,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #2/9',
+    name: 'Summer League 2026 | Modern #2/8',
     date: '2026-06-20',
     standings: [
       { player: 'wfmsa', rank: 1, deck: 'Temur Rhinos', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
@@ -268,7 +316,7 @@ export const _2026_modern: Tournament[] = [
   {
     id: 434858,
     format: Format.MODERN,
-    name: 'Summer League 2026 | Modern #1/9',
+    name: 'Summer League 2026 | Modern #1/8',
     date: '2026-06-07',
     standings: [
       { player: 'Azurenia', rank: 1, deck: 'Esper Goryo', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-3-0' },
