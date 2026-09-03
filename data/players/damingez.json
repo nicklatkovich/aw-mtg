@@ -2,8 +2,9 @@
   "guid": "5bfb24cd-0bb5-4040-b74f-c535c6a5bf4d",
   "id": "damingez",
   "display_name": "Kryshkavets Egor",
-  "color_stats": {"W":0.15094339622641506,"U":0.40700808625336926,"B":1,"R":0.4204851752021563,"G":0.44743935309973043},
+  "color_stats": {"B":1,"W":0.1396508728179551,"U":0.3765586034912718,"R":0.3890274314214463,"G":0.4139650872817955},
   "recent_events": [
+    {"id":459755,"name":"Daily | Pioneer (03.09.26)","date":"2026-09-03","format":"pioneer","points":3,"rank":[6,7],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":3,"rank":[9,11],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null}},
     {"id":427154,"name":"Spring League 2026 | Pauper #12/12","date":"2026-05-06","format":"pauper","points":3,"rank":[10,13],"match_record":"1-3-0","game_record":"3-6-0"},
@@ -48,8 +49,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ],
-  "events_count": 43,
-  "match_played": 178,
-  "match_wins": 81,
-  "favorite_format": ["pauper", 0.6046511627906976]
+  "events_count": 44,
+  "match_played": 181,
+  "match_wins": 82,
+  "favorite_format": ["pauper", 0.5909090909090909]
 }

@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.1568627450980392},
+  "color_stats": {"R":1,"G":0.15384615384615385},
   "recent_events": [
+    {"id":459755,"name":"Daily | Pioneer (03.09.26)","date":"2026-09-03","format":"pioneer","points":6,"rank":[2,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":6,"rank":[4,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":450332,"name":"Summer League 2026 | Pioneer #10/12","date":"2026-08-06","format":"pioneer","points":6,"rank":[3,6],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":448999,"name":"Summer League 2026 | Pioneer #9/12","date":"2026-07-30","format":"pioneer","points":3,"rank":[6,7],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"1-2-0","game_record":"3-5-0"},
@@ -88,8 +89,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 83,
-  "match_played": 300,
-  "match_wins": 173,
+  "events_count": 84,
+  "match_played": 303,
+  "match_wins": 175,
   "favorite_format": ["pioneer", 1]
 }
