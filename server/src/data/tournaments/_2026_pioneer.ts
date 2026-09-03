@@ -3,6 +3,41 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 459755,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (03.09.26)',
+    date: '2026-09-03',
+    standings: [
+      { player: 'BRV', rank: 1, deck: 'Izzet Spellementals', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-2-0' },
+      { player: 'GlebK', rank: 2, deck: 'Mono-Red Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'AnklDen', rank: 3, deck: 'Golgari Midrange', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Akel', rank: 4, deck: 'Jund Sacrifice', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'Alex88', rank: 5, deck: 'Boros Convoke', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'Damingez', rank: 6, deck: 'Mono-Black Midrange', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'EvgS', rank: 7, deck: 'Simic Flash', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '2-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Damingez', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'EvgS'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['Akel', 'AnklDen'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Alex88', null], winner: 1, record: 'bye' },
+        { players: ['Damingez', 'BRV'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'GlebK'], winner: 2, record: '2-1-0' },
+        { players: ['Akel', 'EvgS'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['EvgS', null], winner: 1, record: 'bye' },
+        { players: ['GlebK', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'Alex88'], winner: 1, record: '2-1-0' },
+        { players: ['Damingez', 'Akel'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 454547,
     format: Format.PIONEER,
     name: 'Summer League 2026 | Pioneer #12/12',
