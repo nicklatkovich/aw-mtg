@@ -2,8 +2,9 @@
   "guid": "5a1a3197-1193-4637-a2ad-01fe86d05a4e",
   "id": "danilanabeshko",
   "display_name": "Nabeshko Daniil",
-  "color_stats": {"U":1,"R":0.5620437956204379,"W":0.7080291970802919,"B":0.0875912408759124,"G":0.2700729927007299},
+  "color_stats": {"W":0.7142857142857142,"U":1,"B":0.10714285714285714,"R":0.5714285714285714,"G":0.28571428571428575},
   "recent_events": [
+    {"id":466785,"name":"Daily | Pioneer (17.09.26)","date":"2026-09-17","format":"pioneer","points":6,"rank":[2,5],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":6,"rank":[10,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":452579,"name":"Summer League 2026 | Pauper #11/12","date":"2026-08-12","format":"pauper","points":6,"rank":[9,20],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":450326,"name":"Summer League 2026 | Pauper #10/12","date":"2026-08-05","format":"pauper","points":9,"rank":[2,22],"match_record":"3-1-0","game_record":"6-2-0"},
@@ -42,8 +43,8 @@
     {"id":"m250622","name":"Summer League 2025 | Modern #2","date":"2025-06-22","format":"modern","points":3,"rank":[5,5],"deck":{"archetype":"Jeskai Control","colors":"WUR","type":"Control"}},
     {"id":"c250621","name":"Summer League 2025 | Commander #2 (cEDH)","date":"2025-06-21","format":"commander","points":9,"rank":[1,7]}
   ],
-  "events_count": 37,
-  "match_played": 144,
-  "match_wins": 71,
-  "favorite_format": ["pauper", 0.43243243243243246]
+  "events_count": 38,
+  "match_played": 147,
+  "match_wins": 73,
+  "favorite_format": ["pauper", 0.42105263157894735]
 }

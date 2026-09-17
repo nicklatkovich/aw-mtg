@@ -2,8 +2,9 @@
   "guid": "71dad143-e677-4917-b96b-0f0e86ed30e1",
   "id": "ispinyouround",
   "display_name": "Paulouski Tsimafei",
-  "color_stats": {"B":1,"R":0.8815165876777251,"U":0.17061611374407581,"W":0.004739336492890996,"G":0.004739336492890996},
+  "color_stats": {"B":1,"R":0.882903981264637,"U":0.1686182669789227,"W":0.00468384074941452,"G":0.00468384074941452},
   "recent_events": [
+    {"id":464208,"name":"Daily | Pioneer (10.09.26)","date":"2026-09-10","format":"pioneer","points":6,"rank":[2,6],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":9,"rank":[2,11],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":450332,"name":"Summer League 2026 | Pioneer #10/12","date":"2026-08-06","format":"pioneer","points":6,"rank":[4,6],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"2-2-0","game_record":"4-6-0"},
@@ -125,8 +126,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 120,
-  "match_played": 469,
-  "match_wins": 244,
-  "favorite_format": ["pioneer", 0.8333333333333334]
+  "events_count": 121,
+  "match_played": 472,
+  "match_wins": 246,
+  "favorite_format": ["pioneer", 0.8347107438016529]
 }

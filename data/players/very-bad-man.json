@@ -2,8 +2,9 @@
   "guid": "cd3375a9-b0bc-4bb1-bff4-7e50504b68d9",
   "id": "very-bad-man",
   "display_name": "Shagoiko Maxim",
-  "color_stats": {"B":1,"R":0.4876325088339223,"G":0.3904593639575971,"W":0.5892226148409894,"U":0.42137809187279157},
+  "color_stats": {"U":0.42894507410636445,"B":1,"R":0.48125544899738454,"G":0.38535309503051435,"W":0.5815170008718396},
   "recent_events": [
+    {"id":466785,"name":"Daily | Pioneer (17.09.26)","date":"2026-09-17","format":"pioneer","points":6,"rank":[3,5],"deck":{"archetype":"Dimir Bounce","colors":"UB","type":"Midrange"},"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":452587,"name":"Summer League 2026 | Pioneer #11/12","date":"2026-08-13","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":12,"rank":[1,11],"deck":{"archetype":"Mono-Green Landfall","colors":"G","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":450332,"name":"Summer League 2026 | Pioneer #10/12","date":"2026-08-06","format":"pioneer","points":9,"rank":[2,6],"deck":{"archetype":"Rakdos Midrange","colors":"BR","type":"Midrange"},"match_record":"3-1-0","game_record":"6-3-0"},
@@ -154,8 +155,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 149,
-  "match_played": 591,
-  "match_wins": 285,
-  "favorite_format": ["pioneer", 0.6442953020134228]
+  "events_count": 150,
+  "match_played": 594,
+  "match_wins": 287,
+  "favorite_format": ["pioneer", 0.6466666666666666]
 }
