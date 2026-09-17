@@ -3,6 +3,67 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 466785,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (17.09.26)',
+    date: '2026-09-17',
+    standings: [
+      { player: 'Alex88', rank: 1, deck: 'Boros Convoke', points: 9, mp: 2, mw: 2, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'DanilaNabeshko', rank: 2, deck: 'Niv to Light', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'Very_Bad_Man', rank: 3, deck: 'Dimir Bounce', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'AlexKhan', rank: 4, deck: 'Selesnya Company', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'AnklDen', rank: 5, deck: 'Golgari Midrange', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Alex88', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'AlexKhan'], winner: 1, record: '2-1-0' },
+        { players: ['AnklDen', 'DanilaNabeshko'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['AlexKhan', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['Alex88', 'DanilaNabeshko'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['AnklDen', null], winner: 1, record: 'bye' },
+        { players: ['Very_Bad_Man', 'Alex88'], winner: 2, record: '2-1-0' },
+        { players: ['AlexKhan', 'DanilaNabeshko'], winner: 2, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
+    id: 464208,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (10.09.26)',
+    date: '2026-09-10',
+    standings: [
+      { player: 'Professor013', rank: 1, deck: 'Azorius Lotus Field', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '5-1-0' },
+      { player: 'ispinyouround', rank: 2, deck: 'Rakdos Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'BRV', rank: 3, deck: 'Izzet Spellementals', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-2-0' },
+      { player: 'GlebK', rank: 4, deck: 'Boros Ponza', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '1-4-0' },
+      { player: 'Akel', rank: 5, deck: 'Jund Sacrifice', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'EvgS', rank: 6, deck: 'Simic Flash', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-4-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Professor013', 'GlebK'], winner: 1, record: '2-0-0' },
+        { players: ['EvgS', 'Akel'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'ispinyouround'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Professor013', 'EvgS'], winner: 1, record: '1-0-0' },
+        { players: ['ispinyouround', 'Akel'], winner: 1, record: '2-0-0' },
+        { players: ['GlebK', 'BRV'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['ispinyouround', 'Professor013'], winner: 2, record: '2-1-0' },
+        { players: ['Akel', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['EvgS', 'GlebK'], winner: 2, record: '1-0-0' },
+      ],
+    ],
+  },
+  {
     id: 459755,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (03.09.26)',
