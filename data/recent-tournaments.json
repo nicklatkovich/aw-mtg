@@ -1,4 +1,7 @@
 [
+  {"id":479510,"format":"pioneer","date":"2026-10-08","name":"Chaos Pioneer (08.10.26)","players_count":8,"winner":{"player":{"display_name":"Kondibor Nikita","id":"k1ppy"},"deck":{"archetype":"Chaos","colors":"WUBRG","type":null}}},
+  {"id":473693,"format":"pioneer","date":"2026-10-01","name":"Chaos Pioneer (01.10.26)","players_count":13,"winner":{"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"deck":{"archetype":"Chaos","colors":"WUBRG","type":null}}},
+  {"id":471335,"format":"pioneer","date":"2026-09-24","name":"Daily | Pioneer (24.09.26)","players_count":10,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}}},
   {"id":466785,"format":"pioneer","date":"2026-09-17","name":"Daily | Pioneer (17.09.26)","players_count":5,"winner":{"player":{"display_name":"Raptunovich Aleksei","id":"alex88"},"deck":{"archetype":"Boros Convoke","colors":"WR","type":"Aggro"}}},
   {"id":464208,"format":"pioneer","date":"2026-09-10","name":"Daily | Pioneer (10.09.26)","players_count":6,"winner":{"player":{"display_name":"Inshakov Nikita","id":"professor013"},"deck":{"archetype":"Azorius Lotus Field","colors":"WU","type":"Control"}}},
   {"id":459755,"format":"pioneer","date":"2026-09-03","name":"Daily | Pioneer (03.09.26)","players_count":7,"winner":{"player":{"display_name":"Brozhat Rostislav","id":"brv"},"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"}}},
