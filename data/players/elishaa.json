@@ -4,14 +4,15 @@
   "display_name": "Shametko Liza",
   "color_stats": {"W":0.09090909090909091,"U":1,"B":0.09090909090909091,"R":1,"G":0.09090909090909091},
   "recent_events": [
+    {"id":485377,"name":"Daily | Pioneer (15.10.26)","date":"2026-10-15","format":"pioneer","points":9,"rank":[2,9],"match_record":"3-1-0","game_record":"6-5-0"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":6,"rank":[8,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"2-2-0","game_record":"4-5-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":0,"rank":[10,10],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":400202,"name":"Daily | Pioneer (29.01.26)","date":"2026-01-29","format":"pioneer","points":1,"rank":[6,6],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-2-1","game_record":"1-5-0"},
     {"id":398594,"name":"Daily | Pioneer (22.01.26)","date":"2026-01-22","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":395512,"name":"Daily | Pioneer (08.01.26)","date":"2026-01-08","format":"pioneer","points":0,"rank":[9,9],"deck":{"archetype":"Izzet Aggro","colors":"UR","type":"Aggro"},"match_record":"0-4-0","game_record":"2-8-0"}
   ],
-  "events_count": 5,
-  "match_played": 18,
-  "match_wins": 3,
+  "events_count": 6,
+  "match_played": 22,
+  "match_wins": 6,
   "favorite_format": ["pioneer", 1]
 }

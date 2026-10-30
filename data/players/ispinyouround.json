@@ -4,6 +4,8 @@
   "display_name": "Paulouski Tsimafei",
   "color_stats": {"W":0.013761467889908258,"U":0.1743119266055046,"B":1,"R":0.8853211009174312,"G":0.013761467889908258},
   "recent_events": [
+    {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":6,"rank":[4,8],"match_record":"2-1-0","game_record":"4-2-0"},
+    {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":9,"rank":[2,9],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":479510,"name":"Chaos Pioneer (08.10.26)","date":"2026-10-08","format":"pioneer","points":6,"rank":[2,8],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"2-1-0","game_record":"5-2-0"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":6,"rank":[6,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"2-2-0","game_record":"3-4-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":4,"rank":[7,10],"deck":{"archetype":"Rakdos Aggro","colors":"BR","type":"Aggro"},"match_record":"1-2-1","game_record":"4-5-1"},
@@ -129,8 +131,8 @@
     {"id":102802,"date":"2024-06-06","format":"pioneer","points":3,"rank":[12,14]},
     {"id":100393,"date":"2024-05-30","format":"pioneer","points":3,"rank":[9,10]}
   ],
-  "events_count": 124,
-  "match_played": 483,
-  "match_wins": 251,
-  "favorite_format": ["pioneer", 0.8387096774193549]
+  "events_count": 126,
+  "match_played": 490,
+  "match_wins": 256,
+  "favorite_format": ["pioneer", 0.8412698412698413]
 }

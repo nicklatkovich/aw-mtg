@@ -4,6 +4,8 @@
   "display_name": "Shagoiko Maxim",
   "color_stats": {"W":0.5967042497831742,"U":0.4449262792714657,"B":1,"R":0.4839549002601908,"G":0.38855160450997395},
   "recent_events": [
+    {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":4,"rank":[8,9],"match_record":"1-2-1","game_record":"5-6-1"},
+    {"id":485377,"name":"Daily | Pioneer (15.10.26)","date":"2026-10-15","format":"pioneer","points":7,"rank":[4,9],"match_record":"2-1-1","game_record":"6-3-1"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":9,"rank":[4,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"3-1-0","game_record":"7-4-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":6,"rank":[6,10],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"},"match_record":"2-2-0","game_record":"3-5-0"},
     {"id":466785,"name":"Daily | Pioneer (17.09.26)","date":"2026-09-17","format":"pioneer","points":6,"rank":[3,5],"deck":{"archetype":"Dimir Bounce","colors":"UB","type":"Midrange"},"match_record":"2-1-0","game_record":"5-4-0"},
@@ -157,8 +159,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":6,"rank":[6,9],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":0,"rank":[12,12],"deck":{"archetype":"Mono-Black Discard","colors":"B","type":"Midrange"}}
   ],
-  "events_count": 152,
-  "match_played": 602,
-  "match_wins": 292,
-  "favorite_format": ["pioneer", 0.6513157894736842]
+  "events_count": 154,
+  "match_played": 610,
+  "match_wins": 295,
+  "favorite_format": ["pioneer", 0.6558441558441559]
 }

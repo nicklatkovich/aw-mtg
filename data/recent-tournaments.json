@@ -1,4 +1,7 @@
 [
+  {"id":493190,"format":"pioneer","date":"2026-10-29","name":"Daily | Pioneer (29.10.26)","players_count":8,"winner":{"player":{"display_name":"Akulenko Slava","id":"akel"}}},
+  {"id":487121,"format":"pioneer","date":"2026-10-22","name":"Daily | Pioneer (22.10.26)","players_count":9,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"}}},
+  {"id":485377,"format":"pioneer","date":"2026-10-15","name":"Daily | Pioneer (15.10.26)","players_count":9,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"}}},
   {"id":479510,"format":"pioneer","date":"2026-10-08","name":"Chaos Pioneer (08.10.26)","players_count":8,"winner":{"player":{"display_name":"Kondibor Nikita","id":"k1ppy"},"deck":{"archetype":"Chaos","colors":"WUBRG","type":null}}},
   {"id":473693,"format":"pioneer","date":"2026-10-01","name":"Chaos Pioneer (01.10.26)","players_count":13,"winner":{"player":{"display_name":"Duzhev Ivan","id":"gerber2000"},"deck":{"archetype":"Chaos","colors":"WUBRG","type":null}}},
   {"id":471335,"format":"pioneer","date":"2026-09-24","name":"Daily | Pioneer (24.09.26)","players_count":10,"winner":{"player":{"display_name":"Trofimov Valera","id":"trov1"},"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"}}},

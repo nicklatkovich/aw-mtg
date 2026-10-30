@@ -4,6 +4,8 @@
   "display_name": "Trofimov Valera",
   "color_stats": {"W":0.8839458413926499,"U":1,"B":0.4970986460348164,"R":0.38104448742746644,"G":0.3133462282398455},
   "recent_events": [
+    {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":6,"rank":[3,8],"match_record":"2-1-0","game_record":"4-3-0"},
+    {"id":485377,"name":"Daily | Pioneer (15.10.26)","date":"2026-10-15","format":"pioneer","points":10,"rank":[1,9],"match_record":"3-0-1","game_record":"7-2-1"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":6,"rank":[5,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":12,"rank":[1,10],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"4-0-0","game_record":"8-3-0"},
     {"id":454547,"name":"Summer League 2026 | Pioneer #12/12","date":"2026-08-20","format":"pioneer","points":0,"rank":[11,11],"deck":{"archetype":"Abzan Greasefang","colors":"WBG","type":"Combo"},"match_record":"0-2-0","game_record":"1-4-0"},
@@ -85,8 +87,8 @@
     {"id":175145,"date":"2024-10-24","format":"pioneer","points":9,"rank":[2,16]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":3,"rank":[9,11]}
   ],
-  "events_count": 80,
-  "match_played": 282,
-  "match_wins": 164,
-  "favorite_format": ["pioneer", 0.65]
+  "events_count": 82,
+  "match_played": 289,
+  "match_wins": 169,
+  "favorite_format": ["pioneer", 0.6585365853658537]
 }

@@ -4,6 +4,7 @@
   "display_name": "Kryshkavets Egor",
   "color_stats": {"B":1,"W":0.1396508728179551,"U":0.3765586034912718,"R":0.3890274314214463,"G":0.4139650872817955},
   "recent_events": [
+    {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":6,"rank":[5,9],"match_record":"2-2-0","game_record":"6-4-0"},
     {"id":459755,"name":"Daily | Pioneer (03.09.26)","date":"2026-09-03","format":"pioneer","points":3,"rank":[6,7],"deck":{"archetype":"Mono-Black Midrange","colors":"B","type":"Midrange"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":452300,"name":"Summer League 2026 | Standard #11/12","date":"2026-08-11","format":"standard","points":3,"rank":[9,11],"deck":{"archetype":"Domain Control","colors":"WUBRG","type":"Control"},"match_record":"1-3-0","game_record":"4-6-0"},
     {"id":"trios260531","name":"★ Special Event: Trios (31.05.26)","date":"2026-05-31","format":"trios","points":3,"rank":[6,8],"deck":{"archetype":"Golgari Gardens","colors":"BG","type":null}},
@@ -49,8 +50,8 @@
     {"id":244209,"name":"League Standard | Season 11 (3/12)","date":"2025-02-11","format":"standard","points":7,"rank":[5,16]},
     {"id":240839,"name":"League Standard | Season 11 (2/12)","date":"2025-02-04","format":"standard","points":4,"rank":[14,22]}
   ],
-  "events_count": 44,
-  "match_played": 181,
-  "match_wins": 82,
-  "favorite_format": ["pauper", 0.5909090909090909]
+  "events_count": 45,
+  "match_played": 185,
+  "match_wins": 84,
+  "favorite_format": ["pauper", 0.5777777777777777]
 }

@@ -4,6 +4,7 @@
   "display_name": "Duzhev Ivan",
   "color_stats": {"W":0.17704626334519558,"U":0.3016014234875444,"B":1,"R":0.7909252669039137,"G":0.586298932384341},
   "recent_events": [
+    {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":7,"rank":[3,9],"match_record":"2-1-1","game_record":"5-3-1"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":12,"rank":[1,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"4-0-0","game_record":"8-0-0"},
     {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":0,"rank":[10,10],"match_record":"0-4-0","game_record":"3-8-0"},
     {"id":454549,"name":"Summer League 2026 | Draft #11 (MH2)","date":"2026-08-21","format":"draft","points":6,"rank":[3,6],"match_record":"2-1-0","game_record":"4-4-0"},
@@ -147,8 +148,8 @@
     {"id":244211,"name":"League Pioneer | Season 5 (3/12)","date":"2025-02-13","format":"pioneer","points":6,"rank":[11,15],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}},
     {"id":242079,"name":"League Pioneer | Season 5 (2/12)","date":"2025-02-06","format":"pioneer","points":6,"rank":[8,17],"deck":{"archetype":"Sultai Acererak","colors":"UBG","type":"Combo"}}
   ],
-  "events_count": 142,
-  "match_played": 546,
-  "match_wins": 253,
-  "favorite_format": ["pauper", 0.4154929577464789]
+  "events_count": 143,
+  "match_played": 550,
+  "match_wins": 255,
+  "favorite_format": ["pauper", 0.4125874125874126]
 }

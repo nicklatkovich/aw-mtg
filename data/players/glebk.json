@@ -4,6 +4,9 @@
   "display_name": "Krapivnitsky Gleb",
   "color_stats": {"W":0.016697588126159554,"U":0.007421150278293136,"B":0.007421150278293136,"R":1,"G":0.15584415584415587},
   "recent_events": [
+    {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"1-4-0"},
+    {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":12,"rank":[1,9],"match_record":"4-0-0","game_record":"8-1-0"},
+    {"id":485377,"name":"Daily | Pioneer (15.10.26)","date":"2026-10-15","format":"pioneer","points":6,"rank":[5,9],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":479510,"name":"Chaos Pioneer (08.10.26)","date":"2026-10-08","format":"pioneer","points":3,"rank":[5,8],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":4,"rank":[9,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"1-2-1","game_record":"4-6-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":9,"rank":[3,10],"deck":{"archetype":"Mono-Red Aggro","colors":"R","type":"Aggro"},"match_record":"3-1-0","game_record":"7-4-0"},
@@ -93,8 +96,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 88,
-  "match_played": 317,
-  "match_wins": 181,
+  "events_count": 91,
+  "match_played": 327,
+  "match_wins": 187,
   "favorite_format": ["pioneer", 1]
 }

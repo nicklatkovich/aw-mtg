@@ -4,6 +4,8 @@
   "display_name": "Akulenko Slava",
   "color_stats": {"W":0.056603773584905676,"U":0.19811320754716982,"B":1,"R":0.9999999999999998,"G":1},
   "recent_events": [
+    {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":9,"rank":[1,8],"match_record":"3-0-0","game_record":"6-0-0"},
+    {"id":485377,"name":"Daily | Pioneer (15.10.26)","date":"2026-10-15","format":"pioneer","points":9,"rank":[3,9],"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":9,"rank":[2,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":471335,"name":"Daily | Pioneer (24.09.26)","date":"2026-09-24","format":"pioneer","points":6,"rank":[4,10],"deck":{"archetype":"Golgari Sacrifice","colors":"BG","type":null},"match_record":"2-2-0","game_record":"5-6-0"},
     {"id":464208,"name":"Daily | Pioneer (10.09.26)","date":"2026-09-10","format":"pioneer","points":3,"rank":[5,6],"deck":{"archetype":"Jund Sacrifice","colors":"BRG","type":"Combo"},"match_record":"1-2-0","game_record":"2-4-0"},
@@ -55,8 +57,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":6,"rank":[4,12]},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":4,"rank":[9,12],"deck":{"archetype":"Dimir Control","colors":"UB","type":"Control"}}
   ],
-  "events_count": 50,
-  "match_played": 196,
-  "match_wins": 102,
-  "favorite_format": ["pioneer", 0.96]
+  "events_count": 52,
+  "match_played": 203,
+  "match_wins": 108,
+  "favorite_format": ["pioneer", 0.9615384615384616]
 }
