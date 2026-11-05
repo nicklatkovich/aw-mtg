@@ -401,6 +401,7 @@ export const ARCHETYPES = {
   '5c Song of Creation': 'WUBRG',
   '5c Elementals': 'WUBRG',
   '5c Epic Storm': ['WUBRG', DeckType.COMBO],
+  '5c Gates': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',

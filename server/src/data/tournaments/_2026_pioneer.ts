@@ -3,6 +3,54 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 497942,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (05.11.26)',
+    date: '2026-11-05',
+    standings: [
+      { player: 'Tamplier007333', rank: 1, deck: 'Gruul Aggro', points: 12, mp: 4, mw: 4, match_record: '4-0-0', game_record: '8-2-0' },
+      { player: 'AnklDen', rank: 2, deck: 'Boros Ponza', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '7-3-0' },
+      { player: 'Damingez', rank: 3, deck: 'Mono-Red Aggro', points: 9, mp: 4, mw: 3, match_record: '3-1-0', game_record: '6-3-0' },
+      { player: 'bokoni', rank: 4, deck: 'Golgari Midrange', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '4-5-0' },
+      { player: 'NickLatkovich', rank: 5, deck: 'Bant Lotus Field', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '5-4-0' },
+      { player: 'Akel', rank: 6, deck: 'Jund Sacrifice', points: 6, mp: 4, mw: 2, match_record: '2-2-0', game_record: '6-4-0' },
+      { player: 'K1ppy', rank: 7, deck: 'Niv to Light', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Human11', rank: 8, deck: '5c Gates', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '3-6-0' },
+      { player: 'Elishaa', rank: 9, deck: 'Izzet Aggro', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-7-0' },
+      { player: 'BRV', rank: 10, deck: 'Izzet Spellementals', points: 3, mp: 4, mw: 1, match_record: '1-3-0', game_record: '2-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['Human11', 'bokoni'], winner: 2, record: '2-0-0' },
+        { players: ['AnklDen', 'Elishaa'], winner: 1, record: '2-0-0' },
+        { players: ['Akel', 'Damingez'], winner: 2, record: '2-1-0' },
+        { players: ['K1ppy', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['bokoni', 'Akel'], winner: 1, record: '2-1-0' },
+        { players: ['Damingez', 'NickLatkovich'], winner: 1, record: '2-0-0' },
+        { players: ['Tamplier007333', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['K1ppy', 'Elishaa'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Human11'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['bokoni', 'AnklDen'], winner: 2, record: '2-0-0' },
+        { players: ['Damingez', 'Tamplier007333'], winner: 2, record: '2-0-0' },
+        { players: ['Human11', 'Elishaa'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'K1ppy'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Akel'], winner: 2, record: '2-0-0' },
+      ],
+      [
+        { players: ['Tamplier007333', 'bokoni'], winner: 1, record: '2-0-0' },
+        { players: ['Damingez', 'Human11'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['Elishaa', 'BRV'], winner: 2, record: '2-0-0' },
+        { players: ['Akel', 'K1ppy'], winner: 1, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 493190,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (29.10.26)',
