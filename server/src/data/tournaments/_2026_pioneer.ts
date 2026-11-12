@@ -3,6 +3,40 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 505190,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (12.11.26)',
+    date: '2026-11-12',
+    standings: [
+      { player: 'NickLatkovich', rank: 1, deck: 'Sultai Scapeshift', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-1-0' },
+      { player: 'Elishaa', rank: 2, deck: 'Izzet Aggro', points: 6, mp: 2, mw: 1, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'K1ppy', rank: 3, deck: 'Selesnya Company', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '4-3-0' },
+      { player: 'Tamplier007333', rank: 4, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'BRV', rank: 5, deck: 'Izzet Spellementals', points: 3, mp: 2, mw: 0, match_record: '1-2-0', game_record: '3-4-0' },
+      { player: 'AnklDen', rank: 6, deck: 'Boros Ponza', points: 1, mp: 3, mw: 0, match_record: '0-2-1', game_record: '2-5-1' },
+      { player: 'EvgS', rank: 7, deck: 'Simic Flash', points: 1, mp: 2, mw: 0, match_record: '0-1-1', game_record: '2-3-1' },
+    ],
+    rounds: [
+      [
+        { players: ['BRV', null], winner: 1, record: 'bye' },
+        { players: ['AnklDen', 'K1ppy'], winner: 2, record: '2-0-0' },
+        { players: ['Tamplier007333', 'EvgS'], winner: 1, record: '2-1-0' },
+        { players: ['Elishaa', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['Elishaa', null], winner: 1, record: 'bye' },
+        { players: ['Tamplier007333', 'K1ppy'], winner: 2, record: '2-1-0' },
+        { players: ['NickLatkovich', 'BRV'], winner: 1, record: '2-0-0' },
+        { players: ['AnklDen', 'EvgS'], winner: 0, record: '1-1-1' },
+      ],
+      [
+        { players: ['K1ppy', 'NickLatkovich'], winner: 2, record: '2-0-0' },
+        { players: ['Elishaa', 'AnklDen'], winner: 1, record: '2-1-0' },
+        { players: ['Tamplier007333', 'BRV'], winner: 1, record: '2-1-0' },
+      ],
+    ],
+  },
+  {
     id: 497942,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (05.11.26)',
