@@ -2,8 +2,9 @@
   "guid": "80d52a7c-b225-4438-9779-52897511fd5a",
   "id": "k1ppy",
   "display_name": "Kondibor Nikita",
-  "color_stats": {"W":0.2375366568914957,"U":0.12023460410557191,"B":0.12023460410557188,"R":1,"G":0.4868035190615835},
+  "color_stats": {"W":0.2521994134897362,"G":0.5014662756598239,"U":0.12023460410557191,"B":0.12023460410557188,"R":1},
   "recent_events": [
+    {"id":505190,"name":"Daily | Pioneer (12.11.26)","date":"2026-11-12","format":"pioneer","points":6,"rank":[3,7],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":497942,"name":"Daily | Pioneer (05.11.26)","date":"2026-11-05","format":"pioneer","points":3,"rank":[7,10],"deck":{"archetype":"Niv to Light","colors":"WUBRG","type":"Control"},"match_record":"1-3-0","game_record":"3-6-0"},
     {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":6,"rank":[2,8],"match_record":"2-1-0","game_record":"4-3-0"},
     {"id":487121,"name":"Daily | Pioneer (22.10.26)","date":"2026-10-22","format":"pioneer","points":6,"rank":[6,9],"match_record":"2-2-0","game_record":"5-5-0"},
@@ -108,8 +109,8 @@
     {"id":106911,"date":"2024-06-13","format":"pioneer","points":3,"rank":[10,12]},
     {"id":91514,"date":"2024-05-09","format":"pioneer","points":3,"rank":[12,12]}
   ],
-  "events_count": 103,
-  "match_played": 407,
-  "match_wins": 232,
-  "favorite_format": ["pioneer", 0.6019417475728155]
+  "events_count": 104,
+  "match_played": 410,
+  "match_wins": 234,
+  "favorite_format": ["pioneer", 0.6057692307692307]
 }

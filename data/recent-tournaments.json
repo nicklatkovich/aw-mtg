@@ -1,4 +1,5 @@
 [
+  {"id":505190,"format":"pioneer","date":"2026-11-12","name":"Daily | Pioneer (12.11.26)","players_count":7,"winner":{"player":{"display_name":"Latkovich Nikita","id":"nicklatkovich"},"deck":{"archetype":"Sultai Scapeshift","colors":"UBG","type":"Combo"}}},
   {"id":497942,"format":"pioneer","date":"2026-11-05","name":"Daily | Pioneer (05.11.26)","players_count":10,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"},"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"}}},
   {"id":493190,"format":"pioneer","date":"2026-10-29","name":"Daily | Pioneer (29.10.26)","players_count":8,"winner":{"player":{"display_name":"Akulenko Slava","id":"akel"}}},
   {"id":487121,"format":"pioneer","date":"2026-10-22","name":"Daily | Pioneer (22.10.26)","players_count":9,"winner":{"player":{"display_name":"Krapivnitsky Gleb","id":"glebk"}}},
