@@ -111,6 +111,7 @@ export const ARCHETYPES = {
   'Mardu Control': ['WBR', DeckType.CONTROL],
   'Mardu Doom': 'WBR',
   'Mardu Sacrifice': 'WBR',
+  'Mardu Rogue': 'WBR',
   // WBG
   'Amalia Combo': ['WBG', DeckType.COMBO],
   'Abzan Greasefang': ['WBG', DeckType.COMBO],
@@ -257,6 +258,7 @@ export const ARCHETYPES = {
   'Temur Devoted Druid': ['URG', DeckType.COMBO],
   'Temur Control': ['URG', DeckType.CONTROL],
   'Temur Rhinos': 'URG',
+  'Temur Rogue': 'URG',
   // UG
   'Simic Lotus Field': ['UG', DeckType.COMBO],
   'Simic Artifacts': ['UG', DeckType.AGGRO],
@@ -402,6 +404,7 @@ export const ARCHETYPES = {
   '5c Elementals': 'WUBRG',
   '5c Epic Storm': ['WUBRG', DeckType.COMBO],
   '5c Gates': 'WUBRG',
+  'Flicker Tron': 'WUBRG',
   // Commander
   'Marneus Calgar': 'WUB',
   'Tivit, Seller of Secrets': 'WUB',
