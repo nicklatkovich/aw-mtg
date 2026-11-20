@@ -2,8 +2,9 @@
   "guid": "ba66e5e2-1e4b-4cd3-9ce9-24b4d222f2a7",
   "id": "qvertion",
   "display_name": "Martseniuk Maksim",
-  "color_stats": {"B":0.5059029296020984,"G":0.3790992566681241,"W":0.39221687800612154,"R":0.792304328815041,"U":1},
+  "color_stats": {"B":0.5190205509400958,"G":0.3922168780061215,"W":0.39221687800612154,"R":0.792304328815041,"U":1},
   "recent_events": [
+    {"id":507854,"name":"Daily | Pauper (18.11.26)","date":"2026-11-18","format":"pauper","points":3,"rank":[13,15],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":9,"rank":[2,10],"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":6,"rank":[9,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":452590,"name":"Summer League 2026 | Legacy #2/3","date":"2026-08-16","format":"legacy","points":6,"rank":[5,9],"match_record":"2-2-0","game_record":"5-4-0"},
@@ -182,8 +183,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[7,9],"deck":{"archetype":"Izzet Phoenix","colors":"UR","type":"Tempo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":6,"rank":[6,12]}
   ],
-  "events_count": 177,
-  "match_played": 703,
-  "match_wins": 414,
-  "favorite_format": ["pauper", 0.3107344632768362]
+  "events_count": 178,
+  "match_played": 706,
+  "match_wins": 415,
+  "favorite_format": ["pauper", 0.3146067415730337]
 }

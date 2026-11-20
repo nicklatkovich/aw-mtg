@@ -2,8 +2,9 @@
   "guid": "2c52b58c-ecae-40a7-b4d8-77f1a9d0cc2f",
   "id": "azurenia",
   "display_name": "Novikov Valentine",
-  "color_stats": {"U":1,"R":0.8667554963357765,"G":0.77348434377082,"W":0.367088607594937,"B":0.9100599600266491},
+  "color_stats": {"U":1,"R":0.8685075608152535,"G":0.7764628533859308,"W":0.36226166995397796,"B":0.8980933596318215},
   "recent_events": [
+    {"id":507854,"name":"Daily | Pauper (18.11.26)","date":"2026-11-18","format":"pauper","points":1,"rank":[14,15],"deck":{"archetype":"Temur Rogue","colors":"URG","type":null},"match_record":"0-1-1","game_record":"2-3-0"},
     {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":3,"rank":[9,10],"match_record":"1-3-0","game_record":"4-7-0"},
     {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":1,"rank":[15,16],"match_record":"0-2-1","game_record":"2-5-0"},
     {"id":452579,"name":"Summer League 2026 | Pauper #11/12","date":"2026-08-12","format":"pauper","points":0,"rank":[20,20],"match_record":"0-4-0","game_record":"1-8-0"},
@@ -145,8 +146,8 @@
     {"id":216938,"date":"2024-12-26","format":"pioneer","points":6,"rank":[7,15]},
     {"id":136905,"date":"2024-08-29","format":"pioneer","points":3,"rank":[12,14]}
   ],
-  "events_count": 140,
-  "match_played": 530,
+  "events_count": 141,
+  "match_played": 532,
   "match_wins": 292,
-  "favorite_format": ["pauper", 0.45714285714285713]
+  "favorite_format": ["pauper", 0.46099290780141844]
 }

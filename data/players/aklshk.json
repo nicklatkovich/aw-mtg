@@ -2,8 +2,9 @@
   "guid": "037e76b0-88c8-4458-94a8-d63c2f9a8155",
   "id": "aklshk",
   "display_name": "Kolyshko Alexander",
-  "color_stats": {"W":0.17566594672426203,"U":1,"B":0.20446364290856725,"R":0.15766738660907126,"G":0.08207343412526998},
+  "color_stats": {"U":1,"W":0.17195207892882308,"B":0.20014094432699078,"R":0.15433403805496826,"G":0.080338266384778},
   "recent_events": [
+    {"id":507854,"name":"Daily | Pauper (18.11.26)","date":"2026-11-18","format":"pauper","points":9,"rank":[3,15],"deck":{"archetype":"Mono-Blue Terror","colors":"U","type":"Tempo"},"match_record":"3-1-0","game_record":"6-2-0"},
     {"id":473693,"name":"Chaos Pioneer (01.10.26)","date":"2026-10-01","format":"pioneer","points":9,"rank":[3,13],"deck":{"archetype":"Chaos","colors":"WUBRG","type":null},"match_record":"3-1-0","game_record":"7-3-0"},
     {"id":454550,"name":"Summer League 2026 | Modern #8/8","date":"2026-08-23","format":"modern","points":3,"rank":[8,10],"match_record":"1-3-0","game_record":"5-7-0"},
     {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":9,"rank":[4,16],"match_record":"3-1-0","game_record":"6-4-0"},
@@ -122,8 +123,8 @@
     {"id":214008,"date":"2024-12-19","format":"pioneer","points":4,"rank":[10,14]},
     {"id":198437,"date":"2024-11-28","format":"pioneer","points":6,"rank":[7,14]}
   ],
-  "events_count": 117,
-  "match_played": 454,
-  "match_wins": 251,
-  "favorite_format": ["pauper", 0.5384615384615384]
+  "events_count": 118,
+  "match_played": 458,
+  "match_wins": 254,
+  "favorite_format": ["pauper", 0.5423728813559322]
 }
