@@ -4,7 +4,7 @@
   "display_name": "Kondibor Nikita",
   "color_stats": {"R":1,"G":0.5224719101123596,"W":0.24157303370786526,"U":0.11516853932584276,"B":0.11516853932584273},
   "recent_events": [
-    {"id":515214,"name":"Daily | Pioneer (26.11.26)","date":"2026-11-26","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Gruul Atarka","colors":"RG","type":"Aggro"},"match_record":"1-2-0","game_record":"2-4-0"},
+    {"id":515214,"name":"Daily | Pioneer (26.11.26)","date":"2026-11-26","format":"pioneer","points":3,"rank":[7,8],"deck":{"archetype":"Gruul Atarka Time","colors":"RG","type":null},"match_record":"1-2-0","game_record":"2-4-0"},
     {"id":514324,"name":"Daily | Pauper (25.11.26)","date":"2026-11-25","format":"pauper","points":9,"rank":[2,15],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-1-0","game_record":"7-2-0"},
     {"id":507854,"name":"Daily | Pauper (18.11.26)","date":"2026-11-18","format":"pauper","points":9,"rank":[4,15],"deck":{"archetype":"Gruul Ramp","colors":"RG","type":"Midrange"},"match_record":"3-1-0","game_record":"6-4-0"},
     {"id":505190,"name":"Daily | Pioneer (12.11.26)","date":"2026-11-12","format":"pioneer","points":6,"rank":[3,7],"deck":{"archetype":"Selesnya Company","colors":"WG","type":null},"match_record":"2-1-0","game_record":"4-3-0"},
