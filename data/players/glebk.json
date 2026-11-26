@@ -2,8 +2,9 @@
   "guid": "49786616-ed05-4c94-932f-f8d26e8f4360",
   "id": "glebk",
   "display_name": "Krapivnitsky Gleb",
-  "color_stats": {"R":1,"G":0.17122040072859745,"W":0.01639344262295082,"U":0.007285974499089254,"B":0.007285974499089254},
+  "color_stats": {"R":1,"G":0.17870036101083034,"W":0.01624548736462094,"U":0.007220216606498195,"B":0.007220216606498195},
   "recent_events": [
+    {"id":515214,"name":"Daily | Pioneer (26.11.26)","date":"2026-11-26","format":"pioneer","points":6,"rank":[3,8],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-1-0","game_record":"5-3-0"},
     {"id":505190,"name":"Daily | Pioneer (12.11.26)","date":"2026-11-12","format":"pioneer","points":6,"rank":[4,7],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":497942,"name":"Daily | Pioneer (05.11.26)","date":"2026-11-05","format":"pioneer","points":12,"rank":[1,10],"deck":{"archetype":"Gruul Aggro","colors":"RG","type":"Aggro"},"match_record":"4-0-0","game_record":"8-2-0"},
     {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":0,"rank":[8,8],"match_record":"0-2-0","game_record":"1-4-0"},
@@ -98,8 +99,8 @@
     {"id":119664,"date":"2024-07-11","format":"pioneer","points":6,"rank":[6,11]},
     {"id":117232,"date":"2024-07-04","format":"pioneer","points":12,"rank":[1,16]}
   ],
-  "events_count": 93,
-  "match_played": 334,
-  "match_wins": 193,
+  "events_count": 94,
+  "match_played": 337,
+  "match_wins": 195,
   "favorite_format": ["pioneer", 1]
 }

@@ -2,8 +2,9 @@
   "guid": "e32c68c8-9493-4892-b490-952746e51445",
   "id": "brv",
   "display_name": "Brozhat Rostislav",
-  "color_stats": {"U":0.7079495879786719,"R":1,"W":0.31289384391662634,"B":0.017207949587978673,"G":0.3468250121182743},
+  "color_stats": {"U":0.7100577478344563,"R":1,"W":0.31063522617901834,"B":0.0170837343599615,"G":0.34432146294513954},
   "recent_events": [
+    {"id":515214,"name":"Daily | Pioneer (26.11.26)","date":"2026-11-26","format":"pioneer","points":3,"rank":[6,8],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"1-2-0","game_record":"4-4-0"},
     {"id":505190,"name":"Daily | Pioneer (12.11.26)","date":"2026-11-12","format":"pioneer","points":3,"rank":[5,7],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"1-2-0","game_record":"3-4-0"},
     {"id":497942,"name":"Daily | Pioneer (05.11.26)","date":"2026-11-05","format":"pioneer","points":3,"rank":[10,10],"deck":{"archetype":"Izzet Spellementals","colors":"UR","type":"Tempo"},"match_record":"1-3-0","game_record":"2-6-0"},
     {"id":493190,"name":"Daily | Pioneer (29.10.26)","date":"2026-10-29","format":"pioneer","points":3,"rank":[7,8],"match_record":"1-2-0","game_record":"4-5-0"},
@@ -223,8 +224,8 @@
     {"id":82321,"date":"2024-04-11","format":"pioneer","points":9,"rank":[2,12]},
     {"id":74084,"date":"2024-04-04","format":"pioneer","points":0,"rank":[8,8]}
   ],
-  "events_count": 218,
-  "match_played": 855,
-  "match_wins": 477,
-  "favorite_format": ["pioneer", 0.5091743119266054]
+  "events_count": 219,
+  "match_played": 858,
+  "match_wins": 478,
+  "favorite_format": ["pioneer", 0.5114155251141552]
 }

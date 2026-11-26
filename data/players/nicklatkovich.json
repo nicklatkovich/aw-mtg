@@ -2,8 +2,9 @@
   "guid": "1340ff1d-fb31-41dc-9827-d6bde941be4a",
   "id": "nicklatkovich",
   "display_name": "Latkovich Nikita",
-  "color_stats": {"U":1,"B":0.49069286452947286,"G":0.7492244053774562,"W":0.6664943123061015,"R":0.3821096173733198},
+  "color_stats": {"U":1,"R":0.39154786150712845,"B":0.4831975560081469,"G":0.7377800407331977,"W":0.6563136456211813},
   "recent_events": [
+    {"id":515214,"name":"Daily | Pioneer (26.11.26)","date":"2026-11-26","format":"pioneer","points":6,"rank":[2,8],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"},"match_record":"2-1-0","game_record":"5-4-0"},
     {"id":505190,"name":"Daily | Pioneer (12.11.26)","date":"2026-11-12","format":"pioneer","points":9,"rank":[1,7],"deck":{"archetype":"Sultai Scapeshift","colors":"UBG","type":"Combo"},"match_record":"3-0-0","game_record":"6-1-0"},
     {"id":497942,"name":"Daily | Pioneer (05.11.26)","date":"2026-11-05","format":"pioneer","points":6,"rank":[5,10],"deck":{"archetype":"Bant Lotus Field","colors":"WUG","type":"Combo"},"match_record":"2-2-0","game_record":"5-4-0"},
     {"id":442187,"name":"Summer League 2026 | Pioneer #6/12","date":"2026-07-09","format":"pioneer","points":3,"rank":[7,7],"deck":{"archetype":"Mono-Blue Mill","colors":"U","type":null},"match_record":"1-3-0","game_record":"3-6-0"},
@@ -144,8 +145,8 @@
     {"id":74627,"date":"2024-03-28","format":"pioneer","points":3,"rank":[8,9],"deck":{"archetype":"Izzet Creativity","colors":"UR","type":"Combo"}},
     {"id":72686,"date":"2024-03-21","format":"pioneer","points":7,"rank":[4,12],"deck":{"archetype":"Azorius Control","colors":"WU","type":"Control"}}
   ],
-  "events_count": 139,
-  "match_played": 551,
-  "match_wins": 288,
-  "favorite_format": ["pioneer", 0.6690647482014388]
+  "events_count": 140,
+  "match_played": 554,
+  "match_wins": 290,
+  "favorite_format": ["pioneer", 0.6714285714285714]
 }
