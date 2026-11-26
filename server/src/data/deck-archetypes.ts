@@ -363,6 +363,7 @@ export const ARCHETYPES = {
   'Gruul Belcher Storm': ['RG', DeckType.COMBO],
   'Gruul Storm': ['RG', DeckType.COMBO],
   'Gruul Goblins': ['RG', DeckType.AGGRO],
+  'Gruul Atarka': ['RG', DeckType.AGGRO],
   // G
   'Mono-Green Devotion': ['G', DeckType.COMBO],
   'Mono-Green Elves': 'G',

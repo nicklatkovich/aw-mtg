@@ -3,6 +3,42 @@ import { Tournament } from '../data.types';
 
 export const _2026_pioneer: Tournament[] = [
   {
+    id: 515214,
+    format: Format.PIONEER,
+    name: 'Daily | Pioneer (26.11.26)',
+    date: '2026-11-26',
+    standings: [
+      { player: 'AnklDen', rank: 1, deck: 'Boros Ponza', points: 9, mp: 3, mw: 3, match_record: '3-0-0', game_record: '6-2-0' },
+      { player: 'NickLatkovich', rank: 2, deck: 'Izzet Creativity', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Tamplier007333', rank: 3, deck: 'Gruul Aggro', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-3-0' },
+      { player: 'Akel', rank: 4, deck: 'Jund Sacrifice', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
+      { player: 'Elishaa', rank: 5, deck: 'Izzet Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'BRV', rank: 6, deck: 'Izzet Spellementals', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
+      { player: 'K1ppy', rank: 7, deck: 'Gruul Atarka', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'EvgS', rank: 8, deck: 'Simic Flash', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
+    ],
+    rounds: [
+      [
+        { players: ['Tamplier007333', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['AnklDen', 'K1ppy'], winner: 1, record: '2-0-0' },
+        { players: ['Elishaa', 'EvgS'], winner: 1, record: '2-0-0' },
+        { players: ['BRV', 'Akel'], winner: 2, record: '2-1-0' },
+      ],
+      [
+        { players: ['AnklDen', 'Elishaa'], winner: 1, record: '2-1-0' },
+        { players: ['Akel', 'NickLatkovich'], winner: 2, record: '2-1-0' },
+        { players: ['EvgS', 'Tamplier007333'], winner: 2, record: '2-0-0' },
+        { players: ['BRV', 'K1ppy'], winner: 1, record: '2-0-0' },
+      ],
+      [
+        { players: ['AnklDen', 'NickLatkovich'], winner: 1, record: '2-1-0' },
+        { players: ['Elishaa', 'Akel'], winner: 2, record: '2-1-0' },
+        { players: ['BRV', 'Tamplier007333'], winner: 2, record: '2-1-0' },
+        { players: ['EvgS', 'K1ppy'], winner: 2, record: '2-0-0' },
+      ],
+    ],
+  },
+  {
     id: 505190,
     format: Format.PIONEER,
     name: 'Daily | Pioneer (12.11.26)',
