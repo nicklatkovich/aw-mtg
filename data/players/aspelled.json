@@ -2,8 +2,9 @@
   "guid": "05f46aac-a10a-4e78-a27c-ee8d8778996c",
   "id": "aspelled",
   "display_name": "Zubovich Valery",
-  "color_stats": {"B":0.3409586056644881,"G":0.5043572984749457,"U":0.6241830065359479,"R":1,"W":0.3736383442265797},
+  "color_stats": {"B":0.3480603448275863,"R":1,"G":0.5096982758620691,"U":0.6174568965517243,"W":0.3696120689655174},
   "recent_events": [
+    {"id":514324,"name":"Daily | Pauper (25.11.26)","date":"2026-11-25","format":"pauper","points":3,"rank":[11,15],"deck":{"archetype":"Jund Wildfire","colors":"BRG","type":"Control"},"match_record":"1-2-0","game_record":"3-5-0"},
     {"id":507854,"name":"Daily | Pauper (18.11.26)","date":"2026-11-18","format":"pauper","points":6,"rank":[8,15],"deck":{"archetype":"Golgari Spy Combo","colors":"BG","type":"Combo"},"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":454546,"name":"Summer League 2026 | Pauper #12/12","date":"2026-08-19","format":"pauper","points":6,"rank":[8,16],"match_record":"2-2-0","game_record":"5-5-0"},
     {"id":452590,"name":"Summer League 2026 | Legacy #2/3","date":"2026-08-16","format":"legacy","points":0,"rank":[9,9],"match_record":"0-2-0","game_record":"0-4-0"},
@@ -149,8 +150,8 @@
     {"id":114234,"date":"2024-06-27","format":"pioneer","points":3,"rank":[10,14]},
     {"id":94085,"date":"2024-05-16","format":"pioneer","points":6,"rank":[4,11]}
   ],
-  "events_count": 144,
-  "match_played": 531,
-  "match_wins": 262,
-  "favorite_format": ["pauper", 0.3402777777777778]
+  "events_count": 145,
+  "match_played": 534,
+  "match_wins": 263,
+  "favorite_format": ["pauper", 0.3448275862068966]
 }
