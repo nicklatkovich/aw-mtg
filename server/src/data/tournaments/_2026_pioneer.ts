@@ -14,7 +14,7 @@ export const _2026_pioneer: Tournament[] = [
       { player: 'Akel', rank: 4, deck: 'Jund Sacrifice', points: 6, mp: 3, mw: 2, match_record: '2-1-0', game_record: '5-4-0' },
       { player: 'Elishaa', rank: 5, deck: 'Izzet Aggro', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
       { player: 'BRV', rank: 6, deck: 'Izzet Spellementals', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '4-4-0' },
-      { player: 'K1ppy', rank: 7, deck: 'Gruul Atarka', points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
+      { player: 'K1ppy', rank: 7, deck: { archetype: 'Gruul Atarka', name: 'Gruul Atarka Time' }, points: 3, mp: 3, mw: 1, match_record: '1-2-0', game_record: '2-4-0' },
       { player: 'EvgS', rank: 8, deck: 'Simic Flash', points: 0, mp: 3, mw: 0, match_record: '0-3-0', game_record: '0-6-0' },
     ],
     rounds: [

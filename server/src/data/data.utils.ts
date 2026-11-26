@@ -22,7 +22,7 @@ export function getDeckArchetype(deck?: Deck | null): string | null {
 
 export function getDeckColor(deck?: Deck | null): string | null {
   if (deck && typeof deck === 'object' && deck.colors) return deck.colors;
-  const archetype = getDeckArchetype(deck);
+  const archetype = typeof deck === 'object' ? (deck?.archetype ?? deck?.name) : deck;
   if (!archetype) return null;
   const info = getArchetypeInfo(archetype);
   return !info || typeof info === 'string' ? info : info[0];
